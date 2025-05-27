@@ -1,0 +1,21 @@
+{
+  "entities": {},
+  "languages": [
+    "EN",
+    "DE"
+  ],
+  "usageEntities": {},
+  "variantEntities": {},
+  "files": {
+    "id": "files"
+  },
+  "shellFiles": {
+    "id": "shellFiles"
+  },
+  "guidedWorkflows": {
+    "id": "guidedWorkflows"
+  },
+  "structuredSliders": {
+    "id": "structuredSliders"
+  }
+}
