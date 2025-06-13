@@ -1,5 +1,29 @@
 {
-  "entities": {},
+  "entities": {
+    "id2e267e5f611d59c56626": {
+      "id": "id2e267e5f611d59c56626",
+      "layerLevel": 1,
+      "order": {
+        "idbbbe423234ab4fd2cf4d": 7
+      },
+      "parentId": "id5c68df9556c95b4c6b26"
+    },
+    "id3114ad1d54f493eb535a": {
+      "id": "id3114ad1d54f493eb535a",
+      "replace": {
+        "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
+      }
+    },
+    "idbbbe423234ab4fd2cf4d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "instrumentId",
+      "format": "",
+      "id": "idbbbe423234ab4fd2cf4d",
+      "type": "input"
+    }
+  },
   "languages": [
     "EN",
     "DE"
