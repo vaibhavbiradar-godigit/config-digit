@@ -1,10 +1,69 @@
 {
   "entities": {
+    "id2c8d6a4e0c8c42731578": {
+      "children": [
+        "idab0d3b0cc9aa43c2164a"
+      ],
+      "colspan": 6,
+      "id": "id2c8d6a4e0c8c42731578",
+      "rowspan": 1,
+      "type": "layoutbox"
+    },
     "id3114ad1d54f493eb535a": {
       "id": "id3114ad1d54f493eb535a",
       "replace": {
         "id5c68df9556c95b4c6b26": "ide3ec717892102ae2b9e4"
       }
+    },
+    "id4b39faa68a8706cde8fc": {
+      "alignment": "center",
+      "colspan": 6,
+      "copytextOption": "normal",
+      "dataType": "string",
+      "facadeId": "changePasswordTitile",
+      "id": "id4b39faa68a8706cde8fc",
+      "isStatic": true,
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "middle"
+    },
+    "id5da06bd4489d34ed9d6d": {
+      "children": [
+        "id4b39faa68a8706cde8fc"
+      ],
+      "colspan": 6,
+      "id": "id5da06bd4489d34ed9d6d",
+      "rowspan": 1,
+      "type": "layoutbox"
+    },
+    "id89e12b5a5cd45f7c4256": {
+      "closeSlider": true,
+      "colspan": 2,
+      "facadeId": "changePassClose",
+      "id": "id89e12b5a5cd45f7c4256",
+      "isCloseButton": true,
+      "isDefaultButton": false,
+      "style": "secondary",
+      "type": "button"
+    },
+    "idab0d3b0cc9aa43c2164a": {
+      "alignment": "left",
+      "children": [
+        "id89e12b5a5cd45f7c4256"
+      ],
+      "colspan": 6,
+      "id": "idab0d3b0cc9aa43c2164a",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idaf56107f9dbf153794d1": {
+      "backendTypeId": "ChangePassword",
+      "children": [
+        "id5da06bd4489d34ed9d6d",
+        "id2c8d6a4e0c8c42731578"
+      ],
+      "id": "idaf56107f9dbf153794d1",
+      "type": "slider"
     },
     "idbd0a8c958e6fad4f8cbc": {
       "alignment": "left",
