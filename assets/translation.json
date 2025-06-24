@@ -1,14 +1,17 @@
 {
   "id2c8d6a4e0c8c42731578": {},
   "id4b39faa68a8706cde8fc": {
-    "EN": "change password"
+    "EN": "Change password"
   },
   "id89e12b5a5cd45f7c4256": {
-    "EN": "close"
+    "EN": "cancle"
   },
   "idab0d3b0cc9aa43c2164a": {},
   "idaf56107f9dbf153794d1": {},
   "idbd0a8c958e6fad4f8cbc": {
     "EN": "Instrument Number"
+  },
+  "iddc36af8a8b50e6889463": {
+    "EN": "change"
   }
 }
