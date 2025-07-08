@@ -14,6 +14,25 @@
         "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
       }
     },
+    "id6d014e52e9d345e116fe": {
+      "colspan": 2,
+      "columnWidth": "400",
+      "facadeId": "value",
+      "id": "id6d014e52e9d345e116fe",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "id8d9bc4888abaf28a91db": {
+      "id": "id8d9bc4888abaf28a91db",
+      "order": {
+        "idc88ccad97a0ccbbc7d8f": 0
+      }
+    },
+    "idb8b5dd6dc47f4bbb5c18": {
+      "columnWidth": "400",
+      "facadeId": "valueNumeric",
+      "id": "idb8b5dd6dc47f4bbb5c18"
+    },
     "idbbbe423234ab4fd2cf4d": {
       "alignment": "left",
       "colspan": 2,
@@ -22,6 +41,12 @@
       "format": "",
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
+    },
+    "idc88ccad97a0ccbbc7d8f": {
+      "id": "idc88ccad97a0ccbbc7d8f",
+      "order": {
+        "id6d014e52e9d345e116fe": 1
+      }
     }
   },
   "languages": [
