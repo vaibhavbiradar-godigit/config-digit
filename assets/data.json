@@ -1,5 +1,47 @@
 {
   "entities": {
+    "id03b84f7aee2903586ec6": {
+      "id": "id03b84f7aee2903586ec6",
+      "type": "iconSpecification",
+      "referenceValue": "mainMenu",
+      "iconId": "menu",
+      "level": 0
+    },
+    "id0d5c627e9b74ec7b7d0a": {
+      "id": "id0d5c627e9b74ec7b7d0a",
+      "type": "iconSpecification",
+      "iconId": "controlIcon",
+      "level": 0
+    },
+    "id1fba5a66db07199ef046": {
+      "id": "id1fba5a66db07199ef046",
+      "children": [
+        "id8fb14bf1fd3aaad4b7f5",
+        "id2799348935523b6dff7b",
+        "id96da3c8f2ad7fac92d0b"
+      ],
+      "colspan": 6,
+      "rowspan": 1,
+      "type": "layoutbox"
+    },
+    "id2799348935523b6dff7b": {
+      "id": "id2799348935523b6dff7b",
+      "colspan": 2,
+      "rowspan": 1,
+      "facadeId": "informationArea",
+      "dataType": "string",
+      "type": "textOutput",
+      "alignment": "center",
+      "verticalAlignment": "middle",
+      "copytextOption": "normal"
+    },
+    "id2cec4c6606ac2999083c": {
+      "id": "id2cec4c6606ac2999083c",
+      "children": [
+        "id0d5c627e9b74ec7b7d0a"
+      ],
+      "type": "toolbarButton"
+    },
     "id2e267e5f611d59c56626": {
       "id": "id2e267e5f611d59c56626",
       "layerLevel": 1,
@@ -13,6 +55,16 @@
       "replace": {
         "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
       }
+    },
+    "id4daa35cd5442366b7f8b": {
+      "alignment": "left",
+      "children": [
+        "idbc985fa4ebfa525def18"
+      ],
+      "colspan": 6,
+      "id": "id4daa35cd5442366b7f8b",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
@@ -28,6 +80,38 @@
         "idc88ccad97a0ccbbc7d8f": 0
       }
     },
+    "id8dedfda7eb31db761bfa": {
+      "alignment": "left",
+      "colspan": 6,
+      "copytextOption": "normal",
+      "dataType": "string",
+      "facadeId": "title",
+      "id": "id8dedfda7eb31db761bfa",
+      "isStatic": true,
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "middle"
+    },
+    "id8fb14bf1fd3aaad4b7f5": {
+      "id": "id8fb14bf1fd3aaad4b7f5",
+      "children": [
+        "id2cec4c6606ac2999083c"
+      ],
+      "colspan": 2,
+      "facadeId": "fileSpecific",
+      "type": "toolbarButtonGroup",
+      "alignment": "left"
+    },
+    "id96da3c8f2ad7fac92d0b": {
+      "id": "id96da3c8f2ad7fac92d0b",
+      "children": [
+        "idec9e4bf70dbe50752982"
+      ],
+      "colspan": 2,
+      "facadeId": "common",
+      "type": "toolbarButtonGroup",
+      "alignment": "right"
+    },
     "idb8b5dd6dc47f4bbb5c18": {
       "columnWidth": "400",
       "facadeId": "valueNumeric",
@@ -42,11 +126,55 @@
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
     },
+    "idbc985fa4ebfa525def18": {
+      "closeSlider": true,
+      "colspan": 2,
+      "facadeId": "helloBt",
+      "id": "idbc985fa4ebfa525def18",
+      "isCloseButton": false,
+      "isDefaultButton": false,
+      "style": "secondary",
+      "type": "button"
+    },
     "idc88ccad97a0ccbbc7d8f": {
       "id": "idc88ccad97a0ccbbc7d8f",
       "order": {
         "id6d014e52e9d345e116fe": 1
       }
+    },
+    "idda616f206c63807abdad": {
+      "children": [
+        "id8dedfda7eb31db761bfa"
+      ],
+      "colspan": 6,
+      "id": "idda616f206c63807abdad",
+      "rowspan": 1,
+      "type": "layoutbox"
+    },
+    "iddfe1f92bf3db6915ba7d": {
+      "backendTypeId": "helloComp",
+      "children": [
+        "idda616f206c63807abdad",
+        "idf40e23cdd2a1b86cc6d2"
+      ],
+      "id": "iddfe1f92bf3db6915ba7d",
+      "type": "slider"
+    },
+    "idec9e4bf70dbe50752982": {
+      "id": "idec9e4bf70dbe50752982",
+      "children": [
+        "id03b84f7aee2903586ec6"
+      ],
+      "type": "toolbarButton"
+    },
+    "idf40e23cdd2a1b86cc6d2": {
+      "children": [
+        "id4daa35cd5442366b7f8b"
+      ],
+      "colspan": 6,
+      "id": "idf40e23cdd2a1b86cc6d2",
+      "rowspan": 1,
+      "type": "layoutbox"
     }
   },
   "languages": [
