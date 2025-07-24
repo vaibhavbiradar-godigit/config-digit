@@ -37,7 +37,8 @@
     "id3114ad1d54f493eb535a": {
       "id": "id3114ad1d54f493eb535a",
       "replace": {
-        "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
+        "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626",
+        "idf2445d3ece3024a49c87": "idff190890e75435fff6bd"
       }
     },
     "id4a4305fd95b96e9ea62d": {
@@ -52,9 +53,9 @@
     "id547f7bcb393febe6e8b6": {
       "alignment": "left",
       "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "instrumentAmount",
-      "format": "FORMAT_AMOUNT",
+      "dataType": "string",
+      "facadeId": "instrumentNumber",
+      "format": "",
       "id": "id547f7bcb393febe6e8b6",
       "type": "input"
     },
