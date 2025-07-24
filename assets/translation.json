@@ -1,12 +1,59 @@
 {
+  "id12ca82ab23e09f936c05": {
+    "EN": "Bank Transfer"
+  },
+  "id290f9f979f7a6f989dc1": {
+    "EN": "ASBA"
+  },
+  "id2d3116a006dbdb127fbd": {
+    "EN": "Instrument Type"
+  },
+  "id4a4305fd95b96e9ea62d": {
+    "DE": "",
+    "EN": "IFSC/MICR"
+  },
+  "id547f7bcb393febe6e8b6": {
+    "DE": "Abrechnungskonto",
+    "EN": "Instrument amount"
+  },
+  "id6573a62fc90ed9a32f6d": {
+    "DE": "Abrechnungskonto",
+    "EN": "Instrument amount"
+  },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
+  },
+  "id7ed95eb4eb4fb1feb3a1": {
+    "EN": "Cheque"
+  },
+  "id9e41b9db956718ad69af": {
+    "EN": "Demand Draft"
+  },
+  "ida234c796e2b8898e21cf": {
+    "DE": "",
+    "EN": "Branch Name"
+  },
+  "idb09c86538d2f5bf79f80": {
+    "EN": "Cash"
+  },
+  "idb575b8cb3470418bb150": {
+    "EN": "Contract Balance"
   },
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
   },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
+  },
+  "idd46755ee8db2e90c7607": {
+    "EN": "Online/EDC"
+  },
+  "ided4e602b1af065ccd68b": {
+    "EN": "Instrument Date"
+  },
+  "idee0286ec6e2868337825": {
+    "DE": "",
+    "EN": "Bank Name"
   }
 }

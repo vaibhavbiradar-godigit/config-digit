@@ -1,5 +1,31 @@
 {
   "entities": {
+    "id12ca82ab23e09f936c05": {
+      "id": "id12ca82ab23e09f936c05",
+      "referenceValue": "bankTransfer",
+      "type": "radioButton"
+    },
+    "id290f9f979f7a6f989dc1": {
+      "id": "id290f9f979f7a6f989dc1",
+      "referenceValue": "asba",
+      "type": "radioButton"
+    },
+    "id2d3116a006dbdb127fbd": {
+      "children": [
+        "idd46755ee8db2e90c7607",
+        "id7ed95eb4eb4fb1feb3a1",
+        "idb09c86538d2f5bf79f80",
+        "id9e41b9db956718ad69af",
+        "id12ca82ab23e09f936c05",
+        "idb575b8cb3470418bb150",
+        "id290f9f979f7a6f989dc1"
+      ],
+      "colspan": 6,
+      "facadeId": "instrumentType",
+      "id": "id2d3116a006dbdb127fbd",
+      "rowspan": 2,
+      "type": "radioButtonGroup"
+    },
     "id2e267e5f611d59c56626": {
       "id": "id2e267e5f611d59c56626",
       "layerLevel": 1,
@@ -14,6 +40,33 @@
         "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
       }
     },
+    "id4a4305fd95b96e9ea62d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "ifsc",
+      "format": "",
+      "id": "id4a4305fd95b96e9ea62d",
+      "type": "input"
+    },
+    "id547f7bcb393febe6e8b6": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "instrumentAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id547f7bcb393febe6e8b6",
+      "type": "input"
+    },
+    "id6573a62fc90ed9a32f6d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "instrumentAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6573a62fc90ed9a32f6d",
+      "type": "input"
+    },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
       "columnWidth": "400",
@@ -22,11 +75,40 @@
       "rowspan": 1,
       "type": "dynamic"
     },
+    "id7ed95eb4eb4fb1feb3a1": {
+      "id": "id7ed95eb4eb4fb1feb3a1",
+      "referenceValue": "cheque",
+      "type": "radioButton"
+    },
     "id8d9bc4888abaf28a91db": {
       "id": "id8d9bc4888abaf28a91db",
       "order": {
         "idc88ccad97a0ccbbc7d8f": 0
       }
+    },
+    "id9e41b9db956718ad69af": {
+      "id": "id9e41b9db956718ad69af",
+      "referenceValue": "demandDraft",
+      "type": "radioButton"
+    },
+    "ida234c796e2b8898e21cf": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "branchName",
+      "format": "",
+      "id": "ida234c796e2b8898e21cf",
+      "type": "input"
+    },
+    "idb09c86538d2f5bf79f80": {
+      "id": "idb09c86538d2f5bf79f80",
+      "referenceValue": "cash",
+      "type": "radioButton"
+    },
+    "idb575b8cb3470418bb150": {
+      "id": "idb575b8cb3470418bb150",
+      "referenceValue": "contractBalance",
+      "type": "radioButton"
     },
     "idb8b5dd6dc47f4bbb5c18": {
       "columnWidth": "400",
@@ -46,6 +128,38 @@
       "id": "idc88ccad97a0ccbbc7d8f",
       "order": {
         "id6d014e52e9d345e116fe": 1
+      }
+    },
+    "idd46755ee8db2e90c7607": {
+      "id": "idd46755ee8db2e90c7607",
+      "referenceValue": "online",
+      "type": "radioButton"
+    },
+    "ided4e602b1af065ccd68b": {
+      "colspan": 2,
+      "facadeId": "instrumentDate",
+      "id": "ided4e602b1af065ccd68b",
+      "type": "datepicker"
+    },
+    "idee0286ec6e2868337825": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "bankName",
+      "format": "",
+      "id": "idee0286ec6e2868337825",
+      "type": "input"
+    },
+    "idff190890e75435fff6bd": {
+      "id": "idff190890e75435fff6bd",
+      "order": {
+        "idee0286ec6e2868337825": 7,
+        "id2d3116a006dbdb127fbd": 0,
+        "id6573a62fc90ed9a32f6d": 3,
+        "ided4e602b1af065ccd68b": 2,
+        "id547f7bcb393febe6e8b6": 4,
+        "id4a4305fd95b96e9ea62d": 5,
+        "ida234c796e2b8898e21cf": 6
       }
     }
   },
