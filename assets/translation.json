@@ -1,7 +1,16 @@
 {
+  "id6b18904e4be90435cdc1": {
+    "EN": "Original Risk/Insured"
+  },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
+  },
+  "id7d3e067261886c1e9033": {
+    "EN": "UW Year"
+  },
+  "id920840dea855465bf942": {
+    "EN": "VRL Product Code"
   },
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
