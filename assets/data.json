@@ -14,6 +14,15 @@
         "id5c68df9556c95b4c6b26": "id2e267e5f611d59c56626"
       }
     },
+    "id6b18904e4be90435cdc1": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "OriginalRiskInsured",
+      "format": "",
+      "id": "id6b18904e4be90435cdc1",
+      "type": "input"
+    },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
       "columnWidth": "400",
@@ -22,11 +31,29 @@
       "rowspan": 1,
       "type": "dynamic"
     },
+    "id7d3e067261886c1e9033": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "dateTime",
+      "facadeId": "UwYear",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "id7d3e067261886c1e9033",
+      "type": "input"
+    },
     "id8d9bc4888abaf28a91db": {
       "id": "id8d9bc4888abaf28a91db",
       "order": {
         "idc88ccad97a0ccbbc7d8f": 0
       }
+    },
+    "id920840dea855465bf942": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "VrlProductCode",
+      "format": "",
+      "id": "id920840dea855465bf942",
+      "type": "input"
     },
     "idb8b5dd6dc47f4bbb5c18": {
       "columnWidth": "400",
@@ -41,6 +68,14 @@
       "format": "",
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
+    },
+    "idc49bad749ec2339cf8c3": {
+      "id": "idc49bad749ec2339cf8c3",
+      "order": {
+        "id920840dea855465bf942": 0,
+        "id7d3e067261886c1e9033": 1,
+        "id6b18904e4be90435cdc1": 2
+      }
     },
     "idc88ccad97a0ccbbc7d8f": {
       "id": "idc88ccad97a0ccbbc7d8f",
