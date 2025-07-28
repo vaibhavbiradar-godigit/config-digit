@@ -27,12 +27,21 @@
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
   },
+  "id7f391590ba8b3cb24f90": {
+    "EN": "UW Year-year of Start Date"
+  },
+  "id84d2ac90ca3e803316cf": {
+    "EN": "VRL Product Code"
+  },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
   },
   "ida234c796e2b8898e21cf": {
     "DE": "",
     "EN": "Branch Name"
+  },
+  "ida6c64e7906a9d9b8ba8e": {
+    "EN": "Original Risk/Insured"
   },
   "idb09c86538d2f5bf79f80": {
     "EN": "Cash"

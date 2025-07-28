@@ -81,6 +81,24 @@
       "referenceValue": "cheque",
       "type": "radioButton"
     },
+    "id7f391590ba8b3cb24f90": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "dateTime",
+      "facadeId": "UwYear",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "id7f391590ba8b3cb24f90",
+      "type": "input"
+    },
+    "id84d2ac90ca3e803316cf": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "VrlProductCode",
+      "format": "",
+      "id": "id84d2ac90ca3e803316cf",
+      "type": "input"
+    },
     "id8d9bc4888abaf28a91db": {
       "id": "id8d9bc4888abaf28a91db",
       "order": {
@@ -99,6 +117,15 @@
       "facadeId": "branchName",
       "format": "",
       "id": "ida234c796e2b8898e21cf",
+      "type": "input"
+    },
+    "ida6c64e7906a9d9b8ba8e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "OriginalRiskInsured",
+      "format": "",
+      "id": "ida6c64e7906a9d9b8ba8e",
       "type": "input"
     },
     "idb09c86538d2f5bf79f80": {
@@ -124,6 +151,14 @@
       "format": "",
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
+    },
+    "idc49bad749ec2339cf8c3": {
+      "id": "idc49bad749ec2339cf8c3",
+      "order": {
+        "id84d2ac90ca3e803316cf": 0,
+        "id7f391590ba8b3cb24f90": 1,
+        "ida6c64e7906a9d9b8ba8e": 2
+      }
     },
     "idc88ccad97a0ccbbc7d8f": {
       "id": "idc88ccad97a0ccbbc7d8f",
