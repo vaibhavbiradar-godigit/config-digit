@@ -34,6 +34,14 @@
       },
       "parentId": "id5c68df9556c95b4c6b26"
     },
+    "id2f1b22f4e5b0f34fa4bf": {
+      "id": "id2f1b22f4e5b0f34fa4bf",
+      "order": {
+        "idcb7bf1d8851e37dd4f65": 0,
+        "idcd3744a3bdc53002f1db": 1,
+        "idb01f8630a20ccbf9a136": 2
+      }
+    },
     "id3114ad1d54f493eb535a": {
       "id": "id3114ad1d54f493eb535a",
       "replace": {
@@ -128,6 +136,15 @@
       "id": "ida6c64e7906a9d9b8ba8e",
       "type": "input"
     },
+    "idb01f8630a20ccbf9a136": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "originalRiskInsured",
+      "format": "",
+      "id": "idb01f8630a20ccbf9a136",
+      "type": "input"
+    },
     "idb09c86538d2f5bf79f80": {
       "id": "idb09c86538d2f5bf79f80",
       "referenceValue": "cash",
@@ -165,6 +182,24 @@
       "order": {
         "id6d014e52e9d345e116fe": 1
       }
+    },
+    "idcb7bf1d8851e37dd4f65": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "vrlProductCode",
+      "format": "",
+      "id": "idcb7bf1d8851e37dd4f65",
+      "type": "input"
+    },
+    "idcd3744a3bdc53002f1db": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "dateTime",
+      "facadeId": "uwYear",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "idcd3744a3bdc53002f1db",
+      "type": "input"
     },
     "idd46755ee8db2e90c7607": {
       "id": "idd46755ee8db2e90c7607",
