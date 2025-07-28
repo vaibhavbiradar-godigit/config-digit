@@ -43,6 +43,9 @@
   "ida6c64e7906a9d9b8ba8e": {
     "EN": "Original Risk/Insured"
   },
+  "idb01f8630a20ccbf9a136": {
+    "EN": "Original Risk/Insured"
+  },
   "idb09c86538d2f5bf79f80": {
     "EN": "Cash"
   },
@@ -54,6 +57,12 @@
   },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
+  },
+  "idcb7bf1d8851e37dd4f65": {
+    "EN": "VRL product code"
+  },
+  "idcd3744a3bdc53002f1db": {
+    "EN": "UW Year-year of Start Date"
   },
   "idd46755ee8db2e90c7607": {
     "EN": "Online/EDC"
