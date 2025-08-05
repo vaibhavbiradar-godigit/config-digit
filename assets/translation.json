@@ -2,6 +2,12 @@
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
   },
+  "id1c3d0c7ff3f2e276c784": {
+    "EN": "Issuance Start Date"
+  },
+  "id25bbe5083ca1858a9481": {
+    "EN": "Issuance End Date"
+  },
   "id290f9f979f7a6f989dc1": {
     "EN": "ASBA"
   },
@@ -11,6 +17,9 @@
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
     "EN": "Overview"
+  },
+  "id3103bbda3585ef72e143": {
+    "EN": "Placement Type"
   },
   "id4a4305fd95b96e9ea62d": {
     "DE": "",
@@ -37,6 +46,9 @@
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
   },
+  "id860fdf1c8026a83d3ab1": {
+    "EN": "Arrangement Type"
+  },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
   },
@@ -59,6 +71,9 @@
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
   },
+  "idbaabce4ff927251f5c61": {
+    "EN": "Policy Holder"
+  },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
   },
@@ -70,6 +85,12 @@
   },
   "idd46755ee8db2e90c7607": {
     "EN": "Online/EDC"
+  },
+  "idd57b109afd6ccfa22445": {
+    "EN": "Product Code"
+  },
+  "ide80113eea55d1588c555": {
+    "EN": "Original Risk/Insured"
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
