@@ -5,6 +5,18 @@
       "referenceValue": "bankTransfer",
       "type": "radioButton"
     },
+    "id1c3d0c7ff3f2e276c784": {
+      "colspan": 2,
+      "facadeId": "issuanceStartDate",
+      "id": "id1c3d0c7ff3f2e276c784",
+      "type": "datepicker"
+    },
+    "id25bbe5083ca1858a9481": {
+      "colspan": 2,
+      "facadeId": "issuanceEndDate",
+      "id": "id25bbe5083ca1858a9481",
+      "type": "datepicker"
+    },
     "id290f9f979f7a6f989dc1": {
       "id": "id290f9f979f7a6f989dc1",
       "referenceValue": "asba",
@@ -41,6 +53,12 @@
         "idcd3744a3bdc53002f1db": 1,
         "idb01f8630a20ccbf9a136": 2
       }
+    },
+    "id3103bbda3585ef72e143": {
+      "colspan": 2,
+      "facadeId": "placementType",
+      "id": "id3103bbda3585ef72e143",
+      "type": "dropdown"
     },
     "id3114ad1d54f493eb535a": {
       "id": "id3114ad1d54f493eb535a",
@@ -107,6 +125,12 @@
       "id": "id84d2ac90ca3e803316cf",
       "type": "input"
     },
+    "id860fdf1c8026a83d3ab1": {
+      "colspan": 2,
+      "facadeId": "arrangementType",
+      "id": "id860fdf1c8026a83d3ab1",
+      "type": "dropdown"
+    },
     "id8d9bc4888abaf28a91db": {
       "id": "id8d9bc4888abaf28a91db",
       "order": {
@@ -117,6 +141,18 @@
       "id": "id9e41b9db956718ad69af",
       "referenceValue": "demandDraft",
       "type": "radioButton"
+    },
+    "id9f438d9c518210c45046": {
+      "id": "id9f438d9c518210c45046",
+      "order": {
+        "idbaabce4ff927251f5c61": 13,
+        "id860fdf1c8026a83d3ab1": 14,
+        "id1c3d0c7ff3f2e276c784": 15,
+        "id25bbe5083ca1858a9481": 16,
+        "id3103bbda3585ef72e143": 17,
+        "ide80113eea55d1588c555": 18,
+        "idd57b109afd6ccfa22445": 19
+      }
     },
     "ida234c796e2b8898e21cf": {
       "alignment": "left",
@@ -159,6 +195,15 @@
       "columnWidth": "400",
       "facadeId": "valueNumeric",
       "id": "idb8b5dd6dc47f4bbb5c18"
+    },
+    "idbaabce4ff927251f5c61": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "policyHolder",
+      "format": "",
+      "id": "idbaabce4ff927251f5c61",
+      "type": "input"
     },
     "idbbbe423234ab4fd2cf4d": {
       "alignment": "left",
@@ -205,6 +250,21 @@
       "id": "idd46755ee8db2e90c7607",
       "referenceValue": "online",
       "type": "radioButton"
+    },
+    "idd57b109afd6ccfa22445": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "productCode",
+      "format": "",
+      "id": "idd57b109afd6ccfa22445",
+      "type": "input"
+    },
+    "ide80113eea55d1588c555": {
+      "colspan": 2,
+      "facadeId": "originalRiskInsured",
+      "id": "ide80113eea55d1588c555",
+      "type": "dropdown"
     },
     "ided4e602b1af065ccd68b": {
       "colspan": 2,
