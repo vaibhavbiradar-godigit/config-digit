@@ -7,13 +7,13 @@
     },
     "id1c3d0c7ff3f2e276c784": {
       "colspan": 2,
-      "facadeId": "issuanceStartDate",
+      "facadeId": "issuanceStartDateSearchCriteria",
       "id": "id1c3d0c7ff3f2e276c784",
       "type": "datepicker"
     },
     "id25bbe5083ca1858a9481": {
       "colspan": 2,
-      "facadeId": "issuanceEndDate",
+      "facadeId": "issuanceEndDateSearchCriteria",
       "id": "id25bbe5083ca1858a9481",
       "type": "datepicker"
     },
@@ -56,7 +56,7 @@
     },
     "id3103bbda3585ef72e143": {
       "colspan": 2,
-      "facadeId": "placementType",
+      "facadeId": "placementTypeSearchCriteria",
       "id": "id3103bbda3585ef72e143",
       "type": "dropdown"
     },
@@ -127,7 +127,7 @@
     },
     "id860fdf1c8026a83d3ab1": {
       "colspan": 2,
-      "facadeId": "arrangementType",
+      "facadeId": "arrangementTypeSearchCriteria",
       "id": "id860fdf1c8026a83d3ab1",
       "type": "dropdown"
     },
@@ -200,7 +200,7 @@
       "alignment": "left",
       "colspan": 2,
       "dataType": "string",
-      "facadeId": "policyHolder",
+      "facadeId": "policyHolderSearchCriteria",
       "format": "",
       "id": "idbaabce4ff927251f5c61",
       "type": "input"
@@ -255,14 +255,14 @@
       "alignment": "left",
       "colspan": 2,
       "dataType": "string",
-      "facadeId": "productCode",
+      "facadeId": "productCodeSearchCriteria",
       "format": "",
       "id": "idd57b109afd6ccfa22445",
       "type": "input"
     },
     "ide80113eea55d1588c555": {
       "colspan": 2,
-      "facadeId": "originalRiskInsured",
+      "facadeId": "originalRiskInsuredSearchCriteria",
       "id": "ide80113eea55d1588c555",
       "type": "dropdown"
     },
