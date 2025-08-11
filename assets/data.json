@@ -51,7 +51,8 @@
       "order": {
         "idcb7bf1d8851e37dd4f65": 0,
         "idcd3744a3bdc53002f1db": 1,
-        "idb01f8630a20ccbf9a136": 2
+        "idb01f8630a20ccbf9a136": 2,
+        "id5bb12d7fa6713b89f8af": 25
       }
     },
     "id3103bbda3585ef72e143": {
@@ -84,6 +85,12 @@
       "format": "",
       "id": "id547f7bcb393febe6e8b6",
       "type": "input"
+    },
+    "id5bb12d7fa6713b89f8af": {
+      "colspan": 2,
+      "facadeId": "gstExemption",
+      "id": "id5bb12d7fa6713b89f8af",
+      "type": "dropdown"
     },
     "id6573a62fc90ed9a32f6d": {
       "alignment": "left",
