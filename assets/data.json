@@ -9,12 +9,14 @@
       "colspan": 2,
       "facadeId": "issuanceStartDateSearchCriteria",
       "id": "id1c3d0c7ff3f2e276c784",
+      "parentFacadeId": "criteria",
       "type": "datepicker"
     },
     "id25bbe5083ca1858a9481": {
       "colspan": 2,
       "facadeId": "issuanceEndDateSearchCriteria",
       "id": "id25bbe5083ca1858a9481",
+      "parentFacadeId": "criteria",
       "type": "datepicker"
     },
     "id290f9f979f7a6f989dc1": {
@@ -59,6 +61,7 @@
       "colspan": 2,
       "facadeId": "placementTypeSearchCriteria",
       "id": "id3103bbda3585ef72e143",
+      "parentFacadeId": "criteria",
       "type": "dropdown"
     },
     "id3114ad1d54f493eb535a": {
@@ -136,6 +139,7 @@
       "colspan": 2,
       "facadeId": "arrangementTypeSearchCriteria",
       "id": "id860fdf1c8026a83d3ab1",
+      "parentFacadeId": "criteria",
       "type": "dropdown"
     },
     "id8d9bc4888abaf28a91db": {
@@ -152,13 +156,12 @@
     "id9f438d9c518210c45046": {
       "id": "id9f438d9c518210c45046",
       "order": {
-        "idbaabce4ff927251f5c61": 13,
-        "id860fdf1c8026a83d3ab1": 14,
-        "id1c3d0c7ff3f2e276c784": 15,
-        "id25bbe5083ca1858a9481": 16,
-        "id3103bbda3585ef72e143": 17,
-        "ide80113eea55d1588c555": 18,
-        "idd57b109afd6ccfa22445": 19
+        "id860fdf1c8026a83d3ab1": 13,
+        "id1c3d0c7ff3f2e276c784": 14,
+        "id25bbe5083ca1858a9481": 15,
+        "id3103bbda3585ef72e143": 16,
+        "ide80113eea55d1588c555": 17,
+        "idd57b109afd6ccfa22445": 18
       }
     },
     "ida234c796e2b8898e21cf": {
@@ -265,12 +268,14 @@
       "facadeId": "productCodeSearchCriteria",
       "format": "",
       "id": "idd57b109afd6ccfa22445",
+      "parentFacadeId": "criteria",
       "type": "input"
     },
     "ide80113eea55d1588c555": {
       "colspan": 2,
       "facadeId": "originalRiskInsuredSearchCriteria",
       "id": "ide80113eea55d1588c555",
+      "parentFacadeId": "criteria",
       "type": "dropdown"
     },
     "ided4e602b1af065ccd68b": {
