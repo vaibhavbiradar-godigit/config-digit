@@ -139,6 +139,16 @@
       "id": "id7f391590ba8b3cb24f90",
       "type": "input"
     },
+    "id83ab88273e8f8b075d9e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "originalRiskInsuredSearchCriteria",
+      "format": "",
+      "id": "id83ab88273e8f8b075d9e",
+      "parentFacadeId": "criteria",
+      "type": "input"
+    },
     "id84d2ac90ca3e803316cf": {
       "alignment": "left",
       "colspan": 2,
@@ -173,8 +183,8 @@
         "id1c3d0c7ff3f2e276c784": 14,
         "id25bbe5083ca1858a9481": 15,
         "id3103bbda3585ef72e143": 16,
-        "ide80113eea55d1588c555": 17,
-        "idd57b109afd6ccfa22445": 18
+        "idd57b109afd6ccfa22445": 18,
+        "id83ab88273e8f8b075d9e": 17
       }
     },
     "ida234c796e2b8898e21cf": {
