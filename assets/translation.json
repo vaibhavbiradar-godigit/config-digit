@@ -40,11 +40,17 @@
     "DE": "Wert",
     "EN": "Value"
   },
+  "id7621714ca1e9d3087e45": {
+    "EN": "GST Exemption"
+  },
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
   },
   "id7f391590ba8b3cb24f90": {
     "EN": "UW Year-year of Start Date"
+  },
+  "id83ab88273e8f8b075d9e": {
+    "EN": "Original Risk/Insured"
   },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
@@ -88,9 +94,6 @@
   },
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
-  },
-  "ide80113eea55d1588c555": {
-    "EN": "Original Risk/Insured"
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
