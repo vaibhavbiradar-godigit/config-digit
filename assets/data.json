@@ -1,5 +1,11 @@
 {
   "entities": {
+    "id1022d5facbdcb39d6452": {
+      "id": "id1022d5facbdcb39d6452",
+      "order": {
+        "id7621714ca1e9d3087e45": 12
+      }
+    },
     "id12ca82ab23e09f936c05": {
       "id": "id12ca82ab23e09f936c05",
       "referenceValue": "bankTransfer",
@@ -111,6 +117,13 @@
       "id": "id6d014e52e9d345e116fe",
       "rowspan": 1,
       "type": "dynamic"
+    },
+    "id7621714ca1e9d3087e45": {
+      "colspan": 2,
+      "facadeId": "gstExemption",
+      "id": "id7621714ca1e9d3087e45",
+      "parentFacadeId": "coverage",
+      "type": "dropdown"
     },
     "id7ed95eb4eb4fb1feb3a1": {
       "id": "id7ed95eb4eb4fb1feb3a1",
