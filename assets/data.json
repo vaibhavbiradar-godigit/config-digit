@@ -132,6 +132,7 @@
     },
     "id7621714ca1e9d3087e45": {
       "colspan": 2,
+      "deprecatedInVersion": "28.7.51",
       "facadeId": "gstExemption",
       "id": "id7621714ca1e9d3087e45",
       "parentFacadeId": "coverage",
