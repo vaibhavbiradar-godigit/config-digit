@@ -21,6 +21,7 @@
   "id3103bbda3585ef72e143": {
     "EN": "Placement Type"
   },
+  "id37b64f6e7da9d9301ff1": {},
   "id4a4305fd95b96e9ea62d": {
     "DE": "",
     "EN": "IFSC/MICR"
@@ -43,6 +44,10 @@
     "DE": "Wert",
     "EN": "Value"
   },
+  "id6f4ba1a9d2f3c60041ee": {
+    "DE": "Dokumente hinzufügen",
+    "EN": "Add Large Documents"
+  },
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
   },
@@ -57,6 +62,10 @@
   },
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
+  },
+  "id9bd4567dcc9cfe064213": {
+    "DE": "Abbrechen",
+    "EN": "Cancel"
   },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
@@ -83,6 +92,10 @@
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
   },
+  "idc54ea86af7c1a972b354": {
+    "DE": "Dokumente hinzufügen",
+    "EN": "Add Documents"
+  },
   "idcb7bf1d8851e37dd4f65": {
     "EN": "VRL product code"
   },
@@ -95,11 +108,21 @@
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
+  "idde2e0853b00f37c71715": {
+    "DE": "Sie können eine oder mehrere Dateien hinzufügen, indem Sie entweder die Schaltfläche \"Add File...\"verwenden oder Dateien aus Ihrem lokalen Dateibrowser ziehen und in die unten angegebene Ablagezone ablegen.",
+    "EN": "You can add one or more files, either by using the \"Add File...\"button or by dragging files from your local file browser and dropping them into the drop zone indicated below."
+  },
+  "idecd01e45970c5739650c": {
+    "DE": "Dateien hier ablegen",
+    "EN": "Drag your files here"
+  },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
   },
   "idee0286ec6e2868337825": {
     "DE": "",
     "EN": "Bank Name"
-  }
+  },
+  "idf50aeef96cbaf863a5aa": {},
+  "idf7c35ac54497a7b1fed6": {}
 }
