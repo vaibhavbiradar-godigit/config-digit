@@ -116,11 +116,19 @@
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
+  "iddfaab2df89c65cbe9e5a": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
   },
   "idee0286ec6e2868337825": {
     "DE": "",
     "EN": "Bank Name"
+  },
+  "idf56d16b54a9391efe32f": {
+    "DE": "Entfernen",
+    "EN": "Remove"
   }
 }
