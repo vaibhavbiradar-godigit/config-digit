@@ -11,6 +11,15 @@
       "referenceValue": "bankTransfer",
       "type": "radioButton"
     },
+    "id148a8035bd3756fe3275": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "string",
+      "facadeId": "commissionScale",
+      "id": "id148a8035bd3756fe3275",
+      "type": "input"
+    },
     "id1c3d0c7ff3f2e276c784": {
       "colspan": 2,
       "facadeId": "issuanceStartDateSearchCriteria",
@@ -77,6 +86,18 @@
         "idf2445d3ece3024a49c87": "idff190890e75435fff6bd"
       }
     },
+    "id487d406ad000aab2f1a3": {
+      "children": [
+        "id148a8035bd3756fe3275",
+        "idcab62455de485fc2ca00"
+      ],
+      "colspan": 6,
+      "facadeId": "slidingScale",
+      "hideColumnHeader": false,
+      "id": "id487d406ad000aab2f1a3",
+      "rowspan": 8,
+      "type": "list"
+    },
     "id4a4305fd95b96e9ea62d": {
       "alignment": "left",
       "colspan": 2,
@@ -121,6 +142,15 @@
       "format": "FORMAT_AMOUNT",
       "id": "id6573a62fc90ed9a32f6d",
       "type": "input"
+    },
+    "id6a795c57a8c09b5af457": {
+      "children": [
+        "id487d406ad000aab2f1a3"
+      ],
+      "colspan": 6,
+      "id": "id6a795c57a8c09b5af457",
+      "rowspan": 2,
+      "type": "layoutbox"
     },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
@@ -172,8 +202,11 @@
       "type": "input"
     },
     "id85b6131e9e16f5ba09ec": {
-      "id": "id85b6131e9e16f5ba09ec",
       "backendTypeId": "contractAdditionalDetailsSlidingScale",
+      "children": [
+        "id6a795c57a8c09b5af457"
+      ],
+      "id": "id85b6131e9e16f5ba09ec",
       "type": "subchapter"
     },
     "id860fdf1c8026a83d3ab1": {
@@ -278,6 +311,15 @@
       "order": {
         "id6d014e52e9d345e116fe": 1
       }
+    },
+    "idcab62455de485fc2ca00": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "string",
+      "facadeId": "lossRationScale",
+      "id": "idcab62455de485fc2ca00",
+      "type": "input"
     },
     "idcb7bf1d8851e37dd4f65": {
       "alignment": "left",
