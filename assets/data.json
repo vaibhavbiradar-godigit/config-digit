@@ -86,6 +86,18 @@
         "idf2445d3ece3024a49c87": "idff190890e75435fff6bd"
       }
     },
+    "id41a99c400c747b6da365": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "iddfaab2df89c65cbe9e5a",
+        "idf56d16b54a9391efe32f"
+      ],
+      "colspan": 2,
+      "id": "id41a99c400c747b6da365",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id487d406ad000aab2f1a3": {
       "children": [
         "id148a8035bd3756fe3275",
@@ -95,7 +107,7 @@
       "facadeId": "slidingScale",
       "hideColumnHeader": false,
       "id": "id487d406ad000aab2f1a3",
-      "rowspan": 8,
+      "rowspan": 5,
       "type": "list"
     },
     "id4a4305fd95b96e9ea62d": {
@@ -134,6 +146,13 @@
       "id": "id5bb12d7fa6713b89f8af",
       "type": "dropdown"
     },
+    "id5f1928bbe837bd15141e": {
+      "alignment": "left",
+      "colspan": 2,
+      "id": "id5f1928bbe837bd15141e",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id6573a62fc90ed9a32f6d": {
       "alignment": "left",
       "colspan": 2,
@@ -145,7 +164,10 @@
     },
     "id6a795c57a8c09b5af457": {
       "children": [
-        "id487d406ad000aab2f1a3"
+        "id487d406ad000aab2f1a3",
+        "id5f1928bbe837bd15141e",
+        "id952032578349c9a6ea00",
+        "id41a99c400c747b6da365"
       ],
       "colspan": 6,
       "id": "id6a795c57a8c09b5af457",
@@ -221,6 +243,13 @@
       "order": {
         "idc88ccad97a0ccbbc7d8f": 0
       }
+    },
+    "id952032578349c9a6ea00": {
+      "alignment": "left",
+      "colspan": 2,
+      "id": "id952032578349c9a6ea00",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "id9e41b9db956718ad69af": {
       "id": "id9e41b9db956718ad69af",
@@ -354,6 +383,14 @@
       "parentFacadeId": "criteria",
       "type": "input"
     },
+    "iddfaab2df89c65cbe9e5a": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "iddfaab2df89c65cbe9e5a",
+      "parentFacadeId": "",
+      "style": "secondary",
+      "type": "button"
+    },
     "ide80113eea55d1588c555": {
       "colspan": 2,
       "facadeId": "originalRiskInsuredSearchCriteria",
@@ -375,6 +412,14 @@
       "format": "",
       "id": "idee0286ec6e2868337825",
       "type": "input"
+    },
+    "idf56d16b54a9391efe32f": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "idf56d16b54a9391efe32f",
+      "parentFacadeId": "",
+      "style": "secondary",
+      "type": "button"
     },
     "idff190890e75435fff6bd": {
       "id": "idff190890e75435fff6bd",
