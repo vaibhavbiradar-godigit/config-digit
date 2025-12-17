@@ -6,6 +6,10 @@
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
   },
+  "id148a8035bd3756fe3275": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
+  },
   "id1c3d0c7ff3f2e276c784": {
     "EN": "Issuance Start Date"
   },
@@ -24,6 +28,10 @@
   },
   "id3103bbda3585ef72e143": {
     "EN": "Placement Type"
+  },
+  "id487d406ad000aab2f1a3": {
+    "DE": "Contract Additional Details: Sliding Scale",
+    "EN": "Contract Additional Details: Sliding Scale"
   },
   "id4a4305fd95b96e9ea62d": {
     "DE": "",
@@ -91,6 +99,10 @@
   },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
+  },
+  "idcab62455de485fc2ca00": {
+    "DE": "Loss Ration Scale",
+    "EN": "Loss Ration Scale"
   },
   "idcb7bf1d8851e37dd4f65": {
     "EN": "VRL product code"
