@@ -171,6 +171,11 @@
       "id": "id84d2ac90ca3e803316cf",
       "type": "input"
     },
+    "id85b6131e9e16f5ba09ec": {
+      "id": "id85b6131e9e16f5ba09ec",
+      "backendTypeId": "contractAdditionalDetailsSlidingScale",
+      "type": "subchapter"
+    },
     "id860fdf1c8026a83d3ab1": {
       "colspan": 2,
       "facadeId": "arrangementTypeSearchCriteria",
@@ -346,7 +351,19 @@
     "EN",
     "DE"
   ],
-  "usageEntities": {},
+  "usageEntities": {
+    "id01362f94c83e48e194ac": {
+      "id": "id01362f94c83e48e194ac",
+      "order": {
+        "id7fcb192d44b11e9478fb": 0
+      }
+    },
+    "id7fcb192d44b11e9478fb": {
+      "baseEntityId": "id85b6131e9e16f5ba09ec",
+      "id": "id7fcb192d44b11e9478fb",
+      "logicalName": "contract_details_sliding_scale"
+    }
+  },
   "variantEntities": {},
   "files": {
     "id": "files"

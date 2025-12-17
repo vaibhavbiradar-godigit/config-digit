@@ -1,4 +1,8 @@
 {
+  "id01362f94c83e48e194ac": {
+    "DE": "Vertrag",
+    "EN": "Contract"
+  },
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
   },
@@ -49,12 +53,17 @@
   "id7f391590ba8b3cb24f90": {
     "EN": "UW Year-year of Start Date"
   },
+  "id7fcb192d44b11e9478fb": {
+    "DE": "Sliding Scale Data",
+    "EN": "Sliding Scale Data"
+  },
   "id83ab88273e8f8b075d9e": {
     "EN": "Original Risk/Insured"
   },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
   },
+  "id85b6131e9e16f5ba09ec": {},
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
   },
