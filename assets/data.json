@@ -387,7 +387,6 @@
       "colspan": 1,
       "facadeId": "add",
       "id": "iddfaab2df89c65cbe9e5a",
-      "parentFacadeId": "",
       "style": "secondary",
       "type": "button"
     },
@@ -417,7 +416,6 @@
       "colspan": 1,
       "facadeId": "remove",
       "id": "idf56d16b54a9391efe32f",
-      "parentFacadeId": "",
       "style": "secondary",
       "type": "button"
     },
