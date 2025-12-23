@@ -266,6 +266,10 @@
     "DE": "Retained Amount",
     "EN": "Retained Amount"
   },
+  "idb6c1f35718ec889fd57e": {
+    "DE": "Gruppengeschäftsvertrag",
+    "EN": "Group Business Contract"
+  },
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
   },
@@ -276,6 +280,10 @@
   "idba89742d5930165b0163": {
     "DE": "exclusions",
     "EN": "exclusions"
+  },
+  "idbb610e9b62052f9215e8": {
+    "DE": "Coverage Additional Details",
+    "EN": "Coverage Additional Details"
   },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
