@@ -1189,6 +1189,27 @@
       "baseEntityId": "id85b6131e9e16f5ba09ec",
       "id": "id7fcb192d44b11e9478fb",
       "logicalName": "contract_details_sliding_scale"
+    },
+    "idb6c1f35718ec889fd57e": {
+      "id": "idb6c1f35718ec889fd57e",
+      "replace": {
+        "idcc83bb4b32daca8c592e": "idd1e7f0d7349efa10e540"
+      }
+    },
+    "idbb610e9b62052f9215e8": {
+      "baseEntityId": "idc737f0f7b07534b5356e",
+      "id": "idbb610e9b62052f9215e8",
+      "logicalName": "coverageAdditionalDetails"
+    },
+    "idd1e7f0d7349efa10e540": {
+      "baseEntityId": "idf80d5631cd3f240be40d",
+      "id": "idd1e7f0d7349efa10e540",
+      "layerLevel": 2,
+      "logicalName": "agreement",
+      "order": {
+        "idbb610e9b62052f9215e8": 7
+      },
+      "parentId": "idcc83bb4b32daca8c592e"
     }
   },
   "variantEntities": {},
