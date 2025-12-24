@@ -843,7 +843,7 @@
       "colspan": 2,
       "columnWidth": "200",
       "dataType": "decimal",
-      "facadeId": "commissionScale",
+      "facadeId": "retainedAmount",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idb57a027eaa450969e1c5",
       "type": "input"
