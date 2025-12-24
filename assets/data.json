@@ -410,7 +410,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "number",
-      "facadeId": "AttachmentReturnPeriod",
+      "facadeId": "attachmentReturnPeriod",
       "format": "",
       "id": "id520baaaf0e61b1dd5d56",
       "type": "input"
@@ -966,7 +966,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "reinstatementType",
+      "facadeId": "reinstatementRate",
       "format": "FORMAT_AMOUNT",
       "id": "idca3a2ef45ab8f4afa5ec",
       "type": "input"
