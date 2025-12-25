@@ -1185,11 +1185,26 @@
         "id7fcb192d44b11e9478fb": 0
       }
     },
+    "id39b744b7688f1492b829": {
+      "baseEntityId": "idc737f0f7b07534b5356e",
+      "id": "id39b744b7688f1492b829",
+      "logicalName": "coverage_additional_details"
+    },
     "id538be03bf3db1a652c5a": {
       "id": "id538be03bf3db1a652c5a",
       "replace": {
-        "idcc83bb4b32daca8c592e": "idd5ace05a0a9aefa26719"
+        "idcc83bb4b32daca8c592e": "id5c586910f847202af586"
       }
+    },
+    "id5c586910f847202af586": {
+      "baseEntityId": "idf80d5631cd3f240be40d",
+      "id": "id5c586910f847202af586",
+      "layerLevel": 1,
+      "logicalName": "agreement",
+      "order": {
+        "id39b744b7688f1492b829": 7
+      },
+      "parentId": "idcc83bb4b32daca8c592e"
     },
     "id7fcb192d44b11e9478fb": {
       "baseEntityId": "id85b6131e9e16f5ba09ec",
@@ -1214,23 +1229,6 @@
         "idbb610e9b62052f9215e8": 7
       },
       "parentId": "idcc83bb4b32daca8c592e"
-    },
-    "idd5ace05a0a9aefa26719": {
-      "baseEntityId": "idf80d5631cd3f240be40d",
-      "id": "idd5ace05a0a9aefa26719",
-      "layerLevel": 1,
-      "logicalName": "agreement",
-      "parentId": "idcc83bb4b32daca8c592e",
-      "replace": {
-        "id9bdf5d9054215d546a10": "ide04641917b8e37f7dc70"
-      }
-    },
-    "ide04641917b8e37f7dc70": {
-      "baseEntityId": "idc737f0f7b07534b5356e",
-      "id": "ide04641917b8e37f7dc70",
-      "layerLevel": 1,
-      "logicalName": "coverage_additional_details",
-      "parentId": "id9bdf5d9054215d546a10"
     }
   },
   "variantEntities": {},
