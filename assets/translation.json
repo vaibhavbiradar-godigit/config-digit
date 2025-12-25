@@ -120,6 +120,10 @@
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
   },
+  "id538be03bf3db1a652c5a": {
+    "DE": "Gruppengeschäftsvertrag",
+    "EN": "Group Business Contract"
+  },
   "id547f7bcb393febe6e8b6": {
     "DE": "Abrechnungskonto",
     "EN": "Instrument Number"
@@ -332,6 +336,10 @@
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "ide04641917b8e37f7dc70": {
+    "DE": "Coverage Additional Details",
+    "EN": "Coverage Additional Details"
   },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
