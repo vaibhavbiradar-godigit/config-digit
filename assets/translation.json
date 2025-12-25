@@ -85,6 +85,10 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id39b744b7688f1492b829": {
+    "DE": "Coverage Additional Details",
+    "EN": "Coverage Additional Details"
+  },
   "id3d623bf4f4343b3047e1": {
     "DE": "XOL layer",
     "EN": "XOL layer"
@@ -336,10 +340,6 @@
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
-  },
-  "ide04641917b8e37f7dc70": {
-    "DE": "Coverage Additional Details",
-    "EN": "Coverage Additional Details"
   },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
