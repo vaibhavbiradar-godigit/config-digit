@@ -1199,13 +1199,11 @@
     "idbb610e9b62052f9215e8": {
       "baseEntityId": "idc737f0f7b07534b5356e",
       "id": "idbb610e9b62052f9215e8",
-      "logicalName": "coverageAdditionalDetails"
+      "logicalName": "coverage_additional_details"
     },
     "idd1e7f0d7349efa10e540": {
-      "baseEntityId": "idf80d5631cd3f240be40d",
       "id": "idd1e7f0d7349efa10e540",
       "layerLevel": 2,
-      "logicalName": "agreement",
       "order": {
         "idbb610e9b62052f9215e8": 7
       },
