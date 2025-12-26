@@ -1202,7 +1202,7 @@
       "layerLevel": 1,
       "logicalName": "agreement",
       "order": {
-        "id39b744b7688f1492b829": 7
+        "idc8473ba7b46823d41408": 17
       },
       "parentId": "idcc83bb4b32daca8c592e"
     },
@@ -1220,6 +1220,11 @@
     "idbb610e9b62052f9215e8": {
       "baseEntityId": "idc737f0f7b07534b5356e",
       "id": "idbb610e9b62052f9215e8",
+      "logicalName": "coverage_additional_details"
+    },
+    "idc8473ba7b46823d41408": {
+      "baseEntityId": "idc737f0f7b07534b5356e",
+      "id": "idc8473ba7b46823d41408",
       "logicalName": "coverage_additional_details"
     },
     "idd1e7f0d7349efa10e540": {
