@@ -132,6 +132,10 @@
     "DE": "Abrechnungskonto",
     "EN": "Instrument Number"
   },
+  "id5618ca4939c4a69948ee": {
+    "DE": "Loss Ration Scale",
+    "EN": "Loss Ration Scale"
+  },
   "id57875bc73eb9c09afed9": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -146,6 +150,10 @@
   },
   "id5bb12d7fa6713b89f8af": {
     "EN": "GST Exemption"
+  },
+  "id5dbacfa335f427d5a8b1": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
   },
   "id5ef4aa3c65509eb96252": {
     "DE": "Reinstatement Terms",
@@ -281,6 +289,10 @@
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
   },
+  "idb9254cacf83ec5c1e1c1": {
+    "DE": "Coverage Additional Details: Sliding Scale",
+    "EN": "Coverage Additional Details: Sliding Scale"
+  },
   "idb9873aca255a6116967d": {
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
@@ -341,6 +353,10 @@
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
+  "iddd5b07b4ea69b75a44ef": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -360,6 +376,10 @@
   "ide68c6163ada677bbad38": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
+  },
+  "ideb90753be1eb15321784": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
