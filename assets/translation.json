@@ -12,7 +12,7 @@
     "EN": "Add"
   },
   "id064aed8710fead884f5d": {
-    "DE": "Fremde Kundennummern",
+    "DE": "Sliding scale Data",
     "EN": "Sliding scale Data"
   },
   "id09f05e6416b07b9c4d94": {
@@ -50,9 +50,17 @@
     "DE": "VRE Our Share Limit",
     "EN": "VRE Our Share Limit"
   },
+  "id1938516ad383d6d31fc3": {
+    "DE": "Retained Amount",
+    "EN": "Retained Amount"
+  },
   "id1afafb73b3df8a487acc": {
     "DE": "Coverage Additional Details: Tower Layers",
     "EN": "Coverage Additional Details: Tower Layer"
+  },
+  "id1c329269a44e81790fd8": {
+    "DE": "Graded Retention",
+    "EN": "Graded Retention"
   },
   "id1c3d0c7ff3f2e276c784": {
     "EN": "Issuance Start Date"
@@ -195,6 +203,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id6b6f931665252b02727b": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
@@ -266,6 +278,10 @@
   "id998ec0e131dc926d2646": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id9d7f713958d8005708c6": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
@@ -384,6 +400,10 @@
   },
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
+  },
+  "iddd00fc4244ae5f714db3": {
+    "DE": "Graded Cedant Gross Retention",
+    "EN": "Graded Cedant Gross Retention"
   },
   "iddd5b07b4ea69b75a44ef": {
     "DE": "Entfernen",
