@@ -246,6 +246,17 @@
         "id5bb12d7fa6713b89f8af": 25
       }
     },
+    "id3009759e84318e3f9ae5": {
+      "alignment": "right",
+      "children": [
+        "id690d1a7c1601984a1e37",
+        "idc34650c301401f9ff0d1"
+      ],
+      "colspan": 6,
+      "id": "id3009759e84318e3f9ae5",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id30a72304a91859e99e8c": {
       "colspan": 2,
       "columnWidth": "150",
@@ -432,6 +443,7 @@
       "facadeId": "lossRationScale",
       "format": "FORMAT_AMOUNT",
       "id": "id5618ca4939c4a69948ee",
+      "isColumnAdaptive": true,
       "type": "input"
     },
     "id57875bc73eb9c09afed9": {
@@ -469,6 +481,7 @@
       "facadeId": "commissionScale",
       "format": "FORMAT_AMOUNT",
       "id": "id5dbacfa335f427d5a8b1",
+      "isColumnAdaptive": true,
       "type": "input"
     },
     "id5ef4aa3c65509eb96252": {
@@ -522,6 +535,13 @@
       "id": "id68559c551d8ac8861ccf",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id690d1a7c1601984a1e37": {
+      "colspan": 2,
+      "facadeId": "addSlidingScale",
+      "id": "id690d1a7c1601984a1e37",
+      "style": "secondary",
+      "type": "button"
     },
     "id6a795c57a8c09b5af457": {
       "children": [
@@ -630,7 +650,7 @@
     "id84eb36772f9fc3de1579": {
       "children": [
         "idb9254cacf83ec5c1e1c1",
-        "idee1a37e3a38c90a1b15e"
+        "id3009759e84318e3f9ae5"
       ],
       "colspan": 6,
       "id": "id84eb36772f9fc3de1579",
@@ -726,6 +746,9 @@
       "id": "id927feb14e52b900f00af",
       "order": {
         "id84eb36772f9fc3de1579": 2
+      },
+      "replace": {
+        "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
       }
     },
     "id92ade9efcabd592ba621": {
@@ -958,6 +981,13 @@
       "format": "FORMAT_AMOUNT",
       "id": "idc25acb200ec77e085a60",
       "type": "input"
+    },
+    "idc34650c301401f9ff0d1": {
+      "colspan": 2,
+      "facadeId": "removeSlidingScale",
+      "id": "idc34650c301401f9ff0d1",
+      "style": "secondary",
+      "type": "button"
     },
     "idc49bad749ec2339cf8c3": {
       "id": "idc49bad749ec2339cf8c3",
