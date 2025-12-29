@@ -171,6 +171,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id690d1a7c1601984a1e37": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
@@ -315,6 +319,10 @@
   "idc25acb200ec77e085a60": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
+  },
+  "idc34650c301401f9ff0d1": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "idc50846766d0b9644631a": {
     "DE": "VRE Our Manual Rate on Line",
