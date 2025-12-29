@@ -3,9 +3,17 @@
     "DE": "Vertrag",
     "EN": "Contract"
   },
+  "id01f855459bbcc8023e48": {
+    "DE": "Loss Ration Scale",
+    "EN": "Loss Ration Scale"
+  },
   "id031d80d1cbfbc93a6a07": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id064aed8710fead884f5d": {
+    "DE": "Fremde Kundennummern",
+    "EN": "Sliding scale Data"
   },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
@@ -15,12 +23,20 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id11a4e747de28b3dd7027": {
+    "DE": null,
+    "EN": null
+  },
   "id120eca718af7ee9470d5": {
     "DE": "VRE Our Share Premium",
     "EN": "VRE Our Share Premium"
   },
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
+  },
+  "id13f1841c00684b9620ca": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
   },
   "id148a8035bd3756fe3275": {
     "DE": "Commission Scale",
@@ -171,6 +187,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id68672cf67e0323352325": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
   "id690d1a7c1601984a1e37": {
     "DE": "Add",
     "EN": "Add"
@@ -249,6 +269,10 @@
   },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
+  },
+  "id9e850bb150f8d57ede7d": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
   },
   "ida01f035f4501c6a53c6b": {
     "DE": "Coverage Additional Details: Inuring Details",
