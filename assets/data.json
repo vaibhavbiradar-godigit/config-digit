@@ -1,11 +1,34 @@
 {
   "entities": {
+    "id01f855459bbcc8023e48": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "175",
+      "dataType": "decimal",
+      "facadeId": "lossRationScaleData",
+      "format": "FORMAT_AMOUNT",
+      "id": "id01f855459bbcc8023e48",
+      "type": "input"
+    },
     "id031d80d1cbfbc93a6a07": {
       "colspan": 1,
       "facadeId": "add",
       "id": "id031d80d1cbfbc93a6a07",
       "style": "secondary",
       "type": "button"
+    },
+    "id064aed8710fead884f5d": {
+      "children": [
+        "id01f855459bbcc8023e48",
+        "id13f1841c00684b9620ca",
+        "id548aaacb7c82f2991f4d"
+      ],
+      "colspan": 6,
+      "facadeId": "slidingScaleData",
+      "id": "id064aed8710fead884f5d",
+      "isMultiSelect": false,
+      "rowspan": 4,
+      "type": "list"
     },
     "id09f05e6416b07b9c4d94": {
       "alignment": "left",
@@ -42,6 +65,15 @@
         "id7621714ca1e9d3087e45": 12
       }
     },
+    "id11a4e747de28b3dd7027": {
+      "children": [
+        "id064aed8710fead884f5d"
+      ],
+      "colspan": 6,
+      "id": "id11a4e747de28b3dd7027",
+      "rowspan": 2,
+      "type": "layoutbox"
+    },
     "id120eca718af7ee9470d5": {
       "alignment": "left",
       "colspan": 2,
@@ -56,6 +88,16 @@
       "id": "id12ca82ab23e09f936c05",
       "referenceValue": "bankTransfer",
       "type": "radioButton"
+    },
+    "id13f1841c00684b9620ca": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "175",
+      "dataType": "decimal",
+      "facadeId": "commissionScaleData",
+      "format": "FORMAT_AMOUNT",
+      "id": "id13f1841c00684b9620ca",
+      "type": "input"
     },
     "id148a8035bd3756fe3275": {
       "alignment": "left",
@@ -171,6 +213,12 @@
       "id": "id25bbe5083ca1858a9481",
       "parentFacadeId": "criteria",
       "type": "datepicker"
+    },
+    "id270aba04925d7daf3a6e": {
+      "colspan": 6,
+      "id": "id270aba04925d7daf3a6e",
+      "rowspan": 2,
+      "type": "layoutbox"
     },
     "id28e2d720d2a6ba39fc09": {
       "colspan": 1,
@@ -435,6 +483,17 @@
       "id": "id547f7bcb393febe6e8b6",
       "type": "input"
     },
+    "id548aaacb7c82f2991f4d": {
+      "alignment": "right",
+      "children": [
+        "id9e850bb150f8d57ede7d",
+        "id68672cf67e0323352325"
+      ],
+      "colspan": 6,
+      "id": "id548aaacb7c82f2991f4d",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id5618ca4939c4a69948ee": {
       "alignment": "left",
       "colspan": 2,
@@ -535,6 +594,13 @@
       "id": "id68559c551d8ac8861ccf",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id68672cf67e0323352325": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "id68672cf67e0323352325",
+      "style": "secondary",
+      "type": "button"
     },
     "id690d1a7c1601984a1e37": {
       "colspan": 2,
@@ -745,7 +811,8 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "id84eb36772f9fc3de1579": 2
+        "id270aba04925d7daf3a6e": 3,
+        "id11a4e747de28b3dd7027": 2
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -791,6 +858,13 @@
       "id": "id9e41b9db956718ad69af",
       "referenceValue": "demandDraft",
       "type": "radioButton"
+    },
+    "id9e850bb150f8d57ede7d": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "id9e850bb150f8d57ede7d",
+      "style": "secondary",
+      "type": "button"
     },
     "id9f438d9c518210c45046": {
       "id": "id9f438d9c518210c45046",
