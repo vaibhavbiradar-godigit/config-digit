@@ -3,7 +3,7 @@
     "id01f855459bbcc8023e48": {
       "alignment": "left",
       "colspan": 2,
-      "columnWidth": "175",
+      "columnWidth": "100",
       "dataType": "decimal",
       "facadeId": "lossRationScaleData",
       "format": "FORMAT_AMOUNT",
@@ -28,6 +28,7 @@
       "id": "id064aed8710fead884f5d",
       "isMultiSelect": false,
       "rowspan": 4,
+      "showRowNumber": true,
       "type": "list"
     },
     "id09f05e6416b07b9c4d94": {
@@ -92,7 +93,7 @@
     "id13f1841c00684b9620ca": {
       "alignment": "left",
       "colspan": 2,
-      "columnWidth": "175",
+      "columnWidth": "100",
       "dataType": "decimal",
       "facadeId": "commissionScaleData",
       "format": "FORMAT_AMOUNT",
@@ -137,6 +138,16 @@
       "id": "id188e10738c314f3e6005",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id1938516ad383d6d31fc3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "retainedAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1938516ad383d6d31fc3",
+      "type": "input"
     },
     "id1afafb73b3df8a487acc": {
       "children": [
@@ -190,6 +201,19 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id1c329269a44e81790fd8": {
+      "children": [
+        "iddd00fc4244ae5f714db3",
+        "id1938516ad383d6d31fc3",
+        "id99fe4c2fed375a30101d"
+      ],
+      "colspan": 6,
+      "facadeId": "gradedRetention",
+      "id": "id1c329269a44e81790fd8",
+      "rowspan": 4,
+      "showRowNumber": true,
+      "type": "list"
+    },
     "id1c3d0c7ff3f2e276c784": {
       "colspan": 2,
       "facadeId": "issuanceStartDateSearchCriteria",
@@ -215,9 +239,12 @@
       "type": "datepicker"
     },
     "id270aba04925d7daf3a6e": {
+      "children": [
+        "id1c329269a44e81790fd8"
+      ],
       "colspan": 6,
       "id": "id270aba04925d7daf3a6e",
-      "rowspan": 2,
+      "rowspan": 3,
       "type": "layoutbox"
     },
     "id28e2d720d2a6ba39fc09": {
@@ -621,6 +648,13 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "id6b6f931665252b02727b": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id6b6f931665252b02727b",
+      "style": "secondary",
+      "type": "button"
+    },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
       "columnWidth": "400",
@@ -853,6 +887,24 @@
       "facadeId": "territorialScopeCol",
       "id": "id998ec0e131dc926d2646",
       "type": "dropdown"
+    },
+    "id99fe4c2fed375a30101d": {
+      "alignment": "right",
+      "children": [
+        "id6b6f931665252b02727b",
+        "id9d7f713958d8005708c6"
+      ],
+      "colspan": 6,
+      "id": "id99fe4c2fed375a30101d",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id9d7f713958d8005708c6": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id9d7f713958d8005708c6",
+      "style": "secondary",
+      "type": "button"
     },
     "id9e41b9db956718ad69af": {
       "id": "id9e41b9db956718ad69af",
@@ -1181,6 +1233,13 @@
       "id": "idd57b109afd6ccfa22445",
       "parentFacadeId": "criteria",
       "type": "input"
+    },
+    "iddd00fc4244ae5f714db3": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "gradedCedantGrossRetention",
+      "id": "iddd00fc4244ae5f714db3",
+      "type": "dropdown"
     },
     "iddd5b07b4ea69b75a44ef": {
       "colspan": 1,
