@@ -424,6 +424,16 @@
       "id": "id547f7bcb393febe6e8b6",
       "type": "input"
     },
+    "id5618ca4939c4a69948ee": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "decimal",
+      "facadeId": "lossRationScale",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5618ca4939c4a69948ee",
+      "type": "input"
+    },
     "id57875bc73eb9c09afed9": {
       "colspan": 1,
       "facadeId": "add",
@@ -450,6 +460,16 @@
       "facadeId": "gstExemption",
       "id": "id5bb12d7fa6713b89f8af",
       "type": "dropdown"
+    },
+    "id5dbacfa335f427d5a8b1": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "decimal",
+      "facadeId": "commissionScale",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5dbacfa335f427d5a8b1",
+      "type": "input"
     },
     "id5ef4aa3c65509eb96252": {
       "alignment": "left",
@@ -607,6 +627,16 @@
       "id": "id84d2ac90ca3e803316cf",
       "type": "input"
     },
+    "id84eb36772f9fc3de1579": {
+      "children": [
+        "idb9254cacf83ec5c1e1c1",
+        "idee1a37e3a38c90a1b15e"
+      ],
+      "colspan": 6,
+      "id": "id84eb36772f9fc3de1579",
+      "rowspan": 2,
+      "type": "layoutbox"
+    },
     "id85b6131e9e16f5ba09ec": {
       "backendTypeId": "contractAdditionalDetailsSlidingScale",
       "children": [
@@ -691,6 +721,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id8ff993e3e9fe9fd589c2",
       "type": "input"
+    },
+    "id927feb14e52b900f00af": {
+      "id": "id927feb14e52b900f00af",
+      "order": {
+        "id84eb36772f9fc3de1579": 2
+      }
     },
     "id92ade9efcabd592ba621": {
       "children": [
@@ -852,6 +888,18 @@
       "columnWidth": "400",
       "facadeId": "valueNumeric",
       "id": "idb8b5dd6dc47f4bbb5c18"
+    },
+    "idb9254cacf83ec5c1e1c1": {
+      "children": [
+        "id5618ca4939c4a69948ee",
+        "id5dbacfa335f427d5a8b1"
+      ],
+      "colspan": 6,
+      "facadeId": "slidingScale",
+      "hideColumnHeader": false,
+      "id": "idb9254cacf83ec5c1e1c1",
+      "rowspan": 3,
+      "type": "list"
     },
     "idb9873aca255a6116967d": {
       "alignment": "left",
@@ -1030,6 +1078,13 @@
       "parentFacadeId": "criteria",
       "type": "input"
     },
+    "iddd5b07b4ea69b75a44ef": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "iddd5b07b4ea69b75a44ef",
+      "style": "secondary",
+      "type": "button"
+    },
     "iddfaab2df89c65cbe9e5a": {
       "colspan": 1,
       "facadeId": "add",
@@ -1080,6 +1135,19 @@
       "parentFacadeId": "criteria",
       "type": "dropdown"
     },
+    "ide99d6c213aea21f63d95": {
+      "id": "ide99d6c213aea21f63d95",
+      "order": {
+        "id2b20631c3ee67fc9e035": 0
+      }
+    },
+    "ideb90753be1eb15321784": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "ideb90753be1eb15321784",
+      "style": "secondary",
+      "type": "button"
+    },
     "ided4e602b1af065ccd68b": {
       "colspan": 2,
       "facadeId": "instrumentDate",
@@ -1094,6 +1162,18 @@
       "format": "",
       "id": "idee0286ec6e2868337825",
       "type": "input"
+    },
+    "idee1a37e3a38c90a1b15e": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "ideb90753be1eb15321784",
+        "iddd5b07b4ea69b75a44ef"
+      ],
+      "colspan": 6,
+      "id": "idee1a37e3a38c90a1b15e",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "idef3da5ad1a3c5ea1fc25": {
       "alignment": "left",
