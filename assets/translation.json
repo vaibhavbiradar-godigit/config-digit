@@ -1,4 +1,8 @@
 {
+  "id00ebe63c13ddba7298f7": {
+    "DE": "Coverage",
+    "EN": "Coverage"
+  },
   "id01362f94c83e48e194ac": {
     "DE": "Vertrag",
     "EN": "Contract"
@@ -16,8 +20,8 @@
     "EN": "Add"
   },
   "id064aed8710fead884f5d": {
-    "DE": "Sliding scale Data",
-    "EN": "Sliding scale Data"
+    "DE": "Sliding scale",
+    "EN": "Sliding scale"
   },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
@@ -27,13 +31,21 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id0b2b5028ae750e8d2eaa": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "id0cf42d92b309108bbc5e": {
     "DE": "Deductible",
     "EN": "Deductible"
   },
   "id0d50ce899ab5a4fcf2b3": {
-    "DE": "Miscellaneous",
-    "EN": "Miscellaneous"
+    "DE": "Class wise Retention Master",
+    "EN": "Class wise Retention Master"
+  },
+  "id102cd038dafef6561522": {
+    "DE": "Sum Insured Limits",
+    "EN": "Sum Insured Limits"
   },
   "id1119d0bc3df82d27528c": {
     "DE": "Leader",
@@ -122,11 +134,15 @@
     "EN": "Signed Share"
   },
   "id229510f856965260363f": {
-    "DE": "Inuring Details",
-    "EN": "Inuring Details"
+    "DE": "Inuring Programs",
+    "EN": "Inuring Programs"
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
+  },
+  "id26a9b4872136da1c7bb7": {
+    "DE": "EMI Limits (in Days)",
+    "EN": "EMI Limits (in Days)"
   },
   "id2799551622df9b36b9b1": {
     "DE": "Sr. No.",
@@ -170,8 +186,8 @@
     "EN": "Placement Type"
   },
   "id31195c496a5def1496a7": {
-    "DE": "Retention Line",
-    "EN": "Retention Line"
+    "DE": "Net Retained Lines",
+    "EN": "Net Retained Lines"
   },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
@@ -328,8 +344,8 @@
     "EN": "Instrument amount"
   },
   "id6587c5a24f5cffbf69ed": {
-    "DE": "Marine Cargo/Hull",
-    "EN": "Marine Cargo/Hull"
+    "DE": "Section wise Limits",
+    "EN": "Section wise Limits"
   },
   "id65b9212e34c4103e1015": {
     "DE": "Entfernen",
@@ -390,6 +406,10 @@
   "id79038bcac066e0f0ce95": {
     "DE": "Sheep",
     "EN": "Sheep"
+  },
+  "id790b8df8ee1f05134a44": {
+    "DE": "Cover Limits",
+    "EN": "Cover Limits"
   },
   "id79fad50a2c7ea1e1c507": {
     "DE": "Remove",
@@ -478,6 +498,10 @@
     "DE": "Miscellaneous Risk Class",
     "EN": "Miscellaneous Risk Class"
   },
+  "id92013e7efdc3f2a98002": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
     "EN": "Add"
@@ -553,8 +577,8 @@
     "EN": "Original Risk/Insured"
   },
   "ida7cef976b1a8ad41527f": {
-    "DE": "Tower Layers",
-    "EN": "Tower Layer"
+    "DE": "100% Tower structure and reinsurance program",
+    "EN": "100% Tower structure and reinsurance program"
   },
   "idb01f8630a20ccbf9a136": {
     "EN": "Original Risk/Insured"
@@ -652,8 +676,8 @@
     "EN": "Remove"
   },
   "idc3bf83183058c7c9a182": {
-    "DE": "Graded Retention",
-    "EN": "Graded Retention"
+    "DE": "Table Of Retentions",
+    "EN": "Table Of Retentions"
   },
   "idc50846766d0b9644631a": {
     "DE": "VRE Our Manual Rate on Line",
@@ -748,6 +772,10 @@
     "DE": "Request Share",
     "EN": "Request Share"
   },
+  "ide0d12eb803caa2a232b1": {
+    "DE": "Waiting Period in Months",
+    "EN": "Waiting Period in Months"
+  },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
     "EN": "Coverage Additional Details: Graded Retention"
@@ -755,6 +783,10 @@
   "ide4698ee24eebbcc9a41a": {
     "DE": "VRE Our Manual Premium",
     "EN": "VRE Our Manual Premium"
+  },
+  "ide46cdc3216fdd3aad670": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "ide488ac7f75aab5129c39": {
     "DE": "Hinzufügen",
@@ -820,11 +852,11 @@
     "EN": "Coverage Additional Details: Territorial Scope"
   },
   "idfb06fea4597e6c883bf3": {
-    "DE": "Spillover program",
-    "EN": "Spillover program"
+    "DE": "Spillover",
+    "EN": "Spillover"
   },
   "idfc8bc1a8eaae30c68e6d": {
-    "DE": "Livestock Rate",
-    "EN": "Livestock Rate"
+    "DE": "Livestock Rate Master",
+    "EN": "Livestock Rate Master"
   }
 }
