@@ -1,7 +1,7 @@
 {
   "id00ebe63c13ddba7298f7": {
-    "DE": "Coverage",
-    "EN": "Coverage"
+    "DE": "XOL Layer",
+    "EN": "XOL Layer"
   },
   "id01362f94c83e48e194ac": {
     "DE": "Vertrag",
@@ -14,6 +14,10 @@
   "id0218adfd8daf325fbe7f": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id02eb85e7eb3064cc40d7": {
+    "DE": "Coverage",
+    "EN": "Coverage"
   },
   "id031d80d1cbfbc93a6a07": {
     "DE": "Hinzufügen",
@@ -44,8 +48,8 @@
     "EN": "Class wise Retention Master"
   },
   "id102cd038dafef6561522": {
-    "DE": "Sum Insured Limits",
-    "EN": "Sum Insured Limits"
+    "DE": "Reinstatement Date",
+    "EN": "Reinstatement Date"
   },
   "id1119d0bc3df82d27528c": {
     "DE": "Leader",
@@ -141,8 +145,8 @@
     "EN": "Issuance End Date"
   },
   "id26a9b4872136da1c7bb7": {
-    "DE": "EMI Limits (in Days)",
-    "EN": "EMI Limits (in Days)"
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate"
   },
   "id2799551622df9b36b9b1": {
     "DE": "Sr. No.",
@@ -315,6 +319,10 @@
     "DE": "Quoted Share",
     "EN": "Quoted Share"
   },
+  "id5d7d3c3d26713ddd375e": {
+    "DE": "EMI Limits (in Days)",
+    "EN": "EMI Limits (in Days)"
+  },
   "id5dbacfa335f427d5a8b1": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
@@ -408,8 +416,8 @@
     "EN": "Sheep"
   },
   "id790b8df8ee1f05134a44": {
-    "DE": "Cover Limits",
-    "EN": "Cover Limits"
+    "DE": "XL Layers",
+    "EN": "XL Layers"
   },
   "id79fad50a2c7ea1e1c507": {
     "DE": "Remove",
@@ -594,6 +602,10 @@
     "DE": "Basis",
     "EN": "Basis"
   },
+  "idb1f809eec8ec20aba2d5": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "idb2ba0976bd4f32a2971f": {
     "DE": "Limit",
     "EN": "Limit"
@@ -726,6 +738,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "idd3071f4955bc5e00c7ec": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "idd3eb78ee1c59a712c3c2": {
     "DE": "Maximum Limit",
     "EN": "Maximum Limit"
@@ -740,6 +756,10 @@
     "DE": "Treaty Limits",
     "EN": "Treaty Limits"
   },
+  "idd655e04811d2b56ba642": {
+    "DE": "Waiting Period in Months",
+    "EN": "Waiting Period in Months"
+  },
   "idd81716cc73b9bb04ae90": {
     "DE": "add",
     "EN": "Add"
@@ -748,6 +768,10 @@
     "DE": "exclusions",
     "EN": "exclusions"
   },
+  "iddcfd7a40744205a457a5": {
+    "DE": "Sum Insured Limits",
+    "EN": "Sum Insured Limits"
+  },
   "iddd00fc4244ae5f714db3": {
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
@@ -755,6 +779,10 @@
   "iddd5b07b4ea69b75a44ef": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idde40aebc852775d62035": {
+    "DE": "Cover Limits",
+    "EN": "Cover Limits"
   },
   "idde8f9652c54ae607b7f0": {
     "DE": "Retention",
@@ -773,8 +801,8 @@
     "EN": "Request Share"
   },
   "ide0d12eb803caa2a232b1": {
-    "DE": "Waiting Period in Months",
-    "EN": "Waiting Period in Months"
+    "DE": "Reinstatement Premium",
+    "EN": "Reinstatement Premium"
   },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
@@ -830,6 +858,10 @@
   "idf43baa9d39c70441101d": {
     "DE": "Request Share",
     "EN": "Request Share"
+  },
+  "idf4e8cd0e893f2a7346b9": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "idf56d16b54a9391efe32f": {
     "DE": "Entfernen",
