@@ -3,7 +3,7 @@
     "id00ebe63c13ddba7298f7": {
       "colspan": 2,
       "columnWidth": "167",
-      "facadeId": "coverage",
+      "facadeId": "xolLayer",
       "id": "id00ebe63c13ddba7298f7",
       "type": "dropdown"
     },
@@ -23,6 +23,13 @@
       "id": "id0218adfd8daf325fbe7f",
       "style": "secondary",
       "type": "button"
+    },
+    "id02eb85e7eb3064cc40d7": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "coverage",
+      "id": "id02eb85e7eb3064cc40d7",
+      "type": "dropdown"
     },
     "id031d80d1cbfbc93a6a07": {
       "colspan": 1,
@@ -133,9 +140,9 @@
       "alignment": "left",
       "colspan": 2,
       "columnWidth": "167",
-      "dataType": "decimal",
-      "facadeId": "sumInsuredLimits",
-      "format": "FORMAT_LARGE_AMOUNT",
+      "dataType": "dateTime",
+      "facadeId": "reinstatementDate",
+      "format": "DATETIME_FORMAT_SHORT",
       "id": "id102cd038dafef6561522",
       "type": "input"
     },
@@ -432,9 +439,9 @@
       "alignment": "left",
       "colspan": 2,
       "columnWidth": "167",
-      "dataType": "number",
-      "facadeId": "emiLimits",
-      "format": "",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_LARGE_AMOUNT",
       "id": "id26a9b4872136da1c7bb7",
       "type": "input"
     },
@@ -444,6 +451,15 @@
       ],
       "colspan": 6,
       "id": "id270aba04925d7daf3a6e",
+      "rowspan": 3,
+      "type": "layoutbox"
+    },
+    "id2715ef2fc25d31137631": {
+      "children": [
+        "idde40aebc852775d62035"
+      ],
+      "colspan": 6,
+      "id": "id2715ef2fc25d31137631",
       "rowspan": 3,
       "type": "layoutbox"
     },
@@ -914,6 +930,18 @@
       "id": "id52c2a3fc66711a713de5",
       "type": "dropdown"
     },
+    "id537c2576bc73d491693c": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "idd3071f4955bc5e00c7ec",
+        "idf4e8cd0e893f2a7346b9"
+      ],
+      "colspan": 6,
+      "id": "id537c2576bc73d491693c",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id547f7bcb393febe6e8b6": {
       "alignment": "left",
       "colspan": 2,
@@ -980,6 +1008,16 @@
       "facadeId": "quotedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id5c2daeb5d4ee90c83d0d",
+      "type": "input"
+    },
+    "id5d7d3c3d26713ddd375e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "emiLimits",
+      "format": "",
+      "id": "id5d7d3c3d26713ddd375e",
       "type": "input"
     },
     "id5dbacfa335f427d5a8b1": {
@@ -1261,7 +1299,7 @@
         "id43c5707e40eac69dd736"
       ],
       "colspan": 6,
-      "facadeId": "coverLimits",
+      "facadeId": "xlLayers",
       "hideColumnHeader": false,
       "id": "id790b8df8ee1f05134a44",
       "rowspan": 4,
@@ -1546,7 +1584,8 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "id851b4d62c3f056eb58b5": 12,
+        "id2715ef2fc25d31137631": 12,
+        "id851b4d62c3f056eb58b5": 13,
         "id13cb4ae08c6a5e26563c": 3,
         "idcafb0c30e1d63edb47c9": 4,
         "id45f5bcee21ce843ca4a4": 5,
@@ -1863,6 +1902,19 @@
       "facadeId": "basis",
       "id": "idb197de9035c0ff2c342d",
       "type": "dropdown"
+    },
+    "idb1f809eec8ec20aba2d5": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idb1f809eec8ec20aba2d5",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
     },
     "idb2ba0976bd4f32a2971f": {
       "alignment": "left",
@@ -2243,6 +2295,13 @@
       "style": "secondary",
       "type": "button"
     },
+    "idd3071f4955bc5e00c7ec": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idd3071f4955bc5e00c7ec",
+      "style": "secondary",
+      "type": "button"
+    },
     "idd3eb78ee1c59a712c3c2": {
       "alignment": "left",
       "colspan": 2,
@@ -2278,6 +2337,16 @@
       "id": "idd613ad010b4cd7c9db71",
       "type": "input"
     },
+    "idd655e04811d2b56ba642": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "waitingPeriod",
+      "format": "",
+      "id": "idd655e04811d2b56ba642",
+      "type": "input"
+    },
     "idd81716cc73b9bb04ae90": {
       "colspan": 2,
       "facadeId": "add",
@@ -2295,6 +2364,16 @@
       "id": "idd9a35bb54e463e3064ef",
       "type": "input"
     },
+    "iddcfd7a40744205a457a5": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "sumInsuredLimits",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "iddcfd7a40744205a457a5",
+      "type": "input"
+    },
     "iddd00fc4244ae5f714db3": {
       "colspan": 2,
       "columnWidth": "100",
@@ -2308,6 +2387,22 @@
       "id": "iddd5b07b4ea69b75a44ef",
       "style": "secondary",
       "type": "button"
+    },
+    "idde40aebc852775d62035": {
+      "children": [
+        "idb1f809eec8ec20aba2d5",
+        "id02eb85e7eb3064cc40d7",
+        "iddcfd7a40744205a457a5",
+        "id5d7d3c3d26713ddd375e",
+        "idd655e04811d2b56ba642",
+        "id537c2576bc73d491693c"
+      ],
+      "colspan": 6,
+      "facadeId": "coverLimits",
+      "hideColumnHeader": false,
+      "id": "idde40aebc852775d62035",
+      "rowspan": 4,
+      "type": "list"
     },
     "idde8f9652c54ae607b7f0": {
       "alignment": "left",
@@ -2350,9 +2445,9 @@
       "alignment": "left",
       "colspan": 2,
       "columnWidth": "167",
-      "dataType": "number",
-      "facadeId": "waitingPeriod",
-      "format": "",
+      "dataType": "decimal",
+      "facadeId": "reinstatementPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide0d12eb803caa2a232b1",
       "type": "input"
     },
@@ -2508,6 +2603,13 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idf43baa9d39c70441101d",
       "type": "input"
+    },
+    "idf4e8cd0e893f2a7346b9": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idf4e8cd0e893f2a7346b9",
+      "style": "secondary",
+      "type": "button"
     },
     "idf56d16b54a9391efe32f": {
       "colspan": 1,
