@@ -1,62 +1,442 @@
 {
+  "id00ebe63c13ddba7298f7": {
+    "DE": "XOL Layer",
+    "EN": "XOL Layer"
+  },
   "id01362f94c83e48e194ac": {
     "DE": "Vertrag",
     "EN": "Contract"
   },
+  "id01f855459bbcc8023e48": {
+    "DE": "Loss Ratio Scale",
+    "EN": "Loss Ratio Scale"
+  },
+  "id0218adfd8daf325fbe7f": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id02eb85e7eb3064cc40d7": {
+    "DE": "Coverage",
+    "EN": "Coverage"
+  },
+  "id031d80d1cbfbc93a6a07": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "id064aed8710fead884f5d": {
+    "DE": "Sliding scale",
+    "EN": "Sliding scale"
+  },
+  "id09f05e6416b07b9c4d94": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
+  },
+  "id0b0428b779afeabad855": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "id0b2b5028ae750e8d2eaa": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id0cf42d92b309108bbc5e": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
+  "id0d50ce899ab5a4fcf2b3": {
+    "DE": "Class wise Retention Master",
+    "EN": "Class wise Retention Master"
+  },
+  "id102cd038dafef6561522": {
+    "DE": "Reinstatement Date",
+    "EN": "Reinstatement Date"
+  },
+  "id1119d0bc3df82d27528c": {
+    "DE": "Leader",
+    "EN": "Leader"
+  },
+  "id11a4e747de28b3dd7027": {
+    "DE": null,
+    "EN": null
+  },
+  "id120eca718af7ee9470d5": {
+    "DE": "VRE Our Share Premium",
+    "EN": "VRE Our Share Premium"
+  },
+  "id12732b111d492ea71707": {
+    "DE": "VRE Our Share Limit",
+    "EN": "VRE Our Share Limit"
+  },
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
+  },
+  "id13b34b2c982634eaa2f2": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id13f1841c00684b9620ca": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
+  },
+  "id143b8283409a544d087c": {
+    "DE": "Add",
+    "EN": "Add"
   },
   "id148a8035bd3756fe3275": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
   },
+  "id1555b5ca71ef00f10874": {
+    "DE": "Signed Share",
+    "EN": "Signed Share"
+  },
+  "id160d958bc405e59b9938": {
+    "DE": "VRE Our Share Limit",
+    "EN": "VRE Our Share Limit"
+  },
+  "id162feca8e7e5b6432cde": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id191af952b8a634ce660e": {
+    "DE": "Exposure Basis",
+    "EN": "Exposure Basis"
+  },
+  "id1938516ad383d6d31fc3": {
+    "DE": "Retained Amount",
+    "EN": "Retained Amount"
+  },
+  "id198d87d905318011bd37": {
+    "DE": "XOL layer",
+    "EN": "XOL layer"
+  },
+  "id1a068772b406dbd72e23": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id1afafb73b3df8a487acc": {
+    "DE": "Coverage Additional Details: Tower Layers",
+    "EN": "Coverage Additional Details: Tower Layer"
+  },
+  "id1c329269a44e81790fd8": {
+    "DE": "Graded Retention",
+    "EN": "Graded Retention"
+  },
   "id1c3d0c7ff3f2e276c784": {
     "EN": "Issuance Start Date"
+  },
+  "id1e4eada3895f9b59b57e": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id21b1c0c9ea605a63d7de": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Spillover covered in excess of"
+  },
+  "id2255be6a7e799c1342fb": {
+    "DE": "Signed Share",
+    "EN": "Signed Share"
+  },
+  "id229510f856965260363f": {
+    "DE": "Inuring Programs",
+    "EN": "Inuring Programs"
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
+  "id26a9b4872136da1c7bb7": {
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate"
+  },
+  "id2799551622df9b36b9b1": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id28e2d720d2a6ba39fc09": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
   "id290f9f979f7a6f989dc1": {
     "EN": "ASBA"
   },
+  "id292bc45858203de4188f": {
+    "DE": "Instalments",
+    "EN": "Instalments"
+  },
+  "id29d4d4964abf773ce4e0": {
+    "DE": "Attachment Return Period",
+    "EN": "Attachment Return Period"
+  },
+  "id2b8852e1fd13500d090b": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "id2d3116a006dbdb127fbd": {
     "EN": "Instrument Type"
+  },
+  "id2dce9911748dbd16470a": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
   },
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
     "EN": "Overview"
   },
+  "id30a72304a91859e99e8c": {
+    "DE": "Basis",
+    "EN": "Basis"
+  },
   "id3103bbda3585ef72e143": {
     "EN": "Placement Type"
+  },
+  "id31195c496a5def1496a7": {
+    "DE": "Net Retained Lines",
+    "EN": "Net Retained Lines"
+  },
+  "id324a1d1a4de6497b8ee6": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "id34a8b54a705cca24a8a0": {
+    "DE": "Inuring Limit",
+    "EN": "Inuring Limit"
+  },
+  "id37e2b9e6f8a4dc72c745": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "id39b744b7688f1492b829": {
+    "DE": "Coverage Additional Details",
+    "EN": "Coverage Additional Details"
+  },
+  "id3cb7fdef6015d28de407": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "id3d623bf4f4343b3047e1": {
+    "DE": "XOL layer",
+    "EN": "XOL layer"
+  },
+  "id3e59ff3d2561396b372c": {
+    "DE": "Perils",
+    "EN": "Perils"
+  },
+  "id3fd198ae6e587414ccb0": {
+    "DE": "Coverage Additional Details: Sliding Scale",
+    "EN": "Coverage Additional Details: Sliding Scale"
+  },
+  "id40c4f2102de0c37860a0": {
+    "DE": "Maximum Retention Amount",
+    "EN": "Maximum Retention Amount"
+  },
+  "id44a08e0faca62ac87676": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id45422e83ba05d35ef210": {
+    "DE": "Adjustment Rate",
+    "EN": "Adjustment Rate"
   },
   "id487d406ad000aab2f1a3": {
     "DE": "Contract Additional Details: Sliding Scale",
     "EN": "Contract Additional Details: Sliding Scale"
   },
+  "id495076333f242bc618a6": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "id4a4305fd95b96e9ea62d": {
     "DE": "",
     "EN": "IFSC/MICR"
   },
+  "id4a63102d1b5edb4f07fb": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id4c0dd106516db6f5ed4f": {
+    "DE": "Instalments",
+    "EN": "Instalments"
+  },
+  "id4c94cca3728714fba3bc": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "id4d7f1e30daca3ba77784": {
+    "DE": "Territorial Scope",
+    "EN": "Territorial Scope"
+  },
+  "id4fd29ff6d803e14636d6": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id501380b991497eda2236": {
+    "DE": "Reinstatement Terms",
+    "EN": "Reinstatement Terms"
+  },
+  "id508da40cad3d77d1e810": {
+    "DE": "Attachment",
+    "EN": "Attachment"
+  },
   "id51b46aca962dae4e344c": {
     "EN": "GST Exemption"
+  },
+  "id520baaaf0e61b1dd5d56": {
+    "DE": "Attachment Return Period",
+    "EN": "Attachment Return Period"
+  },
+  "id52c2a3fc66711a713de5": {
+    "DE": "Perils",
+    "EN": "Perils"
+  },
+  "id538be03bf3db1a652c5a": {
+    "DE": "Gruppengeschäftsvertrag",
+    "EN": "Group Business Contract"
   },
   "id547f7bcb393febe6e8b6": {
     "DE": "Abrechnungskonto",
     "EN": "Instrument Number"
   },
+  "id5618ca4939c4a69948ee": {
+    "DE": "Loss Ration Scale",
+    "EN": "Loss Ration Scale"
+  },
+  "id57875bc73eb9c09afed9": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "id585bc7da4d7bcee0d75f": {
+    "DE": "Reinstatement Type",
+    "EN": "Reinstatement Type"
+  },
+  "id59bf15c5abcba8914ddd": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
   "id5bb12d7fa6713b89f8af": {
     "EN": "GST Exemption"
+  },
+  "id5c2daeb5d4ee90c83d0d": {
+    "DE": "Quoted Share",
+    "EN": "Quoted Share"
+  },
+  "id5d7d3c3d26713ddd375e": {
+    "DE": "EMI Limits (in Days)",
+    "EN": "EMI Limits (in Days)"
+  },
+  "id5dbacfa335f427d5a8b1": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
+  },
+  "id5ef4aa3c65509eb96252": {
+    "DE": "Reinstatement Terms",
+    "EN": "Reinstatement Terms"
+  },
+  "id5fe0a45f84e7d561dd27": {
+    "DE": "Graded Cedant Gross Retention",
+    "EN": "Graded Cedant Gross Retention"
+  },
+  "id63741b308a88000e4e7f": {
+    "DE": "Others",
+    "EN": "Others"
+  },
+  "id643a9b0985580e155244": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Spillover covered in excess of"
+  },
+  "id654b26d68cd757e549bd": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium%"
   },
   "id6573a62fc90ed9a32f6d": {
     "DE": "Abrechnungskonto",
     "EN": "Instrument amount"
   },
+  "id6587c5a24f5cffbf69ed": {
+    "DE": "Section wise Limits",
+    "EN": "Section wise Limits"
+  },
+  "id65b9212e34c4103e1015": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "id6690ed91332b8917ccb9": {
+    "DE": "Attachment",
+    "EN": "Attachment"
+  },
+  "id685d68c36fdbaaf28465": {
+    "DE": "Exposure Basis",
+    "EN": "Exposure Basis"
+  },
+  "id68672cf67e0323352325": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "id690d1a7c1601984a1e37": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id6b6f931665252b02727b": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
   },
+  "id6fdf69fa868c5063a2af": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id70bb42d47fe4d579f841": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id73cbf788a871b1683dc4": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "id743574fcf7e5a5a96f65": {
+    "DE": "Cow",
+    "EN": "Cow"
+  },
+  "id7683c402aa63dfd79911": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
+  "id77771cc305f348137f84": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id77b00353ca5b7273992b": {
+    "DE": "VRE Our Share Premium",
+    "EN": "VRE Our Share Premium"
+  },
+  "id79038bcac066e0f0ce95": {
+    "DE": "Sheep",
+    "EN": "Sheep"
+  },
+  "id790b8df8ee1f05134a44": {
+    "DE": "XL Layers",
+    "EN": "XL Layers"
+  },
+  "id79fad50a2c7ea1e1c507": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id7c6191544c7750407630": {
+    "DE": "Top Drop",
+    "EN": "Top Drop"
+  },
+  "id7df13b4540a1af485494": {
+    "DE": "Top Drop",
+    "EN": "Top Drop"
+  },
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
+  },
+  "id7f37fced34c9ea07e9e1": {
+    "DE": "Entfernen",
+    "EN": "Remove"
   },
   "id7f391590ba8b3cb24f90": {
     "EN": "UW Year-year of Start Date"
@@ -65,25 +445,148 @@
     "DE": "Sliding Scale Data",
     "EN": "Sliding Scale Data"
   },
+  "id833982cfe87def2d9f22": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id835054c73f336904eeb9": {
+    "DE": "Goat",
+    "EN": "Goat"
+  },
   "id83ab88273e8f8b075d9e": {
     "EN": "Original Risk/Insured"
   },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
   },
+  "id8520c4c37e6d83e451c0": {
+    "EN": "Remove"
+  },
   "id85b6131e9e16f5ba09ec": {},
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
   },
+  "id863b9b656d297c9953a9": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
+  "id86becfb89ca20595ac92": {
+    "DE": "VRE Our Share",
+    "EN": "VRE Our Share"
+  },
+  "id879e4ca3ab8418821796": {
+    "DE": "Coverage Additional Details: Retention Line",
+    "EN": "Coverage Additional Details: Retention Line"
+  },
+  "id87f5d2dad9f28a28586b": {
+    "DE": "Number of Reinstatements",
+    "EN": "Number of Reinstatements"
+  },
+  "id88ab55e9909544e744a6": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id8a87bf351c944788c0f2": {
+    "DE": "Leader",
+    "EN": "Leader"
+  },
+  "id8e11a2273c52cb7c2320": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "id8e6f06314f4444303a2b": {
+    "DE": "Reinstatement Type",
+    "EN": "Reinstatement Type"
+  },
+  "id8ff993e3e9fe9fd589c2": {
+    "DE": "Leader's Participation",
+    "EN": "Leader's Participation"
+  },
+  "id9160c2e84376f0d1f396": {
+    "DE": "Miscellaneous Risk Class",
+    "EN": "Miscellaneous Risk Class"
+  },
+  "id92013e7efdc3f2a98002": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id927c753433f6b7163bd8": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id92ade9efcabd592ba621": {
+    "DE": "Coverage Additional Details: Spillover program",
+    "EN": "Coverage Additional Details: Spillover program"
+  },
+  "id9955abc8b4316de10c6b": {
+    "DE": "Limit",
+    "EN": "Limit"
+  },
+  "id998ec0e131dc926d2646": {
+    "DE": "Territorial Scope",
+    "EN": "Territorial Scope"
+  },
+  "id9a014db624800033183e": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Rate on Line"
+  },
+  "id9d69f1f7e077b94b02da": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id9d7f713958d8005708c6": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "id9df13525ec6db22d04c7": {
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate %"
+  },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
+  },
+  "id9e850bb150f8d57ede7d": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "id9ed492588c81a76c710b": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id9ff60ee8b137df4dd2fd": {
+    "DE": "VRE Our Share",
+    "EN": "VRE Our Share"
+  },
+  "ida01f035f4501c6a53c6b": {
+    "DE": "Coverage Additional Details: Inuring Details",
+    "EN": "Coverage Additional Details: Inuring Details"
   },
   "ida234c796e2b8898e21cf": {
     "DE": "",
     "EN": "Branch Name"
   },
+  "ida2938ca8b5d694c6ea24": {
+    "DE": "Graded Cedant Gross Retention",
+    "EN": "Graded Cedant Gross Retention"
+  },
+  "ida2a241f396e376ee90ef": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "ida4bd5fd65104e65dd77c": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium Amount"
+  },
+  "ida538849c31064f4ee71f": {
+    "DE": "Adjustment Rate",
+    "EN": "Adjustment Rate"
+  },
   "ida6c64e7906a9d9b8ba8e": {
     "EN": "Original Risk/Insured"
+  },
+  "ida7cef976b1a8ad41527f": {
+    "DE": "100% Tower structure and reinsurance program",
+    "EN": "100% Tower structure and reinsurance program"
   },
   "idb01f8630a20ccbf9a136": {
     "EN": "Original Risk/Insured"
@@ -91,14 +594,119 @@
   "idb09c86538d2f5bf79f80": {
     "EN": "Cash"
   },
+  "idb14d0ca70bd57877cf9f": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium Amount"
+  },
+  "idb197de9035c0ff2c342d": {
+    "DE": "Basis",
+    "EN": "Basis"
+  },
+  "idb1f809eec8ec20aba2d5": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "idb2ba0976bd4f32a2971f": {
+    "DE": "Limit",
+    "EN": "Limit"
+  },
+  "idb4cd2631afd5335145eb": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "idb541787889564a49c6ad": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
   "idb575b8cb3470418bb150": {
     "EN": "Contract Balance"
+  },
+  "idb57a027eaa450969e1c5": {
+    "DE": "Retained Amount",
+    "EN": "Retained Amount"
+  },
+  "idb6470bc58b4fcf9819fd": {
+    "DE": "Territorial Scope",
+    "EN": "Territorial Scope"
+  },
+  "idb6c1f35718ec889fd57e": {
+    "DE": "Gruppengeschäftsvertrag",
+    "EN": "Group Business Contract"
+  },
+  "idb7830a9038313c19394c": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
+  "idb7b38fd252a8c92d43d5": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "idb8a5c547435325dec290": {
+    "DE": "No of  Lines",
+    "EN": "No of  Lines"
   },
   "idb8b5dd6dc47f4bbb5c18": {
     "EN": "Value in words"
   },
+  "idb9254cacf83ec5c1e1c1": {
+    "DE": "Coverage Additional Details: Sliding Scale",
+    "EN": "Coverage Additional Details: Sliding Scale"
+  },
+  "idb9873aca255a6116967d": {
+    "DE": "Inuring Limit",
+    "EN": "Inuring Limit"
+  },
+  "idba89742d5930165b0163": {
+    "DE": "exclusions",
+    "EN": "exclusions"
+  },
+  "idbb610e9b62052f9215e8": {
+    "DE": "Coverage Additional Details",
+    "EN": "Coverage Additional Details"
+  },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
+  },
+  "idbdf19d8e2d8d1c5311ad": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium%"
+  },
+  "idc0ea95f32c6bf111c1d5": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "idc1fd2b8f5f78d873a0fb": {
+    "DE": "Buffelo",
+    "EN": "Buffelo"
+  },
+  "idc25acb200ec77e085a60": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Rate on Line"
+  },
+  "idc34650c301401f9ff0d1": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "idc3bf83183058c7c9a182": {
+    "DE": "Table Of Retentions",
+    "EN": "Table Of Retentions"
+  },
+  "idc50846766d0b9644631a": {
+    "DE": "VRE Our Manual Rate on Line",
+    "EN": "VRE Our Manual Rate on Line"
+  },
+  "idc737f0f7b07534b5356e": {},
+  "idc8473ba7b46823d41408": {
+    "DE": "Coverage Details",
+    "EN": "Coverage Details"
+  },
+  "idca3a2ef45ab8f4afa5ec": {
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate %"
+  },
+  "idcaac00f9d8d6989cd09c": {
+    "DE": "VRE Our Manual Premium",
+    "EN": "VRE Our Manual Premium"
   },
   "idcab62455de485fc2ca00": {
     "DE": "Loss Ration Scale",
@@ -110,15 +718,127 @@
   "idcd3744a3bdc53002f1db": {
     "EN": "UW Year"
   },
+  "idcfe8e30e8fc5a0e9e137": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "idcff884db4cc33ba3b352": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
+  "idd113cb08032b1ebf3653": {
+    "DE": "Loss Ration Scale",
+    "EN": "Loss Ration Scale"
+  },
+  "idd2763834a3d6ebe5a7b6": {
+    "DE": "Retained Amount",
+    "EN": "Retained Amount"
+  },
+  "idd2a109cb19321848eec4": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "idd3071f4955bc5e00c7ec": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "idd3eb78ee1c59a712c3c2": {
+    "DE": "Maximum Limit",
+    "EN": "Maximum Limit"
+  },
   "idd46755ee8db2e90c7607": {
     "EN": "Online/EDC"
   },
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
+  "idd613ad010b4cd7c9db71": {
+    "DE": "Treaty Limits",
+    "EN": "Treaty Limits"
+  },
+  "idd655e04811d2b56ba642": {
+    "DE": "Waiting Period in Months",
+    "EN": "Waiting Period in Months"
+  },
+  "idd81716cc73b9bb04ae90": {
+    "DE": "add",
+    "EN": "Add"
+  },
+  "idd9a35bb54e463e3064ef": {
+    "DE": "exclusions",
+    "EN": "exclusions"
+  },
+  "iddcfd7a40744205a457a5": {
+    "DE": "Sum Insured Limits",
+    "EN": "Sum Insured Limits"
+  },
+  "iddd00fc4244ae5f714db3": {
+    "DE": "Graded Cedant Gross Retention",
+    "EN": "Graded Cedant Gross Retention"
+  },
+  "iddd5b07b4ea69b75a44ef": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "idde40aebc852775d62035": {
+    "DE": "Cover Limits",
+    "EN": "Cover Limits"
+  },
+  "idde8f9652c54ae607b7f0": {
+    "DE": "Retention",
+    "EN": "Retention"
+  },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "iddfd7960d9eaae887728f": {
+    "DE": "Pig",
+    "EN": "Pig"
+  },
+  "ide00263d424cb4cbe661c": {
+    "DE": "Request Share",
+    "EN": "Request Share"
+  },
+  "ide0d12eb803caa2a232b1": {
+    "DE": "Reinstatement Premium",
+    "EN": "Reinstatement Premium"
+  },
+  "ide3d0199fddf5b3cd91cc": {
+    "DE": "Coverage Additional Details: Graded Retention",
+    "EN": "Coverage Additional Details: Graded Retention"
+  },
+  "ide4698ee24eebbcc9a41a": {
+    "DE": "VRE Our Manual Premium",
+    "EN": "VRE Our Manual Premium"
+  },
+  "ide46cdc3216fdd3aad670": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
+  "ide488ac7f75aab5129c39": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "ide68c6163ada677bbad38": {
+    "DE": "Exposure Basis",
+    "EN": "Exposure Basis"
+  },
+  "ide7feaa52d69c740fa5d4": {
+    "DE": "Years",
+    "EN": "Years"
+  },
+  "idea54915a0b826dd7da93": {
+    "DE": "Leader's Participation",
+    "EN": "Leader's Participation"
+  },
+  "ideb90753be1eb15321784": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
+  "idec47a75571d6e7faa64e": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
@@ -127,8 +847,48 @@
     "DE": "",
     "EN": "Bank Name"
   },
+  "idef3da5ad1a3c5ea1fc25": {
+    "DE": "Maximum Retention Amount",
+    "EN": "Maximum Retention Amount"
+  },
+  "idf05f6240ee083ffa549c": {
+    "DE": "Quoted Share",
+    "EN": "Quoted Share"
+  },
+  "idf43baa9d39c70441101d": {
+    "DE": "Request Share",
+    "EN": "Request Share"
+  },
+  "idf4e8cd0e893f2a7346b9": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
   "idf56d16b54a9391efe32f": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idf6881acb4643de8c8069": {
+    "DE": "VRE Our Manual Rate on Line",
+    "EN": "VRE Our Manual Rate on Line"
+  },
+  "idf7064dbe408617e72d15": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
+  "idf894d7dd5dd25c903f24": {
+    "DE": "Number of Reinstatements",
+    "EN": "Number of Reinstatements"
+  },
+  "idf987d7521724092e153c": {
+    "DE": "Coverage Additional Details: Territorial Scope",
+    "EN": "Coverage Additional Details: Territorial Scope"
+  },
+  "idfb06fea4597e6c883bf3": {
+    "DE": "Spillover",
+    "EN": "Spillover"
+  },
+  "idfc8bc1a8eaae30c68e6d": {
+    "DE": "Livestock Rate Master",
+    "EN": "Livestock Rate Master"
   }
 }
