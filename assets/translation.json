@@ -98,6 +98,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id184c0e2efd86c4312c5d": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id191af952b8a634ce660e": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
@@ -140,6 +144,10 @@
   "id229510f856965260363f": {
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
+  },
+  "id2552075c26abd36b757d": {
+    "DE": "XOL Layer",
+    "EN": "XOL Layer"
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
@@ -335,6 +343,10 @@
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
   },
+  "id6098e7c9579a6b4f45e6": {
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate"
+  },
   "id63741b308a88000e4e7f": {
     "DE": "Others",
     "EN": "Others"
@@ -462,6 +474,10 @@
   "id8520c4c37e6d83e451c0": {
     "EN": "Remove"
   },
+  "id85544d1c195ce52c8054": {
+    "DE": "Reinstatement Date",
+    "EN": "Reinstatement Date"
+  },
   "id85b6131e9e16f5ba09ec": {},
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
@@ -497,6 +513,10 @@
   "id8e6f06314f4444303a2b": {
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
+  },
+  "id8f8cdb994c2d7dbe130c": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "id8ff993e3e9fe9fd589c2": {
     "DE": "Leader's Participation",
@@ -573,6 +593,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "ida439ba81797e4b8fbb55": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "ida4bd5fd65104e65dd77c": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
@@ -588,6 +612,10 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "idafa5eec2c493a0f1fb6f": {
+    "DE": "Reinstatement Premium",
+    "EN": "Reinstatement Premium"
+  },
   "idb01f8630a20ccbf9a136": {
     "EN": "Original Risk/Insured"
   },
@@ -597,6 +625,10 @@
   "idb14d0ca70bd57877cf9f": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
+  },
+  "idb182f45ff544f41d5cb7": {
+    "DE": "XL Layers",
+    "EN": "XL Layers"
   },
   "idb197de9035c0ff2c342d": {
     "DE": "Basis",
