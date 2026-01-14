@@ -155,6 +155,7 @@
     },
     "id11a4e747de28b3dd7027": {
       "children": [
+        "idb182f45ff544f41d5cb7",
         "id064aed8710fead884f5d"
       ],
       "colspan": 6,
@@ -256,6 +257,13 @@
       "style": "secondary",
       "type": "button"
     },
+    "id184c0e2efd86c4312c5d": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id184c0e2efd86c4312c5d",
+      "style": "secondary",
+      "type": "button"
+    },
     "id188e10738c314f3e6005": {
       "children": [
         "ida01f035f4501c6a53c6b",
@@ -282,6 +290,18 @@
       "format": "FORMAT_AMOUNT",
       "id": "id1938516ad383d6d31fc3",
       "type": "input"
+    },
+    "id196494d99da2dd71232e": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "id184c0e2efd86c4312c5d",
+        "id8f8cdb994c2d7dbe130c"
+      ],
+      "colspan": 6,
+      "id": "id196494d99da2dd71232e",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "id198d87d905318011bd37": {
       "colspan": 2,
@@ -428,6 +448,13 @@
       "rowspan": 4,
       "type": "list"
     },
+    "id2552075c26abd36b757d": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "xolLayer",
+      "id": "id2552075c26abd36b757d",
+      "type": "dropdown"
+    },
     "id25bbe5083ca1858a9481": {
       "colspan": 2,
       "facadeId": "issuanceEndDateSearchCriteria",
@@ -519,6 +546,10 @@
       "format": "",
       "id": "id29d4d4964abf773ce4e0",
       "type": "input"
+    },
+    "id2b20631c3ee67fc9e035": {
+      "id": "id2b20631c3ee67fc9e035",
+      "variant": "xlLayersVariant"
     },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
@@ -1064,6 +1095,16 @@
       "rowspan": 3,
       "type": "layoutbox"
     },
+    "id6098e7c9579a6b4f45e6": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id6098e7c9579a6b4f45e6",
+      "type": "input"
+    },
     "id63741b308a88000e4e7f": {
       "alignment": "left",
       "colspan": 2,
@@ -1425,9 +1466,6 @@
       "type": "layoutbox"
     },
     "id851b4d62c3f056eb58b5": {
-      "children": [
-        "id790b8df8ee1f05134a44"
-      ],
       "colspan": 6,
       "id": "id851b4d62c3f056eb58b5",
       "rowspan": 3,
@@ -1439,6 +1477,16 @@
       "id": "id8520c4c37e6d83e451c0",
       "style": "secondary",
       "type": "button"
+    },
+    "id85544d1c195ce52c8054": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "dateTime",
+      "facadeId": "reinstatementDate",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "id85544d1c195ce52c8054",
+      "type": "input"
     },
     "id859b22089849c9194228": {
       "alignment": "right",
@@ -1550,6 +1598,13 @@
       "id": "id8e6f06314f4444303a2b",
       "type": "dropdown"
     },
+    "id8f8cdb994c2d7dbe130c": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id8f8cdb994c2d7dbe130c",
+      "style": "secondary",
+      "type": "button"
+    },
     "id8ff993e3e9fe9fd589c2": {
       "alignment": "left",
       "colspan": 2,
@@ -1584,6 +1639,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "VG_idc991dd02287f27c0f086": 2,
         "id2715ef2fc25d31137631": 12,
         "id851b4d62c3f056eb58b5": 13,
         "id13cb4ae08c6a5e26563c": 3,
@@ -1598,6 +1654,7 @@
         "id11a4e747de28b3dd7027": 2
       },
       "replace": {
+        "id1022d5facbdcb39d6452": "idb84ff66ed71a28f13a01",
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
       }
     },
@@ -1781,6 +1838,19 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "ida439ba81797e4b8fbb55": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "ida439ba81797e4b8fbb55",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "ida4bd5fd65104e65dd77c": {
       "alignment": "left",
       "colspan": 2,
@@ -1872,6 +1942,16 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "idafa5eec2c493a0f1fb6f": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idafa5eec2c493a0f1fb6f",
+      "type": "input"
+    },
     "idb01f8630a20ccbf9a136": {
       "alignment": "left",
       "colspan": 2,
@@ -1895,6 +1975,23 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idb14d0ca70bd57877cf9f",
       "type": "input"
+    },
+    "idb182f45ff544f41d5cb7": {
+      "children": [
+        "ida439ba81797e4b8fbb55",
+        "id2552075c26abd36b757d",
+        "id85544d1c195ce52c8054",
+        "id6098e7c9579a6b4f45e6",
+        "idafa5eec2c493a0f1fb6f",
+        "id196494d99da2dd71232e"
+      ],
+      "colspan": 6,
+      "facadeId": "xlLayers",
+      "hideColumnHeader": false,
+      "id": "idb182f45ff544f41d5cb7",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "xlLayersVariant"
     },
     "idb197de9035c0ff2c342d": {
       "colspan": 2,
@@ -1993,6 +2090,10 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "idb84ff66ed71a28f13a01": {
+      "id": "idb84ff66ed71a28f13a01",
+      "variant": "xlLayersVariant"
     },
     "idb8a5c547435325dec290": {
       "alignment": "left",
@@ -2515,6 +2616,9 @@
       "id": "ide99d6c213aea21f63d95",
       "order": {
         "id2b20631c3ee67fc9e035": 0
+      },
+      "replace": {
+        "id61efaf195cfafff6846e": "id2b20631c3ee67fc9e035"
       }
     },
     "idea54915a0b826dd7da93": {
@@ -2778,7 +2882,17 @@
       "parentId": "idcc83bb4b32daca8c592e"
     }
   },
-  "variantEntities": {},
+  "variantEntities": {
+    "VG_idc991dd02287f27c0f086": {
+      "children": [],
+      "id": "VG_idc991dd02287f27c0f086",
+      "label": "xlLayersVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "xlLayersVariant": true
+      }
+    }
+  },
   "files": {
     "id": "files"
   },
