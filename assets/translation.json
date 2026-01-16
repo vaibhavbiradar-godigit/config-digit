@@ -559,6 +559,10 @@
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
   },
+  "id5f1684e38a57ecefe27e": {
+    "DE": "Loss Ratio Scale",
+    "EN": "Loss Ratio Scale"
+  },
   "id5fe0a45f84e7d561dd27": {
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
@@ -844,6 +848,10 @@
   "id9a014db624800033183e": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
+  },
+  "id9a199c8189119590a940": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
   },
   "id9a3c3ef0ef453f4f1aa1": {
     "DE": "Sr. No.",
@@ -1154,6 +1162,10 @@
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
   },
+  "idcc7a343e9735ed8af0ed": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
   "idcd3744a3bdc53002f1db": {
     "EN": "UW Year"
   },
@@ -1201,9 +1213,17 @@
     "DE": "Leistungen einfügen",
     "EN": "Paste benefits"
   },
+  "idd38eff0ec8f042a8f7df": {
+    "DE": "Sliding scale",
+    "EN": "Sliding scale"
+  },
   "idd3eb78ee1c59a712c3c2": {
     "DE": "Maximum Limit",
     "EN": "Maximum Limit"
+  },
+  "idd462e1f9fe05cbeb4919": {
+    "DE": "Entfernen",
+    "EN": "Remove"
   },
   "idd46755ee8db2e90c7607": {
     "EN": "Online/EDC"
@@ -1433,5 +1453,9 @@
   "idff0f2917ab942fb635cb": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idffbf702d70e6ce31b65a": {
+    "DE": "Commission Scale",
+    "EN": "Commission Scale"
   }
 }
