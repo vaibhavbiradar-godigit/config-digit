@@ -38,6 +38,13 @@
       "style": "secondary",
       "type": "button"
     },
+    "id03d2cd609d9dcc134f90": {
+      "colspan": 2,
+      "columnWidth": "65",
+      "facadeId": "checked",
+      "id": "id03d2cd609d9dcc134f90",
+      "type": "checkbox"
+    },
     "id064aed8710fead884f5d": {
       "children": [
         "id9ed492588c81a76c710b",
@@ -52,6 +59,18 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "id0671bbd7fb0c0be84c65": {
+      "facadeId": "editCoverage",
+      "id": "id0671bbd7fb0c0be84c65",
+      "type": "contextMenuEntry"
+    },
+    "id06ca3a467b7fe1a32f5c": {
+      "colspan": 1,
+      "facadeId": "copyBenefits",
+      "id": "id06ca3a467b7fe1a32f5c",
+      "style": "secondary",
+      "type": "button"
     },
     "id09f05e6416b07b9c4d94": {
       "alignment": "left",
@@ -155,6 +174,7 @@
     },
     "id11a4e747de28b3dd7027": {
       "children": [
+        "idd2893941c99ec460cadf",
         "id064aed8710fead884f5d"
       ],
       "colspan": 6,
@@ -343,6 +363,20 @@
       "rowspan": 3,
       "type": "list"
     },
+    "id1b56732011bcaf7df644": {
+      "alignment": "right",
+      "children": [
+        "id3f2158d057e6a1bd5ce4",
+        "id5913e2ca5e2e8945e603",
+        "ida7765da40ed0e8a1c18a",
+        "id39622899ac9d799b3089",
+        "id29f017aa1dac49ef63af"
+      ],
+      "colspan": 6,
+      "id": "id1b56732011bcaf7df644",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id1b79bfce9ea576ee8ebb": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -403,6 +437,13 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id21b1c0c9ea605a63d7de",
       "type": "input"
+    },
+    "id21dc59c92818829c4f5c": {
+      "colspan": 1,
+      "facadeId": "insertBenefits",
+      "id": "id21dc59c92818829c4f5c",
+      "style": "secondary",
+      "type": "button"
     },
     "id2255be6a7e799c1342fb": {
       "alignment": "left",
@@ -476,6 +517,14 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id27d0f08303828c4c2b38": {
+      "colspan": 2,
+      "columnWidth": "120",
+      "facadeId": "annualNetBasePremium",
+      "id": "id27d0f08303828c4c2b38",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
     "id28e2d720d2a6ba39fc09": {
       "colspan": 1,
       "facadeId": "remove",
@@ -520,6 +569,16 @@
       "id": "id29d4d4964abf773ce4e0",
       "type": "input"
     },
+    "id29f017aa1dac49ef63af": {
+      "colspan": 1,
+      "facadeId": "addComponents",
+      "id": "id29f017aa1dac49ef63af",
+      "openSliders": {
+        "id5595adeb47cc1ec42781": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
       "colspan": 2,
@@ -532,6 +591,14 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "id2c47f6a800c4ad012eb6": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "sumType",
+      "id": "id2c47f6a800c4ad012eb6",
+      "rowspan": 1,
+      "type": "dynamic"
     },
     "id2d3116a006dbdb127fbd": {
       "children": [
@@ -612,6 +679,14 @@
       "id": "id30a72304a91859e99e8c",
       "type": "dropdown"
     },
+    "id30a7f9196835ea591cb2": {
+      "colspan": 2,
+      "columnWidth": "120",
+      "facadeId": "annualNetBasePremium",
+      "id": "id30a7f9196835ea591cb2",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
     "id3103bbda3585ef72e143": {
       "colspan": 2,
       "facadeId": "placementTypeSearchCriteria",
@@ -669,10 +744,49 @@
       "id": "id34a8b54a705cca24a8a0",
       "type": "input"
     },
+    "id35ab3c9c3e87a3096b99": {
+      "id": "id35ab3c9c3e87a3096b99",
+      "label": "iddba70762eb749ca4693c",
+      "type": "columnGroup"
+    },
+    "id35ac66b05f248a85b03f": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "xolLayer",
+      "id": "id35ac66b05f248a85b03f",
+      "type": "dropdown"
+    },
+    "id35fceb8a659206d14f72": {
+      "colspan": 1,
+      "facadeId": "additionalData",
+      "id": "id35fceb8a659206d14f72",
+      "openSliders": {
+        "id158e9f2598b81b1eef52": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
+    "id361078c992118d061da6": {
+      "colspan": 1,
+      "facadeId": "viewScopeOfBenefits",
+      "id": "id361078c992118d061da6",
+      "openSliders": {
+        "id7479c99c5bbbc3020dea": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id37e2b9e6f8a4dc72c745": {
       "colspan": 1,
       "facadeId": "add",
       "id": "id37e2b9e6f8a4dc72c745",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id39622899ac9d799b3089": {
+      "colspan": 1,
+      "facadeId": "editObject",
+      "id": "id39622899ac9d799b3089",
       "style": "secondary",
       "type": "button"
     },
@@ -682,6 +796,16 @@
       "facadeId": "classOfBusiness",
       "id": "id3cb7fdef6015d28de407",
       "type": "dropdown"
+    },
+    "id3d36c8b2d785e8a20090": {
+      "colspan": 1,
+      "facadeId": "viewTermsAndConditions",
+      "id": "id3d36c8b2d785e8a20090",
+      "openSliders": {
+        "id4c1349ec7da9cbb0c11a": true
+      },
+      "style": "secondary",
+      "type": "button"
     },
     "id3d623bf4f4343b3047e1": {
       "colspan": 2,
@@ -706,6 +830,16 @@
       "id": "id3ed59cf9c83e5ec23335",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id3f2158d057e6a1bd5ce4": {
+      "colspan": 1,
+      "facadeId": "viewTextComponents",
+      "id": "id3f2158d057e6a1bd5ce4",
+      "openSliders": {
+        "id6f371ba372b6f1dca513": true
+      },
+      "style": "secondary",
+      "type": "button"
     },
     "id3fd198ae6e587414ccb0": {
       "children": [
@@ -973,6 +1107,19 @@
       "isColumnAdaptive": true,
       "type": "input"
     },
+    "id570edc385623c0573c41": {
+      "alignment": "right",
+      "children": [
+        "id361078c992118d061da6",
+        "ida58811a97ef90464f378",
+        "id06ca3a467b7fe1a32f5c",
+        "id21dc59c92818829c4f5c"
+      ],
+      "colspan": 6,
+      "id": "id570edc385623c0573c41",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id57875bc73eb9c09afed9": {
       "colspan": 1,
       "facadeId": "add",
@@ -986,6 +1133,16 @@
       "facadeId": "reinstatementType",
       "id": "id585bc7da4d7bcee0d75f",
       "type": "dropdown"
+    },
+    "id5913e2ca5e2e8945e603": {
+      "colspan": 1,
+      "facadeId": "editTextComponents",
+      "id": "id5913e2ca5e2e8945e603",
+      "openSliders": {
+        "id6f371ba372b6f1dca513": true
+      },
+      "style": "secondary",
+      "type": "button"
     },
     "id59bf15c5abcba8914ddd": {
       "colspan": 1,
@@ -1063,6 +1220,11 @@
       "id": "id600e1004fdf2d666b901",
       "rowspan": 3,
       "type": "layoutbox"
+    },
+    "id6268f3ca140d3fd7aa35": {
+      "facadeId": "additionalData",
+      "id": "id6268f3ca140d3fd7aa35",
+      "type": "contextMenuEntry"
     },
     "id63741b308a88000e4e7f": {
       "alignment": "left",
@@ -1143,6 +1305,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id6690ed91332b8917ccb9",
       "type": "input"
+    },
+    "id6697f600d314dd347edf": {
+      "colspan": 1,
+      "facadeId": "displayOption",
+      "id": "id6697f600d314dd347edf",
+      "type": "dropdown"
     },
     "id68559c551d8ac8861ccf": {
       "alignment": "right",
@@ -1347,6 +1515,17 @@
       "id": "id7df13b4540a1af485494",
       "type": "dropdown"
     },
+    "id7e0276e7b840e8963491": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "42",
+      "facadeId": "externalMedia",
+      "iconSize": "small",
+      "id": "id7e0276e7b840e8963491",
+      "showArrowIcon": true,
+      "type": "link",
+      "verticalAlignment": "top"
+    },
     "id7ed95eb4eb4fb1feb3a1": {
       "id": "id7ed95eb4eb4fb1feb3a1",
       "referenceValue": "cheque",
@@ -1377,6 +1556,11 @@
       "format": "DATETIME_FORMAT_SHORT",
       "id": "id7f391590ba8b3cb24f90",
       "type": "input"
+    },
+    "id7fedcbfabca4eb484f48": {
+      "facadeId": "editTextComponents",
+      "id": "id7fedcbfabca4eb484f48",
+      "type": "contextMenuEntry"
     },
     "id833982cfe87def2d9f22": {
       "colspan": 2,
@@ -1425,9 +1609,6 @@
       "type": "layoutbox"
     },
     "id851b4d62c3f056eb58b5": {
-      "children": [
-        "id790b8df8ee1f05134a44"
-      ],
       "colspan": 6,
       "id": "id851b4d62c3f056eb58b5",
       "rowspan": 3,
@@ -1513,12 +1694,27 @@
       "style": "secondary",
       "type": "button"
     },
+    "id89a6ae1296d751138c38": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id89a6ae1296d751138c38",
+      "type": "input"
+    },
     "id8a87bf351c944788c0f2": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "leader",
       "id": "id8a87bf351c944788c0f2",
       "type": "dropdown"
+    },
+    "id8aa48e8031645b0013e2": {
+      "facadeId": "viewScopeOfBenefits",
+      "id": "id8aa48e8031645b0013e2",
+      "type": "contextMenuEntry"
     },
     "id8cdaf129460dd8e876e1": {
       "children": [
@@ -1584,18 +1780,20 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "id2715ef2fc25d31137631": 12,
-        "id851b4d62c3f056eb58b5": 13,
-        "id13cb4ae08c6a5e26563c": 3,
-        "idcafb0c30e1d63edb47c9": 4,
-        "id45f5bcee21ce843ca4a4": 5,
-        "idcfbb20fb21a07c60122a": 6,
-        "id600e1004fdf2d666b901": 7,
-        "id0f61e821c30093bc22d9": 8,
-        "id7a5dd092f93608b09d52": 11,
-        "id2d80ea5c85120a46d449": 9,
-        "id65c0760f5e7cad3d1e45": 10,
-        "id11a4e747de28b3dd7027": 2
+        "VG_id1a421f7931f828b05712": 2,
+        "id5a5fcd923982b3aa6421": 1,
+        "id2715ef2fc25d31137631": 13,
+        "id851b4d62c3f056eb58b5": 14,
+        "id13cb4ae08c6a5e26563c": 4,
+        "idcafb0c30e1d63edb47c9": 5,
+        "id45f5bcee21ce843ca4a4": 6,
+        "idcfbb20fb21a07c60122a": 7,
+        "id600e1004fdf2d666b901": 8,
+        "id0f61e821c30093bc22d9": 9,
+        "id7a5dd092f93608b09d52": 12,
+        "id2d80ea5c85120a46d449": 10,
+        "id65c0760f5e7cad3d1e45": 11,
+        "id11a4e747de28b3dd7027": 3
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -1801,6 +1999,16 @@
       "id": "ida538849c31064f4ee71f",
       "type": "input"
     },
+    "ida58811a97ef90464f378": {
+      "colspan": 1,
+      "facadeId": "defineScopeOfBenefits",
+      "id": "ida58811a97ef90464f378",
+      "openSliders": {
+        "id6a7e0caaac682c823254": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "ida6c64e7906a9d9b8ba8e": {
       "alignment": "left",
       "colspan": 2,
@@ -1819,6 +2027,33 @@
       "id": "ida7051989a4be0c4aa22f",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "ida73e40aa617c076d5cfd": {
+      "alignment": "right",
+      "children": [
+        "id3d36c8b2d785e8a20090",
+        "id35fceb8a659206d14f72"
+      ],
+      "colspan": 6,
+      "id": "ida73e40aa617c076d5cfd",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "ida75344353d2691a3027f": {
+      "colspan": 2,
+      "columnWidth": "320",
+      "facadeId": "name",
+      "id": "ida75344353d2691a3027f",
+      "isColumnAdaptive": true,
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "ida7765da40ed0e8a1c18a": {
+      "colspan": 1,
+      "facadeId": "editCoverage",
+      "id": "ida7765da40ed0e8a1c18a",
+      "style": "secondary",
+      "type": "button"
     },
     "ida7cef976b1a8ad41527f": {
       "children": [
@@ -1872,6 +2107,11 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "idaff14eba6e4913903290": {
+      "facadeId": "editObject",
+      "id": "idaff14eba6e4913903290",
+      "type": "contextMenuEntry"
+    },
     "idb01f8630a20ccbf9a136": {
       "alignment": "left",
       "colspan": 2,
@@ -1885,6 +2125,16 @@
       "id": "idb09c86538d2f5bf79f80",
       "referenceValue": "cash",
       "type": "radioButton"
+    },
+    "idb0d39d9067428ba25d1a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idb0d39d9067428ba25d1a",
+      "type": "input"
     },
     "idb14d0ca70bd57877cf9f": {
       "alignment": "left",
@@ -1955,6 +2205,19 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idb57a027eaa450969e1c5",
       "type": "input"
+    },
+    "idb596ad90f7bc3a8f31f9": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idb596ad90f7bc3a8f31f9",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
     },
     "idb6470bc58b4fcf9819fd": {
       "colspan": 2,
@@ -2052,6 +2315,11 @@
       "id": "idba89742d5930165b0163",
       "type": "input"
     },
+    "idba9dc31888e3c6117b68": {
+      "facadeId": "defineScopeOfBenefits",
+      "id": "idba9dc31888e3c6117b68",
+      "type": "contextMenuEntry"
+    },
     "idbaabce4ff927251f5c61": {
       "alignment": "left",
       "colspan": 2,
@@ -2070,6 +2338,14 @@
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
     },
+    "idbd34c91e36d32d56f3e7": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "sum",
+      "id": "idbd34c91e36d32d56f3e7",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
     "idbdf19d8e2d8d1c5311ad": {
       "alignment": "left",
       "colspan": 2,
@@ -2079,6 +2355,11 @@
       "format": "FORMAT_AMOUNT",
       "id": "idbdf19d8e2d8d1c5311ad",
       "type": "input"
+    },
+    "idc00a781f3a7fdf0acb17": {
+      "facadeId": "addComponents",
+      "id": "idc00a781f3a7fdf0acb17",
+      "type": "contextMenuEntry"
     },
     "idc078ba2ffdd1ed13e989": {
       "alignment": "right",
@@ -2245,6 +2526,16 @@
       "id": "idcd3744a3bdc53002f1db",
       "type": "input"
     },
+    "idcf889a4b3e1f912aa0ab": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "dateTime",
+      "facadeId": "reinstatementDate",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "idcf889a4b3e1f912aa0ab",
+      "type": "input"
+    },
     "idcfbb20fb21a07c60122a": {
       "children": [
         "id229510f856965260363f"
@@ -2288,6 +2579,23 @@
       "id": "idd2763834a3d6ebe5a7b6",
       "type": "input"
     },
+    "idd2893941c99ec460cadf": {
+      "children": [
+        "idb596ad90f7bc3a8f31f9",
+        "id35ac66b05f248a85b03f",
+        "idcf889a4b3e1f912aa0ab",
+        "idb0d39d9067428ba25d1a",
+        "id89a6ae1296d751138c38",
+        "idf1e684198691420b42ea"
+      ],
+      "colspan": 6,
+      "facadeId": "xlLayers",
+      "hideColumnHeader": false,
+      "id": "idd2893941c99ec460cadf",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "xlLayersVariant"
+    },
     "idd2a109cb19321848eec4": {
       "colspan": 2,
       "facadeId": "add",
@@ -2301,6 +2609,11 @@
       "id": "idd3071f4955bc5e00c7ec",
       "style": "secondary",
       "type": "button"
+    },
+    "idd323fc2aeaf5cff2c79e": {
+      "facadeId": "insertBenefits",
+      "id": "idd323fc2aeaf5cff2c79e",
+      "type": "contextMenuEntry"
     },
     "idd3eb78ee1c59a712c3c2": {
       "alignment": "left",
@@ -2316,6 +2629,11 @@
       "id": "idd46755ee8db2e90c7607",
       "referenceValue": "online",
       "type": "radioButton"
+    },
+    "idd54b5bd409e1714caa8f": {
+      "facadeId": "viewTermsAndConditions",
+      "id": "idd54b5bd409e1714caa8f",
+      "type": "contextMenuEntry"
     },
     "idd57b109afd6ccfa22445": {
       "alignment": "left",
@@ -2364,6 +2682,21 @@
       "id": "idd9a35bb54e463e3064ef",
       "type": "input"
     },
+    "iddb819ac992611cc2e524": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "iddb819ac992611cc2e524",
+      "style": "secondary",
+      "type": "button"
+    },
+    "iddbc35dba868c79a211ec": {
+      "colspan": 2,
+      "columnWidth": "80",
+      "facadeId": "insuranceDuration",
+      "id": "iddbc35dba868c79a211ec",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
     "iddcfd7a40744205a457a5": {
       "alignment": "left",
       "colspan": 2,
@@ -2403,6 +2736,11 @@
       "id": "idde40aebc852775d62035",
       "rowspan": 4,
       "type": "list"
+    },
+    "idde4f83d592ac4d2051b9": {
+      "facadeId": "copyBenefits",
+      "id": "idde4f83d592ac4d2051b9",
+      "type": "contextMenuEntry"
     },
     "idde8f9652c54ae607b7f0": {
       "alignment": "left",
@@ -2594,6 +2932,18 @@
       "id": "idf05f6240ee083ffa549c",
       "type": "input"
     },
+    "idf1e684198691420b42ea": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "idfa49a6ef16237bf76832",
+        "iddb819ac992611cc2e524"
+      ],
+      "colspan": 6,
+      "id": "idf1e684198691420b42ea",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "idf43baa9d39c70441101d": {
       "alignment": "left",
       "colspan": 2,
@@ -2656,6 +3006,18 @@
       "id": "idf987d7521724092e153c",
       "rowspan": 3,
       "type": "list"
+    },
+    "idfa0028b78a9bc10e9fd2": {
+      "facadeId": "viewTextComponents",
+      "id": "idfa0028b78a9bc10e9fd2",
+      "type": "contextMenuEntry"
+    },
+    "idfa49a6ef16237bf76832": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idfa49a6ef16237bf76832",
+      "style": "secondary",
+      "type": "button"
     },
     "idfb06fea4597e6c883bf3": {
       "children": [
@@ -2778,7 +3140,17 @@
       "parentId": "idcc83bb4b32daca8c592e"
     }
   },
-  "variantEntities": {},
+  "variantEntities": {
+    "VG_id1a421f7931f828b05712": {
+      "children": [],
+      "id": "VG_id1a421f7931f828b05712",
+      "label": "xlLayersVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "xlLayersVariant": true
+      }
+    }
+  },
   "files": {
     "id": "files"
   },
