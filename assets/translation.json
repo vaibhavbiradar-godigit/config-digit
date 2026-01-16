@@ -248,6 +248,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id2698f8f868fdde158e9d": {
+    "DE": "Hinzufügen",
+    "EN": "Add"
+  },
   "id26a9b4872136da1c7bb7": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate"
@@ -801,6 +805,10 @@
     "DE": "Basis",
     "EN": "Basis"
   },
+  "id8c10776a127070d5484a": {
+    "DE": "Graded Cedant Gross Retention",
+    "EN": "Graded Cedant Gross Retention"
+  },
   "id8e11a2273c52cb7c2320": {
     "DE": "Entfernen",
     "EN": "Remove"
@@ -928,6 +936,10 @@
     "DE": "Adjustment Rate",
     "EN": "Adjustment Rate"
   },
+  "ida584032ea8fca274a702": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "ida58811a97ef90464f378": {
     "DE": "Leistungsumfang definieren…",
     "EN": "Define Scope of Benefits..."
@@ -980,6 +992,10 @@
   "idb1f809eec8ec20aba2d5": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idb2242d6535012e421e5f": {
+    "DE": "Retained Amount",
+    "EN": "Retained Amount"
   },
   "idb2ba0976bd4f32a2971f": {
     "DE": "Limit",
@@ -1126,11 +1142,19 @@
     "DE": "Table Of Retentions",
     "EN": "Table Of Retentions"
   },
+  "idc402da9f34fa915d7c05": {
+    "DE": "Entfernen",
+    "EN": "Remove"
+  },
   "idc50846766d0b9644631a": {
     "DE": "VRE Our Manual Rate on Line",
     "EN": "VRE Our Manual Rate on Line"
   },
   "idc737f0f7b07534b5356e": {},
+  "idc754c2bdc1097211f4e9": {
+    "DE": "Table Of Retentions",
+    "EN": "Table Of Retentions"
+  },
   "idc8473ba7b46823d41408": {
     "DE": "Coverage Details",
     "EN": "Coverage Details"
