@@ -102,6 +102,10 @@
     "DE": "Signed Share",
     "EN": "Signed Share"
   },
+  "id16058a848239a5dd6d2d": {
+    "DE": "Cover Limits",
+    "EN": "Cover Limits"
+  },
   "id160d958bc405e59b9938": {
     "DE": "VRE Our Share Limit",
     "EN": "VRE Our Share Limit"
@@ -372,6 +376,14 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id5b0571695552e52110d2": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "id5b1998824eb2ad5a305f": {
+    "DE": "Sum Insured Limits",
+    "EN": "Sum Insured Limits"
+  },
   "id5bb12d7fa6713b89f8af": {
     "EN": "GST Exemption"
   },
@@ -590,6 +602,10 @@
     "DE": "Miscellaneous Risk Class",
     "EN": "Miscellaneous Risk Class"
   },
+  "id91e4acf9c63a0e182a93": {
+    "DE": "Coverage",
+    "EN": "Coverage"
+  },
   "id92013e7efdc3f2a98002": {
     "DE": "Add",
     "EN": "Add"
@@ -625,6 +641,10 @@
   "id9df13525ec6db22d04c7": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
+  },
+  "id9e2c46f3224daa4c659c": {
+    "DE": "Waiting Period in Months",
+    "EN": "Waiting Period in Months"
   },
   "id9e41b9db956718ad69af": {
     "EN": "Demand Draft"
@@ -820,6 +840,10 @@
     "DE": "Coverage Details",
     "EN": "Coverage Details"
   },
+  "idc9e970a64f66580088bf": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "idca3a2ef45ab8f4afa5ec": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
@@ -837,6 +861,10 @@
   },
   "idcd3744a3bdc53002f1db": {
     "EN": "UW Year"
+  },
+  "idceb1662901c06addc8c5": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "idcf889a4b3e1f912aa0ab": {
     "DE": "Reinstatement Date",
@@ -1042,6 +1070,10 @@
   "idfb06fea4597e6c883bf3": {
     "DE": "Spillover",
     "EN": "Spillover"
+  },
+  "idfb93083924ae8a000817": {
+    "DE": "EMI Limits (in Days)",
+    "EN": "EMI Limits (in Days)"
   },
   "idfc8bc1a8eaae30c68e6d": {
     "DE": "Livestock Rate Master",
