@@ -268,6 +268,14 @@
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
+  "id25cfed0b253512c09555": {
+    "DE": "Reinstatement Type",
+    "EN": "Reinstatement Type"
+  },
+  "id260d56953e3c67c72797": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "id260f2eff208327f52182": {
     "DE": "Cow",
     "EN": "Cow"
@@ -275,6 +283,10 @@
   "id262c93eb2d1e934611ea": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id265be0fa5acbf35cf08d": {
+    "DE": "Request Share",
+    "EN": "Request Share"
   },
   "id2698f8f868fdde158e9d": {
     "DE": "Hinzufügen",
@@ -416,6 +428,10 @@
   "id3d623bf4f4343b3047e1": {
     "DE": "XOL layer",
     "EN": "XOL layer"
+  },
+  "id3d9a40abe81877e9b64d": {
+    "DE": "VRE Our Manual Premium",
+    "EN": "VRE Our Manual Premium"
   },
   "id3e59ff3d2561396b372c": {
     "DE": "Perils",
@@ -560,9 +576,17 @@
     "DE": "Loss Ration Scale",
     "EN": "Loss Ration Scale"
   },
+  "id57214fafb1bb4f1dc197": {
+    "DE": "Attachment Return Period",
+    "EN": "Attachment Return Period"
+  },
   "id57875bc73eb9c09afed9": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id57a15d19efbd7cbb80f1": {
+    "DE": "100% Tower structure and reinsurance program",
+    "EN": "100% Tower structure and reinsurance program"
   },
   "id585bc7da4d7bcee0d75f": {
     "DE": "Reinstatement Type",
@@ -594,6 +618,10 @@
   "id5c2daeb5d4ee90c83d0d": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "id5cbdfeeec420e0895a84": {
+    "DE": "Reinstatement Terms",
+    "EN": "Reinstatement Terms"
   },
   "id5d7d3c3d26713ddd375e": {
     "DE": "EMI Limits (in Days)",
@@ -647,6 +675,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id65fcdb35d20e2a3874c8": {
+    "DE": "VRE Our Share Limit",
+    "EN": "VRE Our Share Limit"
+  },
   "id6690ed91332b8917ccb9": {
     "DE": "Attachment",
     "EN": "Attachment"
@@ -679,6 +711,10 @@
     "DE": "Wert",
     "EN": "Value"
   },
+  "id6dd9b493cffb53863c8c": {
+    "DE": "Instalments",
+    "EN": "Instalments"
+  },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -694,6 +730,10 @@
   "id719c757216f68a72dab2": {
     "DE": "VRE Our Share Premium",
     "EN": "VRE Our Share Premium"
+  },
+  "id71f2ec2dea3f452cb2c8": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Rate on Line"
   },
   "id72b8430879f40a24f34a": {
     "DE": "VRE Our Manual Premium",
@@ -731,6 +771,10 @@
     "DE": "VRE Our Share Premium",
     "EN": "VRE Our Share Premium"
   },
+  "id7872886931de0eeda43c": {
+    "DE": "VRE Our Share",
+    "EN": "VRE Our Share"
+  },
   "id79038bcac066e0f0ce95": {
     "DE": "Sheep",
     "EN": "Sheep"
@@ -743,9 +787,17 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id7b93118d42558d1e9cee": {
+    "DE": "Basis",
+    "EN": "Basis"
+  },
   "id7c6191544c7750407630": {
     "DE": "Top Drop",
     "EN": "Top Drop"
+  },
+  "id7cfe207e46e580ee4fb0": {
+    "DE": "Leader's Participation",
+    "EN": "Leader's Participation"
   },
   "id7df13b4540a1af485494": {
     "DE": "Top Drop",
@@ -821,6 +873,10 @@
     "DE": "VRE Our Share",
     "EN": "VRE Our Share"
   },
+  "id8729d634699dc8a41409": {
+    "DE": "Leader",
+    "EN": "Leader"
+  },
   "id879e4ca3ab8418821796": {
     "DE": "Coverage Additional Details: Retention Line",
     "EN": "Coverage Additional Details: Retention Line"
@@ -844,6 +900,10 @@
   "id89a6ae1296d751138c38": {
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
+  },
+  "id8a54fef4c937a580ae69": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium Amount"
   },
   "id8a87bf351c944788c0f2": {
     "DE": "Leader",
@@ -908,6 +968,10 @@
   "id97efbb45846b0bbc784c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
+  },
+  "id980581d2b6e86c98166b": {
+    "DE": "exclusions",
+    "EN": "exclusions"
   },
   "id9955abc8b4316de10c6b": {
     "DE": "Limit",
@@ -999,6 +1063,10 @@
   "ida4bd5fd65104e65dd77c": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
+  },
+  "ida5137e1dcbd52c13bffa": {
+    "DE": "Limit",
+    "EN": "Limit"
   },
   "ida538849c31064f4ee71f": {
     "DE": "Adjustment Rate",
@@ -1096,6 +1164,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idb6364c6e41f0e47edaca": {
+    "DE": "Adjustment Rate",
+    "EN": "Adjustment Rate"
+  },
   "idb6470bc58b4fcf9819fd": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -1170,6 +1242,10 @@
     "DE": "Summenart Wert",
     "EN": "Sum type value"
   },
+  "idbde73e0edcd48b04dfc3": {
+    "DE": "VRE Our Share Premium",
+    "EN": "VRE Our Share Premium"
+  },
   "idbdf19d8e2d8d1c5311ad": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
@@ -1185,6 +1261,10 @@
   "idc02f2a728ae84e9c05d1": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
+  },
+  "idc04160afb918ed0eaa46": {
+    "DE": "Number of Reinstatements",
+    "EN": "Number of Reinstatements"
   },
   "idc0e185d535c5c6396ab0": {
     "DE": "Reinstatement Rate",
@@ -1234,6 +1314,10 @@
   "idc8473ba7b46823d41408": {
     "DE": "Coverage Details",
     "EN": "Coverage Details"
+  },
+  "idc8c472e51d08cfb90237": {
+    "DE": "Top Drop",
+    "EN": "Top Drop"
   },
   "idc92dacf86a65324c99ae": {
     "DE": "Remove",
@@ -1375,6 +1459,18 @@
     "DE": "Leader's Participation",
     "EN": "Leader's Participation"
   },
+  "idda1df5db2c5fddcef2d3": {
+    "DE": "Attachment",
+    "EN": "Attachment"
+  },
+  "idda70c83b2816fc636527": {
+    "DE": "VRE Our Manual Rate on Line",
+    "EN": "VRE Our Manual Rate on Line"
+  },
+  "iddb17fe616a3c5ec3df39": {
+    "DE": "Perils",
+    "EN": "Perils"
+  },
   "iddb819ac992611cc2e524": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1403,6 +1499,10 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy benefits"
   },
+  "idde63c6a96ed6e8c04fbe": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "idde8f9652c54ae607b7f0": {
     "DE": "Retention",
     "EN": "Retention"
@@ -1423,6 +1523,10 @@
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
   },
+  "ide12f0c739303d63cae76": {
+    "DE": "Quoted Share",
+    "EN": "Quoted Share"
+  },
   "ide19fb2d5c57f2f48707a": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1435,9 +1539,17 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "ide2935281d50b92c5fcae": {
+    "DE": "Reinstatement Rate",
+    "EN": "Reinstatement Rate %"
+  },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
     "EN": "Coverage Additional Details: Graded Retention"
+  },
+  "ide446de6e42515cbb2ce8": {
+    "DE": "Signed Share",
+    "EN": "Signed Share"
   },
   "ide4698ee24eebbcc9a41a": {
     "DE": "VRE Our Manual Premium",
@@ -1450,6 +1562,10 @@
   "ide488ac7f75aab5129c39": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "ide624e86892139ab8a52b": {
+    "DE": "Minimum and Deposit Premium%",
+    "EN": "Minimum and Deposit Premium%"
   },
   "ide68c6163ada677bbad38": {
     "DE": "Exposure Basis",
@@ -1475,6 +1591,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "ided1ef982eda3e1c8bb69": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
   },
@@ -1493,6 +1613,10 @@
   "idf05f6240ee083ffa549c": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "idf0bda3d4f894c27d533b": {
+    "DE": "XOL layer",
+    "EN": "XOL layer"
   },
   "idf43baa9d39c70441101d": {
     "DE": "Request Share",
