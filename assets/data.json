@@ -732,6 +732,17 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id202293c783313bf9623f": {
+      "alignment": "right",
+      "children": [
+        "idde63c6a96ed6e8c04fbe",
+        "ided1ef982eda3e1c8bb69"
+      ],
+      "colspan": 6,
+      "id": "id202293c783313bf9623f",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id21b1c0c9ea605a63d7de": {
       "alignment": "left",
       "colspan": 2,
@@ -804,6 +815,26 @@
       "parentFacadeId": "criteria",
       "type": "datepicker"
     },
+    "id25cfed0b253512c09555": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "reinstatementType",
+      "id": "id25cfed0b253512c09555",
+      "type": "dropdown"
+    },
+    "id260d56953e3c67c72797": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id260d56953e3c67c72797",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "id260f2eff208327f52182": {
       "alignment": "left",
       "colspan": 2,
@@ -831,6 +862,16 @@
       "id": "id262c93eb2d1e934611ea",
       "style": "secondary",
       "type": "button"
+    },
+    "id265be0fa5acbf35cf08d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "requestedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id265be0fa5acbf35cf08d",
+      "type": "input"
     },
     "id2698f8f868fdde158e9d": {
       "colspan": 1,
@@ -1242,6 +1283,16 @@
       "facadeId": "xolLayer",
       "id": "id3d623bf4f4343b3047e1",
       "type": "dropdown"
+    },
+    "id3d9a40abe81877e9b64d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id3d9a40abe81877e9b64d",
+      "type": "input"
     },
     "id3e59ff3d2561396b372c": {
       "colspan": 2,
@@ -1729,12 +1780,61 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id57214fafb1bb4f1dc197": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "attachmentReturnPeriod",
+      "format": "",
+      "id": "id57214fafb1bb4f1dc197",
+      "type": "input"
+    },
     "id57875bc73eb9c09afed9": {
       "colspan": 1,
       "facadeId": "add",
       "id": "id57875bc73eb9c09afed9",
       "style": "secondary",
       "type": "button"
+    },
+    "id57a15d19efbd7cbb80f1": {
+      "children": [
+        "id260d56953e3c67c72797",
+        "idf0bda3d4f894c27d533b",
+        "id202293c783313bf9623f",
+        "iddb17fe616a3c5ec3df39",
+        "idc8c472e51d08cfb90237",
+        "id7b93118d42558d1e9cee",
+        "ida5137e1dcbd52c13bffa",
+        "idda1df5db2c5fddcef2d3",
+        "id57214fafb1bb4f1dc197",
+        "idb6364c6e41f0e47edaca",
+        "id71f2ec2dea3f452cb2c8",
+        "id8729d634699dc8a41409",
+        "id7cfe207e46e580ee4fb0",
+        "id7872886931de0eeda43c",
+        "id65fcdb35d20e2a3874c8",
+        "idbde73e0edcd48b04dfc3",
+        "idda70c83b2816fc636527",
+        "id3d9a40abe81877e9b64d",
+        "ide624e86892139ab8a52b",
+        "id8a54fef4c937a580ae69",
+        "idc04160afb918ed0eaa46",
+        "id5cbdfeeec420e0895a84",
+        "id25cfed0b253512c09555",
+        "ide2935281d50b92c5fcae",
+        "id6dd9b493cffb53863c8c",
+        "id980581d2b6e86c98166b",
+        "id265be0fa5acbf35cf08d",
+        "ide12f0c739303d63cae76",
+        "ide446de6e42515cbb2ce8"
+      ],
+      "colspan": 6,
+      "facadeId": "towerLayers",
+      "id": "id57a15d19efbd7cbb80f1",
+      "isVirtualScrolling": true,
+      "rowspan": 4,
+      "type": "list"
     },
     "id585bc7da4d7bcee0d75f": {
       "colspan": 2,
@@ -1777,6 +1877,16 @@
       "id": "id5b1998824eb2ad5a305f",
       "type": "input"
     },
+    "id5b62da9d5983f89336a2": {
+      "children": [
+        "id57a15d19efbd7cbb80f1"
+      ],
+      "colspan": 6,
+      "id": "id5b62da9d5983f89336a2",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "TRTXLVariant"
+    },
     "id5bb12d7fa6713b89f8af": {
       "colspan": 2,
       "facadeId": "gstExemption",
@@ -1807,6 +1917,16 @@
       "facadeId": "quotedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id5c2daeb5d4ee90c83d0d",
+      "type": "input"
+    },
+    "id5cbdfeeec420e0895a84": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "reinstatementTerms",
+      "format": "",
+      "id": "id5cbdfeeec420e0895a84",
       "type": "input"
     },
     "id5d7d3c3d26713ddd375e": {
@@ -1965,6 +2085,16 @@
       "type": "layoutbox",
       "variant": "miscellaneousMasterVariant"
     },
+    "id65fcdb35d20e2a3874c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShareLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id65fcdb35d20e2a3874c8",
+      "type": "input"
+    },
     "id6690ed91332b8917ccb9": {
       "alignment": "left",
       "colspan": 2,
@@ -2048,6 +2178,16 @@
       "rowspan": 1,
       "type": "dynamic"
     },
+    "id6dd9b493cffb53863c8c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "instalments",
+      "format": "",
+      "id": "id6dd9b493cffb53863c8c",
+      "type": "input"
+    },
     "id6fdf69fa868c5063a2af": {
       "alignment": "left",
       "colspan": 2,
@@ -2086,6 +2226,16 @@
       "facadeId": "vreOurSharePremium",
       "format": "FORMAT_AMOUNT",
       "id": "id719c757216f68a72dab2",
+      "type": "input"
+    },
+    "id71f2ec2dea3f452cb2c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "rateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "id71f2ec2dea3f452cb2c8",
       "type": "input"
     },
     "id72b8430879f40a24f34a": {
@@ -2177,6 +2327,16 @@
       "id": "id77b00353ca5b7273992b",
       "type": "input"
     },
+    "id7872886931de0eeda43c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7872886931de0eeda43c",
+      "type": "input"
+    },
     "id79038bcac066e0f0ce95": {
       "alignment": "left",
       "colspan": 2,
@@ -2229,12 +2389,29 @@
       "type": "layoutbox",
       "variant": "livestockRateVariant"
     },
+    "id7b93118d42558d1e9cee": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "basis",
+      "id": "id7b93118d42558d1e9cee",
+      "type": "dropdown"
+    },
     "id7c6191544c7750407630": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "topDrop",
       "id": "id7c6191544c7750407630",
       "type": "dropdown"
+    },
+    "id7cfe207e46e580ee4fb0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "leadersParticipation",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7cfe207e46e580ee4fb0",
+      "type": "input"
     },
     "id7df13b4540a1af485494": {
       "colspan": 2,
@@ -2430,6 +2607,13 @@
       "id": "id86becfb89ca20595ac92",
       "type": "input"
     },
+    "id8729d634699dc8a41409": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "leader",
+      "id": "id8729d634699dc8a41409",
+      "type": "dropdown"
+    },
     "id879e4ca3ab8418821796": {
       "children": [
         "id324a1d1a4de6497b8ee6",
@@ -2488,6 +2672,16 @@
       "facadeId": "reinstatementPremium",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id89a6ae1296d751138c38",
+      "type": "input"
+    },
+    "id8a54fef4c937a580ae69": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremiumAmount",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id8a54fef4c937a580ae69",
       "type": "input"
     },
     "id8a87bf351c944788c0f2": {
@@ -2635,9 +2829,9 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id5b62da9d5983f89336a2": 8,
         "VG_id2e8507a55acb1663e32a": 15,
         "id0124c9348b5dae438dc4": 4,
-        "idb8e46f8f91f6d2da2db5": 8,
         "id28d6f3502ac4a854293d": 5,
         "idcbe8e0ea4de508c36f3a": 6,
         "id9a4cf6906f31f09d8182": 7,
@@ -2698,6 +2892,16 @@
       "facadeId": "classOfBusiness",
       "id": "id97efbb45846b0bbc784c",
       "type": "dropdown"
+    },
+    "id980581d2b6e86c98166b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "string",
+      "facadeId": "exclusions",
+      "format": "",
+      "id": "id980581d2b6e86c98166b",
+      "type": "input"
     },
     "id9955abc8b4316de10c6b": {
       "alignment": "left",
@@ -2990,6 +3194,16 @@
       "facadeId": "minAndDepositPremiumAmount",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ida4bd5fd65104e65dd77c",
+      "type": "input"
+    },
+    "ida5137e1dcbd52c13bffa": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "limit",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida5137e1dcbd52c13bffa",
       "type": "input"
     },
     "ida538849c31064f4ee71f": {
@@ -3306,6 +3520,16 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idb6364c6e41f0e47edaca": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "adjustmentRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb6364c6e41f0e47edaca",
+      "type": "input"
+    },
     "idb6470bc58b4fcf9819fd": {
       "colspan": 2,
       "columnWidth": "335",
@@ -3508,6 +3732,16 @@
       "rowspan": 1,
       "type": "dynamic"
     },
+    "idbde73e0edcd48b04dfc3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurSharePremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idbde73e0edcd48b04dfc3",
+      "type": "input"
+    },
     "idbdf19d8e2d8d1c5311ad": {
       "alignment": "left",
       "colspan": 2,
@@ -3548,6 +3782,16 @@
       "showRowNumber": false,
       "type": "list",
       "variant": "retenstionLineVariant"
+    },
+    "idc04160afb918ed0eaa46": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "numberOfReinstatements",
+      "format": "",
+      "id": "idc04160afb918ed0eaa46",
+      "type": "input"
     },
     "idc078ba2ffdd1ed13e989": {
       "alignment": "right",
@@ -3718,6 +3962,13 @@
       "order": {
         "id6d014e52e9d345e116fe": 1
       }
+    },
+    "idc8c472e51d08cfb90237": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "topDrop",
+      "id": "idc8c472e51d08cfb90237",
+      "type": "dropdown"
     },
     "idc8dd48bb10a28636e04c": {
       "alignment": "right",
@@ -4091,6 +4342,33 @@
       "id": "idd9e7b9946231bb3b6225",
       "type": "input"
     },
+    "idda1df5db2c5fddcef2d3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "attachment",
+      "format": "FORMAT_AMOUNT",
+      "id": "idda1df5db2c5fddcef2d3",
+      "type": "input"
+    },
+    "idda70c83b2816fc636527": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualRateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "idda70c83b2816fc636527",
+      "type": "input"
+    },
+    "iddb17fe616a3c5ec3df39": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "perils",
+      "id": "iddb17fe616a3c5ec3df39",
+      "type": "dropdown"
+    },
     "iddb819ac992611cc2e524": {
       "colspan": 2,
       "facadeId": "remove",
@@ -4162,6 +4440,13 @@
       "id": "idde4f83d592ac4d2051b9",
       "type": "contextMenuEntry"
     },
+    "idde63c6a96ed6e8c04fbe": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idde63c6a96ed6e8c04fbe",
+      "style": "secondary",
+      "type": "button"
+    },
     "idde8f9652c54ae607b7f0": {
       "alignment": "left",
       "colspan": 2,
@@ -4209,6 +4494,16 @@
       "id": "ide0d12eb803caa2a232b1",
       "type": "input"
     },
+    "ide12f0c739303d63cae76": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "quotedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "ide12f0c739303d63cae76",
+      "type": "input"
+    },
     "ide19fb2d5c57f2f48707a": {
       "colspan": 2,
       "columnWidth": "335",
@@ -4236,6 +4531,16 @@
       "style": "secondary",
       "type": "button"
     },
+    "ide2935281d50b92c5fcae": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide2935281d50b92c5fcae",
+      "type": "input"
+    },
     "ide3d0199fddf5b3cd91cc": {
       "children": [
         "id5fe0a45f84e7d561dd27",
@@ -4247,6 +4552,16 @@
       "id": "ide3d0199fddf5b3cd91cc",
       "rowspan": 3,
       "type": "list"
+    },
+    "ide446de6e42515cbb2ce8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "signedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "ide446de6e42515cbb2ce8",
+      "type": "input"
     },
     "ide4698ee24eebbcc9a41a": {
       "alignment": "left",
@@ -4283,6 +4598,16 @@
       "id": "ide53de88916746711cb09",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "ide624e86892139ab8a52b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide624e86892139ab8a52b",
+      "type": "input"
     },
     "ide68c6163ada677bbad38": {
       "colspan": 2,
@@ -4351,6 +4676,13 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "ided1ef982eda3e1c8bb69": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "ided1ef982eda3e1c8bb69",
+      "style": "secondary",
+      "type": "button"
+    },
     "ided4e602b1af065ccd68b": {
       "colspan": 2,
       "facadeId": "instrumentDate",
@@ -4407,6 +4739,13 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idf05f6240ee083ffa549c",
       "type": "input"
+    },
+    "idf0bda3d4f894c27d533b": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "xolLayer",
+      "id": "idf0bda3d4f894c27d533b",
+      "type": "dropdown"
     },
     "idf1e684198691420b42ea": {
       "alignment": "right",
