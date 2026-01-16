@@ -396,6 +396,16 @@
       "style": "secondary",
       "type": "button"
     },
+    "id16905103af9710ebe0bc": {
+      "children": [
+        "idc754c2bdc1097211f4e9"
+      ],
+      "colspan": 6,
+      "id": "id16905103af9710ebe0bc",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "TRTPSVariant"
+    },
     "id178682ddb4795bad3814": {
       "alignment": "left",
       "colspan": 2,
@@ -707,6 +717,13 @@
       "colspan": 2,
       "facadeId": "add",
       "id": "id262c93eb2d1e934611ea",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id2698f8f868fdde158e9d": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "id2698f8f868fdde158e9d",
       "style": "secondary",
       "type": "button"
     },
@@ -2320,6 +2337,13 @@
       "id": "id8bc6c22652dc26b3a9b4",
       "type": "dropdown"
     },
+    "id8c10776a127070d5484a": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "gradedCedantGrossRetention",
+      "id": "id8c10776a127070d5484a",
+      "type": "dropdown"
+    },
     "id8cdaf129460dd8e876e1": {
       "children": [
         "id1afafb73b3df8a487acc",
@@ -2402,6 +2426,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id16905103af9710ebe0bc": 3,
         "VG_idffad50305c2bb1826988": 14,
         "idb554f1085a21c74b7756": 2,
         "VG_idbbe10484defef1e1e4fb": 13,
@@ -2416,18 +2441,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 13,
-        "id851b4d62c3f056eb58b5": 14,
-        "id13cb4ae08c6a5e26563c": 4,
-        "idcafb0c30e1d63edb47c9": 5,
-        "id45f5bcee21ce843ca4a4": 6,
-        "idcfbb20fb21a07c60122a": 7,
-        "id600e1004fdf2d666b901": 8,
-        "id0f61e821c30093bc22d9": 9,
-        "id7a5dd092f93608b09d52": 12,
-        "id2d80ea5c85120a46d449": 10,
-        "id65c0760f5e7cad3d1e45": 11,
-        "id11a4e747de28b3dd7027": 3
+        "id2715ef2fc25d31137631": 14,
+        "id851b4d62c3f056eb58b5": 15,
+        "id13cb4ae08c6a5e26563c": 5,
+        "idcafb0c30e1d63edb47c9": 6,
+        "id45f5bcee21ce843ca4a4": 7,
+        "idcfbb20fb21a07c60122a": 8,
+        "id600e1004fdf2d666b901": 9,
+        "id0f61e821c30093bc22d9": 10,
+        "id7a5dd092f93608b09d52": 13,
+        "id2d80ea5c85120a46d449": 11,
+        "id65c0760f5e7cad3d1e45": 12,
+        "id11a4e747de28b3dd7027": 4
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -2728,6 +2753,19 @@
       "id": "ida538849c31064f4ee71f",
       "type": "input"
     },
+    "ida584032ea8fca274a702": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "ida584032ea8fca274a702",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "ida58811a97ef90464f378": {
       "colspan": 1,
       "facadeId": "defineScopeOfBenefits",
@@ -2921,6 +2959,16 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idb2242d6535012e421e5f": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "retainedAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb2242d6535012e421e5f",
+      "type": "input"
+    },
     "idb2ba0976bd4f32a2971f": {
       "alignment": "left",
       "colspan": 2,
@@ -2930,6 +2978,17 @@
       "format": "FORMAT_AMOUNT",
       "id": "idb2ba0976bd4f32a2971f",
       "type": "input"
+    },
+    "idb31afa2c9ed88ad8b16d": {
+      "alignment": "right",
+      "children": [
+        "id2698f8f868fdde158e9d",
+        "idc402da9f34fa915d7c05"
+      ],
+      "colspan": 6,
+      "id": "idb31afa2c9ed88ad8b16d",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "idb4cd2631afd5335145eb": {
       "colspan": 2,
@@ -3320,6 +3379,13 @@
       "showRowNumber": false,
       "type": "list"
     },
+    "idc402da9f34fa915d7c05": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "idc402da9f34fa915d7c05",
+      "style": "secondary",
+      "type": "button"
+    },
     "idc49bad749ec2339cf8c3": {
       "id": "idc49bad749ec2339cf8c3",
       "order": {
@@ -3363,6 +3429,19 @@
       ],
       "id": "idc737f0f7b07534b5356e",
       "type": "subchapter"
+    },
+    "idc754c2bdc1097211f4e9": {
+      "children": [
+        "ida584032ea8fca274a702",
+        "id8c10776a127070d5484a",
+        "idb2242d6535012e421e5f",
+        "idb31afa2c9ed88ad8b16d"
+      ],
+      "colspan": 6,
+      "facadeId": "gradedRetention",
+      "id": "idc754c2bdc1097211f4e9",
+      "rowspan": 4,
+      "type": "list"
     },
     "idc88ccad97a0ccbbc7d8f": {
       "id": "idc88ccad97a0ccbbc7d8f",
