@@ -100,7 +100,8 @@
       "isMultiSelect": false,
       "rowspan": 4,
       "showRowNumber": false,
-      "type": "list"
+      "type": "list",
+      "variant": "slidingScaleDataVariant"
     },
     "id0671bbd7fb0c0be84c65": {
       "facadeId": "editCoverage",
@@ -2391,6 +2392,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "VG_idbbe10484defef1e1e4fb": 13,
         "VG_id8964c1b6fdd0791a4928": 4,
         "VG_idc889567484f98ce7e56b": 5,
         "VG_idd82ba33ce385002cd780": 6,
@@ -4304,6 +4306,15 @@
       "type": "variantGroup",
       "variantChildKeys": {
         "coverLimitsVariant": true
+      }
+    },
+    "VG_idbbe10484defef1e1e4fb": {
+      "children": [],
+      "id": "VG_idbbe10484defef1e1e4fb",
+      "label": "slidingScaleDataVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "slidingScaleDataVariant": true
       }
     },
     "VG_idc889567484f98ce7e56b": {
