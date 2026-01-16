@@ -23,13 +23,29 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id03fb77ac0d019a03ff13": {
+    "DE": "Variablen anzeigen",
+    "EN": "View Variables"
+  },
   "id056792237361076d876f": {
     "DE": "Jahrestarifprämie netto",
     "EN": "Annual net base premium"
   },
+  "id05ac1e5482c407d0cee8": {
+    "DE": "Variablen bearbeiten...",
+    "EN": "Edit Variables..."
+  },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
     "EN": "Sliding scale"
+  },
+  "id073be40f73e0315ac232": {
+    "DE": "Objekt bearbeiten",
+    "EN": "Edit Object"
+  },
+  "id076cb3d13eddea75e6fe": {
+    "DE": "Bedingungen anzeigen",
+    "EN": "View Terms and Conditions"
   },
   "id081a12e84a8afb574b6a": {
     "DE": "Zusatzinformationen anzeigen",
@@ -70,6 +86,10 @@
   "id102cd038dafef6561522": {
     "DE": "Reinstatement Date",
     "EN": "Reinstatement Date"
+  },
+  "id104095afcbc860d49a15": {
+    "DE": "Leistungen kopieren",
+    "EN": "Copy Benefits"
   },
   "id1119d0bc3df82d27528c": {
     "DE": "Leader",
@@ -118,6 +138,10 @@
     "DE": "Signed Share",
     "EN": "Signed Share"
   },
+  "id16038cfcd490667fa515": {
+    "DE": "Bedingungen anzeigen",
+    "EN": "View terms and conditions"
+  },
   "id160d958bc405e59b9938": {
     "DE": "VRE Our Share Limit",
     "EN": "VRE Our Share Limit"
@@ -161,6 +185,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id1fa868d49cbe85d70b68": {
+    "DE": "Zeige",
+    "EN": "Show"
+  },
   "id20fc2d67c12ba74a5254": {
     "DE": "Zusatzinformationen anzeigen",
     "EN": "View additional information"
@@ -168,6 +196,10 @@
   "id21b1c0c9ea605a63d7de": {
     "DE": "Spillover covered in excess of",
     "EN": "Spillover covered in excess of"
+  },
+  "id21ec591a10b0bdbc1cae": {
+    "DE": "Summenart Wert",
+    "EN": "Sum type value"
   },
   "id2255be6a7e799c1342fb": {
     "DE": "Signed Share",
@@ -179,6 +211,10 @@
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
+  },
+  "id2626f0c4ad9a0b82dd09": {
+    "DE": "Objekt bearbeiten",
+    "EN": "Edit object"
   },
   "id26a9b4872136da1c7bb7": {
     "DE": "Reinstatement Rate",
@@ -206,6 +242,10 @@
   "id29d4d4964abf773ce4e0": {
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
+  },
+  "id2a57a433568af0ba17bc": {
+    "DE": "Versicherungsvertrag bearbeiten",
+    "EN": "Edit Coverage"
   },
   "id2b8852e1fd13500d090b": {
     "DE": "Sr. No.",
@@ -237,17 +277,37 @@
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
   },
+  "id31dd4a2bbd12e7fe993d": {
+    "DE": "Bausteine hinzufügen...",
+    "EN": "Add Components..."
+  },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
     "EN": "Class of Business"
+  },
+  "id339e783b5735fb72b393": {
+    "DE": "Zusatzinformationen",
+    "EN": "More information"
+  },
+  "id33eb11f070e6efb44401": {
+    "DE": "Zusatzinformationen anzeigen",
+    "EN": "View Additional Information"
   },
   "id34a8b54a705cca24a8a0": {
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "id34ad6c70454a1b6581b0": {
+    "DE": "Leistungsumfang definieren...",
+    "EN": "Define Scope of Benefits..."
+  },
   "id34bcc09c1ac120ab5099": {
     "DE": "Versicherungsvertrag bearbeiten",
     "EN": "Edit Coverage"
+  },
+  "id361281a32d02e5217b4b": {
+    "DE": "Jahrestarifprämie netto",
+    "EN": "Annual net base premium"
   },
   "id37e2b9e6f8a4dc72c745": {
     "DE": "Hinzufügen",
@@ -297,9 +357,17 @@
     "DE": "Adjustment Rate",
     "EN": "Adjustment Rate"
   },
+  "id45dc00fdd0387442906b": {
+    "DE": "Leistungen kopieren",
+    "EN": "Copy benefits"
+  },
   "id46252c6fb1f13733e5c0": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id469b6fb75bfaf45f1402": {
+    "DE": "Bausteine hinzufügen...",
+    "EN": "Add components..."
   },
   "id487d406ad000aab2f1a3": {
     "DE": "Contract Additional Details: Sliding Scale",
@@ -391,9 +459,17 @@
   "id5bb12d7fa6713b89f8af": {
     "EN": "GST Exemption"
   },
+  "id5be733e95bb26b3ecde6": {
+    "DE": "Variablen anzeigen",
+    "EN": "View variables"
+  },
   "id5c2daeb5d4ee90c83d0d": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "id5d58efaf7c28f2df4ea5": {
+    "DE": "Summenart",
+    "EN": "Sum type"
   },
   "id5d7d3c3d26713ddd375e": {
     "DE": "EMI Limits (in Days)",
@@ -402,6 +478,10 @@
   "id5dbacfa335f427d5a8b1": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
+  },
+  "id5e286046f2074d013622": {
+    "DE": "Leistungen einfügen",
+    "EN": "Paste benefits"
   },
   "id5ef4aa3c65509eb96252": {
     "DE": "Reinstatement Terms",
@@ -415,9 +495,17 @@
     "DE": "XL Layers",
     "EN": "XL Layers"
   },
+  "id62e322d0e7ed013fdb0b": {
+    "DE": "Laufzeit (JJ/MM)",
+    "EN": "Duration (YY/MM)"
+  },
   "id63741b308a88000e4e7f": {
     "DE": "Others",
     "EN": "Others"
+  },
+  "id637c8e5154415f9be691": {
+    "DE": "Versicherungsvertrag bearbeiten",
+    "EN": "Edit Coverage"
   },
   "id643a9b0985580e155244": {
     "DE": "Spillover covered in excess of",
@@ -459,21 +547,45 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id6933c62e7eb3c42d93c4": {
+    "DE": "Leistungen einfügen",
+    "EN": "Paste Benefits"
+  },
   "id6b6f931665252b02727b": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id6b9b32e976f23b36ed55": {
+    "DE": "Zusatzinformationen",
+    "EN": "More information"
   },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
     "EN": "Value"
   },
+  "id6df5e2a892d198e5cd43": {
+    "DE": "Leistungen kopieren",
+    "EN": "Copy benefits"
+  },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id707a4945d83c00b0e111": {
+    "DE": "Leistungsumfang anzeigen",
+    "EN": "View Scope of Benefits"
+  },
   "id70bb42d47fe4d579f841": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id71dddb9fe731786a9466": {
+    "DE": "Zusatzinformationen anzeigen",
+    "EN": "View Additional Information"
+  },
+  "id73257d17eb7c85965f12": {
+    "DE": "Leistungsumfang definieren…",
+    "EN": "Define Scope of Benefits..."
   },
   "id73cbf788a871b1683dc4": {
     "DE": "Class of Business",
@@ -482,6 +594,14 @@
   "id743574fcf7e5a5a96f65": {
     "DE": "Cow",
     "EN": "Cow"
+  },
+  "id7465f7ae9045cc4a958b": {
+    "DE": "Variablen anzeigen",
+    "EN": "View variables"
+  },
+  "id7677853de5004e681326": {
+    "DE": "Leistungsumfang anzeigen",
+    "EN": "View Scope of Benefits"
   },
   "id7683c402aa63dfd79911": {
     "DE": "Inuring Program",
@@ -495,6 +615,14 @@
     "DE": "VRE Our Share Premium",
     "EN": "VRE Our Share Premium"
   },
+  "id77de56bb4d9f4570b3ec": {
+    "DE": "Variablen bearbeiten",
+    "EN": "Edit variables"
+  },
+  "id78c990677021e857903a": {
+    "DE": "Leistungsumfang definieren…",
+    "EN": "Define Scope of Benefits..."
+  },
   "id79038bcac066e0f0ce95": {
     "DE": "Sheep",
     "EN": "Sheep"
@@ -506,6 +634,10 @@
   "id79fad50a2c7ea1e1c507": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id7a90259cbedd643ab463": {
+    "DE": "Ausgewählt",
+    "EN": "Selected"
   },
   "id7c6191544c7750407630": {
     "DE": "Top Drop",
@@ -537,6 +669,14 @@
     "DE": "Reinstatement Date",
     "EN": "Reinstatement Date"
   },
+  "id80071d239a173d5cf380": {
+    "DE": "Variablen bearbeiten...",
+    "EN": "Edit Variables..."
+  },
+  "id80d31770c524b434f114": {
+    "DE": "Variablen anzeigen",
+    "EN": "View Variables"
+  },
   "id833982cfe87def2d9f22": {
     "DE": "Add",
     "EN": "Add"
@@ -558,9 +698,17 @@
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
   },
+  "id862b606ae9c26544822c": {
+    "DE": "Objekt bearbeiten",
+    "EN": "Edit object"
+  },
   "id863b9b656d297c9953a9": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
+  },
+  "id86b0e100f75eb1a44255": {
+    "DE": "Leistungsumfang anzeigen",
+    "EN": "View scope of benefits"
   },
   "id86becfb89ca20595ac92": {
     "DE": "VRE Our Share",
@@ -573,6 +721,10 @@
   "id87f5d2dad9f28a28586b": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
+  },
+  "id888c041dd0f5515f095d": {
+    "DE": "Leistungen einfügen",
+    "EN": "Paste Benefits"
   },
   "id88ab55e9909544e744a6": {
     "DE": "Remove",
@@ -610,6 +762,10 @@
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
   },
+  "id949795b019cf46d5998b": {
+    "DE": "Leistungen kopieren",
+    "EN": "Copy Benefits"
+  },
   "id9955abc8b4316de10c6b": {
     "DE": "Limit",
     "EN": "Limit"
@@ -629,6 +785,10 @@
   "id9c2348a27e1c268cc140": {
     "DE": "Leistungen einfügen",
     "EN": "Paste Benefits"
+  },
+  "id9c6808d1d9c6974e1db7": {
+    "DE": "Jahrestarifprämie netto",
+    "EN": "Annual net base premium"
   },
   "id9d69f1f7e077b94b02da": {
     "DE": "Add",
@@ -665,6 +825,10 @@
     "DE": "XOL Layer",
     "EN": "XOL Layer"
   },
+  "ida137971123dcc900214d": {
+    "DE": "Versicherungsvertrag bearbeiten",
+    "EN": "Edit coverage"
+  },
   "ida234c796e2b8898e21cf": {
     "DE": "",
     "EN": "Branch Name"
@@ -689,6 +853,14 @@
     "DE": "Adjustment Rate",
     "EN": "Adjustment Rate"
   },
+  "ida5fc625b50337e35e40b": {
+    "DE": "Versicherungsvertrag bearbeiten",
+    "EN": "Edit coverage"
+  },
+  "ida65a4593ac513564c1f4": {
+    "DE": "Summenart Wert",
+    "EN": "Sum type value"
+  },
   "ida6c64e7906a9d9b8ba8e": {
     "EN": "Original Risk/Insured"
   },
@@ -703,6 +875,10 @@
   "idad3fd2409e727fc1791e": {
     "DE": "Leistungsumfang anzeigen",
     "EN": "View scope of benefits"
+  },
+  "idad4c5dad27a3756e6197": {
+    "DE": "Summenart",
+    "EN": "Sum type"
   },
   "idadfe80d560dfe62e98ae": {
     "DE": "Bedingungen anzeigen",
@@ -730,6 +906,10 @@
     "DE": "Limit",
     "EN": "Limit"
   },
+  "idb31277270470e390c214": {
+    "DE": "Leistungen einfügen",
+    "EN": "Paste benefits"
+  },
   "idb4cd2631afd5335145eb": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -748,6 +928,10 @@
   "idb6470bc58b4fcf9819fd": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "idb676bece9c1790d15d04": {
+    "DE": "Zeige",
+    "EN": "Show"
   },
   "idb6c1f35718ec889fd57e": {
     "DE": "Gruppengeschäftsvertrag",
@@ -791,6 +975,10 @@
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
   },
+  "idbf146b95a8a466347e1b": {
+    "DE": "Bausteine hinzufügen...",
+    "EN": "Add components..."
+  },
   "idc0ea95f32c6bf111c1d5": {
     "DE": "Add",
     "EN": "Add"
@@ -818,6 +1006,10 @@
   "idc63a8009e3d759adff11": {
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
+  },
+  "idc6ec26359bfb01e42f63": {
+    "DE": "Bausteine hinzufügen...",
+    "EN": "Add Components..."
   },
   "idc737f0f7b07534b5356e": {},
   "idc8473ba7b46823d41408": {
@@ -847,8 +1039,24 @@
   "idcb7bf1d8851e37dd4f65": {
     "EN": "VRL product code"
   },
+  "idcbae31c8b011526d3aa8": {
+    "DE": "Variablen bearbeiten",
+    "EN": "Edit variables"
+  },
+  "idccb0309e140f299644cb": {
+    "DE": "Objekt bearbeiten",
+    "EN": "Edit Object"
+  },
   "idcd3744a3bdc53002f1db": {
     "EN": "UW Year"
+  },
+  "idcd5224e4516273420a60": {
+    "DE": "Laufzeit (JJ/MM)",
+    "EN": "Duration (YY/MM)"
+  },
+  "idcf6a966cece70f7efada": {
+    "DE": "Beschreibung",
+    "EN": "Description"
   },
   "idcfe8e30e8fc5a0e9e137": {
     "DE": "Entfernen",
@@ -892,6 +1100,10 @@
     "DE": "Waiting Period in Months",
     "EN": "Waiting Period in Months"
   },
+  "idd6f8dd48e237a865d9e6": {
+    "DE": "Leistungsumfang anzeigen",
+    "EN": "View scope of benefits"
+  },
   "idd81716cc73b9bb04ae90": {
     "DE": "add",
     "EN": "Add"
@@ -899,6 +1111,10 @@
   "idd9a35bb54e463e3064ef": {
     "DE": "exclusions",
     "EN": "exclusions"
+  },
+  "iddac61f61ea26d0c7adce": {
+    "DE": "Zusatzinformationen anzeigen",
+    "EN": "View additional information"
   },
   "iddc863292876a1750c4ba": {
     "DE": "Objekt bearbeiten",
@@ -924,6 +1140,10 @@
     "DE": "Retention",
     "EN": "Retention"
   },
+  "iddf0b97903441f83e0057": {
+    "DE": "Leistungsumfang definieren...",
+    "EN": "Define Scope of Benefits..."
+  },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -943,6 +1163,10 @@
   "ide2007987192f7d5337e0": {
     "DE": "Zeige",
     "EN": "Show"
+  },
+  "ide35bacdb9ef6290226b7": {
+    "DE": "Zusatzinformationen anzeigen",
+    "EN": "View additional information"
   },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
@@ -980,6 +1204,10 @@
     "DE": "Objekt bearbeiten",
     "EN": "Edit object"
   },
+  "ideb6cf234d7375e3a78bd": {
+    "DE": "Prämie gemäß Zahlweise",
+    "EN": "Premium according to payment frequency"
+  },
   "ideb90753be1eb15321784": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -987,6 +1215,10 @@
   "idec47a75571d6e7faa64e": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idecb4cd03d307fb72e3ba": {
+    "DE": "Beschreibung",
+    "EN": "Description"
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
@@ -999,9 +1231,17 @@
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
   },
+  "ideff4a8082c1d7fbb0e14": {
+    "DE": "Prämie gemäß Zahlweise",
+    "EN": "Premium according to payment frequency"
+  },
   "idf05f6240ee083ffa549c": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "idf15f7fd2fb9c26960534": {
+    "DE": "Ausgewählt",
+    "EN": "Selected"
   },
   "idf43baa9d39c70441101d": {
     "DE": "Request Share",
@@ -1031,6 +1271,10 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy benefits"
   },
+  "idf8203774feec90599b8d": {
+    "DE": "Bedingungen anzeigen",
+    "EN": "View Terms and Conditions"
+  },
   "idf894d7dd5dd25c903f24": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
@@ -1038,6 +1282,10 @@
   "idf987d7521724092e153c": {
     "DE": "Coverage Additional Details: Territorial Scope",
     "EN": "Coverage Additional Details: Territorial Scope"
+  },
+  "idfa7f0b94d76bd6fe44df": {
+    "DE": "Bedingungen anzeigen",
+    "EN": "View terms and conditions"
   },
   "idfb06fea4597e6c883bf3": {
     "DE": "Spillover",
