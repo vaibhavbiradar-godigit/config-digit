@@ -55,6 +55,10 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy Benefits"
   },
+  "id07f6a97e8da9e51e8730": {
+    "DE": "Territorial Scope",
+    "EN": "Territorial Scope"
+  },
   "id0870871190817db2dcab": {
     "DE": "Remove",
     "EN": "Remove"
@@ -79,6 +83,10 @@
     "DE": "Perils",
     "EN": "Perils"
   },
+  "id0c1bbc8cc0588fb3cb50": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
   "id0c54235e61e79c921768": {
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
@@ -90,6 +98,18 @@
   "id0d50ce899ab5a4fcf2b3": {
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
+  },
+  "id0e2b6670a5fb84bf2567": {
+    "DE": "Net Retained Lines",
+    "EN": "Net Retained Lines"
+  },
+  "id0ec95c5e2438c8f35904": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
+  "id0f357e5f2d93ace0f188": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
   },
   "id102cd038dafef6561522": {
     "DE": "Reinstatement Date",
@@ -153,6 +173,10 @@
   "id162feca8e7e5b6432cde": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id16930ef4db46060882d2": {
+    "DE": "Inuring Programs",
+    "EN": "Inuring Programs"
   },
   "id178682ddb4795bad3814": {
     "DE": "VRE Our Manual Rate on Line",
@@ -233,6 +257,10 @@
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
   },
+  "id22b31810f86ee922ed66": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
   "id23e79d302cb7188a83da": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -267,6 +295,10 @@
   "id27d0f08303828c4c2b38": {
     "DE": "Prämie gemäß Zahlweise",
     "EN": "Premium according to payment frequency"
+  },
+  "id286df48ed1875d53722c": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "id28e2d720d2a6ba39fc09": {
     "DE": "Entfernen",
@@ -393,6 +425,10 @@
     "DE": "Variablen anzeigen",
     "EN": "View Variables"
   },
+  "id3f76158956e408510b7b": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "id3fd198ae6e587414ccb0": {
     "DE": "Coverage Additional Details: Sliding Scale",
     "EN": "Coverage Additional Details: Sliding Scale"
@@ -425,6 +461,10 @@
     "DE": "Contract Additional Details: Sliding Scale",
     "EN": "Contract Additional Details: Sliding Scale"
   },
+  "id48a06cc472c171bd6d45": {
+    "DE": "Remove",
+    "EN": "Remove"
+  },
   "id495076333f242bc618a6": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -456,6 +496,10 @@
   "id4d7f1e30daca3ba77784": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id4dc70aae12ca73eaac34": {
+    "DE": "Spillover covered in excess of",
+    "EN": "Spillover covered in excess of"
   },
   "id4f835a5c6deceb1a4749": {
     "DE": "Maximum Retention Amount",
@@ -736,6 +780,10 @@
   "id814d734571715c1903c5": {
     "EN": "Remove"
   },
+  "id82607d1dc2edcf8f21a8": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "id829c8e6d2b68d376535a": {
     "DE": "Treaty Limits",
     "EN": "Treaty Limits"
@@ -758,6 +806,10 @@
     "EN": "Remove"
   },
   "id85b6131e9e16f5ba09ec": {},
+  "id85e7026b5326c79d9013": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
   "id860fdf1c8026a83d3ab1": {
     "EN": "Arrangement Type"
   },
@@ -817,9 +869,21 @@
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
   },
+  "id8f3274b2cb5f0699b3f5": {
+    "DE": "Inuring Program",
+    "EN": "Inuring Program"
+  },
   "id8ff993e3e9fe9fd589c2": {
     "DE": "Leader's Participation",
     "EN": "Leader's Participation"
+  },
+  "id900214a49e486b95839d": {
+    "DE": "Inuring Limit",
+    "EN": "Inuring Limit"
+  },
+  "id908d88bab48047ad86c2": {
+    "DE": "Add",
+    "EN": "Add"
   },
   "id9160c2e84376f0d1f396": {
     "DE": "Miscellaneous Risk Class",
@@ -920,6 +984,10 @@
     "DE": "",
     "EN": "Branch Name"
   },
+  "ida24dff5f4ac04ec80f0b": {
+    "DE": "Sr. No.",
+    "EN": "Sr. No."
+  },
   "ida2938ca8b5d694c6ea24": {
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
@@ -945,6 +1013,10 @@
     "EN": "Define Scope of Benefits..."
   },
   "ida58bca58fbc563739db6": {
+    "DE": "Add",
+    "EN": "Add"
+  },
+  "ida5e1943980d3e48e86df": {
     "DE": "Add",
     "EN": "Add"
   },
@@ -1000,6 +1072,10 @@
   "idb2ba0976bd4f32a2971f": {
     "DE": "Limit",
     "EN": "Limit"
+  },
+  "idb37d9a5d98b4a11a915d": {
+    "DE": "Territorial Scope",
+    "EN": "Territorial Scope"
   },
   "idb4cd2631afd5335145eb": {
     "DE": "Class of Business",
@@ -1213,6 +1289,18 @@
     "DE": "Inuring Program",
     "EN": "Inuring Program"
   },
+  "idd059990b73ebf5065d7c": {
+    "DE": "Class of Business",
+    "EN": "Class of Business"
+  },
+  "idd1091c6a8bfbc26c070c": {
+    "DE": "Maximum Retention Amount",
+    "EN": "Maximum Retention Amount"
+  },
+  "idd10adf6b2743ca5416cb": {
+    "DE": "Spillover",
+    "EN": "Spillover"
+  },
   "idd113cb08032b1ebf3653": {
     "DE": "Loss Ration Scale",
     "EN": "Loss Ration Scale"
@@ -1367,6 +1455,10 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
+  "ide716f36f53f1f259c4dc": {
+    "DE": "Add",
+    "EN": "Add"
+  },
   "ide7feaa52d69c740fa5d4": {
     "DE": "Years",
     "EN": "Years"
@@ -1446,6 +1538,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "idfa4ca53dfdf794384f65": {
+    "DE": "Exposure Basis",
+    "EN": "Exposure Basis"
+  },
   "idfb06fea4597e6c883bf3": {
     "DE": "Spillover",
     "EN": "Spillover"
@@ -1465,6 +1561,10 @@
   "idfc8bc1a8eaae30c68e6d": {
     "DE": "Livestock Rate Master",
     "EN": "Livestock Rate Master"
+  },
+  "idfe303b92c51355dbbb8f": {
+    "DE": "Remove",
+    "EN": "Remove"
   },
   "idfe34fd3f996c41bfafcd": {
     "DE": "Spillover",
