@@ -1,11 +1,58 @@
 {
   "entities": {
+    "id000d88f76cfacc2f7a11": {
+      "children": [
+        "id3e0584c7b877800907c1"
+      ],
+      "colspan": 6,
+      "id": "id000d88f76cfacc2f7a11",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "MRNPNPVariant"
+    },
+    "id0087718cb27ad488cdc9": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "instalments",
+      "format": "",
+      "id": "id0087718cb27ad488cdc9",
+      "type": "input"
+    },
+    "id009f50335fe1ddada49d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "exclusions",
+      "format": "",
+      "id": "id009f50335fe1ddada49d",
+      "type": "input"
+    },
+    "id00bda1d9a07b0967cfab": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id00bda1d9a07b0967cfab",
+      "style": "secondary",
+      "type": "button"
+    },
     "id00ebe63c13ddba7298f7": {
       "colspan": 2,
       "columnWidth": "167",
       "facadeId": "xolLayer",
       "id": "id00ebe63c13ddba7298f7",
       "type": "dropdown"
+    },
+    "id0124c9348b5dae438dc4": {
+      "children": [
+        "id07f6a97e8da9e51e8730"
+      ],
+      "colspan": 6,
+      "id": "id0124c9348b5dae438dc4",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id01f855459bbcc8023e48": {
       "alignment": "left",
@@ -38,6 +85,48 @@
       "style": "secondary",
       "type": "button"
     },
+    "id03d2cd609d9dcc134f90": {
+      "colspan": 2,
+      "columnWidth": "65",
+      "facadeId": "checked",
+      "id": "id03d2cd609d9dcc134f90",
+      "type": "checkbox"
+    },
+    "id04307370e10fdc92e805": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "string",
+      "facadeId": "exclusions",
+      "format": "",
+      "id": "id04307370e10fdc92e805",
+      "type": "input"
+    },
+    "id0433090391d7d6a9a25c": {
+      "children": [
+        "idce0f31173190804a2817",
+        "id42b96cd705f5f3bbe4f0",
+        "idd9e359ba67f835f61576",
+        "id8d6616179b14ced660f8"
+      ],
+      "colspan": 6,
+      "facadeId": "inuringDetails",
+      "hideColumnHeader": false,
+      "id": "id0433090391d7d6a9a25c",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "inuringDetailsVariant"
+    },
+    "id04a6f912d31544b34c46": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "marinePolicyNumber",
+      "format": "",
+      "id": "id04a6f912d31544b34c46",
+      "type": "input"
+    },
     "id064aed8710fead884f5d": {
       "children": [
         "id9ed492588c81a76c710b",
@@ -51,7 +140,40 @@
       "isMultiSelect": false,
       "rowspan": 4,
       "showRowNumber": false,
+      "type": "list",
+      "variant": "slidingScaleDataVariant"
+    },
+    "id0671bbd7fb0c0be84c65": {
+      "facadeId": "editCoverage",
+      "id": "id0671bbd7fb0c0be84c65",
+      "type": "contextMenuEntry"
+    },
+    "id06ca3a467b7fe1a32f5c": {
+      "colspan": 1,
+      "facadeId": "copyBenefits",
+      "id": "id06ca3a467b7fe1a32f5c",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id07f6a97e8da9e51e8730": {
+      "children": [
+        "id0f357e5f2d93ace0f188",
+        "idd059990b73ebf5065d7c",
+        "ida308bd3698543b4ac0f6",
+        "idb37d9a5d98b4a11a915d"
+      ],
+      "colspan": 6,
+      "facadeId": "territorialScope",
+      "id": "id07f6a97e8da9e51e8730",
+      "rowspan": 4,
       "type": "list"
+    },
+    "id0870871190817db2dcab": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id0870871190817db2dcab",
+      "style": "secondary",
+      "type": "button"
     },
     "id09f05e6416b07b9c4d94": {
       "alignment": "left",
@@ -95,6 +217,40 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id0b66363ed18fc30eca31": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "deductible",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id0b66363ed18fc30eca31",
+      "type": "input"
+    },
+    "id0bb94f320c401ee64d08": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "perils",
+      "id": "id0bb94f320c401ee64d08",
+      "type": "dropdown"
+    },
+    "id0c1bbc8cc0588fb3cb50": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id0c1bbc8cc0588fb3cb50",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id0c54235e61e79c921768": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "reinstatementTerms",
+      "format": "",
+      "id": "id0c54235e61e79c921768",
+      "type": "input"
+    },
     "id0cf42d92b309108bbc5e": {
       "alignment": "left",
       "colspan": 2,
@@ -121,14 +277,72 @@
       "rowspan": 4,
       "type": "list"
     },
-    "id0f61e821c30093bc22d9": {
+    "id0e2b6670a5fb84bf2567": {
       "children": [
-        "ida7cef976b1a8ad41527f"
+        "ida24dff5f4ac04ec80f0b",
+        "id85e7026b5326c79d9013",
+        "id26207480234af4b5ab6e",
+        "idfa4ca53dfdf794384f65",
+        "idd1091c6a8bfbc26c070c"
       ],
+      "colspan": 6,
+      "facadeId": "retenstionLine",
+      "id": "id0e2b6670a5fb84bf2567",
+      "rowspan": 4,
+      "type": "list"
+    },
+    "id0ec95c5e2438c8f35904": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id0ec95c5e2438c8f35904",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id0ecccc460e04ed3cfbfa": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "marineCertificateNumber",
+      "format": "",
+      "id": "id0ecccc460e04ed3cfbfa",
+      "type": "input"
+    },
+    "id0f357e5f2d93ace0f188": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id0f357e5f2d93ace0f188",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id0f61e821c30093bc22d9": {
       "colspan": 6,
       "id": "id0f61e821c30093bc22d9",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "towerLayersVariant"
+    },
+    "id0f7f1270361908ce1270": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "surveyorName",
+      "format": "",
+      "id": "id0f7f1270361908ce1270",
+      "type": "input"
     },
     "id1022d5facbdcb39d6452": {
       "id": "id1022d5facbdcb39d6452",
@@ -155,12 +369,30 @@
     },
     "id11a4e747de28b3dd7027": {
       "children": [
+        "idd2893941c99ec460cadf",
+        "id16058a848239a5dd6d2d",
+        "id1c5fea56b2aba267a604",
+        "id46a4014ccb1f7cbc6a7f",
+        "id5c123b1aff7367a74897",
+        "id5080a935aa365c2b3c77",
+        "idfe34fd3f996c41bfafcd",
+        "id0433090391d7d6a9a25c",
+        "idc02f2a728ae84e9c05d1",
+        "id2cfaac437ed503816c33",
+        "id1dc16a7cc1558a8404d5",
         "id064aed8710fead884f5d"
       ],
       "colspan": 6,
       "id": "id11a4e747de28b3dd7027",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id11cf7e7b20ea28534228": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "surveyorReportDate",
+      "id": "id11cf7e7b20ea28534228",
+      "type": "datepicker"
     },
     "id120eca718af7ee9470d5": {
       "alignment": "left",
@@ -171,6 +403,13 @@
       "format": "FORMAT_AMOUNT",
       "id": "id120eca718af7ee9470d5",
       "type": "input"
+    },
+    "id1224cf391d6a51415195": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "terminalType",
+      "id": "id1224cf391d6a51415195",
+      "type": "dropdown"
     },
     "id12732b111d492ea71707": {
       "alignment": "left",
@@ -195,13 +434,11 @@
       "type": "button"
     },
     "id13cb4ae08c6a5e26563c": {
-      "children": [
-        "idc3bf83183058c7c9a182"
-      ],
       "colspan": 6,
       "id": "id13cb4ae08c6a5e26563c",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "gradedRetentionVariant"
     },
     "id13f1841c00684b9620ca": {
       "alignment": "left",
@@ -229,6 +466,16 @@
       "id": "id148a8035bd3756fe3275",
       "type": "input"
     },
+    "id148a958301cc7c601fc8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "signedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id148a958301cc7c601fc8",
+      "type": "input"
+    },
     "id1555b5ca71ef00f10874": {
       "alignment": "left",
       "colspan": 2,
@@ -238,6 +485,40 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id1555b5ca71ef00f10874",
       "type": "input"
+    },
+    "id156634c2ecaf1f72ba5e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "id156634c2ecaf1f72ba5e",
+      "type": "input"
+    },
+    "id15a933979493396357d4": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "classificationSociety",
+      "id": "id15a933979493396357d4",
+      "type": "dropdown"
+    },
+    "id16058a848239a5dd6d2d": {
+      "children": [
+        "idc9e970a64f66580088bf",
+        "id91e4acf9c63a0e182a93",
+        "id5b1998824eb2ad5a305f",
+        "idfb93083924ae8a000817",
+        "id9e2c46f3224daa4c659c",
+        "id9c4ae8ae05381e68e5fe"
+      ],
+      "colspan": 6,
+      "facadeId": "coverLimits",
+      "hideColumnHeader": false,
+      "id": "id16058a848239a5dd6d2d",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "coverLimitsVariant"
     },
     "id160d958bc405e59b9938": {
       "alignment": "left",
@@ -256,6 +537,39 @@
       "style": "secondary",
       "type": "button"
     },
+    "id16905103af9710ebe0bc": {
+      "children": [
+        "idc754c2bdc1097211f4e9"
+      ],
+      "colspan": 6,
+      "id": "id16905103af9710ebe0bc",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsSurplusVariant"
+    },
+    "id16930ef4db46060882d2": {
+      "children": [
+        "id0ec95c5e2438c8f35904",
+        "id22b31810f86ee922ed66",
+        "id61cf171d6669ad39ab90",
+        "id900214a49e486b95839d"
+      ],
+      "colspan": 6,
+      "facadeId": "inuringDetails",
+      "id": "id16930ef4db46060882d2",
+      "rowspan": 4,
+      "type": "list"
+    },
+    "id178682ddb4795bad3814": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualRateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "id178682ddb4795bad3814",
+      "type": "input"
+    },
     "id188e10738c314f3e6005": {
       "children": [
         "ida01f035f4501c6a53c6b",
@@ -265,6 +579,13 @@
       "id": "id188e10738c314f3e6005",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id18ee1d74943430aa6210": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id18ee1d74943430aa6210",
+      "style": "secondary",
+      "type": "button"
     },
     "id191af952b8a634ce660e": {
       "colspan": 2,
@@ -302,6 +623,16 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "id1a9b60b82ab6472d7994": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "incurredLossAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1a9b60b82ab6472d7994",
+      "type": "input"
     },
     "id1afafb73b3df8a487acc": {
       "children": [
@@ -343,6 +674,37 @@
       "rowspan": 3,
       "type": "list"
     },
+    "id1b23f0810a355c5f3014": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "estimatedLoss",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1b23f0810a355c5f3014",
+      "type": "input"
+    },
+    "id1b38476c90f9fee80006": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "crewSafety",
+      "id": "id1b38476c90f9fee80006",
+      "type": "dropdown"
+    },
+    "id1b56732011bcaf7df644": {
+      "alignment": "right",
+      "children": [
+        "id3f2158d057e6a1bd5ce4",
+        "id5913e2ca5e2e8945e603",
+        "ida7765da40ed0e8a1c18a",
+        "id39622899ac9d799b3089",
+        "id29f017aa1dac49ef63af"
+      ],
+      "colspan": 6,
+      "id": "id1b56732011bcaf7df644",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id1b79bfce9ea576ee8ebb": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -352,6 +714,24 @@
       ],
       "colspan": 3,
       "id": "id1b79bfce9ea576ee8ebb",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id1b7c3c5cb4ef9b722cef": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "miscellaneousRiskClass",
+      "id": "id1b7c3c5cb4ef9b722cef",
+      "type": "dropdown"
+    },
+    "id1bf5c5ff527d70768ef0": {
+      "alignment": "right",
+      "children": [
+        "id908d88bab48047ad86c2",
+        "id286df48ed1875d53722c"
+      ],
+      "colspan": 6,
+      "id": "id1bf5c5ff527d70768ef0",
       "rowspan": 1,
       "type": "buttongroup"
     },
@@ -375,12 +755,85 @@
       "parentFacadeId": "criteria",
       "type": "datepicker"
     },
+    "id1c5fea56b2aba267a604": {
+      "children": [
+        "idb6a5ada59aede37043b9",
+        "id89324e9e2bce899d1922",
+        "id260f2eff208327f52182",
+        "id4ced3428a4d97de987af",
+        "id70fe0f1ea26dc795c2f2",
+        "id9c4820a3d6b759b3cc80",
+        "id5227ba0f6efc42ba17c0",
+        "idfeac0c7f3bf31f7c6662",
+        "id0b66363ed18fc30eca31",
+        "idb046f6d6ef1b2389a1c3"
+      ],
+      "colspan": 6,
+      "facadeId": "livestockRate",
+      "hideColumnHeader": false,
+      "id": "id1c5fea56b2aba267a604",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "livestockRateVariant"
+    },
+    "id1da2f772082955948d72": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "rateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1da2f772082955948d72",
+      "type": "input"
+    },
+    "id1dc16a7cc1558a8404d5": {
+      "children": [
+        "idc193d141d7bad881f863",
+        "id27a7de57f9c28295f36f",
+        "id61f4c9438f3b49f5f84d",
+        "idc8dd48bb10a28636e04c"
+      ],
+      "colspan": 6,
+      "facadeId": "gradedRetention",
+      "id": "id1dc16a7cc1558a8404d5",
+      "rowspan": 4,
+      "showRowNumber": false,
+      "type": "list",
+      "variant": "gradedRetentionVariant"
+    },
+    "id1e337ae4883c871f74cc": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "surveyorFindings",
+      "format": "",
+      "id": "id1e337ae4883c871f74cc",
+      "type": "input"
+    },
     "id1e4eada3895f9b59b57e": {
       "colspan": 2,
       "facadeId": "remove",
       "id": "id1e4eada3895f9b59b57e",
       "style": "secondary",
       "type": "button"
+    },
+    "id1eb7578536764b2f772d": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "assetType",
+      "id": "id1eb7578536764b2f772d",
+      "type": "dropdown"
+    },
+    "id1f234a3ce0a07d6aab0b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "noOfLines",
+      "format": "",
+      "id": "id1f234a3ce0a07d6aab0b",
+      "type": "input"
     },
     "id1f62b7e5f205c3b6b17f": {
       "alignment": "right",
@@ -394,6 +847,17 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id202293c783313bf9623f": {
+      "alignment": "right",
+      "children": [
+        "idde63c6a96ed6e8c04fbe",
+        "ided1ef982eda3e1c8bb69"
+      ],
+      "colspan": 6,
+      "id": "id202293c783313bf9623f",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
     "id21b1c0c9ea605a63d7de": {
       "alignment": "left",
       "colspan": 2,
@@ -402,6 +866,23 @@
       "facadeId": "spilloverExcess",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id21b1c0c9ea605a63d7de",
+      "type": "input"
+    },
+    "id21dc59c92818829c4f5c": {
+      "colspan": 1,
+      "facadeId": "insertBenefits",
+      "id": "id21dc59c92818829c4f5c",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id220c941d47eae881f758": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "retention",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id220c941d47eae881f758",
       "type": "input"
     },
     "id2255be6a7e799c1342fb": {
@@ -428,12 +909,111 @@
       "rowspan": 4,
       "type": "list"
     },
+    "id229570efe608a5527f36": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "floodZone",
+      "format": "",
+      "id": "id229570efe608a5527f36",
+      "type": "input"
+    },
+    "id22b31810f86ee922ed66": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "inuringProgram",
+      "id": "id22b31810f86ee922ed66",
+      "type": "dropdown"
+    },
+    "id22be589c57ab4fd89e9e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "voyageDestinationPort",
+      "format": "",
+      "id": "id22be589c57ab4fd89e9e",
+      "type": "input"
+    },
+    "id23e79d302cb7188a83da": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "territorialScopeCol",
+      "id": "id23e79d302cb7188a83da",
+      "type": "dropdown"
+    },
     "id25bbe5083ca1858a9481": {
       "colspan": 2,
       "facadeId": "issuanceEndDateSearchCriteria",
       "id": "id25bbe5083ca1858a9481",
       "parentFacadeId": "criteria",
       "type": "datepicker"
+    },
+    "id25cfed0b253512c09555": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "reinstatementType",
+      "id": "id25cfed0b253512c09555",
+      "type": "dropdown"
+    },
+    "id260d56953e3c67c72797": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id260d56953e3c67c72797",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id260f2eff208327f52182": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "cow",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id260f2eff208327f52182",
+      "type": "input"
+    },
+    "id26207480234af4b5ab6e": {
+      "alignment": "right",
+      "children": [
+        "ida5e1943980d3e48e86df",
+        "id48a06cc472c171bd6d45"
+      ],
+      "colspan": 6,
+      "id": "id26207480234af4b5ab6e",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id262c93eb2d1e934611ea": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id262c93eb2d1e934611ea",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id265be0fa5acbf35cf08d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "requestedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id265be0fa5acbf35cf08d",
+      "type": "input"
+    },
+    "id2698f8f868fdde158e9d": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "id2698f8f868fdde158e9d",
+      "style": "secondary",
+      "type": "button"
     },
     "id26a9b4872136da1c7bb7": {
       "alignment": "left",
@@ -455,13 +1035,11 @@
       "type": "layoutbox"
     },
     "id2715ef2fc25d31137631": {
-      "children": [
-        "idde40aebc852775d62035"
-      ],
       "colspan": 6,
       "id": "id2715ef2fc25d31137631",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "coverLimitsVariant"
     },
     "id2799551622df9b36b9b1": {
       "alignment": "left",
@@ -475,6 +1053,38 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "id27a7de57f9c28295f36f": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "gradedCedantGrossRetention",
+      "id": "id27a7de57f9c28295f36f",
+      "type": "dropdown"
+    },
+    "id27d0f08303828c4c2b38": {
+      "colspan": 2,
+      "columnWidth": "120",
+      "facadeId": "annualNetBasePremium",
+      "id": "id27d0f08303828c4c2b38",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "id286df48ed1875d53722c": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id286df48ed1875d53722c",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id28d6f3502ac4a854293d": {
+      "children": [
+        "id0e2b6670a5fb84bf2567"
+      ],
+      "colspan": 6,
+      "id": "id28d6f3502ac4a854293d",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id28e2d720d2a6ba39fc09": {
       "colspan": 1,
@@ -498,6 +1108,13 @@
       "id": "id292bc45858203de4188f",
       "type": "input"
     },
+    "id2956c7f171e304196759": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "flag",
+      "id": "id2956c7f171e304196759",
+      "type": "dropdown"
+    },
     "id29acbb275311efb6895a": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -520,6 +1137,16 @@
       "id": "id29d4d4964abf773ce4e0",
       "type": "input"
     },
+    "id29f017aa1dac49ef63af": {
+      "colspan": 1,
+      "facadeId": "addComponents",
+      "id": "id29f017aa1dac49ef63af",
+      "openSliders": {
+        "id5595adeb47cc1ec42781": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
       "colspan": 2,
@@ -532,6 +1159,36 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "id2c2beb13a14b2fd90690": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id2c2beb13a14b2fd90690",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id2c47f6a800c4ad012eb6": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "sumType",
+      "id": "id2c47f6a800c4ad012eb6",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "id2cfaac437ed503816c33": {
+      "children": [
+        "idb8c88b3b1e5c1251bd66",
+        "ide19fb2d5c57f2f48707a",
+        "id23e79d302cb7188a83da",
+        "idc0897c970bed4191c075"
+      ],
+      "colspan": 6,
+      "facadeId": "territorialScope",
+      "id": "id2cfaac437ed503816c33",
+      "rowspan": 4,
+      "showRowNumber": false,
+      "type": "list",
+      "variant": "territorialScopeVariant"
     },
     "id2d3116a006dbdb127fbd": {
       "children": [
@@ -550,13 +1207,11 @@
       "type": "radioButtonGroup"
     },
     "id2d80ea5c85120a46d449": {
-      "children": [
-        "id6587c5a24f5cffbf69ed"
-      ],
       "colspan": 6,
       "id": "id2d80ea5c85120a46d449",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "marineCargoVariant"
     },
     "id2dce9911748dbd16470a": {
       "colspan": 1,
@@ -612,6 +1267,14 @@
       "id": "id30a72304a91859e99e8c",
       "type": "dropdown"
     },
+    "id30a7f9196835ea591cb2": {
+      "colspan": 2,
+      "columnWidth": "120",
+      "facadeId": "annualNetBasePremium",
+      "id": "id30a7f9196835ea591cb2",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
     "id3103bbda3585ef72e143": {
       "colspan": 2,
       "facadeId": "placementTypeSearchCriteria",
@@ -649,6 +1312,20 @@
       "id": "id324a1d1a4de6497b8ee6",
       "type": "dropdown"
     },
+    "id33439948c06879839f89": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "engineType",
+      "id": "id33439948c06879839f89",
+      "type": "dropdown"
+    },
+    "id335f6be0f0cc4221264a": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id335f6be0f0cc4221264a",
+      "style": "secondary",
+      "type": "button"
+    },
     "id336cc84be9873b25ae89": {
       "children": [
         "id92ade9efcabd592ba621",
@@ -658,6 +1335,16 @@
       "id": "id336cc84be9873b25ae89",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id345f23379d1b9335147d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "claimNumber",
+      "format": "",
+      "id": "id345f23379d1b9335147d",
+      "type": "input"
     },
     "id34a8b54a705cca24a8a0": {
       "alignment": "left",
@@ -669,12 +1356,89 @@
       "id": "id34a8b54a705cca24a8a0",
       "type": "input"
     },
+    "id35244da0482986a6dc82": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "storageCapacity",
+      "format": "FORMAT_AMOUNT",
+      "id": "id35244da0482986a6dc82",
+      "type": "input"
+    },
+    "id35a32ac5eec3648ba60f": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "fireProtection",
+      "id": "id35a32ac5eec3648ba60f",
+      "type": "dropdown"
+    },
+    "id35ab3c9c3e87a3096b99": {
+      "id": "id35ab3c9c3e87a3096b99",
+      "label": "iddba70762eb749ca4693c",
+      "type": "columnGroup"
+    },
+    "id35ac66b05f248a85b03f": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "xolLayer",
+      "id": "id35ac66b05f248a85b03f",
+      "type": "dropdown"
+    },
+    "id35c495a188ccce8f0083": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "exposureBasis",
+      "id": "id35c495a188ccce8f0083",
+      "type": "dropdown"
+    },
+    "id35fceb8a659206d14f72": {
+      "colspan": 1,
+      "facadeId": "additionalData",
+      "id": "id35fceb8a659206d14f72",
+      "openSliders": {
+        "id158e9f2598b81b1eef52": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
+    "id361078c992118d061da6": {
+      "colspan": 1,
+      "facadeId": "viewScopeOfBenefits",
+      "id": "id361078c992118d061da6",
+      "openSliders": {
+        "id7479c99c5bbbc3020dea": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id37e2b9e6f8a4dc72c745": {
       "colspan": 1,
       "facadeId": "add",
       "id": "id37e2b9e6f8a4dc72c745",
       "style": "secondary",
       "type": "button"
+    },
+    "id39622899ac9d799b3089": {
+      "colspan": 1,
+      "facadeId": "editObject",
+      "id": "id39622899ac9d799b3089",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id39a783d8d4c5054f5f30": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "storageCapacityUnit",
+      "id": "id39a783d8d4c5054f5f30",
+      "type": "dropdown"
+    },
+    "id3c43f16b0f2cbe5c4911": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "transitMode",
+      "id": "id3c43f16b0f2cbe5c4911",
+      "type": "dropdown"
     },
     "id3cb7fdef6015d28de407": {
       "colspan": 2,
@@ -683,12 +1447,147 @@
       "id": "id3cb7fdef6015d28de407",
       "type": "dropdown"
     },
+    "id3d08ad8bf024223c1c33": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShareLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id3d08ad8bf024223c1c33",
+      "type": "input"
+    },
+    "id3d36c8b2d785e8a20090": {
+      "colspan": 1,
+      "facadeId": "viewTermsAndConditions",
+      "id": "id3d36c8b2d785e8a20090",
+      "openSliders": {
+        "id4c1349ec7da9cbb0c11a": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id3d623bf4f4343b3047e1": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "xolLayer",
       "id": "id3d623bf4f4343b3047e1",
       "type": "dropdown"
+    },
+    "id3d9a40abe81877e9b64d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id3d9a40abe81877e9b64d",
+      "type": "input"
+    },
+    "id3e0584c7b877800907c1": {
+      "children": [
+        "id4e131b548458506bf475",
+        "idfbde34b96a2a93d072a4",
+        "idd1ac37c8ae72b49d3f88",
+        "id9edd22d646b576aef7d3",
+        "id419e76211646430d568b",
+        "id22be589c57ab4fd89e9e",
+        "id3c43f16b0f2cbe5c4911",
+        "idb250f7ea0d14a9b28a24",
+        "idcd159d2111e845b6d663",
+        "id882527be9482e0112433",
+        "id78b0fba5bb6f012a4bb9",
+        "id88845c596b48ead97c83",
+        "idd8c0bafb379a2c136abd",
+        "idad4c215587776e1932c8",
+        "idc5cf142fca737226cac6",
+        "idddf3519214a3b172bb36",
+        "id009f50335fe1ddada49d",
+        "idb6ccb993cdda5865f0e0",
+        "id9a3a0d17a62f40c0c3a6",
+        "idd49480315ed08a69eed4",
+        "id656876e5c11f8f84029e",
+        "idb06b9d9e1ffdf5bbd755",
+        "id4780577f6c9790b4d3b7",
+        "id2956c7f171e304196759",
+        "id15a933979493396357d4",
+        "idb8d9696bc5ae40b0ea24",
+        "id33439948c06879839f89",
+        "id4a02cb85bef6157860a3",
+        "idcb7d1aa66067b98c14ac",
+        "id7c05739d8928dfd6802d",
+        "id54503dd33517b978abf3",
+        "id5fe0f8f0005a241ed1af",
+        "id81eff713587abd6a33c1",
+        "id56feb1425d87c6aa43b6",
+        "id1224cf391d6a51415195",
+        "id39a783d8d4c5054f5f30",
+        "id35244da0482986a6dc82",
+        "id5b8be8b5e9b08eb67528",
+        "id434d896bd0f0935719a7",
+        "id63b95e1e62f03831bd03",
+        "id229570efe608a5527f36",
+        "id35a32ac5eec3648ba60f",
+        "idc52398abee9a03e05b59",
+        "id909131f2ad8e8bba2194",
+        "idf266e45c1fac74000289",
+        "idbcf386c5ef938f4c335a",
+        "id54a4cba0e0f736cbecd8",
+        "id7f6437c040655aaef443",
+        "idb10d0977c477c9bf7a48",
+        "id8cbde33e92d9cee409bb",
+        "idf00d884343a2632d962e",
+        "id48f7a6e8c0348619c267",
+        "id919262d8d7750ee219fc",
+        "idfd290b4a07f60b0e6cfd",
+        "id85e45aefd7f414f88a0b",
+        "id1eb7578536764b2f772d",
+        "idd4b9a00dd92e972e83d3",
+        "idc4c14004d27bb29f22ac",
+        "ide888f336039ddea98075",
+        "id88398ebb73f38ea02716",
+        "id46e2ca8a38d396513408",
+        "id431b99c8d50e5439ef91",
+        "id65739effc7d34019a0ee",
+        "ida443145c4316cf45528c",
+        "iddc85fc6d4f06c6b39975",
+        "id1b38476c90f9fee80006",
+        "id90ea34e87a2e0a982be7",
+        "id345f23379d1b9335147d",
+        "id04a6f912d31544b34c46",
+        "id0ecccc460e04ed3cfbfa",
+        "id9a5f78e6a578b5719334",
+        "id74ffc850730042c45bc0",
+        "idc751341be27f7a5065a5",
+        "ide472de1a029936b76a21",
+        "id44e4faea01c7f949638a",
+        "id563c6dfa9a3d7eef8238",
+        "id6db87d80daf35decbcb2",
+        "id1b23f0810a355c5f3014",
+        "id80ecd9e366c8b6e62cc8",
+        "idaaeba6152946f32cb1b0",
+        "id4bd71cdfd55d2fc4470c",
+        "id7b56cd77315d5663e238",
+        "id1a9b60b82ab6472d7994",
+        "id826149684b3a96407ed1",
+        "id8c99dfa45cd4b25d8cf5",
+        "id0f7f1270361908ce1270",
+        "id11cf7e7b20ea28534228",
+        "id1e337ae4883c871f74cc",
+        "id777f389c6fd5e9d78c7c",
+        "ida427879d7fa92b8a6989",
+        "id8ef46f39c5a5241b57b3",
+        "id95a567a356f6ce927aa5",
+        "idc75db7747fed213f62e6",
+        "idb3b0453a6336a2cedcee",
+        "id6a2451dc18fce512c37f"
+      ],
+      "colspan": 6,
+      "facadeId": "marine",
+      "id": "id3e0584c7b877800907c1",
+      "isVirtualScrolling": true,
+      "rowspan": 4,
+      "type": "list"
     },
     "id3e59ff3d2561396b372c": {
       "colspan": 2,
@@ -706,6 +1605,29 @@
       "id": "id3ed59cf9c83e5ec23335",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id3f2158d057e6a1bd5ce4": {
+      "colspan": 1,
+      "facadeId": "viewTextComponents",
+      "id": "id3f2158d057e6a1bd5ce4",
+      "openSliders": {
+        "id6f371ba372b6f1dca513": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
+    "id3f76158956e408510b7b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id3f76158956e408510b7b",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
     },
     "id3fd198ae6e587414ccb0": {
       "children": [
@@ -729,6 +1651,16 @@
       "id": "id40c4f2102de0c37860a0",
       "type": "input"
     },
+    "id419e76211646430d568b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "voyageOriginPort",
+      "format": "",
+      "id": "id419e76211646430d568b",
+      "type": "input"
+    },
     "id41a99c400c747b6da365": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -740,6 +1672,33 @@
       "id": "id41a99c400c747b6da365",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id42b96cd705f5f3bbe4f0": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "inuringProgram",
+      "id": "id42b96cd705f5f3bbe4f0",
+      "type": "dropdown"
+    },
+    "id431b99c8d50e5439ef91": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "platformCatExposure",
+      "format": "",
+      "id": "id431b99c8d50e5439ef91",
+      "type": "input"
+    },
+    "id434d896bd0f0935719a7": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "portSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id434d896bd0f0935719a7",
+      "type": "input"
     },
     "id43c5707e40eac69dd736": {
       "alignment": "right",
@@ -760,6 +1719,31 @@
       "style": "secondary",
       "type": "button"
     },
+    "id44bc2543af78ae8b0eb3": {
+      "alignment": "right",
+      "children": [
+        "idfc711f4f8848a8d3a796",
+        "idbb85b106315604ddf9c8"
+      ],
+      "colspan": 6,
+      "id": "id44bc2543af78ae8b0eb3",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id44e4faea01c7f949638a": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "catEventFlag",
+      "id": "id44e4faea01c7f949638a",
+      "type": "dropdown"
+    },
+    "id44f11c93e2a5c5066fb2": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id44f11c93e2a5c5066fb2",
+      "style": "secondary",
+      "type": "button"
+    },
     "id45422e83ba05d35ef210": {
       "alignment": "left",
       "colspan": 2,
@@ -771,13 +1755,45 @@
       "type": "input"
     },
     "id45f5bcee21ce843ca4a4": {
-      "children": [
-        "id31195c496a5def1496a7"
-      ],
       "colspan": 6,
       "id": "id45f5bcee21ce843ca4a4",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "retenstionLineVariant"
+    },
+    "id46a4014ccb1f7cbc6a7f": {
+      "children": [
+        "ide20d60e03c6b335f7802",
+        "id1b7c3c5cb4ef9b722cef",
+        "id220c941d47eae881f758",
+        "id1f234a3ce0a07d6aab0b",
+        "id829c8e6d2b68d376535a",
+        "ide53de88916746711cb09"
+      ],
+      "colspan": 6,
+      "facadeId": "miscellaneousMaster",
+      "hideColumnHeader": false,
+      "id": "id46a4014ccb1f7cbc6a7f",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "miscellaneousMasterVariant"
+    },
+    "id46e2ca8a38d396513408": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "blowoutPrevention",
+      "id": "id46e2ca8a38d396513408",
+      "type": "dropdown"
+    },
+    "id4780577f6c9790b4d3b7": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "yearBuilt",
+      "format": "",
+      "id": "id4780577f6c9790b4d3b7",
+      "type": "input"
     },
     "id47a657789dfdc51bcfef": {
       "alignment": "right",
@@ -803,6 +1819,23 @@
       "rowspan": 5,
       "type": "list"
     },
+    "id48a06cc472c171bd6d45": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id48a06cc472c171bd6d45",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id48f7a6e8c0348619c267": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "platformName",
+      "format": "",
+      "id": "id48f7a6e8c0348619c267",
+      "type": "input"
+    },
     "id495076333f242bc618a6": {
       "alignment": "left",
       "colspan": 2,
@@ -816,6 +1849,13 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id4a02cb85bef6157860a3": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "hullMaterial",
+      "id": "id4a02cb85bef6157860a3",
+      "type": "dropdown"
+    },
     "id4a4305fd95b96e9ea62d": {
       "alignment": "left",
       "colspan": 2,
@@ -825,12 +1865,29 @@
       "id": "id4a4305fd95b96e9ea62d",
       "type": "input"
     },
+    "id4a54a0fd3468b3844081": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id4a54a0fd3468b3844081",
+      "style": "secondary",
+      "type": "button"
+    },
     "id4a63102d1b5edb4f07fb": {
       "colspan": 2,
       "facadeId": "remove",
       "id": "id4a63102d1b5edb4f07fb",
       "style": "secondary",
       "type": "button"
+    },
+    "id4bd71cdfd55d2fc4470c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "outstandingAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id4bd71cdfd55d2fc4470c",
+      "type": "input"
     },
     "id4c0dd106516db6f5ed4f": {
       "alignment": "left",
@@ -849,6 +1906,16 @@
       "id": "id4c94cca3728714fba3bc",
       "type": "dropdown"
     },
+    "id4ced3428a4d97de987af": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "buffelo",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id4ced3428a4d97de987af",
+      "type": "input"
+    },
     "id4d7f1e30daca3ba77784": {
       "children": [
         "id6fdf69fa868c5063a2af",
@@ -862,6 +1929,49 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "id4dc70aae12ca73eaac34": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "spilloverExcess",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id4dc70aae12ca73eaac34",
+      "type": "input"
+    },
+    "id4e131b548458506bf475": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id4e131b548458506bf475",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id4f835a5c6deceb1a4749": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "223",
+      "dataType": "decimal",
+      "facadeId": "maxRetentionAmount",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id4f835a5c6deceb1a4749",
+      "type": "input"
+    },
+    "id4f98ba84c860df0473b5": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "223",
+      "dataType": "decimal",
+      "facadeId": "maxLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id4f98ba84c860df0473b5",
+      "type": "input"
     },
     "id4fd29ff6d803e14636d6": {
       "colspan": 2,
@@ -885,6 +1995,49 @@
       "format": "",
       "id": "id501380b991497eda2236",
       "type": "input"
+    },
+    "id5080a935aa365c2b3c77": {
+      "children": [
+        "idfbdf2cf688d975d57953",
+        "id7612f17f3705a056cb08",
+        "id0bb94f320c401ee64d08",
+        "id66acc613235945266f15",
+        "id8bc6c22652dc26b3a9b4",
+        "id87d632789008c7b01c27",
+        "id9a9228df892ada592324",
+        "ideeaf8c7c72bc9f809579",
+        "idf97508174bd09cb3ac6c",
+        "id1da2f772082955948d72",
+        "idb03515452073e17e31b3",
+        "idd9e7b9946231bb3b6225",
+        "id156634c2ecaf1f72ba5e",
+        "id3d08ad8bf024223c1c33",
+        "id719c757216f68a72dab2",
+        "id178682ddb4795bad3814",
+        "id72b8430879f40a24f34a",
+        "id76c6f55e51897a122943",
+        "idf6e8b5ce5434620ebc46",
+        "id9b446d8a174994b78c80",
+        "id0c54235e61e79c921768",
+        "idcc76732a1cb82daabb58",
+        "idc0e185d535c5c6396ab0",
+        "id0087718cb27ad488cdc9",
+        "id04307370e10fdc92e805",
+        "idb74f075b04705f63e97b",
+        "id9e830aa8c7c61f170350",
+        "id148a958301cc7c601fc8",
+        "idb79d83bc49040855d3de"
+      ],
+      "colspan": 6,
+      "facadeId": "towerLayers",
+      "hasFooter": false,
+      "hideColumnHeader": false,
+      "id": "id5080a935aa365c2b3c77",
+      "isVirtualScrolling": true,
+      "persistCustomizations": false,
+      "rowspan": 4,
+      "type": "list",
+      "variant": "towerLayersVariant"
     },
     "id508da40cad3d77d1e810": {
       "alignment": "left",
@@ -923,6 +2076,29 @@
       "id": "id520baaaf0e61b1dd5d56",
       "type": "input"
     },
+    "id5227ba0f6efc42ba17c0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "pig",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id5227ba0f6efc42ba17c0",
+      "type": "input"
+    },
+    "id5289cfdee8be8d6081f5": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id5289cfdee8be8d6081f5",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "id52c2a3fc66711a713de5": {
       "colspan": 2,
       "columnWidth": "150",
@@ -941,6 +2117,16 @@
       "id": "id537c2576bc73d491693c",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id54503dd33517b978abf3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "maintenanceRecords",
+      "format": "",
+      "id": "id54503dd33517b978abf3",
+      "type": "input"
     },
     "id547f7bcb393febe6e8b6": {
       "alignment": "left",
@@ -962,6 +2148,20 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id54a4cba0e0f736cbecd8": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "launchDate",
+      "id": "id54a4cba0e0f736cbecd8",
+      "type": "datepicker"
+    },
+    "id560d57e3f7d261c46718": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "classOfBusiness",
+      "id": "id560d57e3f7d261c46718",
+      "type": "dropdown"
+    },
     "id5618ca4939c4a69948ee": {
       "alignment": "left",
       "colspan": 2,
@@ -973,12 +2173,88 @@
       "isColumnAdaptive": true,
       "type": "input"
     },
+    "id563c6dfa9a3d7eef8238": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "largeLossFlag",
+      "id": "id563c6dfa9a3d7eef8238",
+      "type": "dropdown"
+    },
+    "id56feb1425d87c6aa43b6": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "country",
+      "id": "id56feb1425d87c6aa43b6",
+      "type": "dropdown"
+    },
+    "id570edc385623c0573c41": {
+      "alignment": "right",
+      "children": [
+        "id361078c992118d061da6",
+        "ida58811a97ef90464f378",
+        "id06ca3a467b7fe1a32f5c",
+        "id21dc59c92818829c4f5c"
+      ],
+      "colspan": 6,
+      "id": "id570edc385623c0573c41",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id57214fafb1bb4f1dc197": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "attachmentReturnPeriod",
+      "format": "",
+      "id": "id57214fafb1bb4f1dc197",
+      "type": "input"
+    },
     "id57875bc73eb9c09afed9": {
       "colspan": 1,
       "facadeId": "add",
       "id": "id57875bc73eb9c09afed9",
       "style": "secondary",
       "type": "button"
+    },
+    "id57a15d19efbd7cbb80f1": {
+      "children": [
+        "id260d56953e3c67c72797",
+        "idf0bda3d4f894c27d533b",
+        "id202293c783313bf9623f",
+        "iddb17fe616a3c5ec3df39",
+        "idc8c472e51d08cfb90237",
+        "id7b93118d42558d1e9cee",
+        "ida5137e1dcbd52c13bffa",
+        "idda1df5db2c5fddcef2d3",
+        "id57214fafb1bb4f1dc197",
+        "idb6364c6e41f0e47edaca",
+        "id71f2ec2dea3f452cb2c8",
+        "id8729d634699dc8a41409",
+        "id7cfe207e46e580ee4fb0",
+        "id7872886931de0eeda43c",
+        "id65fcdb35d20e2a3874c8",
+        "idbde73e0edcd48b04dfc3",
+        "idda70c83b2816fc636527",
+        "id3d9a40abe81877e9b64d",
+        "ide624e86892139ab8a52b",
+        "id8a54fef4c937a580ae69",
+        "idc04160afb918ed0eaa46",
+        "id5cbdfeeec420e0895a84",
+        "id25cfed0b253512c09555",
+        "ide2935281d50b92c5fcae",
+        "id6dd9b493cffb53863c8c",
+        "id980581d2b6e86c98166b",
+        "id265be0fa5acbf35cf08d",
+        "ide12f0c739303d63cae76",
+        "ide446de6e42515cbb2ce8"
+      ],
+      "colspan": 6,
+      "facadeId": "towerLayers",
+      "id": "id57a15d19efbd7cbb80f1",
+      "isVirtualScrolling": true,
+      "rowspan": 4,
+      "type": "list"
     },
     "id585bc7da4d7bcee0d75f": {
       "colspan": 2,
@@ -987,6 +2263,16 @@
       "id": "id585bc7da4d7bcee0d75f",
       "type": "dropdown"
     },
+    "id5913e2ca5e2e8945e603": {
+      "colspan": 1,
+      "facadeId": "editTextComponents",
+      "id": "id5913e2ca5e2e8945e603",
+      "openSliders": {
+        "id6f371ba372b6f1dca513": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
     "id59bf15c5abcba8914ddd": {
       "colspan": 1,
       "facadeId": "add",
@@ -994,11 +2280,64 @@
       "style": "secondary",
       "type": "button"
     },
+    "id5b0571695552e52110d2": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id5b0571695552e52110d2",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id5b1998824eb2ad5a305f": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "sumInsuredLimits",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id5b1998824eb2ad5a305f",
+      "type": "input"
+    },
+    "id5b62da9d5983f89336a2": {
+      "children": [
+        "id57a15d19efbd7cbb80f1"
+      ],
+      "colspan": 6,
+      "id": "id5b62da9d5983f89336a2",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsXOLVariant"
+    },
+    "id5b8be8b5e9b08eb67528": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "equipmentDetails",
+      "format": "",
+      "id": "id5b8be8b5e9b08eb67528",
+      "type": "input"
+    },
     "id5bb12d7fa6713b89f8af": {
       "colspan": 2,
       "facadeId": "gstExemption",
       "id": "id5bb12d7fa6713b89f8af",
       "type": "dropdown"
+    },
+    "id5c123b1aff7367a74897": {
+      "children": [
+        "idff0f2917ab942fb635cb",
+        "id560d57e3f7d261c46718",
+        "id4f98ba84c860df0473b5",
+        "id7350d9f98b6713ae2e49",
+        "id8b15035b86ec063adf2c"
+      ],
+      "colspan": 6,
+      "facadeId": "marineCargo",
+      "hideColumnHeader": false,
+      "id": "id5c123b1aff7367a74897",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "marineCargoVariant"
     },
     "id5c2daeb5d4ee90c83d0d": {
       "alignment": "left",
@@ -1008,6 +2347,16 @@
       "facadeId": "quotedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id5c2daeb5d4ee90c83d0d",
+      "type": "input"
+    },
+    "id5cbdfeeec420e0895a84": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "reinstatementTerms",
+      "format": "",
+      "id": "id5cbdfeeec420e0895a84",
       "type": "input"
     },
     "id5d7d3c3d26713ddd375e": {
@@ -1041,6 +2390,16 @@
       "id": "id5ef4aa3c65509eb96252",
       "type": "input"
     },
+    "id5f1684e38a57ecefe27e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "lossRationScaleData",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5f1684e38a57ecefe27e",
+      "type": "input"
+    },
     "id5f1928bbe837bd15141e": {
       "alignment": "left",
       "colspan": 2,
@@ -1055,14 +2414,48 @@
       "id": "id5fe0a45f84e7d561dd27",
       "type": "dropdown"
     },
+    "id5fe0f8f0005a241ed1af": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "tradingLimits",
+      "format": "",
+      "id": "id5fe0f8f0005a241ed1af",
+      "type": "input"
+    },
     "id600e1004fdf2d666b901": {
-      "children": [
-        "idfb06fea4597e6c883bf3"
-      ],
       "colspan": 6,
       "id": "id600e1004fdf2d666b901",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "spilloverProgramVariant"
+    },
+    "id61cf171d6669ad39ab90": {
+      "alignment": "right",
+      "children": [
+        "ide716f36f53f1f259c4dc",
+        "id0c1bbc8cc0588fb3cb50"
+      ],
+      "colspan": 6,
+      "id": "id61cf171d6669ad39ab90",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id61f4c9438f3b49f5f84d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "retainedAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id61f4c9438f3b49f5f84d",
+      "type": "input"
+    },
+    "id6268f3ca140d3fd7aa35": {
+      "facadeId": "additionalData",
+      "id": "id6268f3ca140d3fd7aa35",
+      "type": "contextMenuEntry"
     },
     "id63741b308a88000e4e7f": {
       "alignment": "left",
@@ -1072,6 +2465,16 @@
       "facadeId": "others",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id63741b308a88000e4e7f",
+      "type": "input"
+    },
+    "id63b95e1e62f03831bd03": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "biExposure",
+      "format": "FORMAT_AMOUNT",
+      "id": "id63b95e1e62f03831bd03",
       "type": "input"
     },
     "id643a9b0985580e155244": {
@@ -1092,6 +2495,26 @@
       "facadeId": "minAndDepositPremium",
       "format": "FORMAT_AMOUNT",
       "id": "id654b26d68cd757e549bd",
+      "type": "input"
+    },
+    "id656876e5c11f8f84029e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "imoNumber",
+      "format": "",
+      "id": "id656876e5c11f8f84029e",
+      "type": "input"
+    },
+    "id65739effc7d34019a0ee": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "policyNumber",
+      "format": "",
+      "id": "id65739effc7d34019a0ee",
       "type": "input"
     },
     "id6573a62fc90ed9a32f6d": {
@@ -1126,13 +2549,21 @@
       "type": "button"
     },
     "id65c0760f5e7cad3d1e45": {
-      "children": [
-        "id0d50ce899ab5a4fcf2b3"
-      ],
       "colspan": 6,
       "id": "id65c0760f5e7cad3d1e45",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "miscellaneousMasterVariant"
+    },
+    "id65fcdb35d20e2a3874c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShareLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id65fcdb35d20e2a3874c8",
+      "type": "input"
     },
     "id6690ed91332b8917ccb9": {
       "alignment": "left",
@@ -1143,6 +2574,19 @@
       "format": "FORMAT_AMOUNT",
       "id": "id6690ed91332b8917ccb9",
       "type": "input"
+    },
+    "id6697f600d314dd347edf": {
+      "colspan": 1,
+      "facadeId": "displayOption",
+      "id": "id6697f600d314dd347edf",
+      "type": "dropdown"
+    },
+    "id66acc613235945266f15": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "topDrop",
+      "id": "id66acc613235945266f15",
+      "type": "dropdown"
     },
     "id68559c551d8ac8861ccf": {
       "alignment": "right",
@@ -1177,6 +2621,13 @@
       "style": "secondary",
       "type": "button"
     },
+    "id6a2451dc18fce512c37f": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "eventName",
+      "id": "id6a2451dc18fce512c37f",
+      "type": "dropdown"
+    },
     "id6a795c57a8c09b5af457": {
       "children": [
         "id487d406ad000aab2f1a3",
@@ -1204,6 +2655,26 @@
       "rowspan": 1,
       "type": "dynamic"
     },
+    "id6db87d80daf35decbcb2": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "mSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6db87d80daf35decbcb2",
+      "type": "input"
+    },
+    "id6dd9b493cffb53863c8c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "instalments",
+      "format": "",
+      "id": "id6dd9b493cffb53863c8c",
+      "type": "input"
+    },
     "id6fdf69fa868c5063a2af": {
       "alignment": "left",
       "colspan": 2,
@@ -1224,6 +2695,53 @@
       "style": "secondary",
       "type": "button"
     },
+    "id70fe0f1ea26dc795c2f2": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "goat",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id70fe0f1ea26dc795c2f2",
+      "type": "input"
+    },
+    "id719c757216f68a72dab2": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurSharePremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "id719c757216f68a72dab2",
+      "type": "input"
+    },
+    "id71f2ec2dea3f452cb2c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "rateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "id71f2ec2dea3f452cb2c8",
+      "type": "input"
+    },
+    "id72b8430879f40a24f34a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id72b8430879f40a24f34a",
+      "type": "input"
+    },
+    "id7350d9f98b6713ae2e49": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "exposureBasis",
+      "id": "id7350d9f98b6713ae2e49",
+      "type": "dropdown"
+    },
     "id73cbf788a871b1683dc4": {
       "colspan": 2,
       "columnWidth": "223",
@@ -1241,6 +2759,20 @@
       "id": "id743574fcf7e5a5a96f65",
       "type": "input"
     },
+    "id74ffc850730042c45bc0": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "notificationDate",
+      "id": "id74ffc850730042c45bc0",
+      "type": "datepicker"
+    },
+    "id7612f17f3705a056cb08": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "xolLayer",
+      "id": "id7612f17f3705a056cb08",
+      "type": "dropdown"
+    },
     "id7621714ca1e9d3087e45": {
       "colspan": 2,
       "deprecatedInVersion": "28.7.51",
@@ -1256,6 +2788,16 @@
       "id": "id7683c402aa63dfd79911",
       "type": "dropdown"
     },
+    "id76c6f55e51897a122943": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "id76c6f55e51897a122943",
+      "type": "input"
+    },
     "id77771cc305f348137f84": {
       "alignment": "left",
       "colspan": 2,
@@ -1269,6 +2811,13 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id777f389c6fd5e9d78c7c": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "legalProceedingsFlag",
+      "id": "id777f389c6fd5e9d78c7c",
+      "type": "dropdown"
+    },
     "id77b00353ca5b7273992b": {
       "alignment": "left",
       "colspan": 2,
@@ -1278,6 +2827,23 @@
       "format": "FORMAT_AMOUNT",
       "id": "id77b00353ca5b7273992b",
       "type": "input"
+    },
+    "id7872886931de0eeda43c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7872886931de0eeda43c",
+      "type": "input"
+    },
+    "id78b0fba5bb6f012a4bb9": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "packagingType",
+      "id": "id78b0fba5bb6f012a4bb9",
+      "type": "dropdown"
     },
     "id79038bcac066e0f0ce95": {
       "alignment": "left",
@@ -1325,13 +2891,38 @@
       "type": "button"
     },
     "id7a5dd092f93608b09d52": {
-      "children": [
-        "idfc8bc1a8eaae30c68e6d"
-      ],
       "colspan": 6,
       "id": "id7a5dd092f93608b09d52",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "livestockRateVariant"
+    },
+    "id7b56cd77315d5663e238": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "salvageValue",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7b56cd77315d5663e238",
+      "type": "input"
+    },
+    "id7b93118d42558d1e9cee": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "basis",
+      "id": "id7b93118d42558d1e9cee",
+      "type": "dropdown"
+    },
+    "id7c05739d8928dfd6802d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "hullDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7c05739d8928dfd6802d",
+      "type": "input"
     },
     "id7c6191544c7750407630": {
       "colspan": 2,
@@ -1340,12 +2931,33 @@
       "id": "id7c6191544c7750407630",
       "type": "dropdown"
     },
+    "id7cfe207e46e580ee4fb0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "leadersParticipation",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7cfe207e46e580ee4fb0",
+      "type": "input"
+    },
     "id7df13b4540a1af485494": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "topDrop",
       "id": "id7df13b4540a1af485494",
       "type": "dropdown"
+    },
+    "id7e0276e7b840e8963491": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "42",
+      "facadeId": "externalMedia",
+      "iconSize": "small",
+      "id": "id7e0276e7b840e8963491",
+      "showArrowIcon": true,
+      "type": "link",
+      "verticalAlignment": "top"
     },
     "id7ed95eb4eb4fb1feb3a1": {
       "id": "id7ed95eb4eb4fb1feb3a1",
@@ -1376,6 +2988,82 @@
       "facadeId": "UwYear",
       "format": "DATETIME_FORMAT_SHORT",
       "id": "id7f391590ba8b3cb24f90",
+      "type": "input"
+    },
+    "id7f6437c040655aaef443": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "buildSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7f6437c040655aaef443",
+      "type": "input"
+    },
+    "id7fb1a6ba100880367b5d": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id7fb1a6ba100880367b5d",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id7fedcbfabca4eb484f48": {
+      "facadeId": "editTextComponents",
+      "id": "id7fedcbfabca4eb484f48",
+      "type": "contextMenuEntry"
+    },
+    "id80ecd9e366c8b6e62cc8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "claimAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id80ecd9e366c8b6e62cc8",
+      "type": "input"
+    },
+    "id814d734571715c1903c5": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "id814d734571715c1903c5",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id81eff713587abd6a33c1": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "portName",
+      "format": "",
+      "id": "id81eff713587abd6a33c1",
+      "type": "input"
+    },
+    "id82607d1dc2edcf8f21a8": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id82607d1dc2edcf8f21a8",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id826149684b3a96407ed1": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "subrogationAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id826149684b3a96407ed1",
+      "type": "input"
+    },
+    "id829c8e6d2b68d376535a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "treatyLimits",
+      "format": "",
+      "id": "id829c8e6d2b68d376535a",
       "type": "input"
     },
     "id833982cfe87def2d9f22": {
@@ -1425,9 +3113,6 @@
       "type": "layoutbox"
     },
     "id851b4d62c3f056eb58b5": {
-      "children": [
-        "id790b8df8ee1f05134a44"
-      ],
       "colspan": 6,
       "id": "id851b4d62c3f056eb58b5",
       "rowspan": 3,
@@ -1459,6 +3144,23 @@
       "id": "id85b6131e9e16f5ba09ec",
       "type": "subchapter"
     },
+    "id85e45aefd7f414f88a0b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "locationLongitude",
+      "format": "",
+      "id": "id85e45aefd7f414f88a0b",
+      "type": "input"
+    },
+    "id85e7026b5326c79d9013": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "classOfBusiness",
+      "id": "id85e7026b5326c79d9013",
+      "type": "dropdown"
+    },
     "id860fdf1c8026a83d3ab1": {
       "colspan": 2,
       "facadeId": "arrangementTypeSearchCriteria",
@@ -1483,6 +3185,13 @@
       "id": "id86becfb89ca20595ac92",
       "type": "input"
     },
+    "id8729d634699dc8a41409": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "leader",
+      "id": "id8729d634699dc8a41409",
+      "type": "dropdown"
+    },
     "id879e4ca3ab8418821796": {
       "children": [
         "id324a1d1a4de6497b8ee6",
@@ -1496,6 +3205,16 @@
       "rowspan": 3,
       "type": "list"
     },
+    "id87d632789008c7b01c27": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "limit",
+      "format": "FORMAT_AMOUNT",
+      "id": "id87d632789008c7b01c27",
+      "type": "input"
+    },
     "id87f5d2dad9f28a28586b": {
       "alignment": "left",
       "colspan": 2,
@@ -1506,6 +3225,33 @@
       "id": "id87f5d2dad9f28a28586b",
       "type": "input"
     },
+    "id882527be9482e0112433": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "cargoType",
+      "id": "id882527be9482e0112433",
+      "type": "dropdown"
+    },
+    "id88398ebb73f38ea02716": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "platformBiExposure",
+      "format": "FORMAT_AMOUNT",
+      "id": "id88398ebb73f38ea02716",
+      "type": "input"
+    },
+    "id88845c596b48ead97c83": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "storageCoverDuration",
+      "format": "",
+      "id": "id88845c596b48ead97c83",
+      "type": "input"
+    },
     "id88ab55e9909544e744a6": {
       "colspan": 2,
       "facadeId": "remove",
@@ -1513,11 +3259,89 @@
       "style": "secondary",
       "type": "button"
     },
+    "id89324e9e2bce899d1922": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "years",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id89324e9e2bce899d1922",
+      "type": "input"
+    },
+    "id89a6ae1296d751138c38": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementPremium",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id89a6ae1296d751138c38",
+      "type": "input"
+    },
+    "id8a54fef4c937a580ae69": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremiumAmount",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id8a54fef4c937a580ae69",
+      "type": "input"
+    },
     "id8a87bf351c944788c0f2": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "leader",
       "id": "id8a87bf351c944788c0f2",
+      "type": "dropdown"
+    },
+    "id8aa48e8031645b0013e2": {
+      "facadeId": "viewScopeOfBenefits",
+      "id": "id8aa48e8031645b0013e2",
+      "type": "contextMenuEntry"
+    },
+    "id8b15035b86ec063adf2c": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "id2c2beb13a14b2fd90690",
+        "idbc09cac0a0ac5cf83573"
+      ],
+      "colspan": 6,
+      "id": "id8b15035b86ec063adf2c",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id8bc6c22652dc26b3a9b4": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "basis",
+      "id": "id8bc6c22652dc26b3a9b4",
+      "type": "dropdown"
+    },
+    "id8c10776a127070d5484a": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "gradedCedantGrossRetention",
+      "id": "id8c10776a127070d5484a",
+      "type": "dropdown"
+    },
+    "id8c99dfa45cd4b25d8cf5": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "deductibleApplied",
+      "format": "FORMAT_AMOUNT",
+      "id": "id8c99dfa45cd4b25d8cf5",
+      "type": "input"
+    },
+    "id8cbde33e92d9cee409bb": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "weldingSafety",
+      "id": "id8cbde33e92d9cee409bb",
       "type": "dropdown"
     },
     "id8cdaf129460dd8e876e1": {
@@ -1529,6 +3353,17 @@
       "id": "id8cdaf129460dd8e876e1",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id8d6616179b14ced660f8": {
+      "alignment": "right",
+      "children": [
+        "id4a54a0fd3468b3844081",
+        "id0870871190817db2dcab"
+      ],
+      "colspan": 6,
+      "id": "id8d6616179b14ced660f8",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "id8d9bc4888abaf28a91db": {
       "id": "id8d9bc4888abaf28a91db",
@@ -1550,6 +3385,20 @@
       "id": "id8e6f06314f4444303a2b",
       "type": "dropdown"
     },
+    "id8ef46f39c5a5241b57b3": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "courtJurisdiction",
+      "id": "id8ef46f39c5a5241b57b3",
+      "type": "dropdown"
+    },
+    "id8f3274b2cb5f0699b3f5": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "inuringProgram",
+      "id": "id8f3274b2cb5f0699b3f5",
+      "type": "dropdown"
+    },
     "id8ff993e3e9fe9fd589c2": {
       "alignment": "left",
       "colspan": 2,
@@ -1560,11 +3409,63 @@
       "id": "id8ff993e3e9fe9fd589c2",
       "type": "input"
     },
+    "id900214a49e486b95839d": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "inuringLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id900214a49e486b95839d",
+      "type": "input",
+      "variant": "masterPolicyDetailsXOLVariant"
+    },
+    "id908d88bab48047ad86c2": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "id908d88bab48047ad86c2",
+      "style": "secondary",
+      "type": "button"
+    },
+    "id909131f2ad8e8bba2194": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "yardName",
+      "format": "",
+      "id": "id909131f2ad8e8bba2194",
+      "type": "input"
+    },
+    "id90ea34e87a2e0a982be7": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "contractualObligations",
+      "format": "",
+      "id": "id90ea34e87a2e0a982be7",
+      "type": "input"
+    },
     "id9160c2e84376f0d1f396": {
       "colspan": 2,
       "columnWidth": "167",
       "facadeId": "miscellaneousRiskClass",
       "id": "id9160c2e84376f0d1f396",
+      "type": "dropdown"
+    },
+    "id919262d8d7750ee219fc": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "locationPincode",
+      "id": "id919262d8d7750ee219fc",
+      "type": "dropdown"
+    },
+    "id91e4acf9c63a0e182a93": {
+      "colspan": 2,
+      "columnWidth": "167",
+      "facadeId": "coverage",
+      "id": "id91e4acf9c63a0e182a93",
       "type": "dropdown"
     },
     "id92013e7efdc3f2a98002": {
@@ -1584,18 +3485,39 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "id2715ef2fc25d31137631": 12,
-        "id851b4d62c3f056eb58b5": 13,
-        "id13cb4ae08c6a5e26563c": 3,
-        "idcafb0c30e1d63edb47c9": 4,
-        "id45f5bcee21ce843ca4a4": 5,
-        "idcfbb20fb21a07c60122a": 6,
-        "id600e1004fdf2d666b901": 7,
-        "id0f61e821c30093bc22d9": 8,
-        "id7a5dd092f93608b09d52": 11,
-        "id2d80ea5c85120a46d449": 9,
-        "id65c0760f5e7cad3d1e45": 10,
-        "id11a4e747de28b3dd7027": 2
+        "id5b62da9d5983f89336a2": 8,
+        "VG_id2e8507a55acb1663e32a": 15,
+        "id0124c9348b5dae438dc4": 4,
+        "id28d6f3502ac4a854293d": 5,
+        "idcbe8e0ea4de508c36f3a": 6,
+        "id9a4cf6906f31f09d8182": 7,
+        "id16905103af9710ebe0bc": 3,
+        "VG_idffad50305c2bb1826988": 14,
+        "idb554f1085a21c74b7756": 2,
+        "VG_idbbe10484defef1e1e4fb": 13,
+        "VG_id8964c1b6fdd0791a4928": 4,
+        "VG_idc889567484f98ce7e56b": 5,
+        "VG_idd82ba33ce385002cd780": 6,
+        "VG_id218e37e7a2ef7779aa55": 7,
+        "VG_idd62b1c13bd462105d5fb": 8,
+        "VG_id5952601b139981ba5d1b": 9,
+        "VG_id787f70dfcea212b44ed5": 10,
+        "VG_id82bb0e111de5a0b218d9": 11,
+        "VG_idb7b48e5044d3e125930b": 12,
+        "VG_idbaf5d7d3c00642ac224a": 3,
+        "VG_id1a421f7931f828b05712": 2,
+        "id2715ef2fc25d31137631": 19,
+        "id851b4d62c3f056eb58b5": 20,
+        "id13cb4ae08c6a5e26563c": 10,
+        "idcafb0c30e1d63edb47c9": 11,
+        "id45f5bcee21ce843ca4a4": 12,
+        "idcfbb20fb21a07c60122a": 13,
+        "id600e1004fdf2d666b901": 14,
+        "id0f61e821c30093bc22d9": 15,
+        "id7a5dd092f93608b09d52": 18,
+        "id2d80ea5c85120a46d449": 16,
+        "id65c0760f5e7cad3d1e45": 17,
+        "id11a4e747de28b3dd7027": 9
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -1619,6 +3541,30 @@
       "id": "id952032578349c9a6ea00",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id95a567a356f6ce927aa5": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "settlementAgreementDate",
+      "id": "id95a567a356f6ce927aa5",
+      "type": "datepicker"
+    },
+    "id97efbb45846b0bbc784c": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "classOfBusiness",
+      "id": "id97efbb45846b0bbc784c",
+      "type": "dropdown"
+    },
+    "id980581d2b6e86c98166b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "200",
+      "dataType": "string",
+      "facadeId": "exclusions",
+      "format": "",
+      "id": "id980581d2b6e86c98166b",
+      "type": "input"
     },
     "id9955abc8b4316de10c6b": {
       "alignment": "left",
@@ -1658,6 +3604,79 @@
       "id": "id9a014db624800033183e",
       "type": "input"
     },
+    "id9a199c8189119590a940": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id9a199c8189119590a940",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id9a3a0d17a62f40c0c3a6": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "lossPreventionMeasures",
+      "format": "",
+      "id": "id9a3a0d17a62f40c0c3a6",
+      "type": "input"
+    },
+    "id9a3c3ef0ef453f4f1aa1": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "id9a3c3ef0ef453f4f1aa1",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "id9a4cf6906f31f09d8182": {
+      "children": [
+        "idd10adf6b2743ca5416cb"
+      ],
+      "colspan": 6,
+      "id": "id9a4cf6906f31f09d8182",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsXOLVariant"
+    },
+    "id9a5f78e6a578b5719334": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "lossDate",
+      "id": "id9a5f78e6a578b5719334",
+      "type": "datepicker"
+    },
+    "id9a9228df892ada592324": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "attachment",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9a9228df892ada592324",
+      "type": "input"
+    },
+    "id9b446d8a174994b78c80": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "numberOfReinstatements",
+      "format": "",
+      "id": "id9b446d8a174994b78c80",
+      "type": "input"
+    },
     "id9bcde83078a5dbb8894b": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -1667,6 +3686,28 @@
       ],
       "colspan": 6,
       "id": "id9bcde83078a5dbb8894b",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "id9c4820a3d6b759b3cc80": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "sheep",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id9c4820a3d6b759b3cc80",
+      "type": "input"
+    },
+    "id9c4ae8ae05381e68e5fe": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "id5b0571695552e52110d2",
+        "idceb1662901c06addc8c5"
+      ],
+      "colspan": 6,
+      "id": "id9c4ae8ae05381e68e5fe",
       "rowspan": 1,
       "type": "buttongroup"
     },
@@ -1694,10 +3735,30 @@
       "id": "id9df13525ec6db22d04c7",
       "type": "input"
     },
+    "id9e2c46f3224daa4c659c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "waitingPeriod",
+      "format": "",
+      "id": "id9e2c46f3224daa4c659c",
+      "type": "input"
+    },
     "id9e41b9db956718ad69af": {
       "id": "id9e41b9db956718ad69af",
       "referenceValue": "demandDraft",
       "type": "radioButton"
+    },
+    "id9e830aa8c7c61f170350": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "quotedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "id9e830aa8c7c61f170350",
+      "type": "input"
     },
     "id9e850bb150f8d57ede7d": {
       "colspan": 1,
@@ -1718,6 +3779,17 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "id9edd22d646b576aef7d3": {
+      "alignment": "right",
+      "children": [
+        "idb4eeaed7ba4e5f7ef088",
+        "idec6e3749f41a5dbaad41"
+      ],
+      "colspan": 6,
+      "id": "id9edd22d646b576aef7d3",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "id9f438d9c518210c45046": {
       "id": "id9f438d9c518210c45046",
@@ -1761,6 +3833,19 @@
       "id": "ida234c796e2b8898e21cf",
       "type": "input"
     },
+    "ida24dff5f4ac04ec80f0b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "ida24dff5f4ac04ec80f0b",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "ida2938ca8b5d694c6ea24": {
       "colspan": 2,
       "columnWidth": "335",
@@ -1781,6 +3866,37 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "ida308bd3698543b4ac0f6": {
+      "alignment": "right",
+      "children": [
+        "id82607d1dc2edcf8f21a8",
+        "idfe303b92c51355dbbb8f"
+      ],
+      "colspan": 6,
+      "id": "ida308bd3698543b4ac0f6",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "ida427879d7fa92b8a6989": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "lawFirmName",
+      "format": "",
+      "id": "ida427879d7fa92b8a6989",
+      "type": "input"
+    },
+    "ida443145c4316cf45528c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "limitofLiability",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida443145c4316cf45528c",
+      "type": "input"
+    },
     "ida4bd5fd65104e65dd77c": {
       "alignment": "left",
       "colspan": 2,
@@ -1789,6 +3905,16 @@
       "facadeId": "minAndDepositPremiumAmount",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ida4bd5fd65104e65dd77c",
+      "type": "input"
+    },
+    "ida5137e1dcbd52c13bffa": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "limit",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida5137e1dcbd52c13bffa",
       "type": "input"
     },
     "ida538849c31064f4ee71f": {
@@ -1800,6 +3926,43 @@
       "format": "FORMAT_AMOUNT",
       "id": "ida538849c31064f4ee71f",
       "type": "input"
+    },
+    "ida584032ea8fca274a702": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "ida584032ea8fca274a702",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "ida58811a97ef90464f378": {
+      "colspan": 1,
+      "facadeId": "defineScopeOfBenefits",
+      "id": "ida58811a97ef90464f378",
+      "openSliders": {
+        "id6a7e0caaac682c823254": true
+      },
+      "style": "secondary",
+      "type": "button"
+    },
+    "ida58bca58fbc563739db6": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "ida58bca58fbc563739db6",
+      "style": "secondary",
+      "type": "button"
+    },
+    "ida5e1943980d3e48e86df": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "ida5e1943980d3e48e86df",
+      "style": "secondary",
+      "type": "button"
     },
     "ida6c64e7906a9d9b8ba8e": {
       "alignment": "left",
@@ -1819,6 +3982,33 @@
       "id": "ida7051989a4be0c4aa22f",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "ida73e40aa617c076d5cfd": {
+      "alignment": "right",
+      "children": [
+        "id3d36c8b2d785e8a20090",
+        "id35fceb8a659206d14f72"
+      ],
+      "colspan": 6,
+      "id": "ida73e40aa617c076d5cfd",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "ida75344353d2691a3027f": {
+      "colspan": 2,
+      "columnWidth": "320",
+      "facadeId": "name",
+      "id": "ida75344353d2691a3027f",
+      "isColumnAdaptive": true,
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "ida7765da40ed0e8a1c18a": {
+      "colspan": 1,
+      "facadeId": "editCoverage",
+      "id": "ida7765da40ed0e8a1c18a",
+      "style": "secondary",
+      "type": "button"
     },
     "ida7cef976b1a8ad41527f": {
       "children": [
@@ -1862,6 +4052,26 @@
       "rowspan": 4,
       "type": "list"
     },
+    "idaaeba6152946f32cb1b0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "paidAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "idaaeba6152946f32cb1b0",
+      "type": "input"
+    },
+    "idad4c215587776e1932c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "cargoSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "idad4c215587776e1932c8",
+      "type": "input"
+    },
     "idae80538ad955c5d4a668": {
       "children": [
         "idf987d7521724092e153c",
@@ -1872,6 +4082,11 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "idaff14eba6e4913903290": {
+      "facadeId": "editObject",
+      "id": "idaff14eba6e4913903290",
+      "type": "contextMenuEntry"
+    },
     "idb01f8630a20ccbf9a136": {
       "alignment": "left",
       "colspan": 2,
@@ -1881,10 +4096,56 @@
       "id": "idb01f8630a20ccbf9a136",
       "type": "input"
     },
+    "idb03515452073e17e31b3": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "leader",
+      "id": "idb03515452073e17e31b3",
+      "type": "dropdown"
+    },
+    "idb046f6d6ef1b2389a1c3": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "id335f6be0f0cc4221264a",
+        "idc92dacf86a65324c99ae"
+      ],
+      "colspan": 6,
+      "id": "idb046f6d6ef1b2389a1c3",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idb06b9d9e1ffdf5bbd755": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "vesselType",
+      "id": "idb06b9d9e1ffdf5bbd755",
+      "type": "dropdown"
+    },
     "idb09c86538d2f5bf79f80": {
       "id": "idb09c86538d2f5bf79f80",
       "referenceValue": "cash",
       "type": "radioButton"
+    },
+    "idb0d39d9067428ba25d1a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idb0d39d9067428ba25d1a",
+      "type": "input"
+    },
+    "idb10d0977c477c9bf7a48": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "buildDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb10d0977c477c9bf7a48",
+      "type": "input"
     },
     "idb14d0ca70bd57877cf9f": {
       "alignment": "left",
@@ -1916,6 +4177,26 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idb2242d6535012e421e5f": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "retainedAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb2242d6535012e421e5f",
+      "type": "input"
+    },
+    "idb250f7ea0d14a9b28a24": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "routeDetails",
+      "format": "",
+      "id": "idb250f7ea0d14a9b28a24",
+      "type": "input"
+    },
     "idb2ba0976bd4f32a2971f": {
       "alignment": "left",
       "colspan": 2,
@@ -1926,6 +4207,31 @@
       "id": "idb2ba0976bd4f32a2971f",
       "type": "input"
     },
+    "idb31afa2c9ed88ad8b16d": {
+      "alignment": "right",
+      "children": [
+        "id2698f8f868fdde158e9d",
+        "idc402da9f34fa915d7c05"
+      ],
+      "colspan": 6,
+      "id": "idb31afa2c9ed88ad8b16d",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idb37d9a5d98b4a11a915d": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "territorialScopeCol",
+      "id": "idb37d9a5d98b4a11a915d",
+      "type": "dropdown"
+    },
+    "idb3b0453a6336a2cedcee": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "eventFlag",
+      "id": "idb3b0453a6336a2cedcee",
+      "type": "dropdown"
+    },
     "idb4cd2631afd5335145eb": {
       "colspan": 2,
       "columnWidth": "150",
@@ -1934,12 +4240,29 @@
       "id": "idb4cd2631afd5335145eb",
       "type": "dropdown"
     },
+    "idb4eeaed7ba4e5f7ef088": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idb4eeaed7ba4e5f7ef088",
+      "style": "secondary",
+      "type": "button"
+    },
     "idb541787889564a49c6ad": {
       "colspan": 1,
       "facadeId": "remove",
       "id": "idb541787889564a49c6ad",
       "style": "secondary",
       "type": "button"
+    },
+    "idb554f1085a21c74b7756": {
+      "children": [
+        "idd38eff0ec8f042a8f7df"
+      ],
+      "colspan": 6,
+      "id": "idb554f1085a21c74b7756",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsSurplusVariant"
     },
     "idb575b8cb3470418bb150": {
       "id": "idb575b8cb3470418bb150",
@@ -1954,6 +4277,29 @@
       "facadeId": "retainedAmount",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idb57a027eaa450969e1c5",
+      "type": "input"
+    },
+    "idb596ad90f7bc3a8f31f9": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idb596ad90f7bc3a8f31f9",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idb6364c6e41f0e47edaca": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "adjustmentRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb6364c6e41f0e47edaca",
       "type": "input"
     },
     "idb6470bc58b4fcf9819fd": {
@@ -1974,12 +4320,56 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "idb6a5ada59aede37043b9": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idb6a5ada59aede37043b9",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idb6ccb993cdda5865f0e0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "packingQuality",
+      "format": "",
+      "id": "idb6ccb993cdda5865f0e0",
+      "type": "input"
+    },
+    "idb74f075b04705f63e97b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "requestedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idb74f075b04705f63e97b",
+      "type": "input"
+    },
     "idb7830a9038313c19394c": {
       "colspan": 2,
       "columnWidth": "335",
       "facadeId": "inuringProgram",
       "id": "idb7830a9038313c19394c",
       "type": "dropdown"
+    },
+    "idb79d83bc49040855d3de": {
+      "alignment": "right",
+      "children": [
+        "id7fb1a6ba100880367b5d",
+        "id814d734571715c1903c5"
+      ],
+      "colspan": 6,
+      "id": "idb79d83bc49040855d3de",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "idb7b38fd252a8c92d43d5": {
       "alignment": "left",
@@ -2008,6 +4398,33 @@
       "columnWidth": "400",
       "facadeId": "valueNumeric",
       "id": "idb8b5dd6dc47f4bbb5c18"
+    },
+    "idb8c88b3b1e5c1251bd66": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idb8c88b3b1e5c1251bd66",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idb8d9696bc5ae40b0ea24": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "tonnage",
+      "id": "idb8d9696bc5ae40b0ea24",
+      "type": "dropdown"
+    },
+    "idb8e46f8f91f6d2da2db5": {
+      "colspan": 6,
+      "id": "idb8e46f8f91f6d2da2db5",
+      "rowspan": 2,
+      "type": "layoutbox",
+      "variant": "TRTXLVariant"
     },
     "idb91c3acd4387804ca7d7": {
       "alignment": "right",
@@ -2042,6 +4459,13 @@
       "id": "idb9873aca255a6116967d",
       "type": "input"
     },
+    "idba85bb59a1e8c11e70a6": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idba85bb59a1e8c11e70a6",
+      "style": "secondary",
+      "type": "button"
+    },
     "idba89742d5930165b0163": {
       "alignment": "left",
       "colspan": 2,
@@ -2052,6 +4476,11 @@
       "id": "idba89742d5930165b0163",
       "type": "input"
     },
+    "idba9dc31888e3c6117b68": {
+      "facadeId": "defineScopeOfBenefits",
+      "id": "idba9dc31888e3c6117b68",
+      "type": "contextMenuEntry"
+    },
     "idbaabce4ff927251f5c61": {
       "alignment": "left",
       "colspan": 2,
@@ -2060,6 +4489,13 @@
       "format": "",
       "id": "idbaabce4ff927251f5c61",
       "type": "input"
+    },
+    "idbb85b106315604ddf9c8": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idbb85b106315604ddf9c8",
+      "style": "secondary",
+      "type": "button"
     },
     "idbbbe423234ab4fd2cf4d": {
       "alignment": "left",
@@ -2070,6 +4506,41 @@
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
     },
+    "idbc09cac0a0ac5cf83573": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idbc09cac0a0ac5cf83573",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idbcf386c5ef938f4c335a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "constructionStage",
+      "format": "",
+      "id": "idbcf386c5ef938f4c335a",
+      "type": "input"
+    },
+    "idbd34c91e36d32d56f3e7": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "sum",
+      "id": "idbd34c91e36d32d56f3e7",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "idbde73e0edcd48b04dfc3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurSharePremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idbde73e0edcd48b04dfc3",
+      "type": "input"
+    },
     "idbdf19d8e2d8d1c5311ad": {
       "alignment": "left",
       "colspan": 2,
@@ -2078,6 +4549,47 @@
       "facadeId": "minAndDepositPremium",
       "format": "FORMAT_AMOUNT",
       "id": "idbdf19d8e2d8d1c5311ad",
+      "type": "input"
+    },
+    "idbfb2351fb080d4865e41": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "spilloverExcess",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idbfb2351fb080d4865e41",
+      "type": "input"
+    },
+    "idc00a781f3a7fdf0acb17": {
+      "facadeId": "addComponents",
+      "id": "idc00a781f3a7fdf0acb17",
+      "type": "contextMenuEntry"
+    },
+    "idc02f2a728ae84e9c05d1": {
+      "children": [
+        "id9a3c3ef0ef453f4f1aa1",
+        "id97efbb45846b0bbc784c",
+        "id35c495a188ccce8f0083",
+        "id4f835a5c6deceb1a4749",
+        "id44bc2543af78ae8b0eb3"
+      ],
+      "colspan": 6,
+      "facadeId": "retenstionLine",
+      "id": "idc02f2a728ae84e9c05d1",
+      "rowspan": 4,
+      "showRowNumber": false,
+      "type": "list",
+      "variant": "retenstionLineVariant"
+    },
+    "idc04160afb918ed0eaa46": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "numberOfReinstatements",
+      "format": "",
+      "id": "idc04160afb918ed0eaa46",
       "type": "input"
     },
     "idc078ba2ffdd1ed13e989": {
@@ -2091,12 +4603,53 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "idc0897c970bed4191c075": {
+      "alignment": "right",
+      "children": [
+        "id262c93eb2d1e934611ea",
+        "id18ee1d74943430aa6210"
+      ],
+      "colspan": 6,
+      "id": "idc0897c970bed4191c075",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idc0e185d535c5c6396ab0": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc0e185d535c5c6396ab0",
+      "type": "input"
+    },
     "idc0ea95f32c6bf111c1d5": {
       "colspan": 2,
       "facadeId": "add",
       "id": "idc0ea95f32c6bf111c1d5",
       "style": "secondary",
       "type": "button"
+    },
+    "idc16e4e0747b849bfd831": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "inuringProgram",
+      "id": "idc16e4e0747b849bfd831",
+      "type": "dropdown"
+    },
+    "idc193d141d7bad881f863": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idc193d141d7bad881f863",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
     },
     "idc1fd2b8f5f78d873a0fb": {
       "alignment": "left",
@@ -2139,6 +4692,13 @@
       "showRowNumber": false,
       "type": "list"
     },
+    "idc402da9f34fa915d7c05": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "idc402da9f34fa915d7c05",
+      "style": "secondary",
+      "type": "button"
+    },
     "idc49bad749ec2339cf8c3": {
       "id": "idc49bad749ec2339cf8c3",
       "order": {
@@ -2146,6 +4706,16 @@
         "id7f391590ba8b3cb24f90": 1,
         "ida6c64e7906a9d9b8ba8e": 2
       }
+    },
+    "idc4c14004d27bb29f22ac": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "platformYearBuilt",
+      "format": "",
+      "id": "idc4c14004d27bb29f22ac",
+      "type": "input"
     },
     "idc50846766d0b9644631a": {
       "alignment": "left",
@@ -2155,6 +4725,26 @@
       "facadeId": "vreOurManualRateOnLine",
       "format": "FORMAT_AMOUNT",
       "id": "idc50846766d0b9644631a",
+      "type": "input"
+    },
+    "idc52398abee9a03e05b59": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "projectName",
+      "format": "",
+      "id": "idc52398abee9a03e05b59",
+      "type": "input"
+    },
+    "idc5cf142fca737226cac6": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "limitPerConveyance",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc5cf142fca737226cac6",
       "type": "input"
     },
     "idc708ef5a4217891475d7": {
@@ -2183,11 +4773,88 @@
       "id": "idc737f0f7b07534b5356e",
       "type": "subchapter"
     },
+    "idc751341be27f7a5065a5": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "causeofLoss",
+      "id": "idc751341be27f7a5065a5",
+      "type": "dropdown"
+    },
+    "idc754c2bdc1097211f4e9": {
+      "children": [
+        "ida584032ea8fca274a702",
+        "id8c10776a127070d5484a",
+        "idb2242d6535012e421e5f",
+        "idb31afa2c9ed88ad8b16d"
+      ],
+      "colspan": 6,
+      "facadeId": "gradedRetention",
+      "id": "idc754c2bdc1097211f4e9",
+      "rowspan": 4,
+      "type": "list"
+    },
+    "idc75db7747fed213f62e6": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "claimType",
+      "id": "idc75db7747fed213f62e6",
+      "type": "dropdown"
+    },
     "idc88ccad97a0ccbbc7d8f": {
       "id": "idc88ccad97a0ccbbc7d8f",
       "order": {
         "id6d014e52e9d345e116fe": 1
       }
+    },
+    "idc8c472e51d08cfb90237": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "topDrop",
+      "id": "idc8c472e51d08cfb90237",
+      "type": "dropdown"
+    },
+    "idc8dd48bb10a28636e04c": {
+      "alignment": "right",
+      "children": [
+        "id44f11c93e2a5c5066fb2",
+        "ide27ee6f8e033b127049d"
+      ],
+      "colspan": 6,
+      "id": "idc8dd48bb10a28636e04c",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idc92dacf86a65324c99ae": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idc92dacf86a65324c99ae",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idc9e970a64f66580088bf": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idc9e970a64f66580088bf",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idca2723ced80fc246436b": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "ida58bca58fbc563739db6",
+        "idba85bb59a1e8c11e70a6"
+      ],
+      "colspan": 6,
+      "id": "idca2723ced80fc246436b",
+      "rowspan": 1,
+      "type": "buttongroup"
     },
     "idca3a2ef45ab8f4afa5ec": {
       "alignment": "left",
@@ -2219,13 +4886,11 @@
       "type": "input"
     },
     "idcafb0c30e1d63edb47c9": {
-      "children": [
-        "id4d7f1e30daca3ba77784"
-      ],
       "colspan": 6,
       "id": "idcafb0c30e1d63edb47c9",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "territorialScopeVariant"
     },
     "idcb7bf1d8851e37dd4f65": {
       "alignment": "left",
@@ -2234,6 +4899,50 @@
       "facadeId": "vrlProductCode",
       "format": "",
       "id": "idcb7bf1d8851e37dd4f65",
+      "type": "input"
+    },
+    "idcb7d1aa66067b98c14ac": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "hullSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "idcb7d1aa66067b98c14ac",
+      "type": "input"
+    },
+    "idcbe8e0ea4de508c36f3a": {
+      "children": [
+        "id16930ef4db46060882d2"
+      ],
+      "colspan": 6,
+      "id": "idcbe8e0ea4de508c36f3a",
+      "rowspan": 3,
+      "type": "layoutbox",
+      "variant": "masterPolicyDetailsXOLVariant"
+    },
+    "idcc76732a1cb82daabb58": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "reinstatementType",
+      "id": "idcc76732a1cb82daabb58",
+      "type": "dropdown"
+    },
+    "idcc7a343e9735ed8af0ed": {
+      "colspan": 1,
+      "facadeId": "add",
+      "id": "idcc7a343e9735ed8af0ed",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idcd159d2111e845b6d663": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "cargoDescription",
+      "format": "",
+      "id": "idcd159d2111e845b6d663",
       "type": "input"
     },
     "idcd3744a3bdc53002f1db": {
@@ -2245,14 +4954,42 @@
       "id": "idcd3744a3bdc53002f1db",
       "type": "input"
     },
+    "idce0f31173190804a2817": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idce0f31173190804a2817",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idceb1662901c06addc8c5": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idceb1662901c06addc8c5",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idcf889a4b3e1f912aa0ab": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "dateTime",
+      "facadeId": "reinstatementDate",
+      "format": "DATETIME_FORMAT_SHORT",
+      "id": "idcf889a4b3e1f912aa0ab",
+      "type": "input"
+    },
     "idcfbb20fb21a07c60122a": {
-      "children": [
-        "id229510f856965260363f"
-      ],
       "colspan": 6,
       "id": "idcfbb20fb21a07c60122a",
       "rowspan": 3,
-      "type": "layoutbox"
+      "type": "layoutbox",
+      "variant": "inuringDetailsVariant"
     },
     "idcfe8e30e8fc5a0e9e137": {
       "colspan": 1,
@@ -2268,6 +5005,36 @@
       "id": "idcff884db4cc33ba3b352",
       "type": "dropdown"
     },
+    "idd059990b73ebf5065d7c": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "classOfBusiness",
+      "id": "idd059990b73ebf5065d7c",
+      "type": "dropdown"
+    },
+    "idd1091c6a8bfbc26c070c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "223",
+      "dataType": "decimal",
+      "facadeId": "maxRetentionAmount",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idd1091c6a8bfbc26c070c",
+      "type": "input"
+    },
+    "idd10adf6b2743ca5416cb": {
+      "children": [
+        "id3f76158956e408510b7b",
+        "id8f3274b2cb5f0699b3f5",
+        "id1bf5c5ff527d70768ef0",
+        "id4dc70aae12ca73eaac34"
+      ],
+      "colspan": 6,
+      "facadeId": "spilloverProgram",
+      "id": "idd10adf6b2743ca5416cb",
+      "rowspan": 4,
+      "type": "list"
+    },
     "idd113cb08032b1ebf3653": {
       "alignment": "left",
       "colspan": 2,
@@ -2276,6 +5043,16 @@
       "facadeId": "lossRationScale",
       "format": "FORMAT_AMOUNT",
       "id": "idd113cb08032b1ebf3653",
+      "type": "input"
+    },
+    "idd1ac37c8ae72b49d3f88": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "certificateNumber",
+      "format": "",
+      "id": "idd1ac37c8ae72b49d3f88",
       "type": "input"
     },
     "idd2763834a3d6ebe5a7b6": {
@@ -2287,6 +5064,23 @@
       "format": "FORMAT_AMOUNT",
       "id": "idd2763834a3d6ebe5a7b6",
       "type": "input"
+    },
+    "idd2893941c99ec460cadf": {
+      "children": [
+        "idb596ad90f7bc3a8f31f9",
+        "id35ac66b05f248a85b03f",
+        "idcf889a4b3e1f912aa0ab",
+        "idb0d39d9067428ba25d1a",
+        "id89a6ae1296d751138c38",
+        "idf1e684198691420b42ea"
+      ],
+      "colspan": 6,
+      "facadeId": "xlLayers",
+      "hideColumnHeader": false,
+      "id": "idd2893941c99ec460cadf",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "xlLayersVariant"
     },
     "idd2a109cb19321848eec4": {
       "colspan": 2,
@@ -2302,6 +5096,24 @@
       "style": "secondary",
       "type": "button"
     },
+    "idd323fc2aeaf5cff2c79e": {
+      "facadeId": "insertBenefits",
+      "id": "idd323fc2aeaf5cff2c79e",
+      "type": "contextMenuEntry"
+    },
+    "idd38eff0ec8f042a8f7df": {
+      "children": [
+        "id9a199c8189119590a940",
+        "id5f1684e38a57ecefe27e",
+        "idffbf702d70e6ce31b65a",
+        "iddbe0fc4c198f7efbb673"
+      ],
+      "colspan": 6,
+      "facadeId": "slidingScaleData",
+      "id": "idd38eff0ec8f042a8f7df",
+      "rowspan": 4,
+      "type": "list"
+    },
     "idd3eb78ee1c59a712c3c2": {
       "alignment": "left",
       "colspan": 2,
@@ -2312,10 +5124,49 @@
       "id": "idd3eb78ee1c59a712c3c2",
       "type": "input"
     },
+    "idd462e1f9fe05cbeb4919": {
+      "colspan": 1,
+      "facadeId": "remove",
+      "id": "idd462e1f9fe05cbeb4919",
+      "style": "secondary",
+      "type": "button"
+    },
     "idd46755ee8db2e90c7607": {
       "id": "idd46755ee8db2e90c7607",
       "referenceValue": "online",
       "type": "radioButton"
+    },
+    "idd49480315ed08a69eed4": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "vesselName",
+      "format": "",
+      "id": "idd49480315ed08a69eed4",
+      "type": "input"
+    },
+    "idd4b9a00dd92e972e83d3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "depth",
+      "format": "",
+      "id": "idd4b9a00dd92e972e83d3",
+      "type": "input"
+    },
+    "idd4e00602567ed7545542": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idd4e00602567ed7545542",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idd54b5bd409e1714caa8f": {
+      "facadeId": "viewTermsAndConditions",
+      "id": "idd54b5bd409e1714caa8f",
+      "type": "contextMenuEntry"
     },
     "idd57b109afd6ccfa22445": {
       "alignment": "left",
@@ -2354,6 +5205,16 @@
       "style": "secondary",
       "type": "button"
     },
+    "idd8c0bafb379a2c136abd": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "stockThroughputDetails",
+      "format": "",
+      "id": "idd8c0bafb379a2c136abd",
+      "type": "input"
+    },
     "idd9a35bb54e463e3064ef": {
       "alignment": "left",
       "colspan": 2,
@@ -2362,6 +5223,89 @@
       "facadeId": "exclusions",
       "format": "",
       "id": "idd9a35bb54e463e3064ef",
+      "type": "input"
+    },
+    "idd9e359ba67f835f61576": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "inuringLimit",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idd9e359ba67f835f61576",
+      "type": "input"
+    },
+    "idd9e7b9946231bb3b6225": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "leadersParticipation",
+      "format": "FORMAT_AMOUNT",
+      "id": "idd9e7b9946231bb3b6225",
+      "type": "input"
+    },
+    "idda1df5db2c5fddcef2d3": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "attachment",
+      "format": "FORMAT_AMOUNT",
+      "id": "idda1df5db2c5fddcef2d3",
+      "type": "input"
+    },
+    "idda70c83b2816fc636527": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "vreOurManualRateOnLine",
+      "format": "FORMAT_AMOUNT",
+      "id": "idda70c83b2816fc636527",
+      "type": "input"
+    },
+    "iddb17fe616a3c5ec3df39": {
+      "colspan": 2,
+      "columnWidth": "150",
+      "facadeId": "perils",
+      "id": "iddb17fe616a3c5ec3df39",
+      "type": "dropdown"
+    },
+    "iddb819ac992611cc2e524": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "iddb819ac992611cc2e524",
+      "style": "secondary",
+      "type": "button"
+    },
+    "iddbc35dba868c79a211ec": {
+      "colspan": 2,
+      "columnWidth": "80",
+      "facadeId": "insuranceDuration",
+      "id": "iddbc35dba868c79a211ec",
+      "rowspan": 1,
+      "type": "dynamic"
+    },
+    "iddbe0fc4c198f7efbb673": {
+      "alignment": "right",
+      "children": [
+        "idcc7a343e9735ed8af0ed",
+        "idd462e1f9fe05cbeb4919"
+      ],
+      "colspan": 6,
+      "id": "iddbe0fc4c198f7efbb673",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "iddc85fc6d4f06c6b39975": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "liabilityDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "iddc85fc6d4f06c6b39975",
       "type": "input"
     },
     "iddcfd7a40744205a457a5": {
@@ -2388,6 +5332,16 @@
       "style": "secondary",
       "type": "button"
     },
+    "idddf3519214a3b172bb36": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "cargoDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "idddf3519214a3b172bb36",
+      "type": "input"
+    },
     "idde40aebc852775d62035": {
       "children": [
         "idb1f809eec8ec20aba2d5",
@@ -2403,6 +5357,18 @@
       "id": "idde40aebc852775d62035",
       "rowspan": 4,
       "type": "list"
+    },
+    "idde4f83d592ac4d2051b9": {
+      "facadeId": "copyBenefits",
+      "id": "idde4f83d592ac4d2051b9",
+      "type": "contextMenuEntry"
+    },
+    "idde63c6a96ed6e8c04fbe": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idde63c6a96ed6e8c04fbe",
+      "style": "secondary",
+      "type": "button"
     },
     "idde8f9652c54ae607b7f0": {
       "alignment": "left",
@@ -2451,6 +5417,53 @@
       "id": "ide0d12eb803caa2a232b1",
       "type": "input"
     },
+    "ide12f0c739303d63cae76": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "quotedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "ide12f0c739303d63cae76",
+      "type": "input"
+    },
+    "ide19fb2d5c57f2f48707a": {
+      "colspan": 2,
+      "columnWidth": "335",
+      "facadeId": "classOfBusiness",
+      "id": "ide19fb2d5c57f2f48707a",
+      "type": "dropdown"
+    },
+    "ide20d60e03c6b335f7802": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "ide20d60e03c6b335f7802",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "ide27ee6f8e033b127049d": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "ide27ee6f8e033b127049d",
+      "style": "secondary",
+      "type": "button"
+    },
+    "ide2935281d50b92c5fcae": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "reinstatementRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide2935281d50b92c5fcae",
+      "type": "input"
+    },
     "ide3d0199fddf5b3cd91cc": {
       "children": [
         "id5fe0a45f84e7d561dd27",
@@ -2462,6 +5475,16 @@
       "id": "ide3d0199fddf5b3cd91cc",
       "rowspan": 3,
       "type": "list"
+    },
+    "ide446de6e42515cbb2ce8": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "signedShare",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "ide446de6e42515cbb2ce8",
+      "type": "input"
     },
     "ide4698ee24eebbcc9a41a": {
       "alignment": "left",
@@ -2480,6 +5503,16 @@
       "style": "secondary",
       "type": "button"
     },
+    "ide472de1a029936b76a21": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "locationofLoss",
+      "format": "",
+      "id": "ide472de1a029936b76a21",
+      "type": "input"
+    },
     "ide488ac7f75aab5129c39": {
       "colspan": 1,
       "facadeId": "add",
@@ -2487,12 +5520,41 @@
       "style": "secondary",
       "type": "button"
     },
+    "ide53de88916746711cb09": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "idd4e00602567ed7545542",
+        "id00bda1d9a07b0967cfab"
+      ],
+      "colspan": 6,
+      "id": "ide53de88916746711cb09",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "ide624e86892139ab8a52b": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide624e86892139ab8a52b",
+      "type": "input"
+    },
     "ide68c6163ada677bbad38": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "exposureBasis",
       "id": "ide68c6163ada677bbad38",
       "type": "dropdown"
+    },
+    "ide716f36f53f1f259c4dc": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "ide716f36f53f1f259c4dc",
+      "style": "secondary",
+      "type": "button"
     },
     "ide7feaa52d69c740fa5d4": {
       "alignment": "left",
@@ -2510,6 +5572,16 @@
       "id": "ide80113eea55d1588c555",
       "parentFacadeId": "criteria",
       "type": "dropdown"
+    },
+    "ide888f336039ddea98075": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "platformSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide888f336039ddea98075",
+      "type": "input"
     },
     "ide99d6c213aea21f63d95": {
       "id": "ide99d6c213aea21f63d95",
@@ -2547,6 +5619,20 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idec6e3749f41a5dbaad41": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idec6e3749f41a5dbaad41",
+      "style": "secondary",
+      "type": "button"
+    },
+    "ided1ef982eda3e1c8bb69": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "ided1ef982eda3e1c8bb69",
+      "style": "secondary",
+      "type": "button"
+    },
     "ided4e602b1af065ccd68b": {
       "colspan": 2,
       "facadeId": "instrumentDate",
@@ -2574,6 +5660,16 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "ideeaf8c7c72bc9f809579": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "number",
+      "facadeId": "attachmentReturnPeriod",
+      "format": "",
+      "id": "ideeaf8c7c72bc9f809579",
+      "type": "input"
+    },
     "idef3da5ad1a3c5ea1fc25": {
       "alignment": "left",
       "colspan": 2,
@@ -2582,6 +5678,16 @@
       "facadeId": "maxRetentionAmount",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idef3da5ad1a3c5ea1fc25",
+      "type": "input"
+    },
+    "idf00d884343a2632d962e": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "catExposure",
+      "format": "",
+      "id": "idf00d884343a2632d962e",
       "type": "input"
     },
     "idf05f6240ee083ffa549c": {
@@ -2593,6 +5699,32 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idf05f6240ee083ffa549c",
       "type": "input"
+    },
+    "idf0bda3d4f894c27d533b": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "xolLayer",
+      "id": "idf0bda3d4f894c27d533b",
+      "type": "dropdown"
+    },
+    "idf1e684198691420b42ea": {
+      "alignment": "right",
+      "alignmentWithinDatagrid": "right",
+      "children": [
+        "idfa49a6ef16237bf76832",
+        "iddb819ac992611cc2e524"
+      ],
+      "colspan": 6,
+      "id": "idf1e684198691420b42ea",
+      "rowspan": 1,
+      "type": "buttongroup"
+    },
+    "idf266e45c1fac74000289": {
+      "colspan": 2,
+      "columnWidth": "100",
+      "facadeId": "vesselType",
+      "id": "idf266e45c1fac74000289",
+      "type": "dropdown"
     },
     "idf43baa9d39c70441101d": {
       "alignment": "left",
@@ -2628,6 +5760,16 @@
       "id": "idf6881acb4643de8c8069",
       "type": "input"
     },
+    "idf6e8b5ce5434620ebc46": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "minAndDepositPremiumAmount",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idf6e8b5ce5434620ebc46",
+      "type": "input"
+    },
     "idf7064dbe408617e72d15": {
       "colspan": 1,
       "facadeId": "remove",
@@ -2645,6 +5787,16 @@
       "id": "idf894d7dd5dd25c903f24",
       "type": "input"
     },
+    "idf97508174bd09cb3ac6c": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "decimal",
+      "facadeId": "adjustmentRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idf97508174bd09cb3ac6c",
+      "type": "input"
+    },
     "idf987d7521724092e153c": {
       "children": [
         "idb4cd2631afd5335145eb",
@@ -2656,6 +5808,25 @@
       "id": "idf987d7521724092e153c",
       "rowspan": 3,
       "type": "list"
+    },
+    "idfa0028b78a9bc10e9fd2": {
+      "facadeId": "viewTextComponents",
+      "id": "idfa0028b78a9bc10e9fd2",
+      "type": "contextMenuEntry"
+    },
+    "idfa49a6ef16237bf76832": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idfa49a6ef16237bf76832",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idfa4ca53dfdf794384f65": {
+      "colspan": 2,
+      "columnWidth": "223",
+      "facadeId": "exposureBasis",
+      "id": "idfa4ca53dfdf794384f65",
+      "type": "dropdown"
     },
     "idfb06fea4597e6c883bf3": {
       "children": [
@@ -2670,6 +5841,46 @@
       "id": "idfb06fea4597e6c883bf3",
       "rowspan": 4,
       "type": "list"
+    },
+    "idfb93083924ae8a000817": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "167",
+      "dataType": "number",
+      "facadeId": "emiLimits",
+      "format": "",
+      "id": "idfb93083924ae8a000817",
+      "type": "input"
+    },
+    "idfbde34b96a2a93d072a4": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "cedantPolicyNumber",
+      "format": "",
+      "id": "idfbde34b96a2a93d072a4",
+      "type": "input"
+    },
+    "idfbdf2cf688d975d57953": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idfbdf2cf688d975d57953",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
+    "idfc711f4f8848a8d3a796": {
+      "colspan": 2,
+      "facadeId": "add",
+      "id": "idfc711f4f8848a8d3a796",
+      "style": "secondary",
+      "type": "button"
     },
     "idfc8bc1a8eaae30c68e6d": {
       "children": [
@@ -2691,6 +5902,16 @@
       "rowspan": 4,
       "type": "list"
     },
+    "idfd290b4a07f60b0e6cfd": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "100",
+      "dataType": "string",
+      "facadeId": "locationLattitude",
+      "format": "",
+      "id": "idfd290b4a07f60b0e6cfd",
+      "type": "input"
+    },
     "idfd9d77e771d37ef11c6f": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -2703,6 +5924,51 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "idfe303b92c51355dbbb8f": {
+      "colspan": 2,
+      "facadeId": "remove",
+      "id": "idfe303b92c51355dbbb8f",
+      "style": "secondary",
+      "type": "button"
+    },
+    "idfe34fd3f996c41bfafcd": {
+      "children": [
+        "id5289cfdee8be8d6081f5",
+        "idc16e4e0747b849bfd831",
+        "idbfb2351fb080d4865e41",
+        "idca2723ced80fc246436b"
+      ],
+      "colspan": 6,
+      "facadeId": "spilloverProgram",
+      "hideColumnHeader": false,
+      "id": "idfe34fd3f996c41bfafcd",
+      "rowspan": 4,
+      "type": "list",
+      "variant": "spilloverProgramVariant"
+    },
+    "idfeac0c7f3bf31f7c6662": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "83",
+      "dataType": "decimal",
+      "facadeId": "others",
+      "format": "FORMAT_LARGE_AMOUNT",
+      "id": "idfeac0c7f3bf31f7c6662",
+      "type": "input"
+    },
+    "idff0f2917ab942fb635cb": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "30",
+      "copytextOption": "normal",
+      "dataType": "number",
+      "facadeId": "counter",
+      "format": "",
+      "id": "idff0f2917ab942fb635cb",
+      "rowspan": 1,
+      "type": "textOutput",
+      "verticalAlignment": "top"
+    },
     "idff190890e75435fff6bd": {
       "id": "idff190890e75435fff6bd",
       "order": {
@@ -2714,6 +5980,16 @@
         "id4a4305fd95b96e9ea62d": 5,
         "ida234c796e2b8898e21cf": 6
       }
+    },
+    "idffbf702d70e6ce31b65a": {
+      "alignment": "left",
+      "colspan": 2,
+      "columnWidth": "335",
+      "dataType": "decimal",
+      "facadeId": "commissionScaleData",
+      "format": "FORMAT_AMOUNT",
+      "id": "idffbf702d70e6ce31b65a",
+      "type": "input"
     }
   },
   "languages": [
@@ -2778,7 +6054,145 @@
       "parentId": "idcc83bb4b32daca8c592e"
     }
   },
-  "variantEntities": {},
+  "variantEntities": {
+    "VG_id1a421f7931f828b05712": {
+      "children": [],
+      "id": "VG_id1a421f7931f828b05712",
+      "label": "xlLayersVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "xlLayersVariant": true
+      }
+    },
+    "VG_id218e37e7a2ef7779aa55": {
+      "children": [],
+      "id": "VG_id218e37e7a2ef7779aa55",
+      "label": "towerLayersVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "towerLayersVariant": true
+      }
+    },
+    "VG_id2e8507a55acb1663e32a": {
+      "children": [],
+      "id": "VG_id2e8507a55acb1663e32a",
+      "label": "masterPolicyDetailsXOLVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "TRTXLVariant": false,
+        "masterPolicyDetailsXOLVariant": true
+      }
+    },
+    "VG_id5952601b139981ba5d1b": {
+      "children": [],
+      "id": "VG_id5952601b139981ba5d1b",
+      "label": "inuringDetailsVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "inuringDetailsVariant": true
+      }
+    },
+    "VG_id787f70dfcea212b44ed5": {
+      "children": [],
+      "id": "VG_id787f70dfcea212b44ed5",
+      "label": "retenstionLineVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "retenstionLineVariant": true
+      }
+    },
+    "VG_id82bb0e111de5a0b218d9": {
+      "children": [],
+      "id": "VG_id82bb0e111de5a0b218d9",
+      "label": "territorialScopeVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "territorialScopeVariant": true
+      }
+    },
+    "VG_id8964c1b6fdd0791a4928": {
+      "children": [],
+      "id": "VG_id8964c1b6fdd0791a4928",
+      "label": "livestockRateVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "livestockRateVariant": true
+      }
+    },
+    "VG_idb7b48e5044d3e125930b": {
+      "children": [],
+      "id": "VG_idb7b48e5044d3e125930b",
+      "label": "gradedRetentionVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "gradedRetentionVariant": true
+      }
+    },
+    "VG_idbaf5d7d3c00642ac224a": {
+      "children": [],
+      "id": "VG_idbaf5d7d3c00642ac224a",
+      "label": "coverLimitsVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "coverLimitsVariant": true
+      }
+    },
+    "VG_idbbe10484defef1e1e4fb": {
+      "children": [],
+      "id": "VG_idbbe10484defef1e1e4fb",
+      "label": "slidingScaleDataVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "slidingScaleDataVariant": true
+      }
+    },
+    "VG_idc889567484f98ce7e56b": {
+      "children": [],
+      "id": "VG_idc889567484f98ce7e56b",
+      "label": "miscellaneousMasterVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "miscellaneousMasterVariant": true
+      }
+    },
+    "VG_idd62b1c13bd462105d5fb": {
+      "children": [],
+      "id": "VG_idd62b1c13bd462105d5fb",
+      "label": "spilloverProgramVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "spilloverProgramVariant": true
+      }
+    },
+    "VG_idd82ba33ce385002cd780": {
+      "children": [],
+      "id": "VG_idd82ba33ce385002cd780",
+      "label": "marineCargoVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "marineCargoVariant": true
+      }
+    },
+    "VG_idf41c503a38033ec10759": {
+      "children": [],
+      "id": "VG_idf41c503a38033ec10759",
+      "label": "MRNPNPVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "MRNPNPVariant": true
+      }
+    },
+    "VG_idffad50305c2bb1826988": {
+      "children": [],
+      "id": "VG_idffad50305c2bb1826988",
+      "label": "masterPolicyDetailsSurplusVariant",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "TRTPSVariant": false,
+        "masterPolicyDetailsSurplusVariant": true
+      }
+    }
+  },
   "files": {
     "id": "files"
   },
