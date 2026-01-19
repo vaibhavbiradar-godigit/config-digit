@@ -285,6 +285,10 @@
     "DE": "No of  Lines",
     "EN": "No of  Lines"
   },
+  "id203cf30f72fa354611fc": {
+    "DE": "Marine Cargo",
+    "EN": "Marine Cargo"
+  },
   "id21b1c0c9ea605a63d7de": {
     "DE": "Spillover covered in excess of",
     "EN": "Spillover covered in excess of"
@@ -320,6 +324,10 @@
   "id23e79d302cb7188a83da": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id247ed4a2288281ed5591": {
+    "DE": "Cedant Policy Number",
+    "EN": "Cedant Policy Number"
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
@@ -432,6 +440,10 @@
   "id31195c496a5def1496a7": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
+  },
+  "id316ae0951d5c7afaa983": {
+    "DE": "Transit Mode",
+    "EN": "Transit Mode"
   },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
@@ -696,6 +708,10 @@
     "DE": "Maintenance Records",
     "EN": "Maintenance Records"
   },
+  "id5478368b98274b5cbd9e": {
+    "DE": "Stock Throughput Details",
+    "EN": "Stock Throughput Details"
+  },
   "id547f7bcb393febe6e8b6": {
     "DE": "Abrechnungskonto",
     "EN": "Instrument Number"
@@ -798,6 +814,10 @@
   "id61f4c9438f3b49f5f84d": {
     "DE": "Retained Amount",
     "EN": "Retained Amount"
+  },
+  "id6221c2ca8d1904731bba": {
+    "DE": "Exclusions",
+    "EN": "Exclusions"
   },
   "id6268f3ca140d3fd7aa35": {
     "DE": "Zusatzinformationen anzeigen",
@@ -982,6 +1002,10 @@
   "id7c05739d8928dfd6802d": {
     "DE": "Deductible",
     "EN": "Deductible"
+  },
+  "id7c22b49a6d218b921745": {
+    "DE": "Route Details",
+    "EN": "Route Details"
   },
   "id7c6191544c7750407630": {
     "DE": "Top Drop",
@@ -1177,6 +1201,10 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "id907d16e21855400316e1": {
+    "DE": "Voyage Destination Port",
+    "EN": "Voyage Destination Port"
+  },
   "id908d88bab48047ad86c2": {
     "DE": "Add",
     "EN": "Add"
@@ -1261,9 +1289,17 @@
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
   },
+  "id9c200f19022619faee74": {
+    "DE": "Certificate Number",
+    "EN": "Certificate Number"
+  },
   "id9c4820a3d6b759b3cc80": {
     "DE": "Sheep",
     "EN": "Sheep"
+  },
+  "id9d27c9ed66b3334a4b4f": {
+    "DE": "Cargo Description",
+    "EN": "Cargo Description"
   },
   "id9d69f1f7e077b94b02da": {
     "DE": "Add",
@@ -1379,6 +1415,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "idaf810a04afe36fd18f15": {
+    "DE": "Packaging Type",
+    "EN": "Packaging Type"
+  },
   "idaff14eba6e4913903290": {
     "DE": "Objekt bearbeiten",
     "EN": "Edit object"
@@ -1428,6 +1468,10 @@
   "idb2ba0976bd4f32a2971f": {
     "DE": "Limit",
     "EN": "Limit"
+  },
+  "idb2c31c3b50fb514cf3e6": {
+    "DE": "Loss Prevention Measures",
+    "EN": "Loss Prevention Measures"
   },
   "idb37d9a5d98b4a11a915d": {
     "DE": "Territorial Scope",
@@ -1574,6 +1618,10 @@
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
   },
+  "idc0d4b2e61330d381030e": {
+    "DE": "Storage Cover Duration(Days)",
+    "EN": "Storage Cover Duration(Days)"
+  },
   "idc0e185d535c5c6396ab0": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
@@ -1626,6 +1674,10 @@
     "DE": "Limit per Conveyance",
     "EN": "Limit per Conveyance"
   },
+  "idc6da5b708db2b7840b47": {
+    "DE": "Limit per Conveyance",
+    "EN": "Limit per Conveyance"
+  },
   "idc737f0f7b07534b5356e": {},
   "idc751341be27f7a5065a5": {
     "DE": "Cause of Loss",
@@ -1666,6 +1718,10 @@
   "idcab62455de485fc2ca00": {
     "DE": "Loss Ration Scale",
     "EN": "Loss Ration Scale"
+  },
+  "idcb21300f85dffda08192": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idcb7bf1d8851e37dd4f65": {
     "EN": "VRL product code"
@@ -1740,6 +1796,10 @@
   "idd2a109cb19321848eec4": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "idd2c0f39be5776818936a": {
+    "DE": "Voyage Origin Port",
+    "EN": "Voyage Origin Port"
   },
   "idd3071f4955bc5e00c7ec": {
     "DE": "Add",
@@ -1823,6 +1883,10 @@
     "DE": "Perils",
     "EN": "Perils"
   },
+  "iddb37515780f31007372a": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
   "iddb819ac992611cc2e524": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1866,6 +1930,10 @@
   "idde8f9652c54ae607b7f0": {
     "DE": "Retention",
     "EN": "Retention"
+  },
+  "iddee186a76c44d61d32fc": {
+    "DE": "Cargo Type",
+    "EN": "Cargo Type"
   },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
@@ -2005,6 +2073,10 @@
   "idf4e8cd0e893f2a7346b9": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "idf546313af9d92c23497c": {
+    "DE": "Packing Quality",
+    "EN": "Packing Quality"
   },
   "idf56d16b54a9391efe32f": {
     "DE": "Entfernen",
