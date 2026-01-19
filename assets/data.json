@@ -421,6 +421,21 @@
       "id": "id12732b111d492ea71707",
       "type": "input"
     },
+    "id128038d1ef6ec1f45de8": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "vesselName",
+      "format": "",
+      "id": "id128038d1ef6ec1f45de8",
+      "type": "input"
+    },
+    "id128e76c7e6037aefe327": {
+      "colspan": 2,
+      "facadeId": "flag",
+      "id": "id128e76c7e6037aefe327",
+      "type": "dropdown"
+    },
     "id12ca82ab23e09f936c05": {
       "id": "id12ca82ab23e09f936c05",
       "referenceValue": "bankTransfer",
@@ -559,6 +574,15 @@
       "id": "id16930ef4db46060882d2",
       "rowspan": 4,
       "type": "list"
+    },
+    "id16c1f28e2bf720b9313f": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "equipmentDetails",
+      "format": "",
+      "id": "id16c1f28e2bf720b9313f",
+      "type": "input"
     },
     "id178682ddb4795bad3814": {
       "alignment": "left",
@@ -825,6 +849,15 @@
       "id": "id1eb7578536764b2f772d",
       "type": "dropdown"
     },
+    "id1edd69af0d1aecfc898e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "portBiExposure",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1edd69af0d1aecfc898e",
+      "type": "input"
+    },
     "id1f234a3ce0a07d6aab0b": {
       "alignment": "left",
       "colspan": 2,
@@ -884,6 +917,12 @@
       "rowspan": 2,
       "type": "groupbox",
       "variant": "marineCargoCPVariant"
+    },
+    "id217d5c22c629a68936bf": {
+      "colspan": 2,
+      "facadeId": "vesselType",
+      "id": "id217d5c22c629a68936bf",
+      "type": "dropdown"
     },
     "id21b1c0c9ea605a63d7de": {
       "alignment": "left",
@@ -1143,6 +1182,12 @@
       "format": "",
       "id": "id292bc45858203de4188f",
       "type": "input"
+    },
+    "id29543ac591a00c88a28e": {
+      "colspan": 2,
+      "facadeId": "engineType",
+      "id": "id29543ac591a00c88a28e",
+      "type": "dropdown"
     },
     "id2956c7f171e304196759": {
       "colspan": 2,
@@ -1454,6 +1499,29 @@
       "style": "secondary",
       "type": "button"
     },
+    "id36ea92868ff7210308b3": {
+      "children": [
+        "id128038d1ef6ec1f45de8",
+        "id4943f6f29a139dec30ed",
+        "id217d5c22c629a68936bf",
+        "id761f992cc67ef9b81b2e",
+        "id128e76c7e6037aefe327",
+        "idbe5a75d1af2afd083867",
+        "ide39a109531e7f3f9b7f6",
+        "id29543ac591a00c88a28e",
+        "id9befa9831cd0d148d42b",
+        "idd35ccaef9d832c369984",
+        "id7a67954b49e691980b58",
+        "id8173b696916e417b181e",
+        "id826a892b4a6070a1f513"
+      ],
+      "colspan": 6,
+      "facadeId": "marineHull",
+      "id": "id36ea92868ff7210308b3",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "marineCargoCPVariant"
+    },
     "id37e2b9e6f8a4dc72c745": {
       "colspan": 1,
       "facadeId": "add",
@@ -1657,6 +1725,15 @@
       },
       "style": "secondary",
       "type": "button"
+    },
+    "id3f5fbe570c753dc81fef": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "portSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id3f5fbe570c753dc81fef",
+      "type": "input"
     },
     "id3f76158956e408510b7b": {
       "alignment": "left",
@@ -1876,6 +1953,15 @@
       "facadeId": "platformName",
       "format": "",
       "id": "id48f7a6e8c0348619c267",
+      "type": "input"
+    },
+    "id4943f6f29a139dec30ed": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "imoNumber",
+      "format": "",
+      "id": "id4943f6f29a139dec30ed",
       "type": "input"
     },
     "id495076333f242bc618a6": {
@@ -2159,6 +2245,15 @@
       "id": "id537c2576bc73d491693c",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id541165d0481eca4563a0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "storageCapacity",
+      "format": "FORMAT_AMOUNT",
+      "id": "id541165d0481eca4563a0",
+      "type": "input"
     },
     "id54503dd33517b978abf3": {
       "alignment": "left",
@@ -2833,6 +2928,15 @@
       "id": "id7612f17f3705a056cb08",
       "type": "dropdown"
     },
+    "id761f992cc67ef9b81b2e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "number",
+      "facadeId": "hullYearBuilt",
+      "format": "",
+      "id": "id761f992cc67ef9b81b2e",
+      "type": "input"
+    },
     "id7621714ca1e9d3087e45": {
       "colspan": 2,
       "deprecatedInVersion": "28.7.51",
@@ -2857,6 +2961,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id76c6f55e51897a122943",
       "type": "input"
+    },
+    "id774f87da81a5e7394735": {
+      "colspan": 2,
+      "facadeId": "country",
+      "id": "id774f87da81a5e7394735",
+      "type": "dropdown"
     },
     "id77771cc305f348137f84": {
       "alignment": "left",
@@ -2956,6 +3066,15 @@
       "rowspan": 3,
       "type": "layoutbox",
       "variant": "livestockRateVariant"
+    },
+    "id7a67954b49e691980b58": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "hullDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7a67954b49e691980b58",
+      "type": "input"
     },
     "id7b56cd77315d5663e238": {
       "alignment": "left",
@@ -3098,6 +3217,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id8173b696916e417b181e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "maintenanceRecords",
+      "format": "",
+      "id": "id8173b696916e417b181e",
+      "type": "input"
+    },
     "id81eff713587abd6a33c1": {
       "alignment": "left",
       "colspan": 2,
@@ -3123,6 +3251,15 @@
       "facadeId": "subrogationAmount",
       "format": "FORMAT_AMOUNT",
       "id": "id826149684b3a96407ed1",
+      "type": "input"
+    },
+    "id826a892b4a6070a1f513": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "tradingLimits",
+      "format": "",
+      "id": "id826a892b4a6070a1f513",
       "type": "input"
     },
     "id829c8e6d2b68d376535a": {
@@ -3489,6 +3626,15 @@
       "type": "input",
       "variant": "masterPolicyDetailsXOLVariant"
     },
+    "id90540d949f81857cdf7e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "floodZone",
+      "format": "",
+      "id": "id90540d949f81857cdf7e",
+      "type": "input"
+    },
     "id907d16e21855400316e1": {
       "alignment": "left",
       "colspan": 2,
@@ -3563,6 +3709,8 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id36ea92868ff7210308b3": 10,
+        "id9fcc660dbc761b14ca9b": 11,
         "VG_id6c917908ecbe2cd8297d": 16,
         "id203cf30f72fa354611fc": 9,
         "id5b62da9d5983f89336a2": 8,
@@ -3586,16 +3734,16 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 19,
-        "id13cb4ae08c6a5e26563c": 10,
-        "idcafb0c30e1d63edb47c9": 11,
-        "id45f5bcee21ce843ca4a4": 12,
-        "idcfbb20fb21a07c60122a": 13,
-        "id600e1004fdf2d666b901": 14,
-        "id0f61e821c30093bc22d9": 15,
-        "id7a5dd092f93608b09d52": 18,
-        "id2d80ea5c85120a46d449": 16,
-        "id65c0760f5e7cad3d1e45": 17
+        "id2715ef2fc25d31137631": 21,
+        "id13cb4ae08c6a5e26563c": 12,
+        "idcafb0c30e1d63edb47c9": 13,
+        "id45f5bcee21ce843ca4a4": 14,
+        "idcfbb20fb21a07c60122a": 15,
+        "id600e1004fdf2d666b901": 16,
+        "id0f61e821c30093bc22d9": 17,
+        "id7a5dd092f93608b09d52": 20,
+        "id2d80ea5c85120a46d449": 18,
+        "id65c0760f5e7cad3d1e45": 19
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -3767,6 +3915,12 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id9befa9831cd0d148d42b": {
+      "colspan": 2,
+      "facadeId": "hullMaterial",
+      "id": "id9befa9831cd0d148d42b",
+      "type": "dropdown"
+    },
     "id9c200f19022619faee74": {
       "alignment": "left",
       "colspan": 2,
@@ -3898,6 +4052,26 @@
         "id83ab88273e8f8b075d9e": 17
       }
     },
+    "id9fcc660dbc761b14ca9b": {
+      "children": [
+        "ide51f08ea92f5438467ce",
+        "id774f87da81a5e7394735",
+        "idf5e33f96fea8e4f2af51",
+        "ida491b2df1f1181c59691",
+        "id541165d0481eca4563a0",
+        "id16c1f28e2bf720b9313f",
+        "id3f5fbe570c753dc81fef",
+        "id1edd69af0d1aecfc898e",
+        "id90540d949f81857cdf7e",
+        "idc0220c112760d9e9b2c4"
+      ],
+      "colspan": 6,
+      "facadeId": "portAndTerminal",
+      "id": "id9fcc660dbc761b14ca9b",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "marineCargoCPVariant"
+    },
     "id9ff60ee8b137df4dd2fd": {
       "alignment": "left",
       "colspan": 2,
@@ -3992,6 +4166,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "ida443145c4316cf45528c",
       "type": "input"
+    },
+    "ida491b2df1f1181c59691": {
+      "colspan": 2,
+      "facadeId": "storageCapacityUnit",
+      "id": "ida491b2df1f1181c59691",
+      "type": "dropdown"
     },
     "ida4bd5fd65104e65dd77c": {
       "alignment": "left",
@@ -4662,6 +4842,12 @@
       "id": "idbdf19d8e2d8d1c5311ad",
       "type": "input"
     },
+    "idbe5a75d1af2afd083867": {
+      "colspan": 2,
+      "facadeId": "classificationSociety",
+      "id": "idbe5a75d1af2afd083867",
+      "type": "dropdown"
+    },
     "idbfb2351fb080d4865e41": {
       "alignment": "left",
       "colspan": 2,
@@ -4676,6 +4862,12 @@
       "facadeId": "addComponents",
       "id": "idc00a781f3a7fdf0acb17",
       "type": "contextMenuEntry"
+    },
+    "idc0220c112760d9e9b2c4": {
+      "colspan": 2,
+      "facadeId": "fireProtection",
+      "id": "idc0220c112760d9e9b2c4",
+      "type": "dropdown"
     },
     "idc02f2a728ae84e9c05d1": {
       "children": [
@@ -5248,6 +5440,15 @@
       "id": "idd323fc2aeaf5cff2c79e",
       "type": "contextMenuEntry"
     },
+    "idd35ccaef9d832c369984": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "hullSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "idd35ccaef9d832c369984",
+      "type": "input"
+    },
     "idd38eff0ec8f042a8f7df": {
       "children": [
         "id9a199c8189119590a940",
@@ -5626,6 +5827,12 @@
       "id": "ide2935281d50b92c5fcae",
       "type": "input"
     },
+    "ide39a109531e7f3f9b7f6": {
+      "colspan": 2,
+      "facadeId": "tonnage",
+      "id": "ide39a109531e7f3f9b7f6",
+      "type": "dropdown"
+    },
     "ide3d0199fddf5b3cd91cc": {
       "children": [
         "id5fe0a45f84e7d561dd27",
@@ -5681,6 +5888,15 @@
       "id": "ide488ac7f75aab5129c39",
       "style": "secondary",
       "type": "button"
+    },
+    "ide51f08ea92f5438467ce": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "portName",
+      "format": "",
+      "id": "ide51f08ea92f5438467ce",
+      "type": "input"
     },
     "ide53de88916746711cb09": {
       "alignment": "right",
@@ -5920,6 +6136,12 @@
       "id": "idf56d16b54a9391efe32f",
       "style": "secondary",
       "type": "button"
+    },
+    "idf5e33f96fea8e4f2af51": {
+      "colspan": 2,
+      "facadeId": "terminalType",
+      "id": "idf5e33f96fea8e4f2af51",
+      "type": "dropdown"
     },
     "idf6881acb4643de8c8069": {
       "alignment": "left",
