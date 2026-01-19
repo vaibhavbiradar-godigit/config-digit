@@ -51,6 +51,10 @@
     "DE": "Policy Number",
     "EN": "Policy Number"
   },
+  "id052e43cff45fd20c93c4": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
     "EN": "Sliding scale"
@@ -106,6 +110,10 @@
   "id0d50ce899ab5a4fcf2b3": {
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
+  },
+  "id0ddab3af4aa831711feb": {
+    "DE": "Location of Loss",
+    "EN": "Location of Loss"
   },
   "id0e2b6670a5fb84bf2567": {
     "DE": "Net Retained Lines",
@@ -198,6 +206,10 @@
     "DE": "Classification Society",
     "EN": "Classification Society"
   },
+  "id15c98f6fa95110e37ecc": {
+    "DE": "Paid Amount",
+    "EN": "Paid Amount"
+  },
   "id16058a848239a5dd6d2d": {
     "DE": "Cover Limits",
     "EN": "Cover Limits"
@@ -209,6 +221,10 @@
   "id162feca8e7e5b6432cde": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id1650dcc5763dbf8d67c8": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "id16930ef4db46060882d2": {
     "DE": "Inuring Programs",
@@ -361,6 +377,10 @@
     "DE": "CAT Exposure",
     "EN": "CAT Exposure"
   },
+  "id25b7fec6950f38bc75df": {
+    "DE": "Settlement Agreement Date",
+    "EN": "Settlement Agreement Date"
+  },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
@@ -493,6 +513,10 @@
     "DE": "Transit Mode",
     "EN": "Transit Mode"
   },
+  "id31dc2938190c8ee956d7": {
+    "DE": "Incurred Loss amount",
+    "EN": "Incurred Loss amount"
+  },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -544,6 +568,10 @@
   "id37e2b9e6f8a4dc72c745": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id38ad642629b7ed2a58e3": {
+    "DE": "Surveyor Report Date",
+    "EN": "Surveyor Report Date"
   },
   "id39622899ac9d799b3089": {
     "DE": "Objekt bearbeiten",
@@ -709,6 +737,10 @@
     "DE": "Class of Business",
     "EN": "Class of Business"
   },
+  "id4cdb009397707d43cd9f": {
+    "DE": "Deductible Applied",
+    "EN": "Deductible Applied"
+  },
   "id4ced3428a4d97de987af": {
     "DE": "Buffelo",
     "EN": "Buffelo"
@@ -724,6 +756,10 @@
   "id4e131b548458506bf475": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "id4e9d99f0eaef74abc7c8": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "id4f835a5c6deceb1a4749": {
     "DE": "Maximum Retention Amount",
@@ -771,6 +807,10 @@
   "id538be03bf3db1a652c5a": {
     "DE": "Gruppengeschäftsvertrag",
     "EN": "Group Business Contract"
+  },
+  "id540698423843b626099f": {
+    "DE": "Notification Date",
+    "EN": "Notification Date"
   },
   "id541165d0481eca4563a0": {
     "DE": "Storage Capacity",
@@ -910,6 +950,10 @@
   "id643a9b0985580e155244": {
     "DE": "Spillover covered in excess of",
     "EN": "Spillover covered in excess of"
+  },
+  "id64c262268789ed479d78": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
   },
   "id654b26d68cd757e549bd": {
     "DE": "Minimum and Deposit Premium%",
@@ -1198,6 +1242,10 @@
   },
   "id83ab88273e8f8b075d9e": {
     "EN": "Original Risk/Insured"
+  },
+  "id84a85eae6c7db0f7edca": {
+    "DE": "Surveyor Findings",
+    "EN": "Surveyor Findings"
   },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
@@ -1555,6 +1603,10 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "ida8af7f47c7052dcba7c0": {
+    "DE": "Claim",
+    "EN": "Claim"
+  },
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
@@ -1867,6 +1919,10 @@
     "DE": "Claim Type",
     "EN": "Claim Type"
   },
+  "idc788602431602e9394dc": {
+    "DE": "Cause of Loss",
+    "EN": "Cause of Loss"
+  },
   "idc8473ba7b46823d41408": {
     "DE": "Coverage Details",
     "EN": "Coverage Details"
@@ -1878,6 +1934,10 @@
   "idc92dacf86a65324c99ae": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "idc9d3071d21b6faa6bb88": {
+    "DE": "Court Jurisdiction",
+    "EN": "Court Jurisdiction"
   },
   "idc9e970a64f66580088bf": {
     "DE": "Sr. No.",
@@ -1940,6 +2000,10 @@
   "idcff884db4cc33ba3b352": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
+  },
+  "idd02f5ee8a600d103561d": {
+    "DE": "CAT Event Flag",
+    "EN": "CAT Event Flag"
   },
   "idd059990b73ebf5065d7c": {
     "DE": "Class of Business",
@@ -2024,6 +2088,10 @@
     "DE": "Bedingungen anzeigen",
     "EN": "View terms and conditions"
   },
+  "idd56c536f940fb4d2d0ee": {
+    "DE": "Large Loss Flag",
+    "EN": "Large Loss Flag"
+  },
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
@@ -2034,6 +2102,10 @@
   "idd655e04811d2b56ba642": {
     "DE": "Waiting Period in Months",
     "EN": "Waiting Period in Months"
+  },
+  "idd65e7b650fc7697471d9": {
+    "DE": "Loss Date",
+    "EN": "Loss Date"
   },
   "idd81716cc73b9bb04ae90": {
     "DE": "add",
@@ -2091,6 +2163,10 @@
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
   },
+  "iddd03a6b1aac1b35308d6": {
+    "DE": "Certificate Number",
+    "EN": "Certificate Number"
+  },
   "iddd5b07b4ea69b75a44ef": {
     "DE": "Entfernen",
     "EN": "Remove"
@@ -2127,6 +2203,10 @@
     "DE": "Pig",
     "EN": "Pig"
   },
+  "iddfec973cfd8015d9e409": {
+    "DE": "Law Firm Name",
+    "EN": "Law Firm Name"
+  },
   "ide00263d424cb4cbe661c": {
     "DE": "Request Share",
     "EN": "Request Share"
@@ -2158,6 +2238,10 @@
   "ide39a109531e7f3f9b7f6": {
     "DE": "Tonnage",
     "EN": "Tonnage"
+  },
+  "ide3a355b2dddce06e4270": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
   },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
@@ -2195,6 +2279,10 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
+  "ide712522c3bcbe90b528f": {
+    "DE": "Subrogation Amount",
+    "EN": "Subrogation Amount"
+  },
   "ide716f36f53f1f259c4dc": {
     "DE": "Add",
     "EN": "Add"
@@ -2206,6 +2294,10 @@
   "ide888f336039ddea98075": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
+  },
+  "ide9a7b191cc1b0274f271": {
+    "DE": "Claim Number",
+    "EN": "Claim Number"
   },
   "idea54915a0b826dd7da93": {
     "DE": "Leader's Participation",
@@ -2242,6 +2334,10 @@
     "DE": "",
     "EN": "Bank Name"
   },
+  "idee791758043c42e93327": {
+    "DE": "Surveyor Name",
+    "EN": "Surveyor Name"
+  },
   "ideeaf8c7c72bc9f809579": {
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
@@ -2269,6 +2365,10 @@
   "idf266e45c1fac74000289": {
     "DE": "Vessel Type",
     "EN": "Vessel Type"
+  },
+  "idf36d37fbcfa4b2aed1d8": {
+    "DE": "Legal Proceedings Flag",
+    "EN": "Legal Proceedings Flag"
   },
   "idf43baa9d39c70441101d": {
     "DE": "Request Share",
@@ -2310,6 +2410,10 @@
     "DE": "Adjustment Rate",
     "EN": "Adjustment Rate"
   },
+  "idf97e1a4483996e6a2914": {
+    "DE": "Estimated Loss",
+    "EN": "Estimated Loss"
+  },
   "idf987d7521724092e153c": {
     "DE": "Coverage Additional Details: Territorial Scope",
     "EN": "Coverage Additional Details: Territorial Scope"
@@ -2326,6 +2430,10 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
+  "idfafc8f77da77810b1236": {
+    "DE": "Outstanding Amount",
+    "EN": "Outstanding Amount"
+  },
   "idfb06fea4597e6c883bf3": {
     "DE": "Spillover",
     "EN": "Spillover"
@@ -2333,6 +2441,10 @@
   "idfb93083924ae8a000817": {
     "DE": "EMI Limits (in Days)",
     "EN": "EMI Limits (in Days)"
+  },
+  "idfb9a46bb5e0a109e44fe": {
+    "DE": "Salvage Value",
+    "EN": "Salvage Value"
   },
   "idfbb8a0b4c3614b3bd632": {
     "DE": "Project Name",
@@ -2373,6 +2485,10 @@
   "idff0f2917ab942fb635cb": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idff9bbe42cf9c533431c4": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idffbf702d70e6ce31b65a": {
     "DE": "Commission Scale",
