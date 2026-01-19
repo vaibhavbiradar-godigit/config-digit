@@ -48,8 +48,8 @@
     "EN": "Inuring Programs"
   },
   "id04a6f912d31544b34c46": {
-    "DE": "M Policy Number",
-    "EN": "M Policy Number"
+    "DE": "Policy Number",
+    "EN": "Policy Number"
   },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
@@ -116,8 +116,8 @@
     "EN": "Sr. No."
   },
   "id0ecccc460e04ed3cfbfa": {
-    "DE": "M Certificate Number",
-    "EN": "M Certificate Number"
+    "DE": "Certificate Number",
+    "EN": "Certificate Number"
   },
   "id0f357e5f2d93ace0f188": {
     "DE": "Sr. No.",
@@ -518,8 +518,8 @@
     "EN": "VRE Our Manual Premium"
   },
   "id3e0584c7b877800907c1": {
-    "DE": "MRNPNP",
-    "EN": "MRNPNP"
+    "DE": "Marine",
+    "EN": "Marine"
   },
   "id3e59ff3d2561396b372c": {
     "DE": "Perils",
@@ -550,12 +550,12 @@
     "EN": "Inuring Program"
   },
   "id431b99c8d50e5439ef91": {
-    "DE": "E CAT Exposure",
-    "EN": "E CAT Exposure"
+    "DE": "CAT Exposure",
+    "EN": "CAT Exposure"
   },
   "id434d896bd0f0935719a7": {
-    "DE": "P Sum Insured",
-    "EN": "P Sum Insured"
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id44a08e0faca62ac87676": {
     "DE": "Add",
@@ -980,8 +980,8 @@
     "EN": "Basis"
   },
   "id7c05739d8928dfd6802d": {
-    "DE": "H Deductible",
-    "EN": "H Deductible"
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "id7c6191544c7750407630": {
     "DE": "Top Drop",
@@ -1010,8 +1010,8 @@
     "EN": "UW Year-year of Start Date"
   },
   "id7f6437c040655aaef443": {
-    "DE": "B Sum Insured",
-    "EN": "B Sum Insured"
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id7fb1a6ba100880367b5d": {
     "DE": "Add",
@@ -1106,8 +1106,8 @@
     "EN": "Cargo Type"
   },
   "id88398ebb73f38ea02716": {
-    "DE": "E BI Exposure",
-    "EN": "E BI Exposure"
+    "DE": "BI Exposure",
+    "EN": "BI Exposure"
   },
   "id88845c596b48ead97c83": {
     "DE": "Storage Cover Duration(Days)",
@@ -1376,8 +1376,8 @@
     "EN": "Paid Amount"
   },
   "idad4c215587776e1932c8": {
-    "DE": "C Sum Insured",
-    "EN": "C Sum Insured"
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idaff14eba6e4913903290": {
     "DE": "Objekt bearbeiten",
@@ -1402,8 +1402,8 @@
     "EN": "Reinstatement Rate"
   },
   "idb10d0977c477c9bf7a48": {
-    "DE": "B Deductible",
-    "EN": "B Deductible"
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "idb14d0ca70bd57877cf9f": {
     "DE": "Minimum and Deposit Premium%",
@@ -1611,8 +1611,8 @@
     "EN": "Remove"
   },
   "idc4c14004d27bb29f22ac": {
-    "DE": "E Year Built",
-    "EN": "E Year Built"
+    "DE": "Year Built",
+    "EN": "Year Built"
   },
   "idc50846766d0b9644631a": {
     "DE": "VRE Our Manual Rate on Line",
@@ -1671,8 +1671,8 @@
     "EN": "VRL product code"
   },
   "idcb7d1aa66067b98c14ac": {
-    "DE": "H Sum Insured",
-    "EN": "H Sum Insured"
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idcc76732a1cb82daabb58": {
     "DE": "Reinstatement Type",
@@ -1832,8 +1832,8 @@
     "EN": "Duration (YY/MM)"
   },
   "iddc85fc6d4f06c6b39975": {
-    "DE": "L Deductible",
-    "EN": "L Deductible"
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "iddcfd7a40744205a457a5": {
     "DE": "Sum Insured Limits",
@@ -1848,8 +1848,8 @@
     "EN": "Remove"
   },
   "idddf3519214a3b172bb36": {
-    "DE": "C Deductible",
-    "EN": "C Deductible"
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "idde40aebc852775d62035": {
     "DE": "Cover Limits",
@@ -1944,8 +1944,8 @@
     "EN": "Years"
   },
   "ide888f336039ddea98075": {
-    "DE": "E Sum Insured",
-    "EN": "E Sum Insured"
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idea54915a0b826dd7da93": {
     "DE": "Leader's Participation",
