@@ -230,6 +230,10 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
+  "id1921939ce28cc8ac30d7": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
+  },
   "id1938516ad383d6d31fc3": {
     "DE": "Retained Amount",
     "EN": "Retained Amount"
@@ -297,6 +301,10 @@
     "DE": "BI Exposure",
     "EN": "BI Exposure"
   },
+  "id1f12dbcb49acbf812ec0": {
+    "DE": "Platform Name",
+    "EN": "Platform Name"
+  },
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
     "EN": "No of  Lines"
@@ -348,6 +356,10 @@
   "id247ed4a2288281ed5591": {
     "DE": "Cedant Policy Number",
     "EN": "Cedant Policy Number"
+  },
+  "id25a6ae33e2e827f80d09": {
+    "DE": "CAT Exposure",
+    "EN": "CAT Exposure"
   },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
@@ -449,6 +461,10 @@
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
     "EN": "Overview"
+  },
+  "id2fe2774447b1a7aa83eb": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id30a72304a91859e99e8c": {
     "DE": "Basis",
@@ -585,6 +601,10 @@
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
   },
+  "id417b8e6072c82e426c84": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
   "id419e76211646430d568b": {
     "DE": "Voyage Origin Port",
     "EN": "Voyage Origin Port"
@@ -628,6 +648,10 @@
   "id4780577f6c9790b4d3b7": {
     "DE": "Year Built",
     "EN": "Year Built"
+  },
+  "id48603813712fd14d7a15": {
+    "DE": "Asset Type",
+    "EN": "Asset Type"
   },
   "id487d406ad000aab2f1a3": {
     "DE": "Contract Additional Details: Sliding Scale",
@@ -792,6 +816,10 @@
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
   },
+  "id58bf27088e2bbbdd5e5c": {
+    "DE": "Location Longitude",
+    "EN": "Location Longitude"
+  },
   "id5913e2ca5e2e8945e603": {
     "DE": "Variablen bearbeiten...",
     "EN": "Edit Variables..."
@@ -915,6 +943,10 @@
     "DE": "Top Drop",
     "EN": "Top Drop"
   },
+  "id676750f577d123aeb3de": {
+    "DE": "Year Built",
+    "EN": "Year Built"
+  },
   "id685d68c36fdbaaf28465": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
@@ -923,6 +955,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id68fbca1d77d4a0a679b7": {
+    "DE": "Depth",
+    "EN": "Depth"
+  },
   "id690d1a7c1601984a1e37": {
     "DE": "Add",
     "EN": "Add"
@@ -930,6 +966,10 @@
   "id6a2451dc18fce512c37f": {
     "DE": "Event Name",
     "EN": "Event Name"
+  },
+  "id6a7adbd505b267777a59": {
+    "DE": "Vessel Type",
+    "EN": "Vessel Type"
   },
   "id6b6f931665252b02727b": {
     "DE": "Add",
@@ -986,6 +1026,10 @@
   "id74ffc850730042c45bc0": {
     "DE": "Notification Date",
     "EN": "Notification Date"
+  },
+  "id75d354da8992dc65c35f": {
+    "DE": "Builders Risk",
+    "EN": "Builders Risk"
   },
   "id7612f17f3705a056cb08": {
     "DE": "XOL layer",
@@ -1297,6 +1341,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id9223d28e1b1cd10960f9": {
+    "DE": "Construction Stage",
+    "EN": "Construction Stage"
+  },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
     "EN": "Add"
@@ -1412,9 +1460,17 @@
     "DE": "Coverage Additional Details: Inuring Details",
     "EN": "Coverage Additional Details: Inuring Details"
   },
+  "ida2088fed7366088e23b8": {
+    "DE": "Energy",
+    "EN": "Energy"
+  },
   "ida234c796e2b8898e21cf": {
     "DE": "",
     "EN": "Branch Name"
+  },
+  "ida24605f81886819e3eea": {
+    "DE": "Location Pincode",
+    "EN": "Location Pincode"
   },
   "ida24dff5f4ac04ec80f0b": {
     "DE": "Sr. No.",
@@ -1463,6 +1519,10 @@
   "ida58bca58fbc563739db6": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "ida5bce564224379e37c37": {
+    "DE": "Yard Name",
+    "EN": "Yard Name"
   },
   "ida5e1943980d3e48e86df": {
     "DE": "Add",
@@ -1651,9 +1711,17 @@
     "DE": "Coverage Additional Details",
     "EN": "Coverage Additional Details"
   },
+  "idbb63d7ab977029111267": {
+    "DE": "Launch Date",
+    "EN": "Launch Date"
+  },
   "idbb85b106315604ddf9c8": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "idbb8a28a98a8767829d14": {
+    "DE": "Location Lattitude",
+    "EN": "Location Lattitude"
   },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
@@ -1661,6 +1729,10 @@
   "idbc09cac0a0ac5cf83573": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "idbc844c7d85d34288a059": {
+    "DE": "CAT Exposure",
+    "EN": "CAT Exposure"
   },
   "idbcf386c5ef938f4c335a": {
     "DE": "Construction Stage",
@@ -1912,6 +1984,10 @@
   "idd46755ee8db2e90c7607": {
     "EN": "Online/EDC"
   },
+  "idd471e06c839f4e5b0d91": {
+    "DE": "Blowout Prevention",
+    "EN": "Blowout Prevention"
+  },
   "idd49480315ed08a69eed4": {
     "DE": "Vessel Name",
     "EN": "Vessel Name"
@@ -2115,6 +2191,10 @@
     "DE": "Leader's Participation",
     "EN": "Leader's Participation"
   },
+  "idea7877dcfead62bf8e62": {
+    "DE": "BI Exposure",
+    "EN": "BI Exposure"
+  },
   "ideb90753be1eb15321784": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -2145,6 +2225,10 @@
   "idef3da5ad1a3c5ea1fc25": {
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
+  },
+  "idefb8a862a959e41827de": {
+    "DE": "Welding Safety",
+    "EN": "Welding Safety"
   },
   "idf00d884343a2632d962e": {
     "DE": "CAT Exposure",
@@ -2225,6 +2309,10 @@
   "idfb93083924ae8a000817": {
     "DE": "EMI Limits (in Days)",
     "EN": "EMI Limits (in Days)"
+  },
+  "idfbb8a0b4c3614b3bd632": {
+    "DE": "Project Name",
+    "EN": "Project Name"
   },
   "idfbde34b96a2a93d072a4": {
     "DE": "Cedant Policy Number",
