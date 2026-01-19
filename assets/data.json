@@ -545,7 +545,7 @@
       "id": "id16905103af9710ebe0bc",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTPSVariant"
+      "variant": "masterPolicyDetailsSurplusVariant"
     },
     "id16930ef4db46060882d2": {
       "children": [
@@ -4262,7 +4262,7 @@
       "id": "idb554f1085a21c74b7756",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTPSVariant"
+      "variant": "masterPolicyDetailsSurplusVariant"
     },
     "idb575b8cb3470418bb150": {
       "id": "idb575b8cb3470418bb150",
@@ -6184,10 +6184,11 @@
     "VG_idffad50305c2bb1826988": {
       "children": [],
       "id": "VG_idffad50305c2bb1826988",
-      "label": "TRTPSVariant",
+      "label": "masterPolicyDetailsSurplusVariant",
       "type": "variantGroup",
       "variantChildKeys": {
-        "TRTPSVariant": true
+        "TRTPSVariant": false,
+        "masterPolicyDetailsSurplusVariant": true
       }
     }
   },
