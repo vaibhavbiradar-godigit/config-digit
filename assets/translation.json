@@ -427,6 +427,10 @@
     "DE": "Flag(Country)",
     "EN": "Flag(Country)"
   },
+  "id2998941798fcc5836caf": {
+    "DE": "Crew Safety",
+    "EN": "Crew Safety"
+  },
   "id29d4d4964abf773ce4e0": {
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
@@ -457,6 +461,10 @@
   "id2dce9911748dbd16470a": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id2e280e763f97e09b228d": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
   },
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
@@ -986,6 +994,10 @@
   "id6dd9b493cffb53863c8c": {
     "DE": "Instalments",
     "EN": "Instalments"
+  },
+  "id6f283eba121f23a5faa5": {
+    "DE": "Contractual Obligations",
+    "EN": "Contractual Obligations"
   },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
@@ -1573,6 +1585,10 @@
   "idb09c86538d2f5bf79f80": {
     "EN": "Cash"
   },
+  "idb0cdafc4b51055a70cf1": {
+    "DE": "Limit of Liability",
+    "EN": "Limit of Liability"
+  },
   "idb0d39d9067428ba25d1a": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate"
@@ -1741,6 +1757,10 @@
   "idbd34c91e36d32d56f3e7": {
     "DE": "Summenart Wert",
     "EN": "Sum type value"
+  },
+  "idbd88f9ded9295a993f1d": {
+    "DE": "Marine Liability",
+    "EN": "Marine Liability"
   },
   "idbde73e0edcd48b04dfc3": {
     "DE": "VRE Our Share Premium",
@@ -2202,6 +2222,10 @@
   "idec47a75571d6e7faa64e": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idec48ecf064144a618904": {
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "idec6e3749f41a5dbaad41": {
     "DE": "Remove",
