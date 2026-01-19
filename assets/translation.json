@@ -155,6 +155,14 @@
     "DE": "VRE Our Share Limit",
     "EN": "VRE Our Share Limit"
   },
+  "id128038d1ef6ec1f45de8": {
+    "DE": "Vessel Name",
+    "EN": "Vessel Name"
+  },
+  "id128e76c7e6037aefe327": {
+    "DE": "Flag(Country)",
+    "EN": "Flag(Country)"
+  },
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
   },
@@ -205,6 +213,10 @@
   "id16930ef4db46060882d2": {
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
+  },
+  "id16c1f28e2bf720b9313f": {
+    "DE": "Equipment Details",
+    "EN": "Equipment Details"
   },
   "id178682ddb4795bad3814": {
     "DE": "VRE Our Manual Rate on Line",
@@ -281,6 +293,10 @@
     "DE": "Asset Type",
     "EN": "Asset Type"
   },
+  "id1edd69af0d1aecfc898e": {
+    "DE": "BI Exposure",
+    "EN": "BI Exposure"
+  },
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
     "EN": "No of  Lines"
@@ -288,6 +304,10 @@
   "id203cf30f72fa354611fc": {
     "DE": "Marine Cargo",
     "EN": "Marine Cargo"
+  },
+  "id217d5c22c629a68936bf": {
+    "DE": "Vessel Type",
+    "EN": "Vessel Type"
   },
   "id21b1c0c9ea605a63d7de": {
     "DE": "Spillover covered in excess of",
@@ -386,6 +406,10 @@
   "id292bc45858203de4188f": {
     "DE": "Instalments",
     "EN": "Instalments"
+  },
+  "id29543ac591a00c88a28e": {
+    "DE": "Engine Type",
+    "EN": "Engine Type"
   },
   "id2956c7f171e304196759": {
     "DE": "Flag(Country)",
@@ -489,6 +513,10 @@
     "DE": "Leistungsumfang anzeigen",
     "EN": "View Scope of Benefits"
   },
+  "id36ea92868ff7210308b3": {
+    "DE": "Marine Hull",
+    "EN": "Marine Hull"
+  },
   "id37e2b9e6f8a4dc72c745": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -540,6 +568,10 @@
   "id3f2158d057e6a1bd5ce4": {
     "DE": "Variablen anzeigen",
     "EN": "View Variables"
+  },
+  "id3f5fbe570c753dc81fef": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id3f76158956e408510b7b": {
     "DE": "Sr. No.",
@@ -608,6 +640,10 @@
   "id48f7a6e8c0348619c267": {
     "DE": "Platform Name",
     "EN": "Platform Name"
+  },
+  "id4943f6f29a139dec30ed": {
+    "DE": "IMO Number",
+    "EN": "IMO Number"
   },
   "id495076333f242bc618a6": {
     "DE": "Sr. No.",
@@ -703,6 +739,10 @@
   "id538be03bf3db1a652c5a": {
     "DE": "Gruppengeschäftsvertrag",
     "EN": "Group Business Contract"
+  },
+  "id541165d0481eca4563a0": {
+    "DE": "Storage Capacity",
+    "EN": "Storage Capacity"
   },
   "id54503dd33517b978abf3": {
     "DE": "Maintenance Records",
@@ -951,6 +991,10 @@
     "DE": "XOL layer",
     "EN": "XOL layer"
   },
+  "id761f992cc67ef9b81b2e": {
+    "DE": "Year Built",
+    "EN": "Year Built"
+  },
   "id7683c402aa63dfd79911": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
@@ -958,6 +1002,10 @@
   "id76c6f55e51897a122943": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
+  },
+  "id774f87da81a5e7394735": {
+    "DE": "Country",
+    "EN": "Country"
   },
   "id77771cc305f348137f84": {
     "DE": "Sr. No.",
@@ -990,6 +1038,10 @@
   "id79fad50a2c7ea1e1c507": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id7a67954b49e691980b58": {
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "id7b56cd77315d5663e238": {
     "DE": "Salvage Value",
@@ -1056,6 +1108,10 @@
   "id814d734571715c1903c5": {
     "EN": "Remove"
   },
+  "id8173b696916e417b181e": {
+    "DE": "Maintenance Records",
+    "EN": "Maintenance Records"
+  },
   "id81eff713587abd6a33c1": {
     "DE": "Port Name",
     "EN": "Port Name"
@@ -1067,6 +1123,10 @@
   "id826149684b3a96407ed1": {
     "DE": "Subrogation Amount",
     "EN": "Subrogation Amount"
+  },
+  "id826a892b4a6070a1f513": {
+    "DE": "Trading Limits",
+    "EN": "Trading Limits"
   },
   "id829c8e6d2b68d376535a": {
     "DE": "Treaty Limits",
@@ -1201,6 +1261,10 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "id90540d949f81857cdf7e": {
+    "DE": "Flood Zone",
+    "EN": "Flood Zone"
+  },
   "id907d16e21855400316e1": {
     "DE": "Voyage Destination Port",
     "EN": "Voyage Destination Port"
@@ -1289,6 +1353,10 @@
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
   },
+  "id9befa9831cd0d148d42b": {
+    "DE": "Hull Material",
+    "EN": "Hull Material"
+  },
   "id9c200f19022619faee74": {
     "DE": "Certificate Number",
     "EN": "Certificate Number"
@@ -1332,6 +1400,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id9fcc660dbc761b14ca9b": {
+    "DE": "Port and Terminal",
+    "EN": "Port and Terminal"
+  },
   "id9ff60ee8b137df4dd2fd": {
     "DE": "VRE Our Share",
     "EN": "VRE Our Share"
@@ -1363,6 +1435,10 @@
   "ida443145c4316cf45528c": {
     "DE": "Limit of Liability",
     "EN": "Limit of Liability"
+  },
+  "ida491b2df1f1181c59691": {
+    "DE": "Storage Capacity Unit",
+    "EN": "Storage Capacity Unit"
   },
   "ida4bd5fd65104e65dd77c": {
     "DE": "Minimum and Deposit Premium%",
@@ -1602,6 +1678,10 @@
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
   },
+  "idbe5a75d1af2afd083867": {
+    "DE": "Classification Society",
+    "EN": "Classification Society"
+  },
   "idbfb2351fb080d4865e41": {
     "DE": "Spillover covered in excess of",
     "EN": "Spillover covered in excess of"
@@ -1609,6 +1689,10 @@
   "idc00a781f3a7fdf0acb17": {
     "DE": "Bausteine hinzufügen...",
     "EN": "Add components..."
+  },
+  "idc0220c112760d9e9b2c4": {
+    "DE": "Fire Protection",
+    "EN": "Fire Protection"
   },
   "idc02f2a728ae84e9c05d1": {
     "DE": "Net Retained Lines",
@@ -1809,6 +1893,10 @@
     "DE": "Leistungen einfügen",
     "EN": "Paste benefits"
   },
+  "idd35ccaef9d832c369984": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
+  },
   "idd38eff0ec8f042a8f7df": {
     "DE": "Sliding scale",
     "EN": "Sliding scale"
@@ -1971,6 +2059,10 @@
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
   },
+  "ide39a109531e7f3f9b7f6": {
+    "DE": "Tonnage",
+    "EN": "Tonnage"
+  },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
     "EN": "Coverage Additional Details: Graded Retention"
@@ -1994,6 +2086,10 @@
   "ide488ac7f75aab5129c39": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "ide51f08ea92f5438467ce": {
+    "DE": "Port Name",
+    "EN": "Port Name"
   },
   "ide624e86892139ab8a52b": {
     "DE": "Minimum and Deposit Premium%",
@@ -2081,6 +2177,10 @@
   "idf56d16b54a9391efe32f": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idf5e33f96fea8e4f2af51": {
+    "DE": "Terminal Type",
+    "EN": "Terminal Type"
   },
   "idf6881acb4643de8c8069": {
     "DE": "VRE Our Manual Rate on Line",
