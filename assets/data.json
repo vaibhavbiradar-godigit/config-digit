@@ -52,7 +52,7 @@
       "id": "id0124c9348b5dae438dc4",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id01f855459bbcc8023e48": {
       "alignment": "left",
@@ -1084,7 +1084,7 @@
       "id": "id28d6f3502ac4a854293d",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id28e2d720d2a6ba39fc09": {
       "colspan": 1,
@@ -2305,7 +2305,7 @@
       "id": "id5b62da9d5983f89336a2",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id5b8be8b5e9b08eb67528": {
       "alignment": "left",
@@ -3418,7 +3418,7 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id900214a49e486b95839d",
       "type": "input",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id908d88bab48047ad86c2": {
       "colspan": 2,
@@ -3648,7 +3648,7 @@
       "id": "id9a4cf6906f31f09d8182",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "id9a5f78e6a578b5719334": {
       "colspan": 2,
@@ -4919,7 +4919,7 @@
       "id": "idcbe8e0ea4de508c36f3a",
       "rowspan": 3,
       "type": "layoutbox",
-      "variant": "TRTXLVariant"
+      "variant": "masterPolicyDetailsXOLVariant"
     },
     "idcc76732a1cb82daabb58": {
       "colspan": 2,
@@ -6076,10 +6076,11 @@
     "VG_id2e8507a55acb1663e32a": {
       "children": [],
       "id": "VG_id2e8507a55acb1663e32a",
-      "label": "TRTXLVariant",
+      "label": "masterPolicyDetailsXOLVariant",
       "type": "variantGroup",
       "variantChildKeys": {
-        "TRTXLVariant": true
+        "TRTXLVariant": false,
+        "masterPolicyDetailsXOLVariant": true
       }
     },
     "VG_id5952601b139981ba5d1b": {
