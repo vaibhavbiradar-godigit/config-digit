@@ -63,6 +63,14 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy Benefits"
   },
+  "id0704218a13400d233f38": {
+    "DE": "Central Govt. receivable",
+    "EN": "Central Govt. receivable"
+  },
+  "id072daa7865009c73622b": {
+    "DE": "Cause of loss",
+    "EN": "Cause of loss"
+  },
   "id07f6a97e8da9e51e8730": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -70,6 +78,10 @@
   "id0870871190817db2dcab": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id08bdec1fbbc91b8b8430": {
+    "DE": "Central Govt. Outstanding",
+    "EN": "Central Govt. Outstanding"
   },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
@@ -166,9 +178,21 @@
     "DE": "Commission Scale",
     "EN": "Commission Scale"
   },
+  "id14127eb6ebc296e58231": {
+    "DE": "Central Govt. receivable",
+    "EN": "Central Govt. receivable"
+  },
+  "id142cee32b59ea72bdb11": {
+    "DE": "Central Govt. Received",
+    "EN": "Central Govt. Received"
+  },
   "id143b8283409a544d087c": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id1455c55fee655e5e078e": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "id148a8035bd3756fe3275": {
     "DE": "Commission Scale",
@@ -177,6 +201,10 @@
   "id148a958301cc7c601fc8": {
     "DE": "Signed Share",
     "EN": "Signed Share"
+  },
+  "id1539cb1d6bc0456c22df": {
+    "DE": "State Govt. Subsidy received",
+    "EN": "State Govt. Subsidy received"
   },
   "id1555b5ca71ef00f10874": {
     "DE": "Signed Share",
@@ -205,6 +233,10 @@
   "id16930ef4db46060882d2": {
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
+  },
+  "id16e71f87dced9bbe6326": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
   },
   "id178682ddb4795bad3814": {
     "DE": "VRE Our Manual Rate on Line",
@@ -477,6 +509,10 @@
     "DE": "Leistungsumfang anzeigen",
     "EN": "View Scope of Benefits"
   },
+  "id36b9618af9beb6337592": {
+    "DE": "Area Insured",
+    "EN": "Area Insured (in Hectares)"
+  },
   "id37e2b9e6f8a4dc72c745": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -492,6 +528,14 @@
   "id39b744b7688f1492b829": {
     "DE": "Coverage Additional Details",
     "EN": "Coverage Additional Details"
+  },
+  "id3a3e72ce5100d727c6f7": {
+    "DE": "State Govt. Subsidy receivable",
+    "EN": "State Govt. Subsidy receivable"
+  },
+  "id3a96db502aa865be4aa6": {
+    "DE": "Farmer Premium",
+    "EN": "Farmer Premium"
   },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
@@ -537,6 +581,10 @@
     "DE": "Coverage Additional Details: Sliding Scale",
     "EN": "Coverage Additional Details: Sliding Scale"
   },
+  "id40a44170da17b44fc808": {
+    "DE": "Yes",
+    "EN": "Yes"
+  },
   "id40c4f2102de0c37860a0": {
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
@@ -548,6 +596,10 @@
   "id42b96cd705f5f3bbe4f0": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
+  },
+  "id42d85d994e6dc0936e98": {
+    "DE": "Claim No",
+    "EN": "Claim No"
   },
   "id431b99c8d50e5439ef91": {
     "DE": "CAT Exposure",
@@ -871,6 +923,10 @@
     "DE": "Event Name",
     "EN": "Event Name"
   },
+  "id6a987565810a18fe74a1": {
+    "DE": "Government Scheme",
+    "EN": "Government Scheme"
+  },
   "id6b6f931665252b02727b": {
     "DE": "Add",
     "EN": "Add"
@@ -1059,11 +1115,19 @@
   "id83ab88273e8f8b075d9e": {
     "EN": "Original Risk/Insured"
   },
+  "id842cf5f08052f32467a2": {
+    "DE": "Date of Loss",
+    "EN": "Date of Loss"
+  },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
   },
   "id8520c4c37e6d83e451c0": {
     "EN": "Remove"
+  },
+  "id855b6e425ad5a78f3e4b": {
+    "DE": "Claims Paid",
+    "EN": "Claims Paid"
   },
   "id85b6131e9e16f5ba09ec": {},
   "id85e45aefd7f414f88a0b": {
@@ -1320,6 +1384,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "ida2d9ada120b7ba258561": {
+    "DE": "State",
+    "EN": "State"
+  },
   "ida427879d7fa92b8a6989": {
     "DE": "Law Firm Name",
     "EN": "Law Firm Name"
@@ -1515,6 +1583,10 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "idba3c4ddf36e00d208e13": {
+    "DE": "Total or Gross Premium",
+    "EN": "Total or Gross Premium"
+  },
   "idba85bb59a1e8c11e70a6": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1526,6 +1598,10 @@
   "idba9dc31888e3c6117b68": {
     "DE": "Leistungsumfang definieren...",
     "EN": "Define Scope of Benefits..."
+  },
+  "idbaf23e895fb06ba40c49": {
+    "DE": "Claim Details",
+    "EN": "Claim Details"
   },
   "idbb610e9b62052f9215e8": {
     "DE": "Coverage Additional Details",
@@ -1709,6 +1785,10 @@
     "DE": "Inuring Program",
     "EN": "Inuring Program"
   },
+  "idd01b193abe0a9ae3dfe5": {
+    "DE": "Crop Season",
+    "EN": "Crop Season"
+  },
   "idd059990b73ebf5065d7c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1835,6 +1915,10 @@
     "DE": "Deductible",
     "EN": "Deductible"
   },
+  "iddced04af386f2e1297f0": {
+    "DE": "State Govt. Subsidy outstanding",
+    "EN": "State Govt. Subsidy outstanding"
+  },
   "iddcfd7a40744205a457a5": {
     "DE": "Sum Insured Limits",
     "EN": "Sum Insured Limits"
@@ -1850,6 +1934,10 @@
   "idddf3519214a3b172bb36": {
     "DE": "Deductible",
     "EN": "Deductible"
+  },
+  "idde132fad8d5cf8cc471f": {
+    "DE": "Claim Outstanding",
+    "EN": "Claim Outstanding"
   },
   "idde40aebc852775d62035": {
     "DE": "Cover Limits",
@@ -1878,6 +1966,10 @@
   "ide00263d424cb4cbe661c": {
     "DE": "Request Share",
     "EN": "Request Share"
+  },
+  "ide099ba62c4868046f32f": {
+    "DE": "Claim Notification Date",
+    "EN": "Claim Notification Date"
   },
   "ide0d12eb803caa2a232b1": {
     "DE": "Reinstatement Premium",
@@ -1927,6 +2019,14 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "ide4d371556958e00fd738": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
+  "ide5811d09139978a8a2cf": {
+    "DE": "No",
+    "EN": "No"
+  },
   "ide624e86892139ab8a52b": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
@@ -1943,9 +2043,17 @@
     "DE": "Years",
     "EN": "Years"
   },
+  "ide842233c6b4c3e6952f0": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
+  },
   "ide888f336039ddea98075": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
+  },
+  "ide96c5d61f4062684cea8": {
+    "DE": "crpqsChp",
+    "EN": "Policy Details"
   },
   "idea54915a0b826dd7da93": {
     "DE": "Leader's Participation",
@@ -1981,6 +2089,10 @@
   "idef3da5ad1a3c5ea1fc25": {
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
+  },
+  "ideff7222ee40a85e378ed": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idf00d884343a2632d962e": {
     "DE": "CAT Exposure",
@@ -2089,6 +2201,10 @@
   "idff0f2917ab942fb635cb": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idff83bb9dcd1d89f348ef": {
+    "DE": "Type of Program",
+    "EN": "Type of Program"
   },
   "idffbf702d70e6ce31b65a": {
     "DE": "Commission Scale",
