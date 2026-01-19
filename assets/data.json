@@ -122,7 +122,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "string",
-      "facadeId": "mPolicyNumber",
+      "facadeId": "marinePolicyNumber",
       "format": "",
       "id": "id04a6f912d31544b34c46",
       "type": "input"
@@ -309,7 +309,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "string",
-      "facadeId": "mCertificateNumber",
+      "facadeId": "marineCertificateNumber",
       "format": "",
       "id": "id0ecccc460e04ed3cfbfa",
       "type": "input"
@@ -1583,7 +1583,7 @@
         "id6a2451dc18fce512c37f"
       ],
       "colspan": 6,
-      "facadeId": "mrnpnp",
+      "facadeId": "marine",
       "id": "id3e0584c7b877800907c1",
       "isVirtualScrolling": true,
       "rowspan": 4,
@@ -1685,7 +1685,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "string",
-      "facadeId": "eCatExposure",
+      "facadeId": "platformCatExposure",
       "format": "",
       "id": "id431b99c8d50e5439ef91",
       "type": "input"
@@ -1695,7 +1695,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "pSumInsured",
+      "facadeId": "portSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "id434d896bd0f0935719a7",
       "type": "input"
@@ -2919,7 +2919,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "hDeductible",
+      "facadeId": "hullDeductible",
       "format": "FORMAT_AMOUNT",
       "id": "id7c05739d8928dfd6802d",
       "type": "input"
@@ -2995,7 +2995,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "bSumInsured",
+      "facadeId": "buildSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "id7f6437c040655aaef443",
       "type": "input"
@@ -3237,7 +3237,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "eBiExposure",
+      "facadeId": "platformBiExposure",
       "format": "FORMAT_AMOUNT",
       "id": "id88398ebb73f38ea02716",
       "type": "input"
@@ -4069,7 +4069,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "cSumInsured",
+      "facadeId": "cargoSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "idad4c215587776e1932c8",
       "type": "input"
@@ -4144,7 +4144,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "bDeductible",
+      "facadeId": "buildDeductible",
       "format": "FORMAT_AMOUNT",
       "id": "idb10d0977c477c9bf7a48",
       "type": "input"
@@ -4714,7 +4714,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "number",
-      "facadeId": "eYearBuilt",
+      "facadeId": "platformYearBuilt",
       "format": "",
       "id": "idc4c14004d27bb29f22ac",
       "type": "input"
@@ -4908,7 +4908,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "hSumInsured",
+      "facadeId": "hullSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "idcb7d1aa66067b98c14ac",
       "type": "input"
@@ -5305,7 +5305,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "lDeductible",
+      "facadeId": "liabilityDeductible",
       "format": "FORMAT_AMOUNT",
       "id": "iddc85fc6d4f06c6b39975",
       "type": "input"
@@ -5339,7 +5339,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "cDeductible",
+      "facadeId": "cargoDeductible",
       "format": "FORMAT_AMOUNT",
       "id": "idddf3519214a3b172bb36",
       "type": "input"
@@ -5580,7 +5580,7 @@
       "colspan": 2,
       "columnWidth": "100",
       "dataType": "decimal",
-      "facadeId": "eSumInsured",
+      "facadeId": "platformSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "ide888f336039ddea98075",
       "type": "input"
