@@ -1541,6 +1541,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "id3936c0229485c1eb36cd": {
+      "colspan": 2,
+      "facadeId": "vesselType",
+      "id": "id3936c0229485c1eb36cd",
+      "type": "dropdown"
+    },
     "id39622899ac9d799b3089": {
       "colspan": 1,
       "facadeId": "editObject",
@@ -1962,6 +1968,12 @@
       "format": "",
       "id": "id47f4fcbfb9db2168fd86",
       "type": "input"
+    },
+    "id486136b2c8dc262b2d6c": {
+      "colspan": 2,
+      "facadeId": "launchDate",
+      "id": "id486136b2c8dc262b2d6c",
+      "type": "datepicker"
     },
     "id487d406ad000aab2f1a3": {
       "children": [
@@ -2903,6 +2915,25 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id6ff7507225745dfd3d51": {
+      "children": [
+        "idac73a1820fd6fd14368b",
+        "idc330424312f7454d13cd",
+        "id3936c0229485c1eb36cd",
+        "idb9ff2e165faff2a3bac6",
+        "id486136b2c8dc262b2d6c",
+        "id74d82195fc58557911e5",
+        "idc1e7d71ce2debc1cc40e",
+        "idf0ed22c1b23629d710a3",
+        "id993ba13e3c18d01f056a"
+      ],
+      "colspan": 6,
+      "facadeId": "buildersRisk",
+      "id": "id6ff7507225745dfd3d51",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "marineVariant"
+    },
     "id707b981140e79b197975": {
       "alignment": "left",
       "colspan": 2,
@@ -2981,6 +3012,15 @@
       "facadeId": "cow",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id743574fcf7e5a5a96f65",
+      "type": "input"
+    },
+    "id74d82195fc58557911e5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "buildersSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id74d82195fc58557911e5",
       "type": "input"
     },
     "id74ffc850730042c45bc0": {
@@ -3736,6 +3776,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id6ff7507225745dfd3d51": 12,
         "id499bb8b5ee7c385c7c63": 10,
         "id05cf8e09e2dc05a716c9": 11,
         "VG_idd7c2c4d3fa1e58cb76d8": 16,
@@ -3761,18 +3802,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 22,
-        "id851b4d62c3f056eb58b5": 23,
-        "id13cb4ae08c6a5e26563c": 13,
-        "idcafb0c30e1d63edb47c9": 14,
-        "id45f5bcee21ce843ca4a4": 15,
-        "idcfbb20fb21a07c60122a": 16,
-        "id600e1004fdf2d666b901": 17,
-        "id0f61e821c30093bc22d9": 18,
-        "id7a5dd092f93608b09d52": 21,
-        "id2d80ea5c85120a46d449": 19,
-        "id65c0760f5e7cad3d1e45": 20,
-        "id11a4e747de28b3dd7027": 12
+        "id2715ef2fc25d31137631": 23,
+        "id851b4d62c3f056eb58b5": 24,
+        "id13cb4ae08c6a5e26563c": 14,
+        "idcafb0c30e1d63edb47c9": 15,
+        "id45f5bcee21ce843ca4a4": 16,
+        "idcfbb20fb21a07c60122a": 17,
+        "id600e1004fdf2d666b901": 18,
+        "id0f61e821c30093bc22d9": 19,
+        "id7a5dd092f93608b09d52": 22,
+        "id2d80ea5c85120a46d449": 20,
+        "id65c0760f5e7cad3d1e45": 21,
+        "id11a4e747de28b3dd7027": 13
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -3861,6 +3902,15 @@
       "facadeId": "voyageOriginPort",
       "format": "",
       "id": "id981134d1eec5dea09012",
+      "type": "input"
+    },
+    "id993ba13e3c18d01f056a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "buildersCatExposure",
+      "format": "",
+      "id": "id993ba13e3c18d01f056a",
       "type": "input"
     },
     "id9955abc8b4316de10c6b": {
@@ -4365,6 +4415,15 @@
       "id": "idaaeba6152946f32cb1b0",
       "type": "input"
     },
+    "idac73a1820fd6fd14368b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "projectName",
+      "format": "",
+      "id": "idac73a1820fd6fd14368b",
+      "type": "input"
+    },
     "idad4c215587776e1932c8": {
       "alignment": "left",
       "colspan": 2,
@@ -4805,6 +4864,15 @@
       "id": "idb9873aca255a6116967d",
       "type": "input"
     },
+    "idb9ff2e165faff2a3bac6": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "constructionStage",
+      "format": "",
+      "id": "idb9ff2e165faff2a3bac6",
+      "type": "input"
+    },
     "idba85bb59a1e8c11e70a6": {
       "colspan": 2,
       "facadeId": "remove",
@@ -5003,6 +5071,15 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idc1e7d71ce2debc1cc40e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "buildersDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc1e7d71ce2debc1cc40e",
+      "type": "input"
+    },
     "idc1fd2b8f5f78d873a0fb": {
       "alignment": "left",
       "colspan": 2,
@@ -5021,6 +5098,15 @@
       "facadeId": "rateOnLine",
       "format": "FORMAT_AMOUNT",
       "id": "idc25acb200ec77e085a60",
+      "type": "input"
+    },
+    "idc330424312f7454d13cd": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "yardName",
+      "format": "",
+      "id": "idc330424312f7454d13cd",
       "type": "input"
     },
     "idc34650c301401f9ff0d1": {
@@ -6096,6 +6182,12 @@
       "columnWidth": "100",
       "facadeId": "xolLayer",
       "id": "idf0bda3d4f894c27d533b",
+      "type": "dropdown"
+    },
+    "idf0ed22c1b23629d710a3": {
+      "colspan": 2,
+      "facadeId": "weldingSafety",
+      "id": "idf0ed22c1b23629d710a3",
       "type": "dropdown"
     },
     "idf1e684198691420b42ea": {
