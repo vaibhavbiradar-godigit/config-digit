@@ -2120,7 +2120,10 @@
     },
     "id54502dfe8c11ceb3aacb": {
       "children": [
-        "id5c503d5f31de1df0ae21"
+        "id5c503d5f31de1df0ae21",
+        "idadcfc4833597d39fd901",
+        "id6766ddc679b790839897",
+        "id8797f8c449542659a9e6"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2606,6 +2609,12 @@
       "columnWidth": "100",
       "facadeId": "topDrop",
       "id": "id66acc613235945266f15",
+      "type": "dropdown"
+    },
+    "id6766ddc679b790839897": {
+      "colspan": 2,
+      "facadeId": "channelType",
+      "id": "id6766ddc679b790839897",
       "type": "dropdown"
     },
     "id68559c551d8ac8861ccf": {
@@ -3210,6 +3219,12 @@
       "columnWidth": "100",
       "facadeId": "leader",
       "id": "id8729d634699dc8a41409",
+      "type": "dropdown"
+    },
+    "id8797f8c449542659a9e6": {
+      "colspan": 2,
+      "facadeId": "state",
+      "id": "id8797f8c449542659a9e6",
       "type": "dropdown"
     },
     "id879e4ca3ab8418821796": {
@@ -4093,6 +4108,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "idad4c215587776e1932c8",
       "type": "input"
+    },
+    "idadcfc4833597d39fd901": {
+      "colspan": 2,
+      "facadeId": "productChannel",
+      "id": "idadcfc4833597d39fd901",
+      "type": "dropdown"
     },
     "idae80538ad955c5d4a668": {
       "children": [
