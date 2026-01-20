@@ -919,6 +919,10 @@
     "DE": "Section wise Limits",
     "EN": "Section wise Limits"
   },
+  "id5c251dbb01a353a28095": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "id5c2daeb5d4ee90c83d0d": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
@@ -1344,6 +1348,10 @@
   "id8aa48e8031645b0013e2": {
     "DE": "Leistungsumfang anzeigen",
     "EN": "View scope of benefits"
+  },
+  "id8ab6441afaecd4b77a1c": {
+    "DE": "Cause of Loss",
+    "EN": "Cause of Loss"
   },
   "id8aca6f0bc85cd764a6db": {
     "DE": "Sum Insured",
@@ -2076,6 +2084,10 @@
   "idd1ac37c8ae72b49d3f88": {
     "DE": "Certificate Number",
     "EN": "Certificate Number"
+  },
+  "idd25ba57d90628a3b3f80": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "idd2763834a3d6ebe5a7b6": {
     "DE": "Retained Amount",
