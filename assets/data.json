@@ -2133,7 +2133,8 @@
         "idea689fc74c577861869c",
         "id0c7f872537898cddbf2b",
         "id8876a4d005f538940f95",
-        "id8e4910ad480f8a39a327"
+        "id8e4910ad480f8a39a327",
+        "idca84871cdba2695750f4"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -4929,6 +4930,15 @@
       "facadeId": "reinstatementRate",
       "format": "FORMAT_AMOUNT",
       "id": "idca3a2ef45ab8f4afa5ec",
+      "type": "input"
+    },
+    "idca84871cdba2695750f4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "datasetUsed",
+      "format": "",
+      "id": "idca84871cdba2695750f4",
       "type": "input"
     },
     "idcaac00f9d8d6989cd09c": {
