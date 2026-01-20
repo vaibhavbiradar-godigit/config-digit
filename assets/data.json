@@ -86,7 +86,7 @@
         "id5c251dbb01a353a28095"
       ],
       "colspan": 6,
-      "facadeId": "Claim",
+      "facadeId": "claim",
       "id": "id01d025ae9c92c09505f5",
       "rowspan": 2,
       "type": "groupbox",
