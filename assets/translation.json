@@ -75,6 +75,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id09574be0b8edc830183a": {
+    "DE": "Central Govt. receivable",
+    "EN": "Central Govt. receivable"
+  },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
@@ -386,6 +390,10 @@
   },
   "id290f9f979f7a6f989dc1": {
     "EN": "ASBA"
+  },
+  "id291af48e8f724aec5c13": {
+    "DE": "Claims Paid",
+    "EN": "Claims Paid"
   },
   "id292bc45858203de4188f": {
     "DE": "Instalments",
@@ -894,6 +902,14 @@
   "id6a2451dc18fce512c37f": {
     "DE": "Event Name",
     "EN": "Event Name"
+  },
+  "id6b3c9e3399bdd28f0043": {
+    "DE": "Area Insured",
+    "EN": "Area Insured (Hectares)"
+  },
+  "id6b58f9c51b8d8656e7cd": {
+    "DE": "Central Govt. Outstanding",
+    "EN": "Central Govt. Outstanding"
   },
   "id6b6f931665252b02727b": {
     "DE": "Add",
@@ -1492,6 +1508,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idb5a6b5d0cf2ca9c4b9a0": {
+    "DE": "Central Govt. Received",
+    "EN": "Central Govt. Received"
+  },
   "idb6364c6e41f0e47edaca": {
     "DE": "Adjustment Rate",
     "EN": "Adjustment Rate"
@@ -1910,6 +1930,10 @@
   "ide00263d424cb4cbe661c": {
     "DE": "Request Share",
     "EN": "Request Share"
+  },
+  "ide0cff911fc7427ea8704": {
+    "DE": "Total or Gross Premium",
+    "EN": "Total or Gross Premium"
   },
   "ide0d12eb803caa2a232b1": {
     "DE": "Reinstatement Premium",
