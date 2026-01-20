@@ -2404,6 +2404,15 @@
       "id": "id563c6dfa9a3d7eef8238",
       "type": "dropdown"
     },
+    "id56677299e425288fb579": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "policyNumber",
+      "format": "",
+      "id": "id56677299e425288fb579",
+      "type": "input"
+    },
     "id56feb1425d87c6aa43b6": {
       "colspan": 2,
       "columnWidth": "100",
@@ -3673,6 +3682,15 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id8bb4804b5f3d5f29ad8a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "limitOfLiability",
+      "format": "FORMAT_AMOUNT",
+      "id": "id8bb4804b5f3d5f29ad8a",
+      "type": "input"
+    },
     "id8bc6c22652dc26b3a9b4": {
       "colspan": 2,
       "columnWidth": "150",
@@ -3757,6 +3775,12 @@
       "columnWidth": "335",
       "facadeId": "inuringProgram",
       "id": "id8f3274b2cb5f0699b3f5",
+      "type": "dropdown"
+    },
+    "id8f6cbe239c339b106461": {
+      "colspan": 2,
+      "facadeId": "crewSafety",
+      "id": "id8f6cbe239c339b106461",
       "type": "dropdown"
     },
     "id8ff993e3e9fe9fd589c2": {
@@ -3860,6 +3884,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "idde2828a891368e701550": 14,
         "id7d130414a9d4e6566eb4": 13,
         "id6ff7507225745dfd3d51": 12,
         "id499bb8b5ee7c385c7c63": 10,
@@ -3887,18 +3912,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 24,
-        "id851b4d62c3f056eb58b5": 25,
-        "id13cb4ae08c6a5e26563c": 15,
-        "idcafb0c30e1d63edb47c9": 16,
-        "id45f5bcee21ce843ca4a4": 17,
-        "idcfbb20fb21a07c60122a": 18,
-        "id600e1004fdf2d666b901": 19,
-        "id0f61e821c30093bc22d9": 20,
-        "id7a5dd092f93608b09d52": 23,
-        "id2d80ea5c85120a46d449": 21,
-        "id65c0760f5e7cad3d1e45": 22,
-        "id11a4e747de28b3dd7027": 14
+        "id2715ef2fc25d31137631": 25,
+        "id851b4d62c3f056eb58b5": 26,
+        "id13cb4ae08c6a5e26563c": 16,
+        "idcafb0c30e1d63edb47c9": 17,
+        "id45f5bcee21ce843ca4a4": 18,
+        "idcfbb20fb21a07c60122a": 19,
+        "id600e1004fdf2d666b901": 20,
+        "id0f61e821c30093bc22d9": 21,
+        "id7a5dd092f93608b09d52": 24,
+        "id2d80ea5c85120a46d449": 22,
+        "id65c0760f5e7cad3d1e45": 23,
+        "id11a4e747de28b3dd7027": 15
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -5011,6 +5036,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "idbb8f28b9c2fb91a7bf49": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "liabilityDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "idbb8f28b9c2fb91a7bf49",
+      "type": "input"
+    },
     "idbbbe423234ab4fd2cf4d": {
       "alignment": "left",
       "colspan": 2,
@@ -5898,6 +5932,21 @@
       "id": "idddf3519214a3b172bb36",
       "type": "input"
     },
+    "idde2828a891368e701550": {
+      "children": [
+        "id56677299e425288fb579",
+        "id8bb4804b5f3d5f29ad8a",
+        "idbb8f28b9c2fb91a7bf49",
+        "id8f6cbe239c339b106461",
+        "idf13b34972918a450b019"
+      ],
+      "colspan": 6,
+      "facadeId": "marineLiability",
+      "id": "idde2828a891368e701550",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "marineVariant"
+    },
     "idde40aebc852775d62035": {
       "children": [
         "idb1f809eec8ec20aba2d5",
@@ -6301,6 +6350,15 @@
       "facadeId": "weldingSafety",
       "id": "idf0ed22c1b23629d710a3",
       "type": "dropdown"
+    },
+    "idf13b34972918a450b019": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "contractualObligations",
+      "format": "",
+      "id": "idf13b34972918a450b019",
+      "type": "input"
     },
     "idf1e684198691420b42ea": {
       "alignment": "right",
