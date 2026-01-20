@@ -321,6 +321,10 @@
     "DE": "Voyage Destination Port",
     "EN": "Voyage Destination Port"
   },
+  "id2387b5e5286bc061d9e7": {
+    "DE": "State",
+    "EN": "State"
+  },
   "id23e79d302cb7188a83da": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -504,6 +508,10 @@
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
     "EN": "Transit Mode"
+  },
+  "id3c60f37a28a01a9be003": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id3cb7fdef6015d28de407": {
     "DE": "Class of Business",
@@ -1216,6 +1224,10 @@
   "id92013e7efdc3f2a98002": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id922b9e33fb3691ee8b82": {
+    "DE": "Government Scheme",
+    "EN": "Government Scheme"
   },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
