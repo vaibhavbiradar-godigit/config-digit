@@ -1109,7 +1109,7 @@
         "ide9ca3eb2a8338bd1eecd"
       ],
       "colspan": 6,
-      "facadeId": "marineCargo",
+      "facadeId": "marineCargoChildPolicy",
       "id": "id25522490611de9cfcc58",
       "rowspan": 2,
       "type": "groupbox",
