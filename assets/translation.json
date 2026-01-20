@@ -365,6 +365,10 @@
     "DE": "Voyage Destination Port",
     "EN": "Voyage Destination Port"
   },
+  "id22cfb1a7f5a1abc19513": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
+  },
   "id22d6e63b7b76a4d3e53b": {
     "DE": "Salvage Value",
     "EN": "Salvage Value"
@@ -648,6 +652,10 @@
   "id419e76211646430d568b": {
     "DE": "Voyage Origin Port",
     "EN": "Voyage Origin Port"
+  },
+  "id4205b6012280a94c6a85": {
+    "DE": "Legal Proceedings Flag",
+    "EN": "Legal Proceedings Flag"
   },
   "id42b96cd705f5f3bbe4f0": {
     "DE": "Inuring Program",
@@ -1209,6 +1217,10 @@
     "DE": "Platform Name",
     "EN": "Platform Name"
   },
+  "id80ce79244cb4c2800104": {
+    "DE": "Law Firm Name",
+    "EN": "Law Firm Name"
+  },
   "id80ecd9e366c8b6e62cc8": {
     "DE": "Claim Amount",
     "EN": "Claim Amount"
@@ -1525,6 +1537,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id9d9948a4b0e8caa7e062": {
+    "DE": "Court Jurisdiction",
+    "EN": "Court Jurisdiction"
+  },
   "id9df13525ec6db22d04c7": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
@@ -1607,6 +1623,10 @@
   "ida5e1943980d3e48e86df": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "ida64760cb2ba21c88f964": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "ida6c64e7906a9d9b8ba8e": {
     "EN": "Original Risk/Insured"
@@ -1963,6 +1983,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idca2d6e3062d5ab4dc685": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "idca3a2ef45ab8f4afa5ec": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
@@ -2138,6 +2162,10 @@
   "idda1df5db2c5fddcef2d3": {
     "DE": "Attachment",
     "EN": "Attachment"
+  },
+  "idda1f04b2d0b576803e1c": {
+    "DE": "Settlement Agreement Date",
+    "EN": "Settlement Agreement Date"
   },
   "idda70c83b2816fc636527": {
     "DE": "VRE Our Manual Rate on Line",
