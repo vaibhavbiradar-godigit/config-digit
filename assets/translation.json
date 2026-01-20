@@ -51,6 +51,10 @@
     "DE": "Policy Number",
     "EN": "Policy Number"
   },
+  "id05e041e92e25ddf66738": {
+    "DE": "Claim Notification Date",
+    "EN": "Claim Notification Date"
+  },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
     "EN": "Sliding scale"
@@ -293,6 +297,10 @@
     "DE": "Asset Type",
     "EN": "Asset Type"
   },
+  "id1ee52ff59503d39abea3": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
+  },
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
     "EN": "No of  Lines"
@@ -457,6 +465,10 @@
     "DE": "Class of Business",
     "EN": "Class of Business"
   },
+  "id327ed26752430c53718e": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
+  },
   "id33439948c06879839f89": {
     "DE": "Engine Type",
     "EN": "Engine Type"
@@ -561,6 +573,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id3f952ed33fd0ce09ae39": {
+    "DE": "Date of Loss",
+    "EN": "Date of Loss"
+  },
   "id3fd198ae6e587414ccb0": {
     "DE": "Coverage Additional Details: Sliding Scale",
     "EN": "Coverage Additional Details: Sliding Scale"
@@ -661,9 +677,17 @@
     "DE": "Buffelo",
     "EN": "Buffelo"
   },
+  "id4d2329bf8f4c4a7b55dd": {
+    "DE": "Cause of loss",
+    "EN": "Cause of loss"
+  },
   "id4d7f1e30daca3ba77784": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id4d8f116de5e0168f84fc": {
+    "DE": "Claim No",
+    "EN": "Claim No"
   },
   "id4dc70aae12ca73eaac34": {
     "DE": "Spillover covered in excess of",
@@ -819,6 +843,10 @@
     "DE": "Loss Ratio Scale",
     "EN": "Loss Ratio Scale"
   },
+  "id5f69953f1668f7e1f673": {
+    "DE": "No",
+    "EN": "No"
+  },
   "id5fe0a45f84e7d561dd27": {
     "DE": "Graded Cedant Gross Retention",
     "EN": "Graded Cedant Gross Retention"
@@ -895,6 +923,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id68cd21083e2639394cf4": {
+    "DE": "Claim Outstanding",
+    "EN": "Claim Outstanding"
+  },
   "id690d1a7c1601984a1e37": {
     "DE": "Add",
     "EN": "Add"
@@ -926,6 +958,10 @@
   "id6dd9b493cffb53863c8c": {
     "DE": "Instalments",
     "EN": "Instalments"
+  },
+  "id6f64f9cdf4d6357fe1d8": {
+    "DE": "Claim Details",
+    "EN": "Claim Details"
   },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
@@ -1650,6 +1686,10 @@
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
   },
+  "idc28324ffc1ab697a81bb": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "idc34650c301401f9ff0d1": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1843,6 +1883,10 @@
     "DE": "Waiting Period in Months",
     "EN": "Waiting Period in Months"
   },
+  "idd7699380589c152f5338": {
+    "DE": "Yes",
+    "EN": "Yes"
+  },
   "idd81716cc73b9bb04ae90": {
     "DE": "add",
     "EN": "Add"
@@ -1850,6 +1894,10 @@
   "idd8c0bafb379a2c136abd": {
     "DE": "Stock Throughput Details",
     "EN": "Stock Throughput Details"
+  },
+  "idd984d08f63ac375c9fad": {
+    "DE": "Claims Paid",
+    "EN": "Claims Paid"
   },
   "idd9a35bb54e463e3064ef": {
     "DE": "exclusions",
@@ -2081,6 +2129,10 @@
   "idf7064dbe408617e72d15": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idf75b529647446c7ee21b": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "idf894d7dd5dd25c903f24": {
     "DE": "Number of Reinstatements",
