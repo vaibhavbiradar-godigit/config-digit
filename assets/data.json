@@ -782,6 +782,15 @@
       "type": "list",
       "variant": "livestockRateVariant"
     },
+    "id1d75f9134b235b378a9d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "siPaid",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1d75f9134b235b378a9d",
+      "type": "input"
+    },
     "id1da2f772082955948d72": {
       "alignment": "left",
       "colspan": 2,
@@ -1800,6 +1809,15 @@
       "id": "id46e2ca8a38d396513408",
       "type": "dropdown"
     },
+    "id46edffe80f8d01ec2e83": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "observedvalue",
+      "format": "FORMAT_AMOUNT",
+      "id": "id46edffe80f8d01ec2e83",
+      "type": "input"
+    },
     "id4780577f6c9790b4d3b7": {
       "alignment": "left",
       "colspan": 2,
@@ -2146,7 +2164,10 @@
         "idca84871cdba2695750f4",
         "id6fff5b0465be1d1744a1",
         "id7442d55e94842d4cef18",
-        "id348696e33aecc660f77c"
+        "id348696e33aecc660f77c",
+        "id46edffe80f8d01ec2e83",
+        "idbd17167e6375d0ecbd40",
+        "id1d75f9134b235b378a9d"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -4617,6 +4638,15 @@
       "facadeId": "constructionStage",
       "format": "",
       "id": "idbcf386c5ef938f4c335a",
+      "type": "input"
+    },
+    "idbd17167e6375d0ecbd40": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "sumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "idbd17167e6375d0ecbd40",
       "type": "input"
     },
     "idbd34c91e36d32d56f3e7": {
