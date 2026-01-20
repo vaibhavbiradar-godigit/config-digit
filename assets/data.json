@@ -2131,7 +2131,8 @@
         "id6766ddc679b790839897",
         "id8797f8c449542659a9e6",
         "idea689fc74c577861869c",
-        "id0c7f872537898cddbf2b"
+        "id0c7f872537898cddbf2b",
+        "id8876a4d005f538940f95"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -3284,6 +3285,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id88398ebb73f38ea02716",
       "type": "input"
+    },
+    "id8876a4d005f538940f95": {
+      "colspan": 2,
+      "facadeId": "pinCode",
+      "id": "id8876a4d005f538940f95",
+      "type": "dropdown"
     },
     "id88845c596b48ead97c83": {
       "alignment": "left",
