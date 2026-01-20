@@ -47,9 +47,17 @@
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
   },
+  "id0459d1078985590214d8": {
+    "DE": "Tonnage",
+    "EN": "Tonnage"
+  },
   "id04a6f912d31544b34c46": {
     "DE": "Policy Number",
     "EN": "Policy Number"
+  },
+  "id05cf8e09e2dc05a716c9": {
+    "DE": "Port and Terminal",
+    "EN": "Port and Terminal"
   },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
@@ -99,6 +107,10 @@
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
   },
+  "id0cb72466522f645dbb30": {
+    "DE": "Country",
+    "EN": "Country"
+  },
   "id0cf42d92b309108bbc5e": {
     "DE": "Deductible",
     "EN": "Deductible"
@@ -106,6 +118,10 @@
   "id0d50ce899ab5a4fcf2b3": {
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
+  },
+  "id0da3f6d36f5dab169a94": {
+    "DE": "Storage Capacity",
+    "EN": "Storage Capacity"
   },
   "id0e2b6670a5fb84bf2567": {
     "DE": "Net Retained Lines",
@@ -119,6 +135,10 @@
     "DE": "Certificate Number",
     "EN": "Certificate Number"
   },
+  "id0f23b9337f08f052b71d": {
+    "DE": "Equipment Details",
+    "EN": "Equipment Details"
+  },
   "id0f357e5f2d93ace0f188": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -130,6 +150,10 @@
   "id102cd038dafef6561522": {
     "DE": "Reinstatement Date",
     "EN": "Reinstatement Date"
+  },
+  "id10fdd2057e00b34b97bc": {
+    "DE": "Storage Capacity Unit",
+    "EN": "Storage Capacity Unit"
   },
   "id1119d0bc3df82d27528c": {
     "DE": "Leader",
@@ -333,6 +357,10 @@
     "DE": "Marine Cargo",
     "EN": "Marine Cargo"
   },
+  "id25a96dab8bc7fc7d532d": {
+    "DE": "Port Name",
+    "EN": "Port Name"
+  },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
@@ -513,6 +541,10 @@
     "DE": "Coverage Additional Details",
     "EN": "Coverage Additional Details"
   },
+  "id3b8fd232974200319b8b": {
+    "DE": "Year Built",
+    "EN": "Year Built"
+  },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
     "EN": "Transit Mode"
@@ -532,6 +564,10 @@
   "id3d623bf4f4343b3047e1": {
     "DE": "XOL layer",
     "EN": "XOL layer"
+  },
+  "id3d9a0be803ec6c77e8b0": {
+    "DE": "Vessel Type",
+    "EN": "Vessel Type"
   },
   "id3d9a40abe81877e9b64d": {
     "DE": "VRE Our Manual Premium",
@@ -609,6 +645,10 @@
     "DE": "Year Built",
     "EN": "Year Built"
   },
+  "id47f4fcbfb9db2168fd86": {
+    "DE": "Maintenance Records",
+    "EN": "Maintenance Records"
+  },
   "id487d406ad000aab2f1a3": {
     "DE": "Contract Additional Details: Sliding Scale",
     "EN": "Contract Additional Details: Sliding Scale"
@@ -624,6 +664,10 @@
   "id495076333f242bc618a6": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "id499bb8b5ee7c385c7c63": {
+    "DE": "Marine Hull",
+    "EN": "Marine Hull"
   },
   "id4a02cb85bef6157860a3": {
     "DE": "Hull Material",
@@ -815,6 +859,10 @@
     "DE": "Commission Scale",
     "EN": "Commission Scale"
   },
+  "id5e1a69e3949183932ff8": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
+  },
   "id5ef4aa3c65509eb96252": {
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
@@ -927,6 +975,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id707b981140e79b197975": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
   "id70bb42d47fe4d579f841": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1034,6 +1086,10 @@
   "id7e0276e7b840e8963491": {
     "DE": "Zusatzinformationen",
     "EN": "More information"
+  },
+  "id7eadd062518dd0cd75ff": {
+    "DE": "Vessel Name",
+    "EN": "Vessel Name"
   },
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
@@ -1157,6 +1213,10 @@
     "DE": "Years",
     "EN": "Years"
   },
+  "id8989138c2e212bf3b1ba": {
+    "DE": "BI Exposure",
+    "EN": "BI Exposure"
+  },
   "id89a6ae1296d751138c38": {
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
@@ -1253,6 +1313,10 @@
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
   },
+  "id9449e209f42000a3e062": {
+    "DE": "Engine Type",
+    "EN": "Engine Type"
+  },
   "id944bf1bdcb84645e0de1": {
     "DE": "Limit per Conveyance",
     "EN": "Limit per Conveyance"
@@ -1260,6 +1324,14 @@
   "id95a567a356f6ce927aa5": {
     "DE": "Settlement Agreement Date",
     "EN": "Settlement Agreement Date"
+  },
+  "id9679492accafb7940c86": {
+    "DE": "IMO Number",
+    "EN": "IMO Number"
+  },
+  "id96feafca7b78b1eae2d9": {
+    "DE": "Trading Limits",
+    "EN": "Trading Limits"
   },
   "id97efbb45846b0bbc784c": {
     "DE": "Class of Business",
@@ -1419,6 +1491,10 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "idaa4f84f93395ef8f95c8": {
+    "DE": "Fire Protection",
+    "EN": "Fire Protection"
+  },
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
@@ -1430,6 +1506,10 @@
   "idaebe7f7690a60628a30a": {
     "DE": "Stock Throughput Details",
     "EN": "Stock Throughput Details"
+  },
+  "idaf0afd2d03a387a5a6b4": {
+    "DE": "Flood Zone",
+    "EN": "Flood Zone"
   },
   "idaff14eba6e4913903290": {
     "DE": "Objekt bearbeiten",
@@ -1476,6 +1556,10 @@
   "idb1f809eec8ec20aba2d5": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idb210a93560d8b0ba1027": {
+    "DE": "Flag(Country)",
+    "EN": "Flag(Country)"
   },
   "idb2242d6535012e421e5f": {
     "DE": "Retained Amount",
@@ -1586,6 +1670,10 @@
   "idba9dc31888e3c6117b68": {
     "DE": "Leistungsumfang definieren...",
     "EN": "Define Scope of Benefits..."
+  },
+  "idbb180d8b572d79cfa769": {
+    "DE": "Classification Society",
+    "EN": "Classification Society"
   },
   "idbb610e9b62052f9215e8": {
     "DE": "Coverage Additional Details",
@@ -1752,6 +1840,10 @@
   "idce0f31173190804a2817": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idce142a8b863948d467be": {
+    "DE": "Terminal Type",
+    "EN": "Terminal Type"
   },
   "idce2328f2199398e8a1b0": {
     "DE": "Route Details",
@@ -1975,6 +2067,10 @@
     "DE": "Signed Share",
     "EN": "Signed Share"
   },
+  "ide44b99b3c8b5c0d18c1f": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
+  },
   "ide4698ee24eebbcc9a41a": {
     "DE": "VRE Our Manual Premium",
     "EN": "VRE Our Manual Premium"
@@ -2145,6 +2241,10 @@
   "idfd290b4a07f60b0e6cfd": {
     "DE": "Location Lattitude",
     "EN": "Location Lattitude"
+  },
+  "idfdfa3da7304e692019e1": {
+    "DE": "Hull Material",
+    "EN": "Hull Material"
   },
   "idfe303b92c51355dbbb8f": {
     "DE": "Remove",
