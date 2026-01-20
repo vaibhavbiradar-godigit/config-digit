@@ -346,7 +346,8 @@
     },
     "id0fb1a3986e7bfb469237": {
       "children": [
-        "id3593944546670a6603ae"
+        "id3593944546670a6603ae",
+        "id5bb23d2f009dd27ae080"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2338,6 +2339,12 @@
       "colspan": 2,
       "facadeId": "gstExemption",
       "id": "id5bb12d7fa6713b89f8af",
+      "type": "dropdown"
+    },
+    "id5bb23d2f009dd27ae080": {
+      "colspan": 2,
+      "facadeId": "typeOfProgram",
+      "id": "id5bb23d2f009dd27ae080",
       "type": "dropdown"
     },
     "id5c123b1aff7367a74897": {
