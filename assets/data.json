@@ -2132,7 +2132,8 @@
         "id8797f8c449542659a9e6",
         "idea689fc74c577861869c",
         "id0c7f872537898cddbf2b",
-        "id8876a4d005f538940f95"
+        "id8876a4d005f538940f95",
+        "id8e4910ad480f8a39a327"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -3427,6 +3428,12 @@
       "id": "id8e11a2273c52cb7c2320",
       "style": "secondary",
       "type": "button"
+    },
+    "id8e4910ad480f8a39a327": {
+      "colspan": 2,
+      "facadeId": "perils",
+      "id": "id8e4910ad480f8a39a327",
+      "type": "dropdown"
     },
     "id8e6f06314f4444303a2b": {
       "colspan": 2,
