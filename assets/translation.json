@@ -453,6 +453,10 @@
     "DE": "Claim Number",
     "EN": "Claim Number"
   },
+  "id348696e33aecc660f77c": {
+    "DE": "Exit",
+    "EN": "Exit"
+  },
   "id34a8b54a705cca24a8a0": {
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
@@ -907,6 +911,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id6fff5b0465be1d1744a1": {
+    "DE": "Trigger Defination",
+    "EN": "Trigger Defination"
+  },
   "id70bb42d47fe4d579f841": {
     "DE": "Remove",
     "EN": "Remove"
@@ -938,6 +946,10 @@
   "id743574fcf7e5a5a96f65": {
     "DE": "Cow",
     "EN": "Cow"
+  },
+  "id7442d55e94842d4cef18": {
+    "DE": "Entry",
+    "EN": "Entry"
   },
   "id74ffc850730042c45bc0": {
     "DE": "Notification Date",
