@@ -184,6 +184,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id09574be0b8edc830183a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtReceivable",
+      "format": "FORMAT_AMOUNT",
+      "id": "id09574be0b8edc830183a",
+      "type": "input"
+    },
     "id09f05e6416b07b9c4d94": {
       "alignment": "left",
       "colspan": 2,
@@ -363,7 +372,13 @@
         "idffd0d6400bec5c39c486",
         "ide199878287dd00645f82",
         "id73440a60e0cc04d5fbdc",
-        "id071513f95d989a85c527"
+        "id071513f95d989a85c527",
+        "id09574be0b8edc830183a",
+        "idb5a6b5d0cf2ca9c4b9a0",
+        "id6b58f9c51b8d8656e7cd",
+        "ide0cff911fc7427ea8704",
+        "id291af48e8f724aec5c13",
+        "id6b3c9e3399bdd28f0043"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1131,6 +1146,15 @@
       "id": "id290f9f979f7a6f989dc1",
       "referenceValue": "asba",
       "type": "radioButton"
+    },
+    "id291af48e8f724aec5c13": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimsPaid",
+      "format": "FORMAT_AMOUNT",
+      "id": "id291af48e8f724aec5c13",
+      "type": "input"
     },
     "id292bc45858203de4188f": {
       "alignment": "left",
@@ -2694,6 +2718,24 @@
       "id": "id6a795c57a8c09b5af457",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id6b3c9e3399bdd28f0043": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "areaInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6b3c9e3399bdd28f0043",
+      "type": "input"
+    },
+    "id6b58f9c51b8d8656e7cd": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6b58f9c51b8d8656e7cd",
+      "type": "input"
     },
     "id6b6f931665252b02727b": {
       "colspan": 2,
@@ -4364,6 +4406,15 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idb5a6b5d0cf2ca9c4b9a0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtReceived",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb5a6b5d0cf2ca9c4b9a0",
+      "type": "input"
+    },
     "idb6364c6e41f0e47edaca": {
       "alignment": "left",
       "colspan": 2,
@@ -5477,6 +5528,15 @@
       "facadeId": "requestedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide00263d424cb4cbe661c",
+      "type": "input"
+    },
+    "ide0cff911fc7427ea8704": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "totalOrGrossPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide0cff911fc7427ea8704",
       "type": "input"
     },
     "ide0d12eb803caa2a232b1": {
