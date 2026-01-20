@@ -214,9 +214,17 @@
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
   },
+  "id16e26e47347afd548869": {
+    "DE": "Claim No",
+    "EN": "Claim No"
+  },
   "id178682ddb4795bad3814": {
     "DE": "VRE Our Manual Rate on Line",
     "EN": "VRE Our Manual Rate on Line"
+  },
+  "id182ec3256c2c89f53675": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "id18ee1d74943430aa6210": {
     "DE": "Remove",
@@ -598,8 +606,8 @@
     "EN": "Blowout Prevention"
   },
   "id46edffe80f8d01ec2e83": {
-    "DE": "Observed value",
-    "EN": "Observed value"
+    "DE": "Observed Value",
+    "EN": "Observed Value"
   },
   "id4780577f6c9790b4d3b7": {
     "DE": "Year Built",
@@ -691,6 +699,10 @@
   },
   "id51b46aca962dae4e344c": {
     "EN": "GST Exemption"
+  },
+  "id51bd32ff72224b005673": {
+    "DE": "Claim Notification Date",
+    "EN": "Claim Notification Date"
   },
   "id520baaaf0e61b1dd5d56": {
     "DE": "Attachment Return Period",
@@ -883,6 +895,10 @@
     "DE": "Top Drop",
     "EN": "Top Drop"
   },
+  "id675cfe8accc82f4cb8c4": {
+    "DE": "Cause Of Loss",
+    "EN": "Cause Of Loss"
+  },
   "id6766ddc679b790839897": {
     "DE": "Channel Type",
     "EN": "Channel Type"
@@ -950,6 +966,10 @@
   "id7350d9f98b6713ae2e49": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
+  },
+  "id738e9c75ccb2ec589644": {
+    "DE": "Claim Amount Outstanding",
+    "EN": "Claim Amount Outstanding"
   },
   "id73cbf788a871b1683dc4": {
     "DE": "Class of Business",
@@ -1571,6 +1591,10 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "idba644270b1621ecd724a": {
+    "DE": "Claim Amount Paid",
+    "EN": "Claim Amount Paid"
+  },
   "idba85bb59a1e8c11e70a6": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1630,6 +1654,10 @@
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
   },
+  "idc02f9d3f499ff63f3734": {
+    "DE": "Date of trigger",
+    "EN": "Date of trigger"
+  },
   "idc04160afb918ed0eaa46": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
@@ -1687,6 +1715,10 @@
     "EN": "Limit per Conveyance"
   },
   "idc737f0f7b07534b5356e": {},
+  "idc74c47718216b7a11967": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
+  },
   "idc751341be27f7a5065a5": {
     "DE": "Cause of Loss",
     "EN": "Cause of Loss"
@@ -1776,6 +1808,10 @@
   "idd059990b73ebf5065d7c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
+  },
+  "idd0b1d790889a42cba6d3": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "idd1091c6a8bfbc26c070c": {
     "DE": "Maximum Retention Amount",
@@ -2053,6 +2089,10 @@
   "idf00d884343a2632d962e": {
     "DE": "CAT Exposure",
     "EN": "CAT Exposure"
+  },
+  "idf0354e2a37792dbb8a92": {
+    "DE": "Event Name",
+    "EN": "Event Name"
   },
   "idf05f6240ee083ffa549c": {
     "DE": "Quoted Share",
