@@ -19,6 +19,10 @@
     "DE": "Vertrag",
     "EN": "Contract"
   },
+  "id01d025ae9c92c09505f5": {
+    "DE": "Claim",
+    "EN": "Claim"
+  },
   "id01f855459bbcc8023e48": {
     "DE": "Loss Ratio Scale",
     "EN": "Loss Ratio Scale"
@@ -52,6 +56,10 @@
     "EN": "Tonnage"
   },
   "id04a6f912d31544b34c46": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
+  },
+  "id051cfe2f2f5e680235f1": {
     "DE": "Policy Number",
     "EN": "Policy Number"
   },
@@ -589,6 +597,10 @@
     "DE": "Marine",
     "EN": "Marine"
   },
+  "id3e0767058f5171d4ef6f": {
+    "DE": "Certificate Number",
+    "EN": "Certificate Number"
+  },
   "id3e59ff3d2561396b372c": {
     "DE": "Perils",
     "EN": "Perils"
@@ -982,6 +994,10 @@
   "id6b6f931665252b02727b": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id6c22a4d8ddcaabcfdd57": {
+    "DE": "Claim Number",
+    "EN": "Claim Number"
   },
   "id6d014e52e9d345e116fe": {
     "DE": "Wert",
@@ -1453,9 +1469,17 @@
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
   },
+  "id9b8b35111d31159898dc": {
+    "DE": "Cause of Loss",
+    "EN": "Cause of Loss"
+  },
   "id9c4820a3d6b759b3cc80": {
     "DE": "Sheep",
     "EN": "Sheep"
+  },
+  "id9d3791aa8059ed457572": {
+    "DE": "Location of Loss",
+    "EN": "Location of Loss"
   },
   "id9d69f1f7e077b94b02da": {
     "DE": "Add",
@@ -1668,6 +1692,10 @@
   "idb541787889564a49c6ad": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idb55f2af4edc200eae2c9": {
+    "DE": "Notification Date",
+    "EN": "Notification Date"
   },
   "idb575b8cb3470418bb150": {
     "EN": "Contract Balance"
@@ -2353,6 +2381,10 @@
   "idfd290b4a07f60b0e6cfd": {
     "DE": "Location Lattitude",
     "EN": "Location Lattitude"
+  },
+  "idfd4222ae74207dccec39": {
+    "DE": "Loss Date",
+    "EN": "Loss Date"
   },
   "idfdfa3da7304e692019e1": {
     "DE": "Hull Material",
