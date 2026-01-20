@@ -529,6 +529,10 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "id3936c0229485c1eb36cd": {
+    "DE": "Vessel Type",
+    "EN": "Vessel Type"
+  },
   "id39622899ac9d799b3089": {
     "DE": "Objekt bearbeiten",
     "EN": "Edit Object"
@@ -648,6 +652,10 @@
   "id47f4fcbfb9db2168fd86": {
     "DE": "Maintenance Records",
     "EN": "Maintenance Records"
+  },
+  "id486136b2c8dc262b2d6c": {
+    "DE": "Launch Date",
+    "EN": "Launch Date"
   },
   "id487d406ad000aab2f1a3": {
     "DE": "Contract Additional Details: Sliding Scale",
@@ -975,6 +983,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id6ff7507225745dfd3d51": {
+    "DE": "Builders Risk",
+    "EN": "Builders Risk"
+  },
   "id707b981140e79b197975": {
     "DE": "Deductible",
     "EN": "Deductible"
@@ -1010,6 +1022,10 @@
   "id743574fcf7e5a5a96f65": {
     "DE": "Cow",
     "EN": "Cow"
+  },
+  "id74d82195fc58557911e5": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id74ffc850730042c45bc0": {
     "DE": "Notification Date",
@@ -1345,6 +1361,10 @@
     "DE": "Voyage Origin Port",
     "EN": "Voyage Origin Port"
   },
+  "id993ba13e3c18d01f056a": {
+    "DE": "CAT Exposure",
+    "EN": "CAT Exposure"
+  },
   "id9955abc8b4316de10c6b": {
     "DE": "Limit",
     "EN": "Limit"
@@ -1498,6 +1518,10 @@
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
+  },
+  "idac73a1820fd6fd14368b": {
+    "DE": "Project Name",
+    "EN": "Project Name"
   },
   "idad4c215587776e1932c8": {
     "DE": "Sum Insured",
@@ -1659,6 +1683,10 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
+  "idb9ff2e165faff2a3bac6": {
+    "DE": "Construction Stage",
+    "EN": "Construction Stage"
+  },
   "idba85bb59a1e8c11e70a6": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1738,6 +1766,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idc1e7d71ce2debc1cc40e": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
   "idc1fd2b8f5f78d873a0fb": {
     "DE": "Buffelo",
     "EN": "Buffelo"
@@ -1745,6 +1777,10 @@
   "idc25acb200ec77e085a60": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
+  },
+  "idc330424312f7454d13cd": {
+    "DE": "Yard Name",
+    "EN": "Yard Name"
   },
   "idc34650c301401f9ff0d1": {
     "DE": "Remove",
@@ -2161,6 +2197,10 @@
   "idf0bda3d4f894c27d533b": {
     "DE": "XOL layer",
     "EN": "XOL layer"
+  },
+  "idf0ed22c1b23629d710a3": {
+    "DE": "Welding Safety",
+    "EN": "Welding Safety"
   },
   "idf266e45c1fac74000289": {
     "DE": "Vessel Type",
