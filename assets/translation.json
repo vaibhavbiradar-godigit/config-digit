@@ -257,6 +257,10 @@
   "id1c3d0c7ff3f2e276c784": {
     "EN": "Issuance Start Date"
   },
+  "id1c5f1438f3989a3142d6": {
+    "DE": "Cargo Type",
+    "EN": "Cargo Type"
+  },
   "id1c5fea56b2aba267a604": {
     "DE": "Livestock Rate Master",
     "EN": "Livestock Rate Master"
@@ -284,6 +288,10 @@
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
     "EN": "No of  Lines"
+  },
+  "id215c79774a825ddead5d": {
+    "DE": "Packaging Type",
+    "EN": "Packaging Type"
   },
   "id21b1c0c9ea605a63d7de": {
     "DE": "Spillover covered in excess of",
@@ -321,6 +329,10 @@
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
   },
+  "id25522490611de9cfcc58": {
+    "DE": "Marine Cargo",
+    "EN": "Marine Cargo"
+  },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
@@ -344,6 +356,10 @@
     "DE": "Request Share",
     "EN": "Request Share"
   },
+  "id2678bbc1e471d17f38cb": {
+    "DE": "Certificate Number",
+    "EN": "Certificate Number"
+  },
   "id2698f8f868fdde158e9d": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -363,6 +379,10 @@
   "id27d0f08303828c4c2b38": {
     "DE": "Prämie gemäß Zahlweise",
     "EN": "Premium according to payment frequency"
+  },
+  "id27deb1f16c452d49ac83": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id286df48ed1875d53722c": {
     "DE": "Remove",
@@ -557,6 +577,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "id4447f41ea78d0bd34668": {
+    "DE": "Storage Cover Duration(Days)",
+    "EN": "Storage Cover Duration(Days)"
+  },
   "id44a08e0faca62ac87676": {
     "DE": "Add",
     "EN": "Add"
@@ -616,6 +640,10 @@
   "id4a63102d1b5edb4f07fb": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id4b80aff6fe98ba807bd5": {
+    "DE": "Packing Quality",
+    "EN": "Packing Quality"
   },
   "id4bd71cdfd55d2fc4470c": {
     "DE": "Outstanding Amount",
@@ -680,6 +708,10 @@
     "DE": "Pig",
     "EN": "Pig"
   },
+  "id525b006f9ecdefcaedd3": {
+    "DE": "Cargo Description",
+    "EN": "Cargo Description"
+  },
   "id5289cfdee8be8d6081f5": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -743,6 +775,10 @@
   "id59bf15c5abcba8914ddd": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id5a7e84570fb1ddeb563f": {
+    "DE": "Deductible",
+    "EN": "Deductible"
   },
   "id5b0571695552e52110d2": {
     "DE": "Add",
@@ -1205,6 +1241,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id923f18383e50f0cb4c21": {
+    "DE": "Exclusions",
+    "EN": "Exclusions"
+  },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
     "EN": "Add"
@@ -1212,6 +1252,10 @@
   "id92ade9efcabd592ba621": {
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
+  },
+  "id944bf1bdcb84645e0de1": {
+    "DE": "Limit per Conveyance",
+    "EN": "Limit per Conveyance"
   },
   "id95a567a356f6ce927aa5": {
     "DE": "Settlement Agreement Date",
@@ -1224,6 +1268,10 @@
   "id980581d2b6e86c98166b": {
     "DE": "exclusions",
     "EN": "exclusions"
+  },
+  "id981134d1eec5dea09012": {
+    "DE": "Voyage Origin Port",
+    "EN": "Voyage Origin Port"
   },
   "id9955abc8b4316de10c6b": {
     "DE": "Limit",
@@ -1379,6 +1427,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "idaebe7f7690a60628a30a": {
+    "DE": "Stock Throughput Details",
+    "EN": "Stock Throughput Details"
+  },
   "idaff14eba6e4913903290": {
     "DE": "Objekt bearbeiten",
     "EN": "Edit object"
@@ -1408,6 +1460,14 @@
   "idb14d0ca70bd57877cf9f": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
+  },
+  "idb15fcd4b9a4ffe164865": {
+    "DE": "Cedant Policy Number",
+    "EN": "Cedant Policy Number"
+  },
+  "idb16dc79dd994d4aa837c": {
+    "DE": "Voyage Destination Port",
+    "EN": "Voyage Destination Port"
   },
   "idb197de9035c0ff2c342d": {
     "DE": "Basis",
@@ -1693,6 +1753,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idce2328f2199398e8a1b0": {
+    "DE": "Route Details",
+    "EN": "Route Details"
+  },
   "idceb1662901c06addc8c5": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1927,6 +1991,10 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "ide5115b999b91caf66f31": {
+    "DE": "Transit Mode",
+    "EN": "Transit Mode"
+  },
   "ide624e86892139ab8a52b": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
@@ -1946,6 +2014,10 @@
   "ide888f336039ddea98075": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
+  },
+  "ide9ca3eb2a8338bd1eecd": {
+    "DE": "Loss Prevention Measures",
+    "EN": "Loss Prevention Measures"
   },
   "idea54915a0b826dd7da93": {
     "DE": "Leader's Participation",
