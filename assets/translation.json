@@ -63,6 +63,10 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy Benefits"
   },
+  "id071513f95d989a85c527": {
+    "DE": "State Govt. Subsidy outstanding",
+    "EN": "State Govt. Subsidy outstanding"
+  },
   "id07f6a97e8da9e51e8730": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -930,6 +934,10 @@
   "id72b8430879f40a24f34a": {
     "DE": "VRE Our Manual Premium",
     "EN": "VRE Our Manual Premium"
+  },
+  "id73440a60e0cc04d5fbdc": {
+    "DE": "State Govt. Subsidy received",
+    "EN": "State Govt. Subsidy received"
   },
   "id7350d9f98b6713ae2e49": {
     "DE": "Exposure Basis",
@@ -1911,6 +1919,10 @@
     "DE": "Quoted Share",
     "EN": "Quoted Share"
   },
+  "ide199878287dd00645f82": {
+    "DE": "State Govt. Subsidy receivable",
+    "EN": "State Govt. Subsidy receivable"
+  },
   "ide19fb2d5c57f2f48707a": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -2117,5 +2129,9 @@
   "idffbf702d70e6ce31b65a": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
+  },
+  "idffd0d6400bec5c39c486": {
+    "DE": "Farmer Premium",
+    "EN": "Farmer Premium"
   }
 }
