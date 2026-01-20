@@ -79,9 +79,17 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy Benefits"
   },
+  "id06e0aa70538130ea28f0": {
+    "DE": "Deductible Applied",
+    "EN": "Deductible Applied"
+  },
   "id07f6a97e8da9e51e8730": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id082f05d9dba86729e22d": {
+    "DE": "Large Loss Flag",
+    "EN": "Large Loss Flag"
   },
   "id0870871190817db2dcab": {
     "DE": "Remove",
@@ -357,6 +365,10 @@
     "DE": "Voyage Destination Port",
     "EN": "Voyage Destination Port"
   },
+  "id22d6e63b7b76a4d3e53b": {
+    "DE": "Salvage Value",
+    "EN": "Salvage Value"
+  },
   "id23e79d302cb7188a83da": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -447,6 +459,10 @@
     "DE": "Bausteine hinzufügen...",
     "EN": "Add Components..."
   },
+  "id2b4334e5135631d9ee52": {
+    "DE": "Outstanding Amount",
+    "EN": "Outstanding Amount"
+  },
   "id2b8852e1fd13500d090b": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -465,6 +481,10 @@
   },
   "id2d3116a006dbdb127fbd": {
     "EN": "Instrument Type"
+  },
+  "id2d3c0af81b00d96d6c6f": {
+    "DE": "Surveyor Report Date",
+    "EN": "Surveyor Report Date"
   },
   "id2dce9911748dbd16470a": {
     "DE": "Hinzufügen",
@@ -500,6 +520,10 @@
   "id335f6be0f0cc4221264a": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id3388c98067549524ff3e": {
+    "DE": "CAT Event Flag",
+    "EN": "CAT Event Flag"
   },
   "id345f23379d1b9335147d": {
     "DE": "Claim Number",
@@ -701,6 +725,10 @@
     "DE": "Hull Material",
     "EN": "Hull Material"
   },
+  "id4a161c7999bccb542032": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
+  },
   "id4a4305fd95b96e9ea62d": {
     "DE": "",
     "EN": "IFSC/MICR"
@@ -831,6 +859,10 @@
   "id57214fafb1bb4f1dc197": {
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
+  },
+  "id573f76606336f5c4b677": {
+    "DE": "Incurred Loss amount",
+    "EN": "Incurred Loss amount"
   },
   "id57875bc73eb9c09afed9": {
     "DE": "Hinzufügen",
@@ -1074,6 +1106,10 @@
   "id76c6f55e51897a122943": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium%"
+  },
+  "id76cd704f4ce608b5a37d": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id77771cc305f348137f84": {
     "DE": "Sr. No.",
@@ -1681,6 +1717,10 @@
     "DE": "Event Flag",
     "EN": "Event Flag"
   },
+  "idb3e6d241367a2e0e603b": {
+    "DE": "Subrogation Amount",
+    "EN": "Subrogation Amount"
+  },
   "idb4cd2631afd5335145eb": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1942,6 +1982,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "idcbbdde6bc8ebbeb087b9": {
+    "DE": "Surveyor Name",
+    "EN": "Surveyor Name"
+  },
   "idcc76732a1cb82daabb58": {
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
@@ -2115,6 +2159,10 @@
     "DE": "Deductible",
     "EN": "Deductible"
   },
+  "iddcfd1cb22e4635574e6a": {
+    "DE": "Estimated Loss",
+    "EN": "Estimated Loss"
+  },
   "iddcfd7a40744205a457a5": {
     "DE": "Sum Insured Limits",
     "EN": "Sum Insured Limits"
@@ -2162,6 +2210,10 @@
   "ide00263d424cb4cbe661c": {
     "DE": "Request Share",
     "EN": "Request Share"
+  },
+  "ide09d0045cbe30e0c6449": {
+    "DE": "Paid Amount",
+    "EN": "Paid Amount"
   },
   "ide0d12eb803caa2a232b1": {
     "DE": "Reinstatement Premium",
@@ -2269,6 +2321,10 @@
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
+  },
+  "ided64f2a3b2b805c91b16": {
+    "DE": "Surveyor Findings",
+    "EN": "Surveyor Findings"
   },
   "idee0286ec6e2868337825": {
     "DE": "",
