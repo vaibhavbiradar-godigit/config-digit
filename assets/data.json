@@ -155,6 +155,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id071513f95d989a85c527": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id071513f95d989a85c527",
+      "type": "input"
+    },
     "id07f6a97e8da9e51e8730": {
       "children": [
         "id0f357e5f2d93ace0f188",
@@ -350,7 +359,11 @@
         "id5bb23d2f009dd27ae080",
         "id922b9e33fb3691ee8b82",
         "id2387b5e5286bc061d9e7",
-        "id3c60f37a28a01a9be003"
+        "id3c60f37a28a01a9be003",
+        "idffd0d6400bec5c39c486",
+        "ide199878287dd00645f82",
+        "id73440a60e0cc04d5fbdc",
+        "id071513f95d989a85c527"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2775,6 +2788,15 @@
       "facadeId": "vreOurManualPremium",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id72b8430879f40a24f34a",
+      "type": "input"
+    },
+    "id73440a60e0cc04d5fbdc": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyReceived",
+      "format": "FORMAT_AMOUNT",
+      "id": "id73440a60e0cc04d5fbdc",
       "type": "input"
     },
     "id7350d9f98b6713ae2e49": {
@@ -5477,6 +5499,15 @@
       "id": "ide12f0c739303d63cae76",
       "type": "input"
     },
+    "ide199878287dd00645f82": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyReceivable",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide199878287dd00645f82",
+      "type": "input"
+    },
     "ide19fb2d5c57f2f48707a": {
       "colspan": 2,
       "columnWidth": "335",
@@ -6039,6 +6070,15 @@
       "facadeId": "commissionScaleData",
       "format": "FORMAT_AMOUNT",
       "id": "idffbf702d70e6ce31b65a",
+      "type": "input"
+    },
+    "idffd0d6400bec5c39c486": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "farmerPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idffd0d6400bec5c39c486",
       "type": "input"
     }
   },
