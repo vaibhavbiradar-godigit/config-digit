@@ -54,6 +54,23 @@
       "type": "layoutbox",
       "variant": "masterPolicyDetailsXOLVariant"
     },
+    "id01d025ae9c92c09505f5": {
+      "children": [
+        "id6c22a4d8ddcaabcfdd57",
+        "id051cfe2f2f5e680235f1",
+        "id3e0767058f5171d4ef6f",
+        "idfd4222ae74207dccec39",
+        "idb55f2af4edc200eae2c9",
+        "id9b8b35111d31159898dc",
+        "id9d3791aa8059ed457572"
+      ],
+      "colspan": 6,
+      "facadeId": "Claim",
+      "id": "id01d025ae9c92c09505f5",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "marineVariant"
+    },
     "id01f855459bbcc8023e48": {
       "alignment": "left",
       "colspan": 2,
@@ -131,6 +148,15 @@
       "facadeId": "marinePolicyNumber",
       "format": "",
       "id": "id04a6f912d31544b34c46",
+      "type": "input"
+    },
+    "id051cfe2f2f5e680235f1": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "policyNumber",
+      "format": "",
+      "id": "id051cfe2f2f5e680235f1",
       "type": "input"
     },
     "id05cf8e09e2dc05a716c9": {
@@ -1747,6 +1773,15 @@
       "rowspan": 4,
       "type": "list"
     },
+    "id3e0767058f5171d4ef6f": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimCertificateNumber",
+      "format": "",
+      "id": "id3e0767058f5171d4ef6f",
+      "type": "input"
+    },
     "id3e59ff3d2561396b372c": {
       "colspan": 2,
       "columnWidth": "150",
@@ -2907,6 +2942,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id6c22a4d8ddcaabcfdd57": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimNumber",
+      "format": "",
+      "id": "id6c22a4d8ddcaabcfdd57",
+      "type": "input"
+    },
     "id6d014e52e9d345e116fe": {
       "colspan": 2,
       "columnWidth": "400",
@@ -3884,6 +3928,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id01d025ae9c92c09505f5": 15,
         "idde2828a891368e701550": 14,
         "id7d130414a9d4e6566eb4": 13,
         "id6ff7507225745dfd3d51": 12,
@@ -3912,18 +3957,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 25,
-        "id851b4d62c3f056eb58b5": 26,
-        "id13cb4ae08c6a5e26563c": 16,
-        "idcafb0c30e1d63edb47c9": 17,
-        "id45f5bcee21ce843ca4a4": 18,
-        "idcfbb20fb21a07c60122a": 19,
-        "id600e1004fdf2d666b901": 20,
-        "id0f61e821c30093bc22d9": 21,
-        "id7a5dd092f93608b09d52": 24,
-        "id2d80ea5c85120a46d449": 22,
-        "id65c0760f5e7cad3d1e45": 23,
-        "id11a4e747de28b3dd7027": 15
+        "id2715ef2fc25d31137631": 26,
+        "id851b4d62c3f056eb58b5": 27,
+        "id13cb4ae08c6a5e26563c": 17,
+        "idcafb0c30e1d63edb47c9": 18,
+        "id45f5bcee21ce843ca4a4": 19,
+        "idcfbb20fb21a07c60122a": 20,
+        "id600e1004fdf2d666b901": 21,
+        "id0f61e821c30093bc22d9": 22,
+        "id7a5dd092f93608b09d52": 25,
+        "id2d80ea5c85120a46d449": 23,
+        "id65c0760f5e7cad3d1e45": 24,
+        "id11a4e747de28b3dd7027": 16
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -4143,6 +4188,12 @@
       "id": "id9b446d8a174994b78c80",
       "type": "input"
     },
+    "id9b8b35111d31159898dc": {
+      "colspan": 2,
+      "facadeId": "causeOfLoss",
+      "id": "id9b8b35111d31159898dc",
+      "type": "dropdown"
+    },
     "id9bcde83078a5dbb8894b": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -4176,6 +4227,15 @@
       "id": "id9c4ae8ae05381e68e5fe",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id9d3791aa8059ed457572": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "locationOfLoss",
+      "format": "",
+      "id": "id9d3791aa8059ed457572",
+      "type": "input"
     },
     "id9d69f1f7e077b94b02da": {
       "colspan": 2,
@@ -4787,6 +4847,12 @@
       "rowspan": 3,
       "type": "layoutbox",
       "variant": "masterPolicyDetailsSurplusVariant"
+    },
+    "idb55f2af4edc200eae2c9": {
+      "colspan": 2,
+      "facadeId": "notificationDate",
+      "id": "idb55f2af4edc200eae2c9",
+      "type": "datepicker"
     },
     "idb575b8cb3470418bb150": {
       "id": "idb575b8cb3470418bb150",
@@ -6564,6 +6630,12 @@
       "format": "",
       "id": "idfd290b4a07f60b0e6cfd",
       "type": "input"
+    },
+    "idfd4222ae74207dccec39": {
+      "colspan": 2,
+      "facadeId": "lossDate",
+      "id": "idfd4222ae74207dccec39",
+      "type": "datepicker"
     },
     "idfd9d77e771d37ef11c6f": {
       "alignment": "right",
