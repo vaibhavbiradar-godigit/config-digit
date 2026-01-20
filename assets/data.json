@@ -2123,7 +2123,8 @@
         "id5c503d5f31de1df0ae21",
         "idadcfc4833597d39fd901",
         "id6766ddc679b790839897",
-        "id8797f8c449542659a9e6"
+        "id8797f8c449542659a9e6",
+        "idea689fc74c577861869c"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -5640,6 +5641,15 @@
       "facadeId": "leadersParticipation",
       "format": "FORMAT_AMOUNT",
       "id": "idea54915a0b826dd7da93",
+      "type": "input"
+    },
+    "idea689fc74c577861869c": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "district",
+      "format": "",
+      "id": "idea689fc74c577861869c",
       "type": "input"
     },
     "ideb90753be1eb15321784": {
