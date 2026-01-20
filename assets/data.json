@@ -1352,6 +1352,15 @@
       "id": "id345f23379d1b9335147d",
       "type": "input"
     },
+    "id348696e33aecc660f77c": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "exit",
+      "format": "",
+      "id": "id348696e33aecc660f77c",
+      "type": "input"
+    },
     "id34a8b54a705cca24a8a0": {
       "alignment": "left",
       "colspan": 2,
@@ -2134,7 +2143,10 @@
         "id0c7f872537898cddbf2b",
         "id8876a4d005f538940f95",
         "id8e4910ad480f8a39a327",
-        "idca84871cdba2695750f4"
+        "idca84871cdba2695750f4",
+        "id6fff5b0465be1d1744a1",
+        "id7442d55e94842d4cef18",
+        "id348696e33aecc660f77c"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2728,6 +2740,15 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id6fff5b0465be1d1744a1": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "triggerDefination",
+      "format": "",
+      "id": "id6fff5b0465be1d1744a1",
+      "type": "input"
+    },
     "id70bb42d47fe4d579f841": {
       "colspan": 2,
       "facadeId": "remove",
@@ -2797,6 +2818,15 @@
       "facadeId": "cow",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id743574fcf7e5a5a96f65",
+      "type": "input"
+    },
+    "id7442d55e94842d4cef18": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "entry",
+      "format": "",
+      "id": "id7442d55e94842d4cef18",
       "type": "input"
     },
     "id74ffc850730042c45bc0": {
