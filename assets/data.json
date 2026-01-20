@@ -76,7 +76,14 @@
         "id06e0aa70538130ea28f0",
         "idcbbdde6bc8ebbeb087b9",
         "id2d3c0af81b00d96d6c6f",
-        "ided64f2a3b2b805c91b16"
+        "ided64f2a3b2b805c91b16",
+        "id4205b6012280a94c6a85",
+        "id80ce79244cb4c2800104",
+        "id9d9948a4b0e8caa7e062",
+        "idda1f04b2d0b576803e1c",
+        "id22cfb1a7f5a1abc19513",
+        "ida64760cb2ba21c88f964",
+        "idca2d6e3062d5ab4dc685"
       ],
       "colspan": 6,
       "facadeId": "Claim",
@@ -1059,6 +1066,12 @@
       "id": "id22be589c57ab4fd89e9e",
       "type": "input"
     },
+    "id22cfb1a7f5a1abc19513": {
+      "colspan": 2,
+      "facadeId": "claimType",
+      "id": "id22cfb1a7f5a1abc19513",
+      "type": "dropdown"
+    },
     "id22d6e63b7b76a4d3e53b": {
       "alignment": "left",
       "colspan": 2,
@@ -1924,6 +1937,12 @@
       "id": "id41a99c400c747b6da365",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id4205b6012280a94c6a85": {
+      "colspan": 2,
+      "facadeId": "legalProceedingsFlag",
+      "id": "id4205b6012280a94c6a85",
+      "type": "dropdown"
     },
     "id42b96cd705f5f3bbe4f0": {
       "colspan": 2,
@@ -3478,6 +3497,15 @@
       "id": "id807e0112e548c0e77e25",
       "type": "input"
     },
+    "id80ce79244cb4c2800104": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "lawFirmName",
+      "format": "",
+      "id": "id80ce79244cb4c2800104",
+      "type": "input"
+    },
     "id80ecd9e366c8b6e62cc8": {
       "alignment": "left",
       "colspan": 2,
@@ -4337,6 +4365,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "id9d9948a4b0e8caa7e062": {
+      "colspan": 2,
+      "facadeId": "courtJurisdiction",
+      "id": "id9d9948a4b0e8caa7e062",
+      "type": "dropdown"
+    },
     "id9df13525ec6db22d04c7": {
       "alignment": "left",
       "colspan": 2,
@@ -4575,6 +4609,12 @@
       "id": "ida5e1943980d3e48e86df",
       "style": "secondary",
       "type": "button"
+    },
+    "ida64760cb2ba21c88f964": {
+      "colspan": 2,
+      "facadeId": "eventFlag",
+      "id": "ida64760cb2ba21c88f964",
+      "type": "dropdown"
     },
     "ida6c64e7906a9d9b8ba8e": {
       "alignment": "left",
@@ -5583,6 +5623,12 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "idca2d6e3062d5ab4dc685": {
+      "colspan": 2,
+      "facadeId": "eventName",
+      "id": "idca2d6e3062d5ab4dc685",
+      "type": "dropdown"
+    },
     "idca3a2ef45ab8f4afa5ec": {
       "alignment": "left",
       "colspan": 2,
@@ -6014,6 +6060,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "idda1df5db2c5fddcef2d3",
       "type": "input"
+    },
+    "idda1f04b2d0b576803e1c": {
+      "colspan": 2,
+      "facadeId": "settlementAgreementDate",
+      "id": "idda1f04b2d0b576803e1c",
+      "type": "datepicker"
     },
     "idda70c83b2816fc636527": {
       "alignment": "left",
