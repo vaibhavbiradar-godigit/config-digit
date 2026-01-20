@@ -265,6 +265,10 @@
     "DE": "Livestock Rate Master",
     "EN": "Livestock Rate Master"
   },
+  "id1d75f9134b235b378a9d": {
+    "DE": "SI Paid",
+    "EN": "SI Paid"
+  },
   "id1da2f772082955948d72": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
@@ -588,6 +592,10 @@
   "id46e2ca8a38d396513408": {
     "DE": "Blowout Prevention",
     "EN": "Blowout Prevention"
+  },
+  "id46edffe80f8d01ec2e83": {
+    "DE": "Observed value",
+    "EN": "Observed value"
   },
   "id4780577f6c9790b4d3b7": {
     "DE": "Year Built",
@@ -1589,6 +1597,10 @@
   "idbcf386c5ef938f4c335a": {
     "DE": "Construction Stage",
     "EN": "Construction Stage"
+  },
+  "idbd17167e6375d0ecbd40": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "idbd34c91e36d32d56f3e7": {
     "DE": "Summenart Wert",
