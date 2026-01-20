@@ -808,6 +808,10 @@
     "DE": "Large Loss Flag",
     "EN": "Large Loss Flag"
   },
+  "id56677299e425288fb579": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
+  },
   "id56feb1425d87c6aa43b6": {
     "DE": "Country",
     "EN": "Country"
@@ -1281,6 +1285,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "id8bb4804b5f3d5f29ad8a": {
+    "DE": "Limit of Liability",
+    "EN": "Limit of Liability"
+  },
   "id8bc6c22652dc26b3a9b4": {
     "DE": "Basis",
     "EN": "Basis"
@@ -1312,6 +1320,10 @@
   "id8f3274b2cb5f0699b3f5": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
+  },
+  "id8f6cbe239c339b106461": {
+    "DE": "Crew Safety",
+    "EN": "Crew Safety"
   },
   "id8ff993e3e9fe9fd589c2": {
     "DE": "Leader's Participation",
@@ -1751,6 +1763,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "idbb8f28b9c2fb91a7bf49": {
+    "DE": "Deductible",
+    "EN": "Deductible"
+  },
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
   },
@@ -2087,6 +2103,10 @@
     "DE": "Deductible",
     "EN": "Deductible"
   },
+  "idde2828a891368e701550": {
+    "DE": "Marine Liability",
+    "EN": "Marine Liability"
+  },
   "idde40aebc852775d62035": {
     "DE": "Cover Limits",
     "EN": "Cover Limits"
@@ -2249,6 +2269,10 @@
   "idf0ed22c1b23629d710a3": {
     "DE": "Welding Safety",
     "EN": "Welding Safety"
+  },
+  "idf13b34972918a450b019": {
+    "DE": "Contractual Obligations",
+    "EN": "Contractual Obligations"
   },
   "idf266e45c1fac74000289": {
     "DE": "Vessel Type",
