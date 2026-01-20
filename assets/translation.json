@@ -692,6 +692,10 @@
     "DE": "Gruppengeschäftsvertrag",
     "EN": "Group Business Contract"
   },
+  "id54502dfe8c11ceb3aacb": {
+    "DE": "Policy Details",
+    "EN": "Policy Details"
+  },
   "id54503dd33517b978abf3": {
     "DE": "Maintenance Records",
     "EN": "Maintenance Records"
@@ -766,6 +770,10 @@
   "id5c2daeb5d4ee90c83d0d": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "id5c503d5f31de1df0ae21": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
   },
   "id5cbdfeeec420e0895a84": {
     "DE": "Reinstatement Terms",
