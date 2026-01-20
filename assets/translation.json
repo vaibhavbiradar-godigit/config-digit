@@ -127,6 +127,10 @@
     "DE": "Surveyor Name",
     "EN": "Surveyor Name"
   },
+  "id0fb1a3986e7bfb469237": {
+    "DE": "Policy Details",
+    "EN": "Policy Details"
+  },
   "id102cd038dafef6561522": {
     "DE": "Reinstatement Date",
     "EN": "Reinstatement Date"
@@ -456,6 +460,10 @@
   "id35244da0482986a6dc82": {
     "DE": "Storage Capacity",
     "EN": "Storage Capacity"
+  },
+  "id3593944546670a6603ae": {
+    "DE": "Crop Season",
+    "EN": "Crop Season"
   },
   "id35a32ac5eec3648ba60f": {
     "DE": "Fire Protection",
