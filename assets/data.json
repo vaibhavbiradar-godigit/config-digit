@@ -62,7 +62,21 @@
         "idfd4222ae74207dccec39",
         "idb55f2af4edc200eae2c9",
         "id9b8b35111d31159898dc",
-        "id9d3791aa8059ed457572"
+        "id9d3791aa8059ed457572",
+        "id3388c98067549524ff3e",
+        "id082f05d9dba86729e22d",
+        "id76cd704f4ce608b5a37d",
+        "iddcfd1cb22e4635574e6a",
+        "id4a161c7999bccb542032",
+        "ide09d0045cbe30e0c6449",
+        "id2b4334e5135631d9ee52",
+        "id22d6e63b7b76a4d3e53b",
+        "id573f76606336f5c4b677",
+        "idb3e6d241367a2e0e603b",
+        "id06e0aa70538130ea28f0",
+        "idcbbdde6bc8ebbeb087b9",
+        "id2d3c0af81b00d96d6c6f",
+        "ided64f2a3b2b805c91b16"
       ],
       "colspan": 6,
       "facadeId": "Claim",
@@ -207,6 +221,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id06e0aa70538130ea28f0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "deductibleApplied",
+      "format": "FORMAT_AMOUNT",
+      "id": "id06e0aa70538130ea28f0",
+      "type": "input"
+    },
     "id07f6a97e8da9e51e8730": {
       "children": [
         "id0f357e5f2d93ace0f188",
@@ -219,6 +242,12 @@
       "id": "id07f6a97e8da9e51e8730",
       "rowspan": 4,
       "type": "list"
+    },
+    "id082f05d9dba86729e22d": {
+      "colspan": 2,
+      "facadeId": "largeLossFlag",
+      "id": "id082f05d9dba86729e22d",
+      "type": "dropdown"
     },
     "id0870871190817db2dcab": {
       "colspan": 2,
@@ -1030,6 +1059,15 @@
       "id": "id22be589c57ab4fd89e9e",
       "type": "input"
     },
+    "id22d6e63b7b76a4d3e53b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "salvageValue",
+      "format": "FORMAT_AMOUNT",
+      "id": "id22d6e63b7b76a4d3e53b",
+      "type": "input"
+    },
     "id23e79d302cb7188a83da": {
       "colspan": 2,
       "columnWidth": "335",
@@ -1295,6 +1333,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id2b4334e5135631d9ee52": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "outstandingAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id2b4334e5135631d9ee52",
+      "type": "input"
+    },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
       "colspan": 2,
@@ -1353,6 +1400,12 @@
       "id": "id2d3116a006dbdb127fbd",
       "rowspan": 2,
       "type": "radioButtonGroup"
+    },
+    "id2d3c0af81b00d96d6c6f": {
+      "colspan": 2,
+      "facadeId": "surveyorReportDate",
+      "id": "id2d3c0af81b00d96d6c6f",
+      "type": "datepicker"
     },
     "id2d80ea5c85120a46d449": {
       "colspan": 6,
@@ -1483,6 +1536,12 @@
       "id": "id336cc84be9873b25ae89",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id3388c98067549524ff3e": {
+      "colspan": 2,
+      "facadeId": "catEventFlag",
+      "id": "id3388c98067549524ff3e",
+      "type": "dropdown"
     },
     "id345f23379d1b9335147d": {
       "alignment": "left",
@@ -2097,6 +2156,15 @@
       "id": "id4a02cb85bef6157860a3",
       "type": "dropdown"
     },
+    "id4a161c7999bccb542032": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id4a161c7999bccb542032",
+      "type": "input"
+    },
     "id4a4305fd95b96e9ea62d": {
       "alignment": "left",
       "colspan": 2,
@@ -2476,6 +2544,15 @@
       "facadeId": "attachmentReturnPeriod",
       "format": "",
       "id": "id57214fafb1bb4f1dc197",
+      "type": "input"
+    },
+    "id573f76606336f5c4b677": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "incurredLossAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id573f76606336f5c4b677",
       "type": "input"
     },
     "id57875bc73eb9c09afed9": {
@@ -3137,6 +3214,15 @@
       "facadeId": "minAndDepositPremium",
       "format": "FORMAT_AMOUNT",
       "id": "id76c6f55e51897a122943",
+      "type": "input"
+    },
+    "id76cd704f4ce608b5a37d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimSumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id76cd704f4ce608b5a37d",
       "type": "input"
     },
     "id77771cc305f348137f84": {
@@ -4816,6 +4902,15 @@
       "id": "idb3b0453a6336a2cedcee",
       "type": "dropdown"
     },
+    "idb3e6d241367a2e0e603b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "subrogationAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb3e6d241367a2e0e603b",
+      "type": "input"
+    },
     "idb4cd2631afd5335145eb": {
       "colspan": 2,
       "columnWidth": "150",
@@ -5543,6 +5638,15 @@
       "id": "idcb7d1aa66067b98c14ac",
       "type": "input"
     },
+    "idcbbdde6bc8ebbeb087b9": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "surveyorName",
+      "format": "",
+      "id": "idcbbdde6bc8ebbeb087b9",
+      "type": "input"
+    },
     "idcbe8e0ea4de508c36f3a": {
       "children": [
         "id16930ef4db46060882d2"
@@ -5964,6 +6068,15 @@
       "id": "iddc85fc6d4f06c6b39975",
       "type": "input"
     },
+    "iddcfd1cb22e4635574e6a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "estimatedLoss",
+      "format": "FORMAT_AMOUNT",
+      "id": "iddcfd1cb22e4635574e6a",
+      "type": "input"
+    },
     "iddcfd7a40744205a457a5": {
       "alignment": "left",
       "colspan": 2,
@@ -6076,6 +6189,15 @@
       "facadeId": "requestedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide00263d424cb4cbe661c",
+      "type": "input"
+    },
+    "ide09d0045cbe30e0c6449": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "paidAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide09d0045cbe30e0c6449",
       "type": "input"
     },
     "ide0d12eb803caa2a232b1": {
@@ -6342,6 +6464,15 @@
       "facadeId": "instrumentDate",
       "id": "ided4e602b1af065ccd68b",
       "type": "datepicker"
+    },
+    "ided64f2a3b2b805c91b16": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "surveyorFindings",
+      "format": "",
+      "id": "ided64f2a3b2b805c91b16",
+      "type": "input"
     },
     "idee0286ec6e2868337825": {
       "alignment": "left",
