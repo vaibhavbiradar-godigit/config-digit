@@ -61,7 +61,7 @@
         "id3e0767058f5171d4ef6f",
         "idfd4222ae74207dccec39",
         "idb55f2af4edc200eae2c9",
-        "id9b8b35111d31159898dc",
+        "id8ab6441afaecd4b77a1c",
         "id9d3791aa8059ed457572",
         "id3388c98067549524ff3e",
         "id082f05d9dba86729e22d",
@@ -81,9 +81,9 @@
         "id80ce79244cb4c2800104",
         "id9d9948a4b0e8caa7e062",
         "idda1f04b2d0b576803e1c",
-        "id22cfb1a7f5a1abc19513",
+        "idd25ba57d90628a3b3f80",
         "ida64760cb2ba21c88f964",
-        "idca2d6e3062d5ab4dc685"
+        "id5c251dbb01a353a28095"
       ],
       "colspan": 6,
       "facadeId": "Claim",
@@ -175,7 +175,7 @@
       "alignment": "left",
       "colspan": 2,
       "dataType": "string",
-      "facadeId": "policyNumber",
+      "facadeId": "claimPolicyNumber",
       "format": "",
       "id": "id051cfe2f2f5e680235f1",
       "type": "input"
@@ -2530,7 +2530,7 @@
       "alignment": "left",
       "colspan": 2,
       "dataType": "string",
-      "facadeId": "policyNumber",
+      "facadeId": "liabilityPolicyNumber",
       "format": "",
       "id": "id56677299e425288fb579",
       "type": "input"
@@ -2720,6 +2720,15 @@
       "rowspan": 4,
       "type": "list",
       "variant": "marineCargoVariant"
+    },
+    "id5c251dbb01a353a28095": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "eventName",
+      "format": "",
+      "id": "id5c251dbb01a353a28095",
+      "type": "input"
     },
     "id5c2daeb5d4ee90c83d0d": {
       "alignment": "left",
@@ -3818,6 +3827,15 @@
       "facadeId": "viewScopeOfBenefits",
       "id": "id8aa48e8031645b0013e2",
       "type": "contextMenuEntry"
+    },
+    "id8ab6441afaecd4b77a1c": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "causeOfLoss",
+      "format": "",
+      "id": "id8ab6441afaecd4b77a1c",
+      "type": "input"
     },
     "id8aca6f0bc85cd764a6db": {
       "alignment": "left",
@@ -5859,6 +5877,15 @@
       "facadeId": "certificateNumber",
       "format": "",
       "id": "idd1ac37c8ae72b49d3f88",
+      "type": "input"
+    },
+    "idd25ba57d90628a3b3f80": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimType",
+      "format": "",
+      "id": "idd25ba57d90628a3b3f80",
       "type": "input"
     },
     "idd2763834a3d6ebe5a7b6": {
