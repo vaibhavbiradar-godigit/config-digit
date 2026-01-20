@@ -251,6 +251,12 @@
       "id": "id0c54235e61e79c921768",
       "type": "input"
     },
+    "id0c7f872537898cddbf2b": {
+      "colspan": 2,
+      "facadeId": "block",
+      "id": "id0c7f872537898cddbf2b",
+      "type": "dropdown"
+    },
     "id0cf42d92b309108bbc5e": {
       "alignment": "left",
       "colspan": 2,
@@ -2124,7 +2130,8 @@
         "idadcfc4833597d39fd901",
         "id6766ddc679b790839897",
         "id8797f8c449542659a9e6",
-        "idea689fc74c577861869c"
+        "idea689fc74c577861869c",
+        "id0c7f872537898cddbf2b"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
