@@ -533,6 +533,10 @@
     "DE": "Vessel Type",
     "EN": "Vessel Type"
   },
+  "id393a9406c331946e48dd": {
+    "DE": "Blowout Prevention",
+    "EN": "Blowout Prevention"
+  },
   "id39622899ac9d799b3089": {
     "DE": "Objekt bearbeiten",
     "EN": "Edit Object"
@@ -548,6 +552,10 @@
   "id3b8fd232974200319b8b": {
     "DE": "Year Built",
     "EN": "Year Built"
+  },
+  "id3b9be74df0305289f091": {
+    "DE": "Location Longitude",
+    "EN": "Location Longitude"
   },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
@@ -824,6 +832,10 @@
     "DE": "Variablen bearbeiten...",
     "EN": "Edit Variables..."
   },
+  "id595fdc3f5abf2e273f6b": {
+    "DE": "CAT Exposure",
+    "EN": "CAT Exposure"
+  },
   "id59bf15c5abcba8914ddd": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -1095,6 +1107,10 @@
     "DE": "Leader's Participation",
     "EN": "Leader's Participation"
   },
+  "id7d130414a9d4e6566eb4": {
+    "DE": "Energy",
+    "EN": "Energy"
+  },
   "id7df13b4540a1af485494": {
     "DE": "Top Drop",
     "EN": "Top Drop"
@@ -1133,12 +1149,20 @@
     "DE": "Variablen bearbeiten",
     "EN": "Edit variables"
   },
+  "id807e0112e548c0e77e25": {
+    "DE": "Platform Name",
+    "EN": "Platform Name"
+  },
   "id80ecd9e366c8b6e62cc8": {
     "DE": "Claim Amount",
     "EN": "Claim Amount"
   },
   "id814d734571715c1903c5": {
     "EN": "Remove"
+  },
+  "id817252fe592988592d2e": {
+    "DE": "Asset Type",
+    "EN": "Asset Type"
   },
   "id81eff713587abd6a33c1": {
     "DE": "Port Name",
@@ -1172,6 +1196,10 @@
   },
   "id8520c4c37e6d83e451c0": {
     "EN": "Remove"
+  },
+  "id852afadc4ce0e80fd7f0": {
+    "DE": "Location Lattitude",
+    "EN": "Location Lattitude"
   },
   "id85b6131e9e16f5ba09ec": {},
   "id85e45aefd7f414f88a0b": {
@@ -1249,6 +1277,10 @@
     "DE": "Leistungsumfang anzeigen",
     "EN": "View scope of benefits"
   },
+  "id8aca6f0bc85cd764a6db": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
+  },
   "id8bc6c22652dc26b3a9b4": {
     "DE": "Basis",
     "EN": "Basis"
@@ -1309,6 +1341,10 @@
     "DE": "Location Pincode",
     "EN": "Location Pincode"
   },
+  "id91941087c9682ed6a6bb": {
+    "DE": "Location Pincode",
+    "EN": "Location Pincode"
+  },
   "id91e4acf9c63a0e182a93": {
     "DE": "Coverage",
     "EN": "Coverage"
@@ -1328,6 +1364,10 @@
   "id92ade9efcabd592ba621": {
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
+  },
+  "id9414bed71ab51344fdc5": {
+    "DE": "Year Built",
+    "EN": "Year Built"
   },
   "id9449e209f42000a3e062": {
     "DE": "Engine Type",
@@ -1901,6 +1941,10 @@
     "DE": "Inuring Program",
     "EN": "Inuring Program"
   },
+  "idd0343df05f2d0cd5e920": {
+    "DE": "Depth",
+    "EN": "Depth"
+  },
   "idd059990b73ebf5065d7c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -2170,6 +2214,10 @@
   "ided1ef982eda3e1c8bb69": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "ided4cf5a03601c2be5c51": {
+    "DE": "BI Exposure",
+    "EN": "BI Exposure"
   },
   "ided4e602b1af065ccd68b": {
     "EN": "Instrument Date"
