@@ -347,7 +347,10 @@
     "id0fb1a3986e7bfb469237": {
       "children": [
         "id3593944546670a6603ae",
-        "id5bb23d2f009dd27ae080"
+        "id5bb23d2f009dd27ae080",
+        "id922b9e33fb3691ee8b82",
+        "id2387b5e5286bc061d9e7",
+        "id3c60f37a28a01a9be003"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -948,6 +951,12 @@
       "id": "id22be589c57ab4fd89e9e",
       "type": "input"
     },
+    "id2387b5e5286bc061d9e7": {
+      "colspan": 2,
+      "facadeId": "state",
+      "id": "id2387b5e5286bc061d9e7",
+      "type": "dropdown"
+    },
     "id23e79d302cb7188a83da": {
       "colspan": 2,
       "columnWidth": "335",
@@ -1457,6 +1466,15 @@
       "facadeId": "transitMode",
       "id": "id3c43f16b0f2cbe5c4911",
       "type": "dropdown"
+    },
+    "id3c60f37a28a01a9be003": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "sumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id3c60f37a28a01a9be003",
+      "type": "input"
     },
     "id3cb7fdef6015d28de407": {
       "colspan": 2,
@@ -3498,6 +3516,12 @@
       "id": "id92013e7efdc3f2a98002",
       "style": "secondary",
       "type": "button"
+    },
+    "id922b9e33fb3691ee8b82": {
+      "colspan": 2,
+      "facadeId": "governmentScheme",
+      "id": "id922b9e33fb3691ee8b82",
+      "type": "dropdown"
     },
     "id927c753433f6b7163bd8": {
       "colspan": 2,
