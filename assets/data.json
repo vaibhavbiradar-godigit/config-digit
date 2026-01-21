@@ -297,11 +297,11 @@
         "id738e9c75ccb2ec589644"
       ],
       "colspan": 6,
-      "facadeId": "claimDetails",
+      "facadeId": "parametricChildClaimDetails",
       "id": "id0d9c7435089b1d32729e",
       "rowspan": 2,
       "type": "groupbox",
-      "variant": "pmpnpChpVariant"
+      "variant": "parametricChildVariant"
     },
     "id0e2b6670a5fb84bf2567": {
       "children": [
@@ -2214,11 +2214,11 @@
         "id1d75f9134b235b378a9d"
       ],
       "colspan": 6,
-      "facadeId": "policyDetails",
+      "facadeId": "parametricChildPolicyDetails",
       "id": "id54502dfe8c11ceb3aacb",
       "rowspan": 2,
       "type": "groupbox",
-      "variant": "pmpnpChpVariant"
+      "variant": "parametricChildVariant"
     },
     "id54503dd33517b978abf3": {
       "alignment": "left",
@@ -3656,8 +3656,6 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "idb6e5a3f745afb3292701": 11,
-        "VG_ide42245e236d6f7840d3d": 17,
         "id0d9c7435089b1d32729e": 10,
         "VG_id3ea3e95f9c6c4aee2814": 16,
         "id54502dfe8c11ceb3aacb": 9,
@@ -3682,18 +3680,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 22,
-        "id851b4d62c3f056eb58b5": 23,
-        "id13cb4ae08c6a5e26563c": 13,
-        "idcafb0c30e1d63edb47c9": 14,
-        "id45f5bcee21ce843ca4a4": 15,
-        "idcfbb20fb21a07c60122a": 16,
-        "id600e1004fdf2d666b901": 17,
-        "id0f61e821c30093bc22d9": 18,
-        "id7a5dd092f93608b09d52": 21,
-        "id2d80ea5c85120a46d449": 19,
-        "id65c0760f5e7cad3d1e45": 20,
-        "id11a4e747de28b3dd7027": 12
+        "id2715ef2fc25d31137631": 21,
+        "id851b4d62c3f056eb58b5": 22,
+        "id13cb4ae08c6a5e26563c": 12,
+        "idcafb0c30e1d63edb47c9": 13,
+        "id45f5bcee21ce843ca4a4": 14,
+        "idcfbb20fb21a07c60122a": 15,
+        "id600e1004fdf2d666b901": 16,
+        "id0f61e821c30093bc22d9": 17,
+        "id7a5dd092f93608b09d52": 20,
+        "id2d80ea5c85120a46d449": 18,
+        "id65c0760f5e7cad3d1e45": 19,
+        "id11a4e747de28b3dd7027": 11
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -6341,10 +6339,11 @@
     "VG_id3ea3e95f9c6c4aee2814": {
       "children": [],
       "id": "VG_id3ea3e95f9c6c4aee2814",
-      "label": "pmpnpChpVariant",
+      "label": "parametricChildVariant",
       "type": "variantGroup",
       "variantChildKeys": {
-        "pmpnpChpVariant": true
+        "pmpnpChpVariant": false,
+        "parametricChildVariant": true
       }
     },
     "VG_id5952601b139981ba5d1b": {
