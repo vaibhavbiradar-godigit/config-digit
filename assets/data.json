@@ -297,7 +297,7 @@
         "id738e9c75ccb2ec589644"
       ],
       "colspan": 6,
-      "facadeId": "claim",
+      "facadeId": "claimDetails",
       "id": "id0d9c7435089b1d32729e",
       "rowspan": 2,
       "type": "groupbox",
