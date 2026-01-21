@@ -1068,6 +1068,15 @@
       "id": "id23e79d302cb7188a83da",
       "type": "dropdown"
     },
+    "id249c12d787b3e0bb36d4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "eventName",
+      "format": "",
+      "id": "id249c12d787b3e0bb36d4",
+      "type": "input"
+    },
     "id25bbe5083ca1858a9481": {
       "colspan": 2,
       "facadeId": "issuanceEndDateSearchCriteria",
@@ -1382,7 +1391,10 @@
         "id928d3ff51874bfac6331",
         "id11e95d9fd0310abb7ca6",
         "id95ce15a8d7ccda1a465d",
-        "id02ca4e91a74f6ff30acf"
+        "id02ca4e91a74f6ff30acf",
+        "id249c12d787b3e0bb36d4",
+        "idfa183ef81a1eb30748f7",
+        "id3adfbf84f7ddf2c87c84"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1705,6 +1717,15 @@
       "facadeId": "originalPolicyType",
       "id": "id3a4e798d7974df45a360",
       "type": "dropdown"
+    },
+    "id3adfbf84f7ddf2c87c84": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmountOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id3adfbf84f7ddf2c87c84",
+      "type": "input"
     },
     "id3c43f16b0f2cbe5c4911": {
       "colspan": 2,
@@ -6601,6 +6622,15 @@
       "facadeId": "viewTextComponents",
       "id": "idfa0028b78a9bc10e9fd2",
       "type": "contextMenuEntry"
+    },
+    "idfa183ef81a1eb30748f7": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmountPaid",
+      "format": "FORMAT_AMOUNT",
+      "id": "idfa183ef81a1eb30748f7",
+      "type": "input"
     },
     "idfa49a6ef16237bf76832": {
       "colspan": 2,
