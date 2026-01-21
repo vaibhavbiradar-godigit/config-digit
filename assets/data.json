@@ -2846,7 +2846,7 @@
         "idc28324ffc1ab697a81bb",
         "id4d2329bf8f4c4a7b55dd",
         "idf75b529647446c7ee21b",
-        "id1ee52ff59503d39abea3"
+        "id9d74c627a9c2d30f01f8"
       ],
       "colspan": 6,
       "facadeId": "claimDetails",
@@ -3915,6 +3915,12 @@
       "id": "id9d69f1f7e077b94b02da",
       "style": "secondary",
       "type": "button"
+    },
+    "id9d74c627a9c2d30f01f8": {
+      "colspan": 1,
+      "facadeId": "eventFlag",
+      "id": "id9d74c627a9c2d30f01f8",
+      "type": "dropdown"
     },
     "id9d7f713958d8005708c6": {
       "colspan": 2,
