@@ -250,6 +250,10 @@
     "DE": "Original Policy Deductible",
     "EN": "Original Policy Deductible"
   },
+  "id19482b2a1bddacca8404": {
+    "DE": "Temprorary works SI",
+    "EN": "Temprorary works SI"
+  },
   "id198d87d905318011bd37": {
     "DE": "XOL layer",
     "EN": "XOL layer"
@@ -1381,6 +1385,10 @@
     "DE": "Settlement Agreement Date",
     "EN": "Settlement Agreement Date"
   },
+  "id96f770c38161add19171": {
+    "DE": "Transmission lines SI",
+    "EN": "Transmission lines SI"
+  },
   "id97efbb45846b0bbc784c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1424,6 +1432,10 @@
   "id9ac316d915e21a97e9e0": {
     "DE": "Lead RI Fee",
     "EN": "Lead RI Fee"
+  },
+  "id9b41e318c6e6c5e3c56e": {
+    "DE": "Terrorism SI",
+    "EN": "Terrorism SI"
   },
   "id9b446d8a174994b78c80": {
     "DE": "Number of Reinstatements",
@@ -1805,6 +1817,10 @@
   "idc28324ffc1ab697a81bb": {
     "DE": "Event Name",
     "EN": "Event Name"
+  },
+  "idc30b9eaefc0fa268153e": {
+    "DE": "TPL SI",
+    "EN": "TPL SI"
   },
   "idc34650c301401f9ff0d1": {
     "DE": "Remove",
