@@ -887,6 +887,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id1e7300b1e76990b5eca4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riBrokeragePerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1e7300b1e76990b5eca4",
+      "type": "input"
+    },
     "id1eb7578536764b2f772d": {
       "colspan": 2,
       "columnWidth": "100",
@@ -1300,7 +1309,9 @@
         "id0d6605bf623d37409eb1",
         "id9ac316d915e21a97e9e0",
         "id43c05a8baab63132077b",
-        "id5ef593272f7e57ce2b89"
+        "id5ef593272f7e57ce2b89",
+        "idd1fd9da69a21df956c42",
+        "id1e7300b1e76990b5eca4"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -5456,6 +5467,15 @@
       "facadeId": "certificateNumber",
       "format": "",
       "id": "idd1ac37c8ae72b49d3f88",
+      "type": "input"
+    },
+    "idd1fd9da69a21df956c42": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "totalDeductionsPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "idd1fd9da69a21df956c42",
       "type": "input"
     },
     "idd2763834a3d6ebe5a7b6": {
