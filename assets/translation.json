@@ -27,6 +27,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id02ca4e91a74f6ff30acf": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
+  },
   "id02eb85e7eb3064cc40d7": {
     "DE": "Coverage",
     "EN": "Coverage"
@@ -166,6 +170,10 @@
   "id11cf7e7b20ea28534228": {
     "DE": "Surveyor Report Date",
     "EN": "Surveyor Report Date"
+  },
+  "id11e95d9fd0310abb7ca6": {
+    "DE": "Cause of loss",
+    "EN": "Cause of loss"
   },
   "id120eca718af7ee9470d5": {
     "DE": "VRE Our Share Premium",
@@ -1416,6 +1424,10 @@
   "id95a567a356f6ce927aa5": {
     "DE": "Settlement Agreement Date",
     "EN": "Settlement Agreement Date"
+  },
+  "id95ce15a8d7ccda1a465d": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
   },
   "id96f770c38161add19171": {
     "DE": "Transmission lines SI",
