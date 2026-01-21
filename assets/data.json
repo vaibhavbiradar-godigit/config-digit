@@ -1316,7 +1316,9 @@
         "id926a1cbb03fb52f5557d",
         "id6076c191424fb051bc29",
         "id2e440f6fde963df8763b",
-        "ida8802ff555da76978b44"
+        "ida8802ff555da76978b44",
+        "idaf3bd59b8510036cdc74",
+        "id668876d318c8004a3458"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2817,6 +2819,15 @@
       "facadeId": "vreOurShareLimit",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "id65fcdb35d20e2a3874c8",
+      "type": "input"
+    },
+    "id668876d318c8004a3458": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "mrnCumStrgeSiImported",
+      "format": "FORMAT_AMOUNT",
+      "id": "id668876d318c8004a3458",
       "type": "input"
     },
     "id6690ed91332b8917ccb9": {
@@ -4518,6 +4529,15 @@
       "id": "idae80538ad955c5d4a668",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "idaf3bd59b8510036cdc74": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "marineCumStorageSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "idaf3bd59b8510036cdc74",
+      "type": "input"
     },
     "idaff14eba6e4913903290": {
       "facadeId": "editObject",
