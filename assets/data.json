@@ -673,6 +673,15 @@
       "id": "id1945490e27e13d154942",
       "type": "input"
     },
+    "id19482b2a1bddacca8404": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "temproraryWorksSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "id19482b2a1bddacca8404",
+      "type": "input"
+    },
     "id198d87d905318011bd37": {
       "colspan": 2,
       "columnWidth": "100",
@@ -1321,7 +1330,11 @@
         "id668876d318c8004a3458",
         "ide36fe391c72172db278e",
         "idec5034ad07b126462338",
-        "idcfe6bffa791084ac28a6"
+        "idcfe6bffa791084ac28a6",
+        "id9b41e318c6e6c5e3c56e",
+        "id96f770c38161add19171",
+        "id19482b2a1bddacca8404",
+        "idc30b9eaefc0fa268153e"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -3943,6 +3956,15 @@
       "id": "id95a567a356f6ce927aa5",
       "type": "datepicker"
     },
+    "id96f770c38161add19171": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "transmissionLinesSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "id96f770c38161add19171",
+      "type": "input"
+    },
     "id97efbb45846b0bbc784c": {
       "colspan": 2,
       "columnWidth": "223",
@@ -4068,6 +4090,15 @@
       "facadeId": "leadRiFee",
       "format": "FORMAT_AMOUNT",
       "id": "id9ac316d915e21a97e9e0",
+      "type": "input"
+    },
+    "id9b41e318c6e6c5e3c56e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "terrorismSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9b41e318c6e6c5e3c56e",
       "type": "input"
     },
     "id9b446d8a174994b78c80": {
@@ -5147,6 +5178,15 @@
       "facadeId": "eventName",
       "format": "",
       "id": "idc28324ffc1ab697a81bb",
+      "type": "input"
+    },
+    "idc30b9eaefc0fa268153e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "tplSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc30b9eaefc0fa268153e",
       "type": "input"
     },
     "idc34650c301401f9ff0d1": {
