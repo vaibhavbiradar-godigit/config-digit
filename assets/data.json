@@ -1706,7 +1706,7 @@
         "idbbcbacaa003b79bf9cea"
       ],
       "colspan": 6,
-      "facadeId": "policyDetails",
+      "facadeId": "lifePolicyDetails",
       "id": "id3395104a09e559afc707",
       "rowspan": 2,
       "type": "groupbox",
@@ -4476,7 +4476,7 @@
         "id9f108177b34574e1d0be"
       ],
       "colspan": 6,
-      "facadeId": "claimDetails",
+      "facadeId": "lifeClaimDetails",
       "id": "id975ddf668f37e911ce8c",
       "rowspan": 2,
       "type": "groupbox",
