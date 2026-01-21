@@ -377,6 +377,10 @@
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
   },
+  "id249c12d787b3e0bb36d4": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "id25bbe5083ca1858a9481": {
     "EN": "Issuance End Date"
   },
@@ -592,6 +596,10 @@
   "id3a4e798d7974df45a360": {
     "DE": "Original Policy Type",
     "EN": "Original Policy Type"
+  },
+  "id3adfbf84f7ddf2c87c84": {
+    "DE": "Claim Amount Outstanding",
+    "EN": "Claim Amount Outstanding"
   },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
@@ -2385,6 +2393,10 @@
   "idfa0028b78a9bc10e9fd2": {
     "DE": "Variablen anzeigen",
     "EN": "View variables"
+  },
+  "idfa183ef81a1eb30748f7": {
+    "DE": "Claim Amount Paid",
+    "EN": "Claim Amount Paid"
   },
   "idfa49a6ef16237bf76832": {
     "DE": "Add",
