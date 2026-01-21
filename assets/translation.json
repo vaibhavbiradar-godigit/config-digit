@@ -135,9 +135,6 @@
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
   },
-  "id0c7f872537898cddbf2b": {
-    "DE": "Block",
-    "EN": "Block"
   "id0cb72466522f645dbb30": {
     "DE": "Country",
     "EN": "Country"
@@ -150,9 +147,6 @@
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
   },
-  "id0d9c7435089b1d32729e": {
-    "DE": "Claim Details",
-    "EN": "Claim Details"
   "id0da3f6d36f5dab169a94": {
     "DE": "Storage Capacity",
     "EN": "Storage Capacity"
@@ -268,17 +262,9 @@
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
   },
-  "id16e26e47347afd548869": {
-    "DE": "Claim No",
-    "EN": "Claim No"
-  },
   "id178682ddb4795bad3814": {
     "DE": "VRE Our Manual Rate on Line",
     "EN": "VRE Our Manual Rate on Line"
-  },
-  "id182ec3256c2c89f53675": {
-    "DE": "Claim Type",
-    "EN": "Claim Type"
   },
   "id18ee1d74943430aa6210": {
     "DE": "Remove",
@@ -339,9 +325,6 @@
     "DE": "Livestock Rate Master",
     "EN": "Livestock Rate Master"
   },
-  "id1d75f9134b235b378a9d": {
-    "DE": "SI Paid",
-    "EN": "SI Paid"
   "id1d5b11944aad52fea3c8": {
     "DE": "Rider Type",
     "EN": "Rider Type"
@@ -602,10 +585,6 @@
     "DE": "Claim Number",
     "EN": "Claim Number"
   },
-  "id348696e33aecc660f77c": {
-    "DE": "Exit",
-    "EN": "Exit"
-  },
   "id34a8b54a705cca24a8a0": {
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
@@ -778,10 +757,6 @@
     "DE": "Blowout Prevention",
     "EN": "Blowout Prevention"
   },
-  "id46edffe80f8d01ec2e83": {
-    "DE": "Observed Value",
-    "EN": "Observed Value"
-  },
   "id4780577f6c9790b4d3b7": {
     "DE": "Year Built",
     "EN": "Year Built"
@@ -901,10 +876,6 @@
   "id51b46aca962dae4e344c": {
     "EN": "GST Exemption"
   },
-  "id51bd32ff72224b005673": {
-    "DE": "Claim Notification Date",
-    "EN": "Claim Notification Date"
-  },
   "id520baaaf0e61b1dd5d56": {
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
@@ -932,10 +903,6 @@
   "id538be03bf3db1a652c5a": {
     "DE": "Gruppengeschäftsvertrag",
     "EN": "Group Business Contract"
-  },
-  "id54502dfe8c11ceb3aacb": {
-    "DE": "Policy Details",
-    "EN": "Policy Details"
   },
   "id54503dd33517b978abf3": {
     "DE": "Maintenance Records",
@@ -1031,10 +998,6 @@
   "id5c2daeb5d4ee90c83d0d": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
-  },
-  "id5c503d5f31de1df0ae21": {
-    "DE": "Policy Number",
-    "EN": "Policy Number"
   },
   "id5cbdfeeec420e0895a84": {
     "DE": "Reinstatement Terms",
@@ -1136,13 +1099,6 @@
     "DE": "Top Drop",
     "EN": "Top Drop"
   },
-  "id675cfe8accc82f4cb8c4": {
-    "DE": "Cause Of Loss",
-    "EN": "Cause Of Loss"
-  },
-  "id6766ddc679b790839897": {
-    "DE": "Channel Type",
-    "EN": "Channel Type"
   "id66e6bb5e2392e5f8ac2f": {
     "DE": "Smoker Flag",
     "EN": "Smoker Flag"
@@ -1199,9 +1155,6 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
-  "id6fff5b0465be1d1744a1": {
-    "DE": "Trigger Defination",
-    "EN": "Trigger Defination"
   "id6ff7507225745dfd3d51": {
     "DE": "Builders Risk",
     "EN": "Builders Risk"
@@ -1238,10 +1191,6 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
-  "id738e9c75ccb2ec589644": {
-    "DE": "Claim Amount Outstanding",
-    "EN": "Claim Amount Outstanding"
-  },
   "id73cbf788a871b1683dc4": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1250,9 +1199,6 @@
     "DE": "Cow",
     "EN": "Cow"
   },
-  "id7442d55e94842d4cef18": {
-    "DE": "Entry",
-    "EN": "Entry"
   "id74d82195fc58557911e5": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
@@ -1459,10 +1405,6 @@
     "DE": "Leader",
     "EN": "Leader"
   },
-  "id8797f8c449542659a9e6": {
-    "DE": "State",
-    "EN": "State"
-  },
   "id879e4ca3ab8418821796": {
     "DE": "Coverage Additional Details: Retention Line",
     "EN": "Coverage Additional Details: Retention Line"
@@ -1482,10 +1424,6 @@
   "id88398ebb73f38ea02716": {
     "DE": "BI Exposure",
     "EN": "BI Exposure"
-  },
-  "id8876a4d005f538940f95": {
-    "DE": "Pin Code",
-    "EN": "Pin Code"
   },
   "id88845c596b48ead97c83": {
     "DE": "Storage Cover Duration(Days)",
@@ -1554,10 +1492,6 @@
   "id8e11a2273c52cb7c2320": {
     "DE": "Entfernen",
     "EN": "Remove"
-  },
-  "id8e4910ad480f8a39a327": {
-    "DE": "Perils",
-    "EN": "Perils"
   },
   "id8e6f06314f4444303a2b": {
     "DE": "Reinstatement Type",
@@ -1901,9 +1835,6 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
-  "idadcfc4833597d39fd901": {
-    "DE": "Product Channel",
-    "EN": "Product Channel"
   "idaebe7f7690a60628a30a": {
     "DE": "Stock Throughput Details",
     "EN": "Stock Throughput Details"
@@ -2041,9 +1972,6 @@
     "DE": "Packing Quality",
     "EN": "Packing Quality"
   },
-  "idb6e5a3f745afb3292701": {
-    "DE": "bobase",
-    "EN": "bobase"
   "idb6e7e446c4c2ae6c01fc": {
     "DE": "Loan Type",
     "EN": "Loan Type"
@@ -2083,9 +2011,6 @@
     "DE": "Inuring Limit",
     "EN": "Inuring Limit"
   },
-  "idba644270b1621ecd724a": {
-    "DE": "Claim Amount Paid",
-    "EN": "Claim Amount Paid"
   "idb9ff2e165faff2a3bac6": {
     "DE": "Construction Stage",
     "EN": "Construction Stage"
@@ -2137,10 +2062,6 @@
     "DE": "Construction Stage",
     "EN": "Construction Stage"
   },
-  "idbd17167e6375d0ecbd40": {
-    "DE": "Sum Insured",
-    "EN": "Sum Insured"
-  },
   "idbd34c91e36d32d56f3e7": {
     "DE": "Summenart Wert",
     "EN": "Sum type value"
@@ -2164,10 +2085,6 @@
   "idc02f2a728ae84e9c05d1": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
-  },
-  "idc02f9d3f499ff63f3734": {
-    "DE": "Date of trigger",
-    "EN": "Date of trigger"
   },
   "idc04160afb918ed0eaa46": {
     "DE": "Number of Reinstatements",
@@ -2242,10 +2159,6 @@
     "EN": "Limit per Conveyance"
   },
   "idc737f0f7b07534b5356e": {},
-  "idc74c47718216b7a11967": {
-    "DE": "Claim Amount",
-    "EN": "Claim Amount"
-  },
   "idc751341be27f7a5065a5": {
     "DE": "Cause of Loss",
     "EN": "Cause of Loss"
@@ -2281,10 +2194,6 @@
   "idca3a2ef45ab8f4afa5ec": {
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
-  },
-  "idca84871cdba2695750f4": {
-    "DE": "Dataset Used",
-    "EN": "Dataset Used"
   },
   "idcaac00f9d8d6989cd09c": {
     "DE": "VRE Our Manual Premium",
@@ -2359,10 +2268,6 @@
   "idd059990b73ebf5065d7c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
-  },
-  "idd0b1d790889a42cba6d3": {
-    "DE": "Event Flag",
-    "EN": "Event Flag"
   },
   "idd1091c6a8bfbc26c070c": {
     "DE": "Maximum Retention Amount",
@@ -2658,10 +2563,6 @@
     "DE": "Leader's Participation",
     "EN": "Leader's Participation"
   },
-  "idea689fc74c577861869c": {
-    "DE": "District",
-    "EN": "District"
-  },
   "ideb90753be1eb15321784": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -2724,10 +2625,6 @@
   "idf00d884343a2632d962e": {
     "DE": "CAT Exposure",
     "EN": "CAT Exposure"
-  },
-  "idf0354e2a37792dbb8a92": {
-    "DE": "Event Name",
-    "EN": "Event Name"
   },
   "idf05f6240ee083ffa549c": {
     "DE": "Quoted Share",
