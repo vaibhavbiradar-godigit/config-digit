@@ -1299,7 +1299,8 @@
         "id8a947c013133d6756083",
         "id0d6605bf623d37409eb1",
         "id9ac316d915e21a97e9e0",
-        "id43c05a8baab63132077b"
+        "id43c05a8baab63132077b",
+        "id5ef593272f7e57ce2b89"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2593,6 +2594,15 @@
       "facadeId": "reinstatementTerms",
       "format": "",
       "id": "id5ef4aa3c65509eb96252",
+      "type": "input"
+    },
+    "id5ef593272f7e57ce2b89": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "rate",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5ef593272f7e57ce2b89",
       "type": "input"
     },
     "id5f1684e38a57ecefe27e": {
