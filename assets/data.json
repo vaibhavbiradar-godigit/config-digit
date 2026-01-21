@@ -363,10 +363,6 @@
       "id": "id0c54235e61e79c921768",
       "type": "input"
     },
-    "id0c7f872537898cddbf2b": {
-      "colspan": 2,
-      "facadeId": "block",
-      "id": "id0c7f872537898cddbf2b",
     "id0cb72466522f645dbb30": {
       "colspan": 2,
       "facadeId": "country",
@@ -399,25 +395,6 @@
       "rowspan": 4,
       "type": "list"
     },
-    "id0d9c7435089b1d32729e": {
-      "children": [
-        "idc02f9d3f499ff63f3734",
-        "idc74c47718216b7a11967",
-        "id16e26e47347afd548869",
-        "id51bd32ff72224b005673",
-        "id182ec3256c2c89f53675",
-        "id675cfe8accc82f4cb8c4",
-        "idd0b1d790889a42cba6d3",
-        "idf0354e2a37792dbb8a92",
-        "idba644270b1621ecd724a",
-        "id738e9c75ccb2ec589644"
-      ],
-      "colspan": 6,
-      "facadeId": "parametricChildClaimDetails",
-      "id": "id0d9c7435089b1d32729e",
-      "rowspan": 2,
-      "type": "groupbox",
-      "variant": "parametricChildVariant"
     "id0da3f6d36f5dab169a94": {
       "alignment": "left",
       "colspan": 2,
@@ -734,15 +711,6 @@
       "rowspan": 4,
       "type": "list"
     },
-    "id16e26e47347afd548869": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "claimNo",
-      "format": "",
-      "id": "id16e26e47347afd548869",
-      "type": "input"
-    },
     "id178682ddb4795bad3814": {
       "alignment": "left",
       "colspan": 2,
@@ -751,15 +719,6 @@
       "facadeId": "vreOurManualRateOnLine",
       "format": "FORMAT_AMOUNT",
       "id": "id178682ddb4795bad3814",
-      "type": "input"
-    },
-    "id182ec3256c2c89f53675": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "claimType",
-      "format": "",
-      "id": "id182ec3256c2c89f53675",
       "type": "input"
     },
     "id188e10738c314f3e6005": {
@@ -983,13 +942,6 @@
       "type": "list",
       "variant": "livestockRateVariant"
     },
-    "id1d75f9134b235b378a9d": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "siPaid",
-      "format": "FORMAT_AMOUNT",
-      "id": "id1d75f9134b235b378a9d",
     "id1d5b11944aad52fea3c8": {
       "alignment": "left",
       "colspan": 2,
@@ -1769,15 +1721,6 @@
       "id": "id345f23379d1b9335147d",
       "type": "input"
     },
-    "id348696e33aecc660f77c": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "exit",
-      "format": "",
-      "id": "id348696e33aecc660f77c",
-      "type": "input"
-    },
     "id34a8b54a705cca24a8a0": {
       "alignment": "left",
       "colspan": 2,
@@ -2293,15 +2236,6 @@
       "id": "id46e2ca8a38d396513408",
       "type": "dropdown"
     },
-    "id46edffe80f8d01ec2e83": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "observedvalue",
-      "format": "FORMAT_AMOUNT",
-      "id": "id46edffe80f8d01ec2e83",
-      "type": "input"
-    },
     "id4780577f6c9790b4d3b7": {
       "alignment": "left",
       "colspan": 2,
@@ -2654,12 +2588,6 @@
       "id": "id51b46aca962dae4e344c",
       "type": "dropdown"
     },
-    "id51bd32ff72224b005673": {
-      "colspan": 2,
-      "facadeId": "claimNotificationDate",
-      "id": "id51bd32ff72224b005673",
-      "type": "datepicker"
-    },
     "id520baaaf0e61b1dd5d56": {
       "alignment": "left",
       "colspan": 2,
@@ -2729,31 +2657,6 @@
       "id": "id537c2576bc73d491693c",
       "rowspan": 1,
       "type": "buttongroup"
-    },
-    "id54502dfe8c11ceb3aacb": {
-      "children": [
-        "id5c503d5f31de1df0ae21",
-        "idadcfc4833597d39fd901",
-        "id6766ddc679b790839897",
-        "id8797f8c449542659a9e6",
-        "idea689fc74c577861869c",
-        "id0c7f872537898cddbf2b",
-        "id8876a4d005f538940f95",
-        "id8e4910ad480f8a39a327",
-        "idca84871cdba2695750f4",
-        "id6fff5b0465be1d1744a1",
-        "id7442d55e94842d4cef18",
-        "id348696e33aecc660f77c",
-        "id46edffe80f8d01ec2e83",
-        "idbd17167e6375d0ecbd40",
-        "id1d75f9134b235b378a9d"
-      ],
-      "colspan": 6,
-      "facadeId": "parametricChildPolicyDetails",
-      "id": "id54502dfe8c11ceb3aacb",
-      "rowspan": 2,
-      "type": "groupbox",
-      "variant": "parametricChildVariant"
     },
     "id54503dd33517b978abf3": {
       "alignment": "left",
@@ -3031,15 +2934,6 @@
       "id": "id5c2daeb5d4ee90c83d0d",
       "type": "input"
     },
-    "id5c503d5f31de1df0ae21": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "policyNumber",
-      "format": "",
-      "id": "id5c503d5f31de1df0ae21",
-      "type": "input"
-    },
     "id5cbdfeeec420e0895a84": {
       "alignment": "left",
       "colspan": 2,
@@ -3306,19 +3200,6 @@
       "id": "id66acc613235945266f15",
       "type": "dropdown"
     },
-    "id675cfe8accc82f4cb8c4": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "causeOfLoss",
-      "format": "",
-      "id": "id675cfe8accc82f4cb8c4",
-      "type": "input"
-    },
-    "id6766ddc679b790839897": {
-      "colspan": 2,
-      "facadeId": "channelType",
-      "id": "id6766ddc679b790839897",
     "id66e6bb5e2392e5f8ac2f": {
       "colspan": 2,
       "facadeId": "smokerFlag",
@@ -3461,13 +3342,6 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
-    "id6fff5b0465be1d1744a1": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "triggerDefination",
-      "format": "",
-      "id": "id6fff5b0465be1d1744a1",
     "id6ff7507225745dfd3d51": {
       "children": [
         "idac73a1820fd6fd14368b",
@@ -3559,15 +3433,6 @@
       "id": "id7350d9f98b6713ae2e49",
       "type": "dropdown"
     },
-    "id738e9c75ccb2ec589644": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "claimAmountOutstanding",
-      "format": "FORMAT_AMOUNT",
-      "id": "id738e9c75ccb2ec589644",
-      "type": "input"
-    },
     "id73cbf788a871b1683dc4": {
       "colspan": 2,
       "columnWidth": "223",
@@ -3585,13 +3450,6 @@
       "id": "id743574fcf7e5a5a96f65",
       "type": "input"
     },
-    "id7442d55e94842d4cef18": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "entry",
-      "format": "",
-      "id": "id7442d55e94842d4cef18",
     "id74d82195fc58557911e5": {
       "alignment": "left",
       "colspan": 2,
@@ -4118,12 +3976,6 @@
       "id": "id8729d634699dc8a41409",
       "type": "dropdown"
     },
-    "id8797f8c449542659a9e6": {
-      "colspan": 2,
-      "facadeId": "state",
-      "id": "id8797f8c449542659a9e6",
-      "type": "dropdown"
-    },
     "id879e4ca3ab8418821796": {
       "children": [
         "id324a1d1a4de6497b8ee6",
@@ -4173,12 +4025,6 @@
       "format": "FORMAT_AMOUNT",
       "id": "id88398ebb73f38ea02716",
       "type": "input"
-    },
-    "id8876a4d005f538940f95": {
-      "colspan": 2,
-      "facadeId": "pinCode",
-      "id": "id8876a4d005f538940f95",
-      "type": "dropdown"
     },
     "id88845c596b48ead97c83": {
       "alignment": "left",
@@ -4361,12 +4207,6 @@
       "style": "secondary",
       "type": "button"
     },
-    "id8e4910ad480f8a39a327": {
-      "colspan": 2,
-      "facadeId": "perils",
-      "id": "id8e4910ad480f8a39a327",
-      "type": "dropdown"
-    },
     "id8e6f06314f4444303a2b": {
       "colspan": 2,
       "columnWidth": "100",
@@ -4504,9 +4344,6 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
-        "id0d9c7435089b1d32729e": 10,
-        "VG_id3ea3e95f9c6c4aee2814": 16,
-        "id54502dfe8c11ceb3aacb": 9,
         "id975ddf668f37e911ce8c": 17,
         "VG_id314e5b89773e7686bd5a": 17,
         "id3395104a09e559afc707": 16,
@@ -4539,18 +4376,6 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 21,
-        "id851b4d62c3f056eb58b5": 22,
-        "id13cb4ae08c6a5e26563c": 12,
-        "idcafb0c30e1d63edb47c9": 13,
-        "id45f5bcee21ce843ca4a4": 14,
-        "idcfbb20fb21a07c60122a": 15,
-        "id600e1004fdf2d666b901": 16,
-        "id0f61e821c30093bc22d9": 17,
-        "id7a5dd092f93608b09d52": 20,
-        "id2d80ea5c85120a46d449": 18,
-        "id65c0760f5e7cad3d1e45": 19,
-        "id11a4e747de28b3dd7027": 11
         "id2715ef2fc25d31137631": 28,
         "id851b4d62c3f056eb58b5": 29,
         "id13cb4ae08c6a5e26563c": 19,
@@ -5341,12 +5166,6 @@
       "id": "idad4c215587776e1932c8",
       "type": "input"
     },
-    "idadcfc4833597d39fd901": {
-      "colspan": 2,
-      "facadeId": "productChannel",
-      "id": "idadcfc4833597d39fd901",
-      "type": "dropdown"
-    },
     "idae80538ad955c5d4a668": {
       "children": [
         "idf987d7521724092e153c",
@@ -5694,12 +5513,6 @@
       "id": "idb6ccb993cdda5865f0e0",
       "type": "input"
     },
-    "idb6e5a3f745afb3292701": {
-      "colspan": 6,
-      "facadeId": "bobase",
-      "id": "idb6e5a3f745afb3292701",
-      "rowspan": 2,
-      "type": "groupbox"
     "idb6e7e446c4c2ae6c01fc": {
       "colspan": 2,
       "facadeId": "loanType",
@@ -5822,13 +5635,6 @@
       "id": "idb9873aca255a6116967d",
       "type": "input"
     },
-    "idba644270b1621ecd724a": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "claimAmountPaid",
-      "format": "FORMAT_AMOUNT",
-      "id": "idba644270b1621ecd724a",
     "idb9ff2e165faff2a3bac6": {
       "alignment": "left",
       "colspan": 2,
@@ -5935,15 +5741,6 @@
       "id": "idbcf386c5ef938f4c335a",
       "type": "input"
     },
-    "idbd17167e6375d0ecbd40": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "sumInsured",
-      "format": "FORMAT_AMOUNT",
-      "id": "idbd17167e6375d0ecbd40",
-      "type": "input"
-    },
     "idbd34c91e36d32d56f3e7": {
       "colspan": 2,
       "columnWidth": "150",
@@ -6002,12 +5799,6 @@
       "showRowNumber": false,
       "type": "list",
       "variant": "retenstionLineVariant"
-    },
-    "idc02f9d3f499ff63f3734": {
-      "colspan": 2,
-      "facadeId": "dateOfTrigger",
-      "id": "idc02f9d3f499ff63f3734",
-      "type": "datepicker"
     },
     "idc04160afb918ed0eaa46": {
       "alignment": "left",
@@ -6233,15 +6024,6 @@
       "id": "idc737f0f7b07534b5356e",
       "type": "subchapter"
     },
-    "idc74c47718216b7a11967": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "decimal",
-      "facadeId": "claimAmount",
-      "format": "FORMAT_AMOUNT",
-      "id": "idc74c47718216b7a11967",
-      "type": "input"
-    },
     "idc751341be27f7a5065a5": {
       "colspan": 2,
       "columnWidth": "100",
@@ -6339,15 +6121,6 @@
       "facadeId": "reinstatementRate",
       "format": "FORMAT_AMOUNT",
       "id": "idca3a2ef45ab8f4afa5ec",
-      "type": "input"
-    },
-    "idca84871cdba2695750f4": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "datasetUsed",
-      "format": "",
-      "id": "idca84871cdba2695750f4",
       "type": "input"
     },
     "idcaac00f9d8d6989cd09c": {
@@ -6533,12 +6306,6 @@
       "columnWidth": "335",
       "facadeId": "classOfBusiness",
       "id": "idd059990b73ebf5065d7c",
-      "type": "dropdown"
-    },
-    "idd0b1d790889a42cba6d3": {
-      "colspan": 2,
-      "facadeId": "eventFlag",
-      "id": "idd0b1d790889a42cba6d3",
       "type": "dropdown"
     },
     "idd1091c6a8bfbc26c070c": {
@@ -7245,15 +7012,6 @@
       "id": "idea54915a0b826dd7da93",
       "type": "input"
     },
-    "idea689fc74c577861869c": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "district",
-      "format": "",
-      "id": "idea689fc74c577861869c",
-      "type": "input"
-    },
     "ideb90753be1eb15321784": {
       "colspan": 1,
       "facadeId": "add",
@@ -7403,15 +7161,6 @@
       "facadeId": "catExposure",
       "format": "",
       "id": "idf00d884343a2632d962e",
-      "type": "input"
-    },
-    "idf0354e2a37792dbb8a92": {
-      "alignment": "left",
-      "colspan": 2,
-      "dataType": "string",
-      "facadeId": "eventName",
-      "format": "",
-      "id": "idf0354e2a37792dbb8a92",
       "type": "input"
     },
     "idf05f6240ee083ffa549c": {
@@ -7860,14 +7609,6 @@
         "masterPolicyDetailsXOLVariant": true
       }
     },
-    "VG_id3ea3e95f9c6c4aee2814": {
-      "children": [],
-      "id": "VG_id3ea3e95f9c6c4aee2814",
-      "label": "parametricChildVariant",
-      "type": "variantGroup",
-      "variantChildKeys": {
-        "pmpnpChpVariant": false,
-        "parametricChildVariant": true
     "VG_id314e5b89773e7686bd5a": {
       "children": [],
       "id": "VG_id314e5b89773e7686bd5a",
@@ -7974,15 +7715,6 @@
       "type": "variantGroup",
       "variantChildKeys": {
         "marineCargoVariant": true
-      }
-    },
-    "VG_ide42245e236d6f7840d3d": {
-      "children": [],
-      "id": "VG_ide42245e236d6f7840d3d",
-      "label": "surqsChpVrl",
-      "type": "variantGroup",
-      "variantChildKeys": {
-        "surqsChpVrl": true
       }
     },
     "VG_idf41c503a38033ec10759": {
