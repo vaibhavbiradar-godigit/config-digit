@@ -301,6 +301,12 @@
       "rowspan": 4,
       "type": "list"
     },
+    "id0d6605bf623d37409eb1": {
+      "colspan": 2,
+      "facadeId": "leadReinsurer",
+      "id": "id0d6605bf623d37409eb1",
+      "type": "dropdown"
+    },
     "id0e2b6670a5fb84bf2567": {
       "children": [
         "ida24dff5f4ac04ec80f0b",
@@ -1287,7 +1293,13 @@
         "idaada8ff28654b038cca9",
         "id9166365779470fef0e13",
         "id73a6a42023452cfc4ce5",
-        "idab69f094581d36d04c81"
+        "idab69f094581d36d04c81",
+        "id7f249d82da13e9cfac7a",
+        "idc3f91a70704f6ec2171a",
+        "id8a947c013133d6756083",
+        "id0d6605bf623d37409eb1",
+        "id9ac316d915e21a97e9e0",
+        "id43c05a8baab63132077b"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1856,6 +1868,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id434d896bd0f0935719a7",
       "type": "input"
+    },
+    "id43c05a8baab63132077b": {
+      "colspan": 2,
+      "facadeId": "reinsurer",
+      "id": "id43c05a8baab63132077b",
+      "type": "dropdown"
     },
     "id43c5707e40eac69dd736": {
       "alignment": "right",
@@ -3232,6 +3250,15 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "id7f249d82da13e9cfac7a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "pricingLossRatioExpected",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7f249d82da13e9cfac7a",
+      "type": "input"
+    },
     "id7f37fced34c9ea07e9e1": {
       "colspan": 1,
       "facadeId": "remove",
@@ -3558,6 +3585,12 @@
       "columnWidth": "100",
       "facadeId": "leader",
       "id": "id8a87bf351c944788c0f2",
+      "type": "dropdown"
+    },
+    "id8a947c013133d6756083": {
+      "colspan": 2,
+      "facadeId": "directBroker",
+      "id": "id8a947c013133d6756083",
       "type": "dropdown"
     },
     "id8aa48e8031645b0013e2": {
@@ -3959,6 +3992,15 @@
       "facadeId": "attachment",
       "format": "FORMAT_AMOUNT",
       "id": "id9a9228df892ada592324",
+      "type": "input"
+    },
+    "id9ac316d915e21a97e9e0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "leadRiFee",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9ac316d915e21a97e9e0",
       "type": "input"
     },
     "id9b446d8a174994b78c80": {
@@ -5033,6 +5075,15 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "idc3f91a70704f6ec2171a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "pricingCombinedRatioExpected",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc3f91a70704f6ec2171a",
+      "type": "input"
     },
     "idc402da9f34fa915d7c05": {
       "colspan": 1,
