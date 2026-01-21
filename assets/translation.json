@@ -119,6 +119,10 @@
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
   },
+  "id0d6605bf623d37409eb1": {
+    "DE": "Lead Reinsurer",
+    "EN": "Lead Reinsurer"
+  },
   "id0e2b6670a5fb84bf2567": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
@@ -621,6 +625,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "id43c05a8baab63132077b": {
+    "DE": "Reinsurer",
+    "EN": "Reinsurer"
+  },
   "id44a08e0faca62ac87676": {
     "DE": "Add",
     "EN": "Add"
@@ -1110,6 +1118,10 @@
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
   },
+  "id7f249d82da13e9cfac7a": {
+    "DE": "Pricing Loss Ratio Expected",
+    "EN": "Pricing Loss Ratio Expected"
+  },
   "id7f37fced34c9ea07e9e1": {
     "DE": "Entfernen",
     "EN": "Remove"
@@ -1244,6 +1256,10 @@
   "id8a87bf351c944788c0f2": {
     "DE": "Leader",
     "EN": "Leader"
+  },
+  "id8a947c013133d6756083": {
+    "DE": "Direct Broker",
+    "EN": "Direct Broker"
   },
   "id8aa48e8031645b0013e2": {
     "DE": "Leistungsumfang anzeigen",
@@ -1380,6 +1396,10 @@
   "id9a9228df892ada592324": {
     "DE": "Attachment",
     "EN": "Attachment"
+  },
+  "id9ac316d915e21a97e9e0": {
+    "DE": "Lead RI Fee",
+    "EN": "Lead RI Fee"
   },
   "id9b446d8a174994b78c80": {
     "DE": "Number of Reinstatements",
@@ -1757,6 +1777,10 @@
   "idc3bf83183058c7c9a182": {
     "DE": "Table Of Retentions",
     "EN": "Table Of Retentions"
+  },
+  "idc3f91a70704f6ec2171a": {
+    "DE": "Pricing Combined RatioExpected",
+    "EN": "Pricing Combined RatioExpected"
   },
   "idc402da9f34fa915d7c05": {
     "DE": "Entfernen",
