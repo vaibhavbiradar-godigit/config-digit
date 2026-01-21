@@ -561,6 +561,10 @@
     "DE": "Class of Business",
     "EN": "Class of Business"
   },
+  "id32bda493d7462d3aa20f": {
+    "DE": "Claim Status",
+    "EN": "Claim Status"
+  },
   "id33439948c06879839f89": {
     "DE": "Engine Type",
     "EN": "Engine Type"
@@ -1011,6 +1015,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "id5e367173efe0a40d56b5": {
+    "DE": "RI Share",
+    "EN": "RI Share"
+  },
   "id5ef4aa3c65509eb96252": {
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
@@ -1266,6 +1274,10 @@
   "id7c6191544c7750407630": {
     "DE": "Top Drop",
     "EN": "Top Drop"
+  },
+  "id7cd2f0af8e55d3cb2646": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "id7cfe207e46e580ee4fb0": {
     "DE": "Leader's Participation",
@@ -1699,6 +1711,14 @@
   "id9ee447ac8891af67e85d": {
     "DE": "Kind of Loss",
     "EN": "Kind of Loss"
+  },
+  "id9f108177b34574e1d0be": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
+  "id9f3137301684a861f285": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
   },
   "id9ff60ee8b137df4dd2fd": {
     "DE": "VRE Our Share",
