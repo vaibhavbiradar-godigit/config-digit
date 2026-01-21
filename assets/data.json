@@ -1364,7 +1364,10 @@
         "id331509e520471ed1180e",
         "id8cd891c989a1a46327b6",
         "ide961af5b0e8ce6d6aa92",
-        "ida56ba99e7fedd34d94a4"
+        "ida56ba99e7fedd34d94a4",
+        "idcca31e526e2bb994ec6d",
+        "ide0f63b49b37543bf08e0",
+        "id928d3ff51874bfac6331"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -3996,6 +3999,15 @@
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
       }
     },
+    "id928d3ff51874bfac6331": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimType",
+      "format": "",
+      "id": "id928d3ff51874bfac6331",
+      "type": "input"
+    },
     "id92ade9efcabd592ba621": {
       "children": [
         "id863b9b656d297c9953a9",
@@ -5570,6 +5582,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "idcca31e526e2bb994ec6d": {
+      "colspan": 2,
+      "facadeId": "claimNotificationDate",
+      "id": "idcca31e526e2bb994ec6d",
+      "type": "datepicker"
+    },
     "idcd159d2111e845b6d663": {
       "alignment": "left",
       "colspan": 2,
@@ -6105,6 +6123,12 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide0d12eb803caa2a232b1",
       "type": "input"
+    },
+    "ide0f63b49b37543bf08e0": {
+      "colspan": 2,
+      "facadeId": "dateOfLoss",
+      "id": "ide0f63b49b37543bf08e0",
+      "type": "datepicker"
     },
     "ide12f0c739303d63cae76": {
       "alignment": "left",
