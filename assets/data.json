@@ -344,6 +344,15 @@
       "id": "id0ecccc460e04ed3cfbfa",
       "type": "input"
     },
+    "id0f0fe52f6ccc0bea8bb5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "pml",
+      "format": "FORMAT_AMOUNT",
+      "id": "id0f0fe52f6ccc0bea8bb5",
+      "type": "input"
+    },
     "id0f357e5f2d93ace0f188": {
       "alignment": "left",
       "colspan": 2,
@@ -1084,6 +1093,15 @@
       "id": "id260f2eff208327f52182",
       "type": "input"
     },
+    "id2615e41ca3d7b6997bb3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "limit",
+      "format": "FORMAT_AMOUNT",
+      "id": "id2615e41ca3d7b6997bb3",
+      "type": "input"
+    },
     "id26207480234af4b5ab6e": {
       "alignment": "right",
       "children": [
@@ -1336,7 +1354,12 @@
         "id19482b2a1bddacca8404",
         "idc30b9eaefc0fa268153e",
         "id31713acbd455d4417085",
-        "id769a92ce0b51167035f5"
+        "id769a92ce0b51167035f5",
+        "idc81a65aa72120c954e2f",
+        "id2eca52b9a47e30ddcac0",
+        "id2615e41ca3d7b6997bb3",
+        "id0f0fe52f6ccc0bea8bb5",
+        "ida451cd910ae76f335460"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1418,6 +1441,15 @@
       "id": "id2eaae56de5c118464d51",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id2eca52b9a47e30ddcac0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "AttachmentPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id2eca52b9a47e30ddcac0",
+      "type": "input"
     },
     "id2f1b22f4e5b0f34fa4bf": {
       "id": "id2f1b22f4e5b0f34fa4bf",
@@ -4372,6 +4404,15 @@
       "id": "ida443145c4316cf45528c",
       "type": "input"
     },
+    "ida451cd910ae76f335460": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "aoA",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida451cd910ae76f335460",
+      "type": "input"
+    },
     "ida4bd5fd65104e65dd77c": {
       "alignment": "left",
       "colspan": 2,
@@ -5345,6 +5386,12 @@
       "columnWidth": "100",
       "facadeId": "claimType",
       "id": "idc75db7747fed213f62e6",
+      "type": "dropdown"
+    },
+    "idc81a65aa72120c954e2f": {
+      "colspan": 2,
+      "facadeId": "crossLiabilityFlag",
+      "id": "idc81a65aa72120c954e2f",
       "type": "dropdown"
     },
     "idc88ccad97a0ccbbc7d8f": {
