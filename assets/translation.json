@@ -1019,6 +1019,10 @@
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
   },
+  "id73a6a42023452cfc4ce5": {
+    "DE": "Org Risk Insured",
+    "EN": "Org Risk Insured"
+  },
   "id73cbf788a871b1683dc4": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1301,6 +1305,10 @@
     "DE": "Miscellaneous Risk Class",
     "EN": "Miscellaneous Risk Class"
   },
+  "id9166365779470fef0e13": {
+    "DE": "Principal Name",
+    "EN": "Principal Name"
+  },
   "id919262d8d7750ee219fc": {
     "DE": "Location Pincode",
     "EN": "Location Pincode"
@@ -1502,6 +1510,10 @@
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
+  },
+  "idab69f094581d36d04c81": {
+    "DE": "OrgRiskIndustry Classification",
+    "EN": "OrgRiskIndustry Classification"
   },
   "idacf7618c51c2416b6cb4": {
     "DE": "Construction Type 1",
