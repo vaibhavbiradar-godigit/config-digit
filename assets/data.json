@@ -1661,10 +1661,11 @@
         "id4b33d6a19944c901b7cc",
         "id324067b0fe5202e45449",
         "id66e6bb5e2392e5f8ac2f",
-        "ida44cc3cd35299840c44f"
+        "ida44cc3cd35299840c44f",
+        "idb6e7e446c4c2ae6c01fc"
       ],
       "colspan": 6,
-      "facadeId": "policy",
+      "facadeId": "policyDetails",
       "id": "id3395104a09e559afc707",
       "rowspan": 2,
       "type": "groupbox",
@@ -5354,6 +5355,12 @@
       "format": "",
       "id": "idb6ccb993cdda5865f0e0",
       "type": "input"
+    },
+    "idb6e7e446c4c2ae6c01fc": {
+      "colspan": 2,
+      "facadeId": "loanType",
+      "id": "idb6e7e446c4c2ae6c01fc",
+      "type": "dropdown"
     },
     "idb74f075b04705f63e97b": {
       "alignment": "left",
