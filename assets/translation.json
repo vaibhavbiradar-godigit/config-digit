@@ -294,6 +294,10 @@
     "DE": "Coverage Additional Details: Tower Layers",
     "EN": "Coverage Additional Details: Tower Layer"
   },
+  "id1b1e1500ccd5717719c6": {
+    "DE": "Claim Reference Number",
+    "EN": "Claim Reference Number"
+  },
   "id1b23f0810a355c5f3014": {
     "DE": "Estimated Loss",
     "EN": "Estimated Loss"
@@ -1163,6 +1167,10 @@
     "DE": "VRE Our Share Premium",
     "EN": "VRE Our Share Premium"
   },
+  "id71c37ac45ed457e9273d": {
+    "DE": "Cause of Loss",
+    "EN": "Cause of Loss"
+  },
   "id71f2ec2dea3f452cb2c8": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
@@ -1234,6 +1242,10 @@
   "id790b8df8ee1f05134a44": {
     "DE": "XL Layers",
     "EN": "XL Layers"
+  },
+  "id795cfe07d629bd02f958": {
+    "DE": "Date of Death",
+    "EN": "Date of Death"
   },
   "id79fad50a2c7ea1e1c507": {
     "DE": "Remove",
@@ -1565,6 +1577,10 @@
     "DE": "Trading Limits",
     "EN": "Trading Limits"
   },
+  "id975ddf668f37e911ce8c": {
+    "DE": "Claim Details",
+    "EN": "Claim Details"
+  },
   "id97efbb45846b0bbc784c": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1633,6 +1649,10 @@
     "DE": "Sheep",
     "EN": "Sheep"
   },
+  "id9caf356ff018d84b9f5c": {
+    "DE": "Cession Number",
+    "EN": "Cession Number"
+  },
   "id9d3791aa8059ed457572": {
     "DE": "Location of Loss",
     "EN": "Location of Loss"
@@ -1675,6 +1695,10 @@
   "id9ed492588c81a76c710b": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "id9ee447ac8891af67e85d": {
+    "DE": "Kind of Loss",
+    "EN": "Kind of Loss"
   },
   "id9ff60ee8b137df4dd2fd": {
     "DE": "VRE Our Share",
@@ -2362,6 +2386,10 @@
   "iddc85fc6d4f06c6b39975": {
     "DE": "Deductible",
     "EN": "Deductible"
+  },
+  "iddc8fb632ecd4362c6498": {
+    "DE": "Date of Payment of Claim",
+    "EN": "Date of Payment of Claim"
   },
   "iddcb13de2fbf42d89d64b": {
     "DE": "Gender",
