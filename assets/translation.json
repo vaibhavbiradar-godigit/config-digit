@@ -135,6 +135,10 @@
     "DE": "Certificate Number",
     "EN": "Certificate Number"
   },
+  "id0f0fe52f6ccc0bea8bb5": {
+    "DE": "PML",
+    "EN": "PML"
+  },
   "id0f357e5f2d93ace0f188": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -380,6 +384,10 @@
     "DE": "Cow",
     "EN": "Cow"
   },
+  "id2615e41ca3d7b6997bb3": {
+    "DE": "Limit",
+    "EN": "Limit"
+  },
   "id262c93eb2d1e934611ea": {
     "DE": "Add",
     "EN": "Add"
@@ -473,6 +481,10 @@
   "id2e440f6fde963df8763b": {
     "DE": "Our Share %",
     "EN": "Our Share %"
+  },
+  "id2eca52b9a47e30ddcac0": {
+    "DE": "Attachment",
+    "EN": "Attachment 100%"
   },
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
@@ -1528,6 +1540,10 @@
     "DE": "Limit of Liability",
     "EN": "Limit of Liability"
   },
+  "ida451cd910ae76f335460": {
+    "DE": "AoA",
+    "EN": "AoA"
+  },
   "ida4bd5fd65104e65dd77c": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
@@ -1874,6 +1890,10 @@
   "idc75db7747fed213f62e6": {
     "DE": "Claim Type",
     "EN": "Claim Type"
+  },
+  "idc81a65aa72120c954e2f": {
+    "DE": "Cross Liability Flag",
+    "EN": "Cross Liability Flag"
   },
   "idc8473ba7b46823d41408": {
     "DE": "Coverage Details",
