@@ -562,8 +562,8 @@
     "EN": "CAT Event Flag"
   },
   "id3395104a09e559afc707": {
-    "DE": "Policy",
-    "EN": "Policy"
+    "DE": "Policy Detals",
+    "EN": "Policy Detals"
   },
   "id345f23379d1b9335147d": {
     "DE": "Claim Number",
@@ -1903,6 +1903,10 @@
   "idb6ccb993cdda5865f0e0": {
     "DE": "Packing Quality",
     "EN": "Packing Quality"
+  },
+  "idb6e7e446c4c2ae6c01fc": {
+    "DE": "Loan Type",
+    "EN": "Loan Type"
   },
   "idb74f075b04705f63e97b": {
     "DE": "Request Share",
