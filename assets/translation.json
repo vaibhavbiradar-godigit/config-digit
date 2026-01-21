@@ -95,6 +95,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id0871a631fae8a86b7407": {
+    "DE": "Date of birth",
+    "EN": "Date of birth"
+  },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
@@ -242,6 +246,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id1657fefa3cc7726a5ea3": {
+    "DE": "Age at Entry",
+    "EN": "Age at Entry"
+  },
   "id16930ef4db46060882d2": {
     "DE": "Inuring Programs",
     "EN": "Inuring Programs"
@@ -328,6 +336,10 @@
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
     "EN": "No of  Lines"
+  },
+  "id2044e87b116c4ed66c11": {
+    "DE": "ADB Sum Assured",
+    "EN": "ADB Sum Assured"
   },
   "id215c79774a825ddead5d": {
     "DE": "Packaging Type",
@@ -529,6 +541,10 @@
     "DE": "CAT Event Flag",
     "EN": "CAT Event Flag"
   },
+  "id3395104a09e559afc707": {
+    "DE": "Policy",
+    "EN": "Policy"
+  },
   "id345f23379d1b9335147d": {
     "DE": "Claim Number",
     "EN": "Claim Number"
@@ -653,6 +669,10 @@
     "DE": "Voyage Origin Port",
     "EN": "Voyage Origin Port"
   },
+  "id41c53b3b3f7a65261fdd": {
+    "DE": "ATI Sum Assured",
+    "EN": "ATI Sum Assured"
+  },
   "id4205b6012280a94c6a85": {
     "DE": "Legal Proceedings Flag",
     "EN": "Legal Proceedings Flag"
@@ -765,6 +785,10 @@
     "DE": "Class of Business",
     "EN": "Class of Business"
   },
+  "id4cbe87b28f48e3adb8ac": {
+    "DE": "CI Sum Assured",
+    "EN": "CI Sum Assured"
+  },
   "id4ced3428a4d97de987af": {
     "DE": "Buffelo",
     "EN": "Buffelo"
@@ -827,6 +851,10 @@
   "id52c2a3fc66711a713de5": {
     "DE": "Perils",
     "EN": "Perils"
+  },
+  "id53218f4df87d105d0cd5": {
+    "DE": "APPD Sum Assured",
+    "EN": "APPD Sum Assured"
   },
   "id538be03bf3db1a652c5a": {
     "DE": "Gruppengeschäftsvertrag",
@@ -1031,6 +1059,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id6a163ccad1a46cd8c966": {
+    "DE": "Duration Inforce",
+    "EN": "Duration Inforce"
+  },
   "id6a2451dc18fce512c37f": {
     "DE": "Event Name",
     "EN": "Event Name"
@@ -1054,6 +1086,10 @@
   "id6dd9b493cffb53863c8c": {
     "DE": "Instalments",
     "EN": "Instalments"
+  },
+  "id6e356e0cfe41114a11ce": {
+    "DE": "Term",
+    "EN": "Term"
   },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
@@ -1497,6 +1533,10 @@
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
   },
+  "id99bdb03829a995bca7ed": {
+    "DE": "ATPD Sum Assured",
+    "EN": "ATPD Sum Assured"
+  },
   "id9a014db624800033183e": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
@@ -1651,6 +1691,10 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "ida91bc62e6901a6be75a9": {
+    "DE": "Policy Number",
+    "EN": "Policy Number"
+  },
   "idaa4f84f93395ef8f95c8": {
     "DE": "Fire Protection",
     "EN": "Fire Protection"
@@ -1658,6 +1702,10 @@
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
+  },
+  "idaaf56e18e9304ebe213a": {
+    "DE": "Master Policy Number",
+    "EN": "Master Policy Number"
   },
   "idac73a1820fd6fd14368b": {
     "DE": "Project Name",
@@ -1744,6 +1792,10 @@
   "idb3b0453a6336a2cedcee": {
     "DE": "Event Flag",
     "EN": "Event Flag"
+  },
+  "idb3cb0310e3339f78e599": {
+    "DE": "Sum Assured on Death",
+    "EN": "Sum Assured on Death"
   },
   "idb3e6d241367a2e0e603b": {
     "DE": "Subrogation Amount",
@@ -2018,6 +2070,10 @@
     "DE": "Surveyor Name",
     "EN": "Surveyor Name"
   },
+  "idcc4fdbdb74c0a690bbc8": {
+    "DE": "Benefit Type",
+    "EN": "Benefit Type"
+  },
   "idcc76732a1cb82daabb58": {
     "DE": "Reinstatement Type",
     "EN": "Reinstatement Type"
@@ -2140,6 +2196,10 @@
     "DE": "Bedingungen anzeigen",
     "EN": "View terms and conditions"
   },
+  "idd5535ca4b7e7f25a7799": {
+    "DE": "Policy Holder Name",
+    "EN": "Policy Holder Name"
+  },
   "idd57b109afd6ccfa22445": {
     "EN": "Product Code"
   },
@@ -2198,6 +2258,10 @@
   "iddc85fc6d4f06c6b39975": {
     "DE": "Deductible",
     "EN": "Deductible"
+  },
+  "iddcb13de2fbf42d89d64b": {
+    "DE": "Gender",
+    "EN": "Gender"
   },
   "iddcfd1cb22e4635574e6a": {
     "DE": "Estimated Loss",
@@ -2262,6 +2326,10 @@
   "ide12f0c739303d63cae76": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "ide16624c492caff1977b5": {
+    "DE": "Premium Paying Term",
+    "EN": "Premium Paying Term"
   },
   "ide19fb2d5c57f2f48707a": {
     "DE": "Class of Business",
@@ -2374,6 +2442,10 @@
     "DE": "Attachment Return Period",
     "EN": "Attachment Return Period"
   },
+  "idef1295af71c502b0bcf0": {
+    "DE": "Cession Number",
+    "EN": "Cession Number"
+  },
   "idef3da5ad1a3c5ea1fc25": {
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
@@ -2425,6 +2497,10 @@
   "idf7064dbe408617e72d15": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idf711c98b9a927b00e83f": {
+    "DE": "New Business or Renewal Business",
+    "EN": "New Business or Renewal Business"
   },
   "idf894d7dd5dd25c903f24": {
     "DE": "Number of Reinstatements",
