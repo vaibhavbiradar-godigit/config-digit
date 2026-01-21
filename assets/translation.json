@@ -493,6 +493,10 @@
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
   },
+  "id31713acbd455d4417085": {
+    "DE": "TPL AoA",
+    "EN": "TPL AoA"
+  },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
     "EN": "Class of Business"
@@ -1074,6 +1078,10 @@
   "id7683c402aa63dfd79911": {
     "DE": "Inuring Program",
     "EN": "Inuring Program"
+  },
+  "id769a92ce0b51167035f5": {
+    "DE": "TPL AoY",
+    "EN": "TPL AoY"
   },
   "id76c6f55e51897a122943": {
     "DE": "Minimum and Deposit Premium%",
