@@ -130,6 +130,15 @@
       "id": "id03d2cd609d9dcc134f90",
       "type": "checkbox"
     },
+    "id03f00165664ac219f005": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "retention",
+      "format": "FORMAT_AMOUNT",
+      "id": "id03f00165664ac219f005",
+      "type": "input"
+    },
     "id04307370e10fdc92e805": {
       "alignment": "left",
       "colspan": 2,
@@ -169,6 +178,15 @@
       "facadeId": "marinePolicyNumber",
       "format": "",
       "id": "id04a6f912d31544b34c46",
+      "type": "input"
+    },
+    "id04ff934642d6cb9de4de": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "atiSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "id04ff934642d6cb9de4de",
       "type": "input"
     },
     "id051cfe2f2f5e680235f1": {
@@ -1292,6 +1310,15 @@
       "id": "id27deb1f16c452d49ac83",
       "type": "input"
     },
+    "id27f532ccf8a01a244a92": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "reserve",
+      "format": "FORMAT_AMOUNT",
+      "id": "id27f532ccf8a01a244a92",
+      "type": "input"
+    },
     "id286df48ed1875d53722c": {
       "colspan": 2,
       "facadeId": "remove",
@@ -1349,6 +1376,15 @@
       "id": "id29acbb275311efb6895a",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id29c55f3eedf0206697f3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "sumAtRisk",
+      "format": "FORMAT_AMOUNT",
+      "id": "id29c55f3eedf0206697f3",
+      "type": "input"
     },
     "id29d4d4964abf773ce4e0": {
       "alignment": "left",
@@ -1542,6 +1578,12 @@
       "showRowNumber": false,
       "type": "list"
     },
+    "id324067b0fe5202e45449": {
+      "colspan": 2,
+      "facadeId": "underwritingFlag",
+      "id": "id324067b0fe5202e45449",
+      "type": "dropdown"
+    },
     "id324a1d1a4de6497b8ee6": {
       "colspan": 2,
       "columnWidth": "100",
@@ -1599,7 +1641,27 @@
         "id4cbe87b28f48e3adb8ac",
         "id41c53b3b3f7a65261fdd",
         "id53218f4df87d105d0cd5",
-        "id99bdb03829a995bca7ed"
+        "id99bdb03829a995bca7ed",
+        "id29c55f3eedf0206697f3",
+        "id03f00165664ac219f005",
+        "id27f532ccf8a01a244a92",
+        "idb117b70ac9f8046f0c61",
+        "idec1ae3437b633f6f3f0d",
+        "id6e3571eddeb360f0907f",
+        "idf91306a8a24ba3cc39a1",
+        "id04ff934642d6cb9de4de",
+        "id9d7fd0c2583fbff7980b",
+        "idebeeeb3ef01f7e8aea9a",
+        "id62871a2c88e40f7588ba",
+        "ideb990beccecb28548c09",
+        "idacaf9b4f61650ea5e0eb",
+        "id9206c33b7b69b55e3506",
+        "idefb810072c6bb938ed6a",
+        "ide37bc12ae7d104ab920b",
+        "id4b33d6a19944c901b7cc",
+        "id324067b0fe5202e45449",
+        "id66e6bb5e2392e5f8ac2f",
+        "ida44cc3cd35299840c44f"
       ],
       "colspan": 6,
       "facadeId": "policy",
@@ -2267,6 +2329,12 @@
       "id": "id4a63102d1b5edb4f07fb",
       "style": "secondary",
       "type": "button"
+    },
+    "id4b33d6a19944c901b7cc": {
+      "colspan": 2,
+      "facadeId": "policyStatus",
+      "id": "id4b33d6a19944c901b7cc",
+      "type": "dropdown"
     },
     "id4b80aff6fe98ba807bd5": {
       "alignment": "left",
@@ -2936,6 +3004,15 @@
       "id": "id6268f3ca140d3fd7aa35",
       "type": "contextMenuEntry"
     },
+    "id62871a2c88e40f7588ba": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "deathRiPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "id62871a2c88e40f7588ba",
+      "type": "input"
+    },
     "id63741b308a88000e4e7f": {
       "alignment": "left",
       "colspan": 2,
@@ -3067,6 +3144,12 @@
       "id": "id66acc613235945266f15",
       "type": "dropdown"
     },
+    "id66e6bb5e2392e5f8ac2f": {
+      "colspan": 2,
+      "facadeId": "smokerFlag",
+      "id": "id66e6bb5e2392e5f8ac2f",
+      "type": "dropdown"
+    },
     "id68559c551d8ac8861ccf": {
       "alignment": "right",
       "alignmentWithinDatagrid": "right",
@@ -3179,6 +3262,15 @@
       "facadeId": "term",
       "format": "",
       "id": "id6e356e0cfe41114a11ce",
+      "type": "input"
+    },
+    "id6e3571eddeb360f0907f": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "adbSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6e3571eddeb360f0907f",
       "type": "input"
     },
     "id6fdf69fa868c5063a2af": {
@@ -4138,6 +4230,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id9206c33b7b69b55e3506": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "deathExtraPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9206c33b7b69b55e3506",
+      "type": "input"
+    },
     "id923f18383e50f0cb4c21": {
       "alignment": "left",
       "colspan": 2,
@@ -4491,6 +4592,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id9d7fd0c2583fbff7980b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "appdSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9d7fd0c2583fbff7980b",
+      "type": "input"
+    },
     "id9d9948a4b0e8caa7e062": {
       "colspan": 2,
       "facadeId": "courtJurisdiction",
@@ -4668,6 +4778,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "ida443145c4316cf45528c",
       "type": "input"
+    },
+    "ida44cc3cd35299840c44f": {
+      "colspan": 2,
+      "facadeId": "bankType",
+      "id": "ida44cc3cd35299840c44f",
+      "type": "dropdown"
     },
     "ida4bd5fd65104e65dd77c": {
       "alignment": "left",
@@ -4873,6 +4989,15 @@
       "id": "idac73a1820fd6fd14368b",
       "type": "input"
     },
+    "idacaf9b4f61650ea5e0eb": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "atpdRiPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idacaf9b4f61650ea5e0eb",
+      "type": "input"
+    },
     "idad4c215587776e1932c8": {
       "alignment": "left",
       "colspan": 2,
@@ -4974,6 +5099,15 @@
       "facadeId": "buildDeductible",
       "format": "FORMAT_AMOUNT",
       "id": "idb10d0977c477c9bf7a48",
+      "type": "input"
+    },
+    "idb117b70ac9f8046f0c61": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb117b70ac9f8046f0c61",
       "type": "input"
     },
     "idb14d0ca70bd57877cf9f": {
@@ -6501,6 +6635,12 @@
       "id": "ide2935281d50b92c5fcae",
       "type": "input"
     },
+    "ide37bc12ae7d104ab920b": {
+      "colspan": 2,
+      "facadeId": "calculationToDate",
+      "id": "ide37bc12ae7d104ab920b",
+      "type": "datepicker"
+    },
     "ide3d0199fddf5b3cd91cc": {
       "children": [
         "id5fe0a45f84e7d561dd27",
@@ -6667,6 +6807,33 @@
       "style": "secondary",
       "type": "button"
     },
+    "ideb990beccecb28548c09": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "adbRiPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "ideb990beccecb28548c09",
+      "type": "input"
+    },
+    "idebeeeb3ef01f7e8aea9a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "atpdSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "idebeeeb3ef01f7e8aea9a",
+      "type": "input"
+    },
+    "idec1ae3437b633f6f3f0d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "deathSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "idec1ae3437b633f6f3f0d",
+      "type": "input"
+    },
     "idec47a75571d6e7faa64e": {
       "alignment": "left",
       "colspan": 2,
@@ -6767,6 +6934,12 @@
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "idef3da5ad1a3c5ea1fc25",
       "type": "input"
+    },
+    "idefb810072c6bb938ed6a": {
+      "colspan": 2,
+      "facadeId": "calculationFromDate",
+      "id": "idefb810072c6bb938ed6a",
+      "type": "datepicker"
     },
     "idf00d884343a2632d962e": {
       "alignment": "left",
@@ -6895,6 +7068,15 @@
       "facadeId": "numberOfReinstatements",
       "format": "",
       "id": "idf894d7dd5dd25c903f24",
+      "type": "input"
+    },
+    "idf91306a8a24ba3cc39a1": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "ciSaCeded",
+      "format": "FORMAT_AMOUNT",
+      "id": "idf91306a8a24ba3cc39a1",
       "type": "input"
     },
     "idf97508174bd09cb3ac6c": {
