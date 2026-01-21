@@ -321,6 +321,10 @@
     "DE": "Livestock Rate Master",
     "EN": "Livestock Rate Master"
   },
+  "id1d5b11944aad52fea3c8": {
+    "DE": "Rider Type",
+    "EN": "Rider Type"
+  },
   "id1da2f772082955948d72": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
@@ -348,6 +352,10 @@
   "id2044e87b116c4ed66c11": {
     "DE": "ADB Sum Assured",
     "EN": "ADB Sum Assured"
+  },
+  "id20eaa235f02ba4082a7f": {
+    "DE": "Joining Date",
+    "EN": "Joining Date"
   },
   "id215c79774a825ddead5d": {
     "DE": "Packaging Type",
@@ -562,8 +570,8 @@
     "EN": "CAT Event Flag"
   },
   "id3395104a09e559afc707": {
-    "DE": "Policy Detals",
-    "EN": "Policy Detals"
+    "DE": "Policy Details",
+    "EN": "Policy Details"
   },
   "id345f23379d1b9335147d": {
     "DE": "Claim Number",
@@ -680,6 +688,10 @@
   "id3fd198ae6e587414ccb0": {
     "DE": "Coverage Additional Details: Sliding Scale",
     "EN": "Coverage Additional Details: Sliding Scale"
+  },
+  "id40038fbfbf86ae2e1f5b": {
+    "DE": "State",
+    "EN": "State"
   },
   "id40c4f2102de0c37860a0": {
     "DE": "Maximum Retention Amount",
@@ -1409,6 +1421,10 @@
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
   },
+  "id89b9df32e2ebb35e4ac0": {
+    "DE": "Premium Rate",
+    "EN": "Premium Rate"
+  },
   "id8a54fef4c937a580ae69": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
@@ -1597,6 +1613,10 @@
     "DE": "Loss Date",
     "EN": "Loss Date"
   },
+  "id9a7d214c908bcc822b04": {
+    "DE": "Distribution Channel",
+    "EN": "Distribution Channel"
+  },
   "id9a9228df892ada592324": {
     "DE": "Attachment",
     "EN": "Attachment"
@@ -1659,6 +1679,10 @@
   "id9ff60ee8b137df4dd2fd": {
     "DE": "VRE Our Share",
     "EN": "VRE Our Share"
+  },
+  "ida00d7ab8c05caaef26fa": {
+    "DE": "Product Code",
+    "EN": "Product Code"
   },
   "ida01f035f4501c6a53c6b": {
     "DE": "Coverage Additional Details: Inuring Details",
@@ -1978,9 +2002,17 @@
   "idbbbe423234ab4fd2cf4d": {
     "EN": "instrument number"
   },
+  "idbbcbacaa003b79bf9cea": {
+    "DE": "Product Name",
+    "EN": "Product Name"
+  },
   "idbc09cac0a0ac5cf83573": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "idbc23684df5630330f3a9": {
+    "DE": "Annual Premium Rate",
+    "EN": "Annual Premium Rate"
   },
   "idbcf386c5ef938f4c335a": {
     "DE": "Construction Stage",
@@ -2030,6 +2062,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "idc1a5481db8b8c3f44ce8": {
+    "DE": "Date of Alteration",
+    "EN": "Date of Alteration"
+  },
   "idc1e7d71ce2debc1cc40e": {
     "DE": "Deductible",
     "EN": "Deductible"
@@ -2041,6 +2077,10 @@
   "idc25acb200ec77e085a60": {
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
+  },
+  "idc2cd3a2adb0bd4b236fd": {
+    "DE": "Extra Mortality Rate",
+    "EN": "Extra Mortality Rate"
   },
   "idc330424312f7454d13cd": {
     "DE": "Yard Name",
@@ -2310,6 +2350,10 @@
   "iddb819ac992611cc2e524": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "iddb9ff4b1fb585421997a": {
+    "DE": "Modal Factor",
+    "EN": "Modal Factor"
   },
   "iddbc35dba868c79a211ec": {
     "DE": "Laufzeit (JJ/MM)",
