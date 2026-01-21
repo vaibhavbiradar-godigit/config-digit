@@ -1311,7 +1311,10 @@
         "id43c05a8baab63132077b",
         "id5ef593272f7e57ce2b89",
         "idd1fd9da69a21df956c42",
-        "id1e7300b1e76990b5eca4"
+        "id1e7300b1e76990b5eca4",
+        "id9be5186ffb864fcbabb7",
+        "id926a1cbb03fb52f5557d",
+        "id6076c191424fb051bc29"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2662,6 +2665,15 @@
       "type": "layoutbox",
       "variant": "spilloverProgramVariant"
     },
+    "id6076c191424fb051bc29": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riskSurveyorFee",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6076c191424fb051bc29",
+      "type": "input"
+    },
     "id61cf171d6669ad39ab90": {
       "alignment": "right",
       "children": [
@@ -3809,6 +3821,15 @@
       "id": "id922b9e33fb3691ee8b82",
       "type": "dropdown"
     },
+    "id926a1cbb03fb52f5557d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "taxPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id926a1cbb03fb52f5557d",
+      "type": "input"
+    },
     "id927c753433f6b7163bd8": {
       "colspan": 2,
       "facadeId": "add",
@@ -4051,6 +4072,15 @@
       "id": "id9bcde83078a5dbb8894b",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id9be5186ffb864fcbabb7": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "cedingCommissionPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9be5186ffb864fcbabb7",
+      "type": "input"
     },
     "id9c4820a3d6b759b3cc80": {
       "alignment": "left",
