@@ -1703,7 +1703,8 @@
         "iddb9ff4b1fb585421997a",
         "id89b9df32e2ebb35e4ac0",
         "ida00d7ab8c05caaef26fa",
-        "idbbcbacaa003b79bf9cea"
+        "idbbcbacaa003b79bf9cea",
+        "idff7c124ef090f9bf4f2c"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -4471,7 +4472,6 @@
         "id71c37ac45ed457e9273d",
         "iddc8fb632ecd4362c6498",
         "id9f3137301684a861f285",
-        "id5e367173efe0a40d56b5",
         "id32bda493d7462d3aa20f",
         "id7cd2f0af8e55d3cb2646",
         "id9f108177b34574e1d0be"
@@ -7498,6 +7498,16 @@
         "id4a4305fd95b96e9ea62d": 5,
         "ida234c796e2b8898e21cf": 6
       }
+    },
+    "idff7c124ef090f9bf4f2c": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "idff7c124ef090f9bf4f2c",
+      "type": "input",
+      "variant": "lifeVariant"
     },
     "idffbf702d70e6ce31b65a": {
       "alignment": "left",
