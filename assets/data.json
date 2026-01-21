@@ -1314,7 +1314,8 @@
         "id1e7300b1e76990b5eca4",
         "id9be5186ffb864fcbabb7",
         "id926a1cbb03fb52f5557d",
-        "id6076c191424fb051bc29"
+        "id6076c191424fb051bc29",
+        "id2e440f6fde963df8763b"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1375,6 +1376,15 @@
         "idbbbe423234ab4fd2cf4d": 7
       },
       "parentId": "id5c68df9556c95b4c6b26"
+    },
+    "id2e440f6fde963df8763b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "ourSharePerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id2e440f6fde963df8763b",
+      "type": "input"
     },
     "id2eaae56de5c118464d51": {
       "alignment": "right",
