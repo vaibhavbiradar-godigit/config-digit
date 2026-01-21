@@ -71,6 +71,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "id02ca4e91a74f6ff30acf": {
+      "colspan": 2,
+      "facadeId": "eventFlag",
+      "id": "id02ca4e91a74f6ff30acf",
+      "type": "dropdown"
+    },
     "id02eb85e7eb3064cc40d7": {
       "colspan": 2,
       "columnWidth": "167",
@@ -456,6 +462,12 @@
       "facadeId": "surveyorReportDate",
       "id": "id11cf7e7b20ea28534228",
       "type": "datepicker"
+    },
+    "id11e95d9fd0310abb7ca6": {
+      "colspan": 2,
+      "facadeId": "causeOfLoss",
+      "id": "id11e95d9fd0310abb7ca6",
+      "type": "dropdown"
     },
     "id120eca718af7ee9470d5": {
       "alignment": "left",
@@ -1367,7 +1379,10 @@
         "ida56ba99e7fedd34d94a4",
         "idcca31e526e2bb994ec6d",
         "ide0f63b49b37543bf08e0",
-        "id928d3ff51874bfac6331"
+        "id928d3ff51874bfac6331",
+        "id11e95d9fd0310abb7ca6",
+        "id95ce15a8d7ccda1a465d",
+        "id02ca4e91a74f6ff30acf"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -4042,6 +4057,15 @@
       "facadeId": "settlementAgreementDate",
       "id": "id95a567a356f6ce927aa5",
       "type": "datepicker"
+    },
+    "id95ce15a8d7ccda1a465d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id95ce15a8d7ccda1a465d",
+      "type": "input"
     },
     "id96f770c38161add19171": {
       "alignment": "left",
