@@ -951,6 +951,10 @@
     "DE": "VRE Our Share Limit",
     "EN": "VRE Our Share Limit"
   },
+  "id668876d318c8004a3458": {
+    "DE": "Mrn cum strge SI-Imported M/E",
+    "EN": "Mrn cum strge SI-Imported M/E"
+  },
   "id6690ed91332b8917ccb9": {
     "DE": "Attachment",
     "EN": "Attachment"
@@ -1570,6 +1574,10 @@
   "idad4c215587776e1932c8": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
+  },
+  "idaf3bd59b8510036cdc74": {
+    "DE": "Marine cum storage SI",
+    "EN": "Marine cum storage SI"
   },
   "idaff14eba6e4913903290": {
     "DE": "Objekt bearbeiten",
