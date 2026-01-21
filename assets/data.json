@@ -1361,7 +1361,10 @@
         "id0f0fe52f6ccc0bea8bb5",
         "ida451cd910ae76f335460",
         "idb51b51862e38208fac86",
-        "id331509e520471ed1180e"
+        "id331509e520471ed1180e",
+        "id8cd891c989a1a46327b6",
+        "ide961af5b0e8ce6d6aa92",
+        "ida56ba99e7fedd34d94a4"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -3775,6 +3778,15 @@
       "id": "id8cbde33e92d9cee409bb",
       "type": "dropdown"
     },
+    "id8cd891c989a1a46327b6": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "ourPremiumPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id8cd891c989a1a46327b6",
+      "type": "input"
+    },
     "id8cdaf129460dd8e876e1": {
       "children": [
         "id1afafb73b3df8a487acc",
@@ -4452,6 +4464,15 @@
       "facadeId": "adjustmentRate",
       "format": "FORMAT_AMOUNT",
       "id": "ida538849c31064f4ee71f",
+      "type": "input"
+    },
+    "ida56ba99e7fedd34d94a4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimNo",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida56ba99e7fedd34d94a4",
       "type": "input"
     },
     "ida584032ea8fca274a702": {
@@ -6267,6 +6288,15 @@
       "facadeId": "platformSumInsured",
       "format": "FORMAT_AMOUNT",
       "id": "ide888f336039ddea98075",
+      "type": "input"
+    },
+    "ide961af5b0e8ce6d6aa92": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "ourPremiumNet",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide961af5b0e8ce6d6aa92",
       "type": "input"
     },
     "ide99d6c213aea21f63d95": {
