@@ -51,6 +51,10 @@
     "DE": "Policy Number",
     "EN": "Policy Number"
   },
+  "id05e041e92e25ddf66738": {
+    "DE": "Claim Notification Date",
+    "EN": "Claim Notification Date"
+  },
   "id064aed8710fead884f5d": {
     "DE": "Sliding scale",
     "EN": "Sliding scale"
@@ -63,6 +67,10 @@
     "DE": "Leistungen kopieren",
     "EN": "Copy Benefits"
   },
+  "id071513f95d989a85c527": {
+    "DE": "State Govt. Subsidy outstanding",
+    "EN": "State Govt. Subsidy outstanding"
+  },
   "id07f6a97e8da9e51e8730": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -70,6 +78,10 @@
   "id0870871190817db2dcab": {
     "DE": "Remove",
     "EN": "Remove"
+  },
+  "id09574be0b8edc830183a": {
+    "DE": "Central Govt. receivable",
+    "EN": "Central Govt. receivable"
   },
   "id09f05e6416b07b9c4d94": {
     "DE": "Commission Scale",
@@ -107,6 +119,10 @@
     "DE": "Class wise Retention Master",
     "EN": "Class wise Retention Master"
   },
+  "id0d6605bf623d37409eb1": {
+    "DE": "Lead Reinsurer",
+    "EN": "Lead Reinsurer"
+  },
   "id0e2b6670a5fb84bf2567": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
@@ -126,6 +142,10 @@
   "id0f7f1270361908ce1270": {
     "DE": "Surveyor Name",
     "EN": "Surveyor Name"
+  },
+  "id0fb1a3986e7bfb469237": {
+    "DE": "Policy Details",
+    "EN": "Policy Details"
   },
   "id102cd038dafef6561522": {
     "DE": "Reinstatement Date",
@@ -157,6 +177,10 @@
   },
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
+  },
+  "id1341f3a33938bd08e683": {
+    "DE": "Loss Basis",
+    "EN": "Loss Basis"
   },
   "id13b34b2c982634eaa2f2": {
     "DE": "Remove",
@@ -222,6 +246,10 @@
     "DE": "Retained Amount",
     "EN": "Retained Amount"
   },
+  "id1945490e27e13d154942": {
+    "DE": "Original Policy Deductible",
+    "EN": "Original Policy Deductible"
+  },
   "id198d87d905318011bd37": {
     "DE": "XOL layer",
     "EN": "XOL layer"
@@ -277,9 +305,17 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id1e7300b1e76990b5eca4": {
+    "DE": "RI Brokerage %",
+    "EN": "RI Brokerage %"
+  },
   "id1eb7578536764b2f772d": {
     "DE": "Asset Type",
     "EN": "Asset Type"
+  },
+  "id1ee52ff59503d39abea3": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "id1f234a3ce0a07d6aab0b": {
     "DE": "No of  Lines",
@@ -316,6 +352,10 @@
   "id22be589c57ab4fd89e9e": {
     "DE": "Voyage Destination Port",
     "EN": "Voyage Destination Port"
+  },
+  "id2387b5e5286bc061d9e7": {
+    "DE": "State",
+    "EN": "State"
   },
   "id23e79d302cb7188a83da": {
     "DE": "Territorial Scope",
@@ -375,6 +415,10 @@
   "id290f9f979f7a6f989dc1": {
     "EN": "ASBA"
   },
+  "id291af48e8f724aec5c13": {
+    "DE": "Claims Paid",
+    "EN": "Claims Paid"
+  },
   "id292bc45858203de4188f": {
     "DE": "Instalments",
     "EN": "Instalments"
@@ -391,6 +435,10 @@
     "DE": "Bausteine hinzufügen...",
     "EN": "Add Components..."
   },
+  "id2a365aa8b5377404deb7": {
+    "DE": "Construction Type 2",
+    "EN": "Construction Type 2"
+  },
   "id2b8852e1fd13500d090b": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -403,6 +451,10 @@
     "DE": "Summenart",
     "EN": "Sum type"
   },
+  "id2c64d6612fdc6e88c8a8": {
+    "DE": "Policy Details",
+    "EN": "Policy Details"
+  },
   "id2cfaac437ed503816c33": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
@@ -413,6 +465,10 @@
   "id2dce9911748dbd16470a": {
     "DE": "Hinzufügen",
     "EN": "Add"
+  },
+  "id2e440f6fde963df8763b": {
+    "DE": "Our Share %",
+    "EN": "Our Share %"
   },
   "id2f1b22f4e5b0f34fa4bf": {
     "DE": "Überblick",
@@ -437,6 +493,10 @@
     "DE": "Class of Business",
     "EN": "Class of Business"
   },
+  "id327ed26752430c53718e": {
+    "DE": "Claim Amount",
+    "EN": "Claim Amount"
+  },
   "id33439948c06879839f89": {
     "DE": "Engine Type",
     "EN": "Engine Type"
@@ -456,6 +516,10 @@
   "id35244da0482986a6dc82": {
     "DE": "Storage Capacity",
     "EN": "Storage Capacity"
+  },
+  "id3593944546670a6603ae": {
+    "DE": "Crop Season",
+    "EN": "Crop Season"
   },
   "id35a32ac5eec3648ba60f": {
     "DE": "Fire Protection",
@@ -493,9 +557,17 @@
     "DE": "Coverage Additional Details",
     "EN": "Coverage Additional Details"
   },
+  "id3a4e798d7974df45a360": {
+    "DE": "Original Policy Type",
+    "EN": "Original Policy Type"
+  },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
     "EN": "Transit Mode"
+  },
+  "id3c60f37a28a01a9be003": {
+    "DE": "Sum Insured",
+    "EN": "Sum Insured"
   },
   "id3cb7fdef6015d28de407": {
     "DE": "Class of Business",
@@ -533,6 +605,10 @@
     "DE": "Sr. No.",
     "EN": "Sr. No."
   },
+  "id3f952ed33fd0ce09ae39": {
+    "DE": "Date of Loss",
+    "EN": "Date of Loss"
+  },
   "id3fd198ae6e587414ccb0": {
     "DE": "Coverage Additional Details: Sliding Scale",
     "EN": "Coverage Additional Details: Sliding Scale"
@@ -556,6 +632,10 @@
   "id434d896bd0f0935719a7": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
+  },
+  "id43c05a8baab63132077b": {
+    "DE": "Reinsurer",
+    "EN": "Reinsurer"
   },
   "id44a08e0faca62ac87676": {
     "DE": "Add",
@@ -633,9 +713,17 @@
     "DE": "Buffelo",
     "EN": "Buffelo"
   },
+  "id4d2329bf8f4c4a7b55dd": {
+    "DE": "Cause of loss",
+    "EN": "Cause of loss"
+  },
   "id4d7f1e30daca3ba77784": {
     "DE": "Territorial Scope",
     "EN": "Territorial Scope"
+  },
+  "id4d8f116de5e0168f84fc": {
+    "DE": "Claim No",
+    "EN": "Claim No"
   },
   "id4dc70aae12ca73eaac34": {
     "DE": "Spillover covered in excess of",
@@ -668,6 +756,10 @@
   "id508da40cad3d77d1e810": {
     "DE": "Attachment",
     "EN": "Attachment"
+  },
+  "id50994a0a902b7c4c4f25": {
+    "DE": "Wordings Type",
+    "EN": "Wordings Type"
   },
   "id51b46aca962dae4e344c": {
     "EN": "GST Exemption"
@@ -759,6 +851,10 @@
   "id5bb12d7fa6713b89f8af": {
     "EN": "GST Exemption"
   },
+  "id5bb23d2f009dd27ae080": {
+    "DE": "Type of Program",
+    "EN": "Type of Program"
+  },
   "id5c123b1aff7367a74897": {
     "DE": "Section wise Limits",
     "EN": "Section wise Limits"
@@ -783,9 +879,17 @@
     "DE": "Reinstatement Terms",
     "EN": "Reinstatement Terms"
   },
+  "id5ef593272f7e57ce2b89": {
+    "DE": "Rate",
+    "EN": "Rate"
+  },
   "id5f1684e38a57ecefe27e": {
     "DE": "Loss Ratio Scale",
     "EN": "Loss Ratio Scale"
+  },
+  "id5f69953f1668f7e1f673": {
+    "DE": "No",
+    "EN": "No"
   },
   "id5fe0a45f84e7d561dd27": {
     "DE": "Graded Cedant Gross Retention",
@@ -794,6 +898,10 @@
   "id5fe0f8f0005a241ed1af": {
     "DE": "Trading Limits",
     "EN": "Trading Limits"
+  },
+  "id6076c191424fb051bc29": {
+    "DE": "Risk Surveyor Fee",
+    "EN": "Risk Surveyor Fee"
   },
   "id61f4c9438f3b49f5f84d": {
     "DE": "Retained Amount",
@@ -863,6 +971,10 @@
     "DE": "Entfernen",
     "EN": "Remove"
   },
+  "id68cd21083e2639394cf4": {
+    "DE": "Claim Outstanding",
+    "EN": "Claim Outstanding"
+  },
   "id690d1a7c1601984a1e37": {
     "DE": "Add",
     "EN": "Add"
@@ -870,6 +982,14 @@
   "id6a2451dc18fce512c37f": {
     "DE": "Event Name",
     "EN": "Event Name"
+  },
+  "id6b3c9e3399bdd28f0043": {
+    "DE": "Area Insured",
+    "EN": "Area Insured (Hectares)"
+  },
+  "id6b58f9c51b8d8656e7cd": {
+    "DE": "Central Govt. Outstanding",
+    "EN": "Central Govt. Outstanding"
   },
   "id6b6f931665252b02727b": {
     "DE": "Add",
@@ -886,6 +1006,10 @@
   "id6dd9b493cffb53863c8c": {
     "DE": "Instalments",
     "EN": "Instalments"
+  },
+  "id6f64f9cdf4d6357fe1d8": {
+    "DE": "Claim Details",
+    "EN": "Claim Details"
   },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
@@ -911,9 +1035,17 @@
     "DE": "VRE Our Manual Premium",
     "EN": "VRE Our Manual Premium"
   },
+  "id73440a60e0cc04d5fbdc": {
+    "DE": "State Govt. Subsidy received",
+    "EN": "State Govt. Subsidy received"
+  },
   "id7350d9f98b6713ae2e49": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
+  },
+  "id73a6a42023452cfc4ce5": {
+    "DE": "Org Risk Insured",
+    "EN": "Org Risk Insured"
   },
   "id73cbf788a871b1683dc4": {
     "DE": "Class of Business",
@@ -1002,6 +1134,10 @@
   "id7ed95eb4eb4fb1feb3a1": {
     "EN": "Cheque"
   },
+  "id7f249d82da13e9cfac7a": {
+    "DE": "Pricing Loss Ratio Expected",
+    "EN": "Pricing Loss Ratio Expected"
+  },
   "id7f37fced34c9ea07e9e1": {
     "DE": "Entfernen",
     "EN": "Remove"
@@ -1061,6 +1197,10 @@
   },
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
+  },
+  "id8511f37d11fd14d81701": {
+    "DE": "Policy Type",
+    "EN": "Policy Type"
   },
   "id8520c4c37e6d83e451c0": {
     "EN": "Remove"
@@ -1133,6 +1273,10 @@
     "DE": "Leader",
     "EN": "Leader"
   },
+  "id8a947c013133d6756083": {
+    "DE": "Direct Broker",
+    "EN": "Direct Broker"
+  },
   "id8aa48e8031645b0013e2": {
     "DE": "Leistungsumfang anzeigen",
     "EN": "View scope of benefits"
@@ -1193,6 +1337,10 @@
     "DE": "Miscellaneous Risk Class",
     "EN": "Miscellaneous Risk Class"
   },
+  "id9166365779470fef0e13": {
+    "DE": "Principal Name",
+    "EN": "Principal Name"
+  },
   "id919262d8d7750ee219fc": {
     "DE": "Location Pincode",
     "EN": "Location Pincode"
@@ -1205,6 +1353,14 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id922b9e33fb3691ee8b82": {
+    "DE": "Government Scheme",
+    "EN": "Government Scheme"
+  },
+  "id926a1cbb03fb52f5557d": {
+    "DE": "Tax %",
+    "EN": "Tax %"
+  },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
     "EN": "Add"
@@ -1212,6 +1368,10 @@
   "id92ade9efcabd592ba621": {
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
+  },
+  "id95498a7d554bb1f78be3": {
+    "DE": "Original Policy Deductible %",
+    "EN": "Original Policy Deductible %"
   },
   "id95a567a356f6ce927aa5": {
     "DE": "Settlement Agreement Date",
@@ -1257,9 +1417,21 @@
     "DE": "Attachment",
     "EN": "Attachment"
   },
+  "id9ac316d915e21a97e9e0": {
+    "DE": "Lead RI Fee",
+    "EN": "Lead RI Fee"
+  },
   "id9b446d8a174994b78c80": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
+  },
+  "id9bad4ff2be3d1c0f9087": {
+    "DE": "Major Risk Features",
+    "EN": "Major Risk Features"
+  },
+  "id9be5186ffb864fcbabb7": {
+    "DE": "Ceding Commission",
+    "EN": "Ceding Commission %"
   },
   "id9c4820a3d6b759b3cc80": {
     "DE": "Sheep",
@@ -1268,6 +1440,10 @@
   "id9d69f1f7e077b94b02da": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "id9d74c627a9c2d30f01f8": {
+    "DE": "Event Flag",
+    "EN": "Event Flag"
   },
   "id9d7f713958d8005708c6": {
     "DE": "Remove",
@@ -1371,9 +1547,25 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "ida8802ff555da76978b44": {
+    "DE": "MD SI",
+    "EN": "MD SI"
+  },
+  "idaada8ff28654b038cca9": {
+    "DE": "Premium Basis",
+    "EN": "Premium Basis"
+  },
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
+  },
+  "idab69f094581d36d04c81": {
+    "DE": "OrgRiskIndustry Classification",
+    "EN": "OrgRiskIndustry Classification"
+  },
+  "idacf7618c51c2416b6cb4": {
+    "DE": "Construction Type 1",
+    "EN": "Construction Type 1"
   },
   "idad4c215587776e1932c8": {
     "DE": "Sum Insured",
@@ -1459,6 +1651,10 @@
   "idb596ad90f7bc3a8f31f9": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idb5a6b5d0cf2ca9c4b9a0": {
+    "DE": "Central Govt. Received",
+    "EN": "Central Govt. Received"
   },
   "idb6364c6e41f0e47edaca": {
     "DE": "Adjustment Rate",
@@ -1598,6 +1794,10 @@
     "DE": "Spillover covered in excess of",
     "EN": "Rate on Line"
   },
+  "idc28324ffc1ab697a81bb": {
+    "DE": "Event Name",
+    "EN": "Event Name"
+  },
   "idc34650c301401f9ff0d1": {
     "DE": "Remove",
     "EN": "Remove"
@@ -1605,6 +1805,10 @@
   "idc3bf83183058c7c9a182": {
     "DE": "Table Of Retentions",
     "EN": "Table Of Retentions"
+  },
+  "idc3f91a70704f6ec2171a": {
+    "DE": "Pricing Combined RatioExpected",
+    "EN": "Pricing Combined RatioExpected"
   },
   "idc402da9f34fa915d7c05": {
     "DE": "Entfernen",
@@ -1729,6 +1933,10 @@
     "DE": "Certificate Number",
     "EN": "Certificate Number"
   },
+  "idd1fd9da69a21df956c42": {
+    "DE": "Total Deductions %",
+    "EN": "Total Deductions %"
+  },
   "idd2763834a3d6ebe5a7b6": {
     "DE": "Retained Amount",
     "EN": "Retained Amount"
@@ -1791,6 +1999,10 @@
     "DE": "Waiting Period in Months",
     "EN": "Waiting Period in Months"
   },
+  "idd7699380589c152f5338": {
+    "DE": "Yes",
+    "EN": "Yes"
+  },
   "idd81716cc73b9bb04ae90": {
     "DE": "add",
     "EN": "Add"
@@ -1798,6 +2010,10 @@
   "idd8c0bafb379a2c136abd": {
     "DE": "Stock Throughput Details",
     "EN": "Stock Throughput Details"
+  },
+  "idd984d08f63ac375c9fad": {
+    "DE": "Claims Paid",
+    "EN": "Claims Paid"
   },
   "idd9a35bb54e463e3064ef": {
     "DE": "exclusions",
@@ -1867,6 +2083,10 @@
     "DE": "Retention",
     "EN": "Retention"
   },
+  "iddf2f7c98171836d0d6e9": {
+    "DE": "Layer Placement",
+    "EN": "Layer Placement"
+  },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -1879,6 +2099,14 @@
     "DE": "Request Share",
     "EN": "Request Share"
   },
+  "ide0a8973c59d1dd42a4a3": {
+    "DE": "Perils Covered",
+    "EN": "Perils Covered"
+  },
+  "ide0cff911fc7427ea8704": {
+    "DE": "Total or Gross Premium",
+    "EN": "Total or Gross Premium"
+  },
   "ide0d12eb803caa2a232b1": {
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
@@ -1886,6 +2114,10 @@
   "ide12f0c739303d63cae76": {
     "DE": "Quoted Share",
     "EN": "Quoted Share"
+  },
+  "ide199878287dd00645f82": {
+    "DE": "State Govt. Subsidy receivable",
+    "EN": "State Govt. Subsidy receivable"
   },
   "ide19fb2d5c57f2f48707a": {
     "DE": "Class of Business",
@@ -2014,6 +2246,10 @@
     "DE": "VRE Our Manual Rate on Line",
     "EN": "VRE Our Manual Rate on Line"
   },
+  "idf6c69ea653453643b305": {
+    "DE": "IRDA LoB",
+    "EN": "IRDA LoB"
+  },
   "idf6e8b5ce5434620ebc46": {
     "DE": "Minimum and Deposit Premium%",
     "EN": "Minimum and Deposit Premium Amount"
@@ -2021,6 +2257,10 @@
   "idf7064dbe408617e72d15": {
     "DE": "Entfernen",
     "EN": "Remove"
+  },
+  "idf75b529647446c7ee21b": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
   },
   "idf894d7dd5dd25c903f24": {
     "DE": "Number of Reinstatements",
@@ -2093,5 +2333,9 @@
   "idffbf702d70e6ce31b65a": {
     "DE": "Commission Scale",
     "EN": "Commission Scale"
+  },
+  "idffd0d6400bec5c39c486": {
+    "DE": "Farmer Premium",
+    "EN": "Farmer Premium"
   }
 }

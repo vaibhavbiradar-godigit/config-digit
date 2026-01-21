@@ -127,6 +127,12 @@
       "id": "id04a6f912d31544b34c46",
       "type": "input"
     },
+    "id05e041e92e25ddf66738": {
+      "colspan": 2,
+      "facadeId": "claimNotificationDate",
+      "id": "id05e041e92e25ddf66738",
+      "type": "datepicker"
+    },
     "id064aed8710fead884f5d": {
       "children": [
         "id9ed492588c81a76c710b",
@@ -155,6 +161,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id071513f95d989a85c527": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id071513f95d989a85c527",
+      "type": "input"
+    },
     "id07f6a97e8da9e51e8730": {
       "children": [
         "id0f357e5f2d93ace0f188",
@@ -174,6 +189,15 @@
       "id": "id0870871190817db2dcab",
       "style": "secondary",
       "type": "button"
+    },
+    "id09574be0b8edc830183a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtReceivable",
+      "format": "FORMAT_AMOUNT",
+      "id": "id09574be0b8edc830183a",
+      "type": "input"
     },
     "id09f05e6416b07b9c4d94": {
       "alignment": "left",
@@ -277,6 +301,12 @@
       "rowspan": 4,
       "type": "list"
     },
+    "id0d6605bf623d37409eb1": {
+      "colspan": 2,
+      "facadeId": "leadReinsurer",
+      "id": "id0d6605bf623d37409eb1",
+      "type": "dropdown"
+    },
     "id0e2b6670a5fb84bf2567": {
       "children": [
         "ida24dff5f4ac04ec80f0b",
@@ -343,6 +373,30 @@
       "format": "",
       "id": "id0f7f1270361908ce1270",
       "type": "input"
+    },
+    "id0fb1a3986e7bfb469237": {
+      "children": [
+        "id3c60f37a28a01a9be003",
+        "ide0cff911fc7427ea8704",
+        "idffd0d6400bec5c39c486",
+        "id6b3c9e3399bdd28f0043",
+        "id5bb23d2f009dd27ae080",
+        "id2387b5e5286bc061d9e7",
+        "id3593944546670a6603ae",
+        "id922b9e33fb3691ee8b82",
+        "ide199878287dd00645f82",
+        "id73440a60e0cc04d5fbdc",
+        "id071513f95d989a85c527",
+        "id09574be0b8edc830183a",
+        "idb5a6b5d0cf2ca9c4b9a0",
+        "id6b58f9c51b8d8656e7cd"
+      ],
+      "colspan": 6,
+      "facadeId": "policyDetails",
+      "id": "id0fb1a3986e7bfb469237",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "crpqsChp"
     },
     "id1022d5facbdcb39d6452": {
       "id": "id1022d5facbdcb39d6452",
@@ -425,6 +479,12 @@
       "id": "id12ca82ab23e09f936c05",
       "referenceValue": "bankTransfer",
       "type": "radioButton"
+    },
+    "id1341f3a33938bd08e683": {
+      "colspan": 2,
+      "facadeId": "lossBasis",
+      "id": "id1341f3a33938bd08e683",
+      "type": "dropdown"
     },
     "id13b34b2c982634eaa2f2": {
       "colspan": 2,
@@ -602,6 +662,15 @@
       "facadeId": "retainedAmount",
       "format": "FORMAT_AMOUNT",
       "id": "id1938516ad383d6d31fc3",
+      "type": "input"
+    },
+    "id1945490e27e13d154942": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "originalPolicyDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1945490e27e13d154942",
       "type": "input"
     },
     "id198d87d905318011bd37": {
@@ -818,12 +887,32 @@
       "style": "secondary",
       "type": "button"
     },
+    "id1e7300b1e76990b5eca4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riBrokeragePerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1e7300b1e76990b5eca4",
+      "type": "input"
+    },
     "id1eb7578536764b2f772d": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "assetType",
       "id": "id1eb7578536764b2f772d",
       "type": "dropdown"
+    },
+    "id1ee52ff59503d39abea3": {
+      "children": [
+        "idd7699380589c152f5338",
+        "id5f69953f1668f7e1f673"
+      ],
+      "colspan": 1,
+      "facadeId": "eventFlag",
+      "id": "id1ee52ff59503d39abea3",
+      "rowspan": 2,
+      "type": "radioButtonGroup"
     },
     "id1f234a3ce0a07d6aab0b": {
       "alignment": "left",
@@ -935,6 +1024,12 @@
       "format": "",
       "id": "id22be589c57ab4fd89e9e",
       "type": "input"
+    },
+    "id2387b5e5286bc061d9e7": {
+      "colspan": 2,
+      "facadeId": "state",
+      "id": "id2387b5e5286bc061d9e7",
+      "type": "dropdown"
     },
     "id23e79d302cb7188a83da": {
       "colspan": 2,
@@ -1098,6 +1193,15 @@
       "referenceValue": "asba",
       "type": "radioButton"
     },
+    "id291af48e8f724aec5c13": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimsPaid",
+      "format": "FORMAT_AMOUNT",
+      "id": "id291af48e8f724aec5c13",
+      "type": "input"
+    },
     "id292bc45858203de4188f": {
       "alignment": "left",
       "colspan": 2,
@@ -1147,6 +1251,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "id2a365aa8b5377404deb7": {
+      "colspan": 2,
+      "facadeId": "constructionType2",
+      "id": "id2a365aa8b5377404deb7",
+      "type": "dropdown"
+    },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
       "colspan": 2,
@@ -1174,6 +1284,46 @@
       "id": "id2c47f6a800c4ad012eb6",
       "rowspan": 1,
       "type": "dynamic"
+    },
+    "id2c64d6612fdc6e88c8a8": {
+      "children": [
+        "id3a4e798d7974df45a360",
+        "idf6c69ea653453643b305",
+        "iddf2f7c98171836d0d6e9",
+        "id8511f37d11fd14d81701",
+        "idacf7618c51c2416b6cb4",
+        "id2a365aa8b5377404deb7",
+        "id9bad4ff2be3d1c0f9087",
+        "id50994a0a902b7c4c4f25",
+        "ide0a8973c59d1dd42a4a3",
+        "id1945490e27e13d154942",
+        "id95498a7d554bb1f78be3",
+        "id1341f3a33938bd08e683",
+        "idaada8ff28654b038cca9",
+        "id9166365779470fef0e13",
+        "id73a6a42023452cfc4ce5",
+        "idab69f094581d36d04c81",
+        "id7f249d82da13e9cfac7a",
+        "idc3f91a70704f6ec2171a",
+        "id8a947c013133d6756083",
+        "id0d6605bf623d37409eb1",
+        "id9ac316d915e21a97e9e0",
+        "id43c05a8baab63132077b",
+        "id5ef593272f7e57ce2b89",
+        "idd1fd9da69a21df956c42",
+        "id1e7300b1e76990b5eca4",
+        "id9be5186ffb864fcbabb7",
+        "id926a1cbb03fb52f5557d",
+        "id6076c191424fb051bc29",
+        "id2e440f6fde963df8763b",
+        "ida8802ff555da76978b44"
+      ],
+      "colspan": 6,
+      "facadeId": "policyDetails",
+      "id": "id2c64d6612fdc6e88c8a8",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "engineeringChild"
     },
     "id2cfaac437ed503816c33": {
       "children": [
@@ -1227,6 +1377,15 @@
         "idbbbe423234ab4fd2cf4d": 7
       },
       "parentId": "id5c68df9556c95b4c6b26"
+    },
+    "id2e440f6fde963df8763b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "ourSharePerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id2e440f6fde963df8763b",
+      "type": "input"
     },
     "id2eaae56de5c118464d51": {
       "alignment": "right",
@@ -1312,6 +1471,15 @@
       "id": "id324a1d1a4de6497b8ee6",
       "type": "dropdown"
     },
+    "id327ed26752430c53718e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id327ed26752430c53718e",
+      "type": "input"
+    },
     "id33439948c06879839f89": {
       "colspan": 2,
       "columnWidth": "100",
@@ -1365,6 +1533,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id35244da0482986a6dc82",
       "type": "input"
+    },
+    "id3593944546670a6603ae": {
+      "colspan": 2,
+      "facadeId": "cropSeason",
+      "id": "id3593944546670a6603ae",
+      "type": "dropdown"
     },
     "id35a32ac5eec3648ba60f": {
       "colspan": 2,
@@ -1433,12 +1607,27 @@
       "id": "id39a783d8d4c5054f5f30",
       "type": "dropdown"
     },
+    "id3a4e798d7974df45a360": {
+      "colspan": 2,
+      "facadeId": "originalPolicyType",
+      "id": "id3a4e798d7974df45a360",
+      "type": "dropdown"
+    },
     "id3c43f16b0f2cbe5c4911": {
       "colspan": 2,
       "columnWidth": "100",
       "facadeId": "transitMode",
       "id": "id3c43f16b0f2cbe5c4911",
       "type": "dropdown"
+    },
+    "id3c60f37a28a01a9be003": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "sumInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id3c60f37a28a01a9be003",
+      "type": "input"
     },
     "id3cb7fdef6015d28de407": {
       "colspan": 2,
@@ -1629,6 +1818,12 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "id3f952ed33fd0ce09ae39": {
+      "colspan": 2,
+      "facadeId": "dateOfLoss",
+      "id": "id3f952ed33fd0ce09ae39",
+      "type": "datepicker"
+    },
     "id3fd198ae6e587414ccb0": {
       "children": [
         "idd113cb08032b1ebf3653",
@@ -1699,6 +1894,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id434d896bd0f0935719a7",
       "type": "input"
+    },
+    "id43c05a8baab63132077b": {
+      "colspan": 2,
+      "facadeId": "reinsurer",
+      "id": "id43c05a8baab63132077b",
+      "type": "dropdown"
     },
     "id43c5707e40eac69dd736": {
       "alignment": "right",
@@ -1916,6 +2117,15 @@
       "id": "id4ced3428a4d97de987af",
       "type": "input"
     },
+    "id4d2329bf8f4c4a7b55dd": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "causeOfLoss",
+      "format": "",
+      "id": "id4d2329bf8f4c4a7b55dd",
+      "type": "input"
+    },
     "id4d7f1e30daca3ba77784": {
       "children": [
         "id6fdf69fa868c5063a2af",
@@ -1929,6 +2139,15 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "id4d8f116de5e0168f84fc": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimNo",
+      "format": "FORMAT_AMOUNT",
+      "id": "id4d8f116de5e0168f84fc",
+      "type": "input"
     },
     "id4dc70aae12ca73eaac34": {
       "alignment": "left",
@@ -2048,6 +2267,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id508da40cad3d77d1e810",
       "type": "input"
+    },
+    "id50994a0a902b7c4c4f25": {
+      "colspan": 2,
+      "facadeId": "wordingsType",
+      "id": "id50994a0a902b7c4c4f25",
+      "type": "dropdown"
     },
     "id512830a1f844997f4bfe": {
       "alignment": "right",
@@ -2323,6 +2548,12 @@
       "id": "id5bb12d7fa6713b89f8af",
       "type": "dropdown"
     },
+    "id5bb23d2f009dd27ae080": {
+      "colspan": 2,
+      "facadeId": "typeOfProgram",
+      "id": "id5bb23d2f009dd27ae080",
+      "type": "dropdown"
+    },
     "id5c123b1aff7367a74897": {
       "children": [
         "idff0f2917ab942fb635cb",
@@ -2390,6 +2621,15 @@
       "id": "id5ef4aa3c65509eb96252",
       "type": "input"
     },
+    "id5ef593272f7e57ce2b89": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "rate",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5ef593272f7e57ce2b89",
+      "type": "input"
+    },
     "id5f1684e38a57ecefe27e": {
       "alignment": "left",
       "colspan": 2,
@@ -2406,6 +2646,11 @@
       "id": "id5f1928bbe837bd15141e",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id5f69953f1668f7e1f673": {
+      "id": "id5f69953f1668f7e1f673",
+      "referenceValue": "no",
+      "type": "radioButton"
     },
     "id5fe0a45f84e7d561dd27": {
       "colspan": 2,
@@ -2430,6 +2675,15 @@
       "rowspan": 3,
       "type": "layoutbox",
       "variant": "spilloverProgramVariant"
+    },
+    "id6076c191424fb051bc29": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riskSurveyorFee",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6076c191424fb051bc29",
+      "type": "input"
     },
     "id61cf171d6669ad39ab90": {
       "alignment": "right",
@@ -2614,6 +2868,15 @@
       "style": "secondary",
       "type": "button"
     },
+    "id68cd21083e2639394cf4": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id68cd21083e2639394cf4",
+      "type": "input"
+    },
     "id690d1a7c1601984a1e37": {
       "colspan": 2,
       "facadeId": "addSlidingScale",
@@ -2639,6 +2902,24 @@
       "id": "id6a795c57a8c09b5af457",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id6b3c9e3399bdd28f0043": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "areaInsured",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6b3c9e3399bdd28f0043",
+      "type": "input"
+    },
+    "id6b58f9c51b8d8656e7cd": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtOutstanding",
+      "format": "FORMAT_AMOUNT",
+      "id": "id6b58f9c51b8d8656e7cd",
+      "type": "input"
     },
     "id6b6f931665252b02727b": {
       "colspan": 2,
@@ -2674,6 +2955,26 @@
       "format": "",
       "id": "id6dd9b493cffb53863c8c",
       "type": "input"
+    },
+    "id6f64f9cdf4d6357fe1d8": {
+      "children": [
+        "id327ed26752430c53718e",
+        "id4d8f116de5e0168f84fc",
+        "idd984d08f63ac375c9fad",
+        "id68cd21083e2639394cf4",
+        "id3f952ed33fd0ce09ae39",
+        "id05e041e92e25ddf66738",
+        "idc28324ffc1ab697a81bb",
+        "id4d2329bf8f4c4a7b55dd",
+        "idf75b529647446c7ee21b",
+        "id9d74c627a9c2d30f01f8"
+      ],
+      "colspan": 6,
+      "facadeId": "claimDetails",
+      "id": "id6f64f9cdf4d6357fe1d8",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "crpqsChp"
     },
     "id6fdf69fa868c5063a2af": {
       "alignment": "left",
@@ -2735,12 +3036,31 @@
       "id": "id72b8430879f40a24f34a",
       "type": "input"
     },
+    "id73440a60e0cc04d5fbdc": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyReceived",
+      "format": "FORMAT_AMOUNT",
+      "id": "id73440a60e0cc04d5fbdc",
+      "type": "input"
+    },
     "id7350d9f98b6713ae2e49": {
       "colspan": 2,
       "columnWidth": "223",
       "facadeId": "exposureBasis",
       "id": "id7350d9f98b6713ae2e49",
       "type": "dropdown"
+    },
+    "id73a6a42023452cfc4ce5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "orgRiskInsured",
+      "format": "VALUE_LENGTH",
+      "id": "id73a6a42023452cfc4ce5",
+      "type": "input",
+      "valueLength": 200
     },
     "id73cbf788a871b1683dc4": {
       "colspan": 2,
@@ -2974,6 +3294,15 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "id7f249d82da13e9cfac7a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "pricingLossRatioExpected",
+      "format": "FORMAT_AMOUNT",
+      "id": "id7f249d82da13e9cfac7a",
+      "type": "input"
+    },
     "id7f37fced34c9ea07e9e1": {
       "colspan": 1,
       "facadeId": "remove",
@@ -3111,6 +3440,12 @@
       "id": "id84eb36772f9fc3de1579",
       "rowspan": 2,
       "type": "layoutbox"
+    },
+    "id8511f37d11fd14d81701": {
+      "colspan": 2,
+      "facadeId": "policyType",
+      "id": "id8511f37d11fd14d81701",
+      "type": "dropdown"
     },
     "id851b4d62c3f056eb58b5": {
       "colspan": 6,
@@ -3296,6 +3631,12 @@
       "id": "id8a87bf351c944788c0f2",
       "type": "dropdown"
     },
+    "id8a947c013133d6756083": {
+      "colspan": 2,
+      "facadeId": "directBroker",
+      "id": "id8a947c013133d6756083",
+      "type": "dropdown"
+    },
     "id8aa48e8031645b0013e2": {
       "facadeId": "viewScopeOfBenefits",
       "id": "id8aa48e8031645b0013e2",
@@ -3454,6 +3795,16 @@
       "id": "id9160c2e84376f0d1f396",
       "type": "dropdown"
     },
+    "id9166365779470fef0e13": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "principalName",
+      "format": "VALUE_LENGTH",
+      "id": "id9166365779470fef0e13",
+      "type": "input",
+      "valueLength": 200
+    },
     "id919262d8d7750ee219fc": {
       "colspan": 2,
       "columnWidth": "100",
@@ -3475,6 +3826,21 @@
       "style": "secondary",
       "type": "button"
     },
+    "id922b9e33fb3691ee8b82": {
+      "colspan": 4,
+      "facadeId": "governmentScheme",
+      "id": "id922b9e33fb3691ee8b82",
+      "type": "dropdown"
+    },
+    "id926a1cbb03fb52f5557d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "taxPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id926a1cbb03fb52f5557d",
+      "type": "input"
+    },
     "id927c753433f6b7163bd8": {
       "colspan": 2,
       "facadeId": "add",
@@ -3485,6 +3851,11 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "VG_id0d9621bc257b10272f76": 17,
+        "id2c64d6612fdc6e88c8a8": 11,
+        "id6f64f9cdf4d6357fe1d8": 10,
+        "VG_idd3a83d1e3fb54dbebf8c": 16,
+        "id0fb1a3986e7bfb469237": 9,
         "id5b62da9d5983f89336a2": 8,
         "VG_id2e8507a55acb1663e32a": 15,
         "id0124c9348b5dae438dc4": 4,
@@ -3506,18 +3877,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 19,
-        "id851b4d62c3f056eb58b5": 20,
-        "id13cb4ae08c6a5e26563c": 10,
-        "idcafb0c30e1d63edb47c9": 11,
-        "id45f5bcee21ce843ca4a4": 12,
-        "idcfbb20fb21a07c60122a": 13,
-        "id600e1004fdf2d666b901": 14,
-        "id0f61e821c30093bc22d9": 15,
-        "id7a5dd092f93608b09d52": 18,
-        "id2d80ea5c85120a46d449": 16,
-        "id65c0760f5e7cad3d1e45": 17,
-        "id11a4e747de28b3dd7027": 9
+        "id2715ef2fc25d31137631": 22,
+        "id851b4d62c3f056eb58b5": 23,
+        "id13cb4ae08c6a5e26563c": 13,
+        "idcafb0c30e1d63edb47c9": 14,
+        "id45f5bcee21ce843ca4a4": 15,
+        "idcfbb20fb21a07c60122a": 16,
+        "id600e1004fdf2d666b901": 17,
+        "id0f61e821c30093bc22d9": 18,
+        "id7a5dd092f93608b09d52": 21,
+        "id2d80ea5c85120a46d449": 19,
+        "id65c0760f5e7cad3d1e45": 20,
+        "id11a4e747de28b3dd7027": 12
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -3541,6 +3912,15 @@
       "id": "id952032578349c9a6ea00",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id95498a7d554bb1f78be3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "originalPolicyDeductiblePercent",
+      "format": "FORMAT_AMOUNT",
+      "id": "id95498a7d554bb1f78be3",
+      "type": "input"
     },
     "id95a567a356f6ce927aa5": {
       "colspan": 2,
@@ -3667,6 +4047,15 @@
       "id": "id9a9228df892ada592324",
       "type": "input"
     },
+    "id9ac316d915e21a97e9e0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "leadRiFee",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9ac316d915e21a97e9e0",
+      "type": "input"
+    },
     "id9b446d8a174994b78c80": {
       "alignment": "left",
       "colspan": 2,
@@ -3676,6 +4065,12 @@
       "format": "",
       "id": "id9b446d8a174994b78c80",
       "type": "input"
+    },
+    "id9bad4ff2be3d1c0f9087": {
+      "colspan": 2,
+      "facadeId": "majorRiskFeatures",
+      "id": "id9bad4ff2be3d1c0f9087",
+      "type": "dropdown"
     },
     "id9bcde83078a5dbb8894b": {
       "alignment": "right",
@@ -3688,6 +4083,15 @@
       "id": "id9bcde83078a5dbb8894b",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id9be5186ffb864fcbabb7": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "cedingCommissionPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9be5186ffb864fcbabb7",
+      "type": "input"
     },
     "id9c4820a3d6b759b3cc80": {
       "alignment": "left",
@@ -3717,6 +4121,12 @@
       "id": "id9d69f1f7e077b94b02da",
       "style": "secondary",
       "type": "button"
+    },
+    "id9d74c627a9c2d30f01f8": {
+      "colspan": 1,
+      "facadeId": "eventFlag",
+      "id": "id9d74c627a9c2d30f01f8",
+      "type": "dropdown"
     },
     "id9d7f713958d8005708c6": {
       "colspan": 2,
@@ -4052,6 +4462,21 @@
       "rowspan": 4,
       "type": "list"
     },
+    "ida8802ff555da76978b44": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "mdSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida8802ff555da76978b44",
+      "type": "input"
+    },
+    "idaada8ff28654b038cca9": {
+      "colspan": 2,
+      "facadeId": "premiumBasis",
+      "id": "idaada8ff28654b038cca9",
+      "type": "dropdown"
+    },
     "idaaeba6152946f32cb1b0": {
       "alignment": "left",
       "colspan": 2,
@@ -4061,6 +4486,18 @@
       "format": "FORMAT_AMOUNT",
       "id": "idaaeba6152946f32cb1b0",
       "type": "input"
+    },
+    "idab69f094581d36d04c81": {
+      "colspan": 2,
+      "facadeId": "orgRiskIndustryClassification",
+      "id": "idab69f094581d36d04c81",
+      "type": "dropdown"
+    },
+    "idacf7618c51c2416b6cb4": {
+      "colspan": 2,
+      "facadeId": "constructionType1",
+      "id": "idacf7618c51c2416b6cb4",
+      "type": "dropdown"
     },
     "idad4c215587776e1932c8": {
       "alignment": "left",
@@ -4291,6 +4728,15 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "idb5a6b5d0cf2ca9c4b9a0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "centralGovtReceived",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb5a6b5d0cf2ca9c4b9a0",
+      "type": "input"
     },
     "idb6364c6e41f0e47edaca": {
       "alignment": "left",
@@ -4671,6 +5117,15 @@
       "id": "idc25acb200ec77e085a60",
       "type": "input"
     },
+    "idc28324ffc1ab697a81bb": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "eventName",
+      "format": "",
+      "id": "idc28324ffc1ab697a81bb",
+      "type": "input"
+    },
     "idc34650c301401f9ff0d1": {
       "colspan": 2,
       "facadeId": "removeSlidingScale",
@@ -4691,6 +5146,15 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "idc3f91a70704f6ec2171a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "pricingCombinedRatioExpected",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc3f91a70704f6ec2171a",
+      "type": "input"
     },
     "idc402da9f34fa915d7c05": {
       "colspan": 1,
@@ -5055,6 +5519,15 @@
       "id": "idd1ac37c8ae72b49d3f88",
       "type": "input"
     },
+    "idd1fd9da69a21df956c42": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "totalDeductionsPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "idd1fd9da69a21df956c42",
+      "type": "input"
+    },
     "idd2763834a3d6ebe5a7b6": {
       "alignment": "left",
       "colspan": 2,
@@ -5198,6 +5671,11 @@
       "id": "idd655e04811d2b56ba642",
       "type": "input"
     },
+    "idd7699380589c152f5338": {
+      "id": "idd7699380589c152f5338",
+      "referenceValue": "yes",
+      "type": "radioButton"
+    },
     "idd81716cc73b9bb04ae90": {
       "colspan": 2,
       "facadeId": "add",
@@ -5214,6 +5692,16 @@
       "format": "",
       "id": "idd8c0bafb379a2c136abd",
       "type": "input"
+    },
+    "idd984d08f63ac375c9fad": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimsPaid",
+      "format": "FORMAT_AMOUNT",
+      "id": "idd984d08f63ac375c9fad",
+      "type": "input",
+      "variant": "crpqsChp"
     },
     "idd9a35bb54e463e3064ef": {
       "alignment": "left",
@@ -5380,6 +5868,12 @@
       "id": "idde8f9652c54ae607b7f0",
       "type": "input"
     },
+    "iddf2f7c98171836d0d6e9": {
+      "colspan": 2,
+      "facadeId": "layerPlacement",
+      "id": "iddf2f7c98171836d0d6e9",
+      "type": "dropdown"
+    },
     "iddfaab2df89c65cbe9e5a": {
       "colspan": 1,
       "facadeId": "add",
@@ -5407,6 +5901,24 @@
       "id": "ide00263d424cb4cbe661c",
       "type": "input"
     },
+    "ide0a8973c59d1dd42a4a3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "perilsCovered",
+      "format": "",
+      "id": "ide0a8973c59d1dd42a4a3",
+      "type": "input"
+    },
+    "ide0cff911fc7427ea8704": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "totalOrGrossPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide0cff911fc7427ea8704",
+      "type": "input"
+    },
     "ide0d12eb803caa2a232b1": {
       "alignment": "left",
       "colspan": 2,
@@ -5425,6 +5937,15 @@
       "facadeId": "quotedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide12f0c739303d63cae76",
+      "type": "input"
+    },
+    "ide199878287dd00645f82": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "stateGovtSubsidyReceivable",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide199878287dd00645f82",
       "type": "input"
     },
     "ide19fb2d5c57f2f48707a": {
@@ -5760,6 +6281,12 @@
       "id": "idf6881acb4643de8c8069",
       "type": "input"
     },
+    "idf6c69ea653453643b305": {
+      "colspan": 2,
+      "facadeId": "irdaLoB",
+      "id": "idf6c69ea653453643b305",
+      "type": "dropdown"
+    },
     "idf6e8b5ce5434620ebc46": {
       "alignment": "left",
       "colspan": 2,
@@ -5776,6 +6303,15 @@
       "id": "idf7064dbe408617e72d15",
       "style": "secondary",
       "type": "button"
+    },
+    "idf75b529647446c7ee21b": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimType",
+      "format": "",
+      "id": "idf75b529647446c7ee21b",
+      "type": "input"
     },
     "idf894d7dd5dd25c903f24": {
       "alignment": "left",
@@ -5990,6 +6526,15 @@
       "format": "FORMAT_AMOUNT",
       "id": "idffbf702d70e6ce31b65a",
       "type": "input"
+    },
+    "idffd0d6400bec5c39c486": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "farmerPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idffd0d6400bec5c39c486",
+      "type": "input"
     }
   },
   "languages": [
@@ -6055,6 +6600,15 @@
     }
   },
   "variantEntities": {
+    "VG_id0d9621bc257b10272f76": {
+      "children": [],
+      "id": "VG_id0d9621bc257b10272f76",
+      "label": "engineeringChild",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "engineeringChild": true
+      }
+    },
     "VG_id1a421f7931f828b05712": {
       "children": [],
       "id": "VG_id1a421f7931f828b05712",
@@ -6153,6 +6707,15 @@
       "type": "variantGroup",
       "variantChildKeys": {
         "miscellaneousMasterVariant": true
+      }
+    },
+    "VG_idd3a83d1e3fb54dbebf8c": {
+      "children": [],
+      "id": "VG_idd3a83d1e3fb54dbebf8c",
+      "label": "crpqsChp",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "crpqsChp": true
       }
     },
     "VG_idd62b1c13bd462105d5fb": {
