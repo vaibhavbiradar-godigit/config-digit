@@ -43,6 +43,10 @@
     "DE": "Ausgewählt",
     "EN": "Selected"
   },
+  "id03f00165664ac219f005": {
+    "DE": "Retention",
+    "EN": "Retention"
+  },
   "id04307370e10fdc92e805": {
     "DE": "exclusions",
     "EN": "exclusions"
@@ -58,6 +62,10 @@
   "id04a6f912d31544b34c46": {
     "DE": "Policy Number",
     "EN": "Policy Number"
+  },
+  "id04ff934642d6cb9de4de": {
+    "DE": "ATI SA Ceded",
+    "EN": "ATI SA Ceded"
   },
   "id051cfe2f2f5e680235f1": {
     "DE": "Policy Number",
@@ -448,6 +456,10 @@
     "DE": "Sum Insured",
     "EN": "Sum Insured"
   },
+  "id27f532ccf8a01a244a92": {
+    "DE": "Reserve",
+    "EN": "Reserve"
+  },
   "id286df48ed1875d53722c": {
     "DE": "Remove",
     "EN": "Remove"
@@ -466,6 +478,10 @@
   "id2956c7f171e304196759": {
     "DE": "Flag(Country)",
     "EN": "Flag(Country)"
+  },
+  "id29c55f3eedf0206697f3": {
+    "DE": "Sum At Risk",
+    "EN": "Sum At Risk"
   },
   "id29d4d4964abf773ce4e0": {
     "DE": "Attachment Return Period",
@@ -524,6 +540,10 @@
   "id31195c496a5def1496a7": {
     "DE": "Net Retained Lines",
     "EN": "Net Retained Lines"
+  },
+  "id324067b0fe5202e45449": {
+    "DE": "Underwriting Flag",
+    "EN": "Underwriting Flag"
   },
   "id324a1d1a4de6497b8ee6": {
     "DE": "Class of Business",
@@ -769,6 +789,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id4b33d6a19944c901b7cc": {
+    "DE": "Policy Status",
+    "EN": "Policy Status"
+  },
   "id4b80aff6fe98ba807bd5": {
     "DE": "Packing Quality",
     "EN": "Packing Quality"
@@ -995,6 +1019,10 @@
     "DE": "Zusatzinformationen anzeigen",
     "EN": "View additional information"
   },
+  "id62871a2c88e40f7588ba": {
+    "DE": "Death RI Premium",
+    "EN": "Death RI Premium"
+  },
   "id63741b308a88000e4e7f": {
     "DE": "Others",
     "EN": "Others"
@@ -1047,6 +1075,10 @@
     "DE": "Top Drop",
     "EN": "Top Drop"
   },
+  "id66e6bb5e2392e5f8ac2f": {
+    "DE": "Smoker Flag",
+    "EN": "Smoker Flag"
+  },
   "id685d68c36fdbaaf28465": {
     "DE": "Exposure Basis",
     "EN": "Exposure Basis"
@@ -1090,6 +1122,10 @@
   "id6e356e0cfe41114a11ce": {
     "DE": "Term",
     "EN": "Term"
+  },
+  "id6e3571eddeb360f0907f": {
+    "DE": "ADB SA Ceded",
+    "EN": "ADB SA Ceded"
   },
   "id6fdf69fa868c5063a2af": {
     "DE": "Sr. No.",
@@ -1473,6 +1509,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id9206c33b7b69b55e3506": {
+    "DE": "Death Extra Premium",
+    "EN": "Death Extra Premium"
+  },
   "id923f18383e50f0cb4c21": {
     "DE": "Exclusions",
     "EN": "Exclusions"
@@ -1585,6 +1625,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id9d7fd0c2583fbff7980b": {
+    "DE": "APPD SA Ceded",
+    "EN": "APPD SA Ceded"
+  },
   "id9d9948a4b0e8caa7e062": {
     "DE": "Court Jurisdiction",
     "EN": "Court Jurisdiction"
@@ -1643,6 +1687,10 @@
   "ida443145c4316cf45528c": {
     "DE": "Limit of Liability",
     "EN": "Limit of Liability"
+  },
+  "ida44cc3cd35299840c44f": {
+    "DE": "Bank Type",
+    "EN": "Bank Type"
   },
   "ida4bd5fd65104e65dd77c": {
     "DE": "Minimum and Deposit Premium%",
@@ -1711,6 +1759,10 @@
     "DE": "Project Name",
     "EN": "Project Name"
   },
+  "idacaf9b4f61650ea5e0eb": {
+    "DE": "ATPD RI Premium",
+    "EN": "ATPD RI Premium"
+  },
   "idad4c215587776e1932c8": {
     "DE": "Sum Insured",
     "EN": "Sum Insured"
@@ -1748,6 +1800,10 @@
   "idb10d0977c477c9bf7a48": {
     "DE": "Deductible",
     "EN": "Deductible"
+  },
+  "idb117b70ac9f8046f0c61": {
+    "DE": "RI Share",
+    "EN": "RI Share"
   },
   "idb14d0ca70bd57877cf9f": {
     "DE": "Minimum and Deposit Premium%",
@@ -2347,6 +2403,10 @@
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
   },
+  "ide37bc12ae7d104ab920b": {
+    "DE": "Calculation To Date",
+    "EN": "Calculation To Date"
+  },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
     "EN": "Coverage Additional Details: Graded Retention"
@@ -2411,6 +2471,18 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "ideb990beccecb28548c09": {
+    "DE": "ADB RI Premium",
+    "EN": "ADB RI Premium"
+  },
+  "idebeeeb3ef01f7e8aea9a": {
+    "DE": "ATPD SA Ceded",
+    "EN": "ATPD SA Ceded"
+  },
+  "idec1ae3437b633f6f3f0d": {
+    "DE": "Death SA Ceded",
+    "EN": "Death SA Ceded"
+  },
   "idec47a75571d6e7faa64e": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -2449,6 +2521,10 @@
   "idef3da5ad1a3c5ea1fc25": {
     "DE": "Maximum Retention Amount",
     "EN": "Maximum Retention Amount"
+  },
+  "idefb810072c6bb938ed6a": {
+    "DE": "Calculation From Date",
+    "EN": "Calculation From Date"
   },
   "idf00d884343a2632d962e": {
     "DE": "CAT Exposure",
@@ -2505,6 +2581,10 @@
   "idf894d7dd5dd25c903f24": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
+  },
+  "idf91306a8a24ba3cc39a1": {
+    "DE": "CI SA Ceded",
+    "EN": "CI SA Ceded"
   },
   "idf97508174bd09cb3ac6c": {
     "DE": "Adjustment Rate",
