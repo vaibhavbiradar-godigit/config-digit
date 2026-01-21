@@ -1284,7 +1284,10 @@
         "id1945490e27e13d154942",
         "id95498a7d554bb1f78be3",
         "id1341f3a33938bd08e683",
-        "idaada8ff28654b038cca9"
+        "idaada8ff28654b038cca9",
+        "id9166365779470fef0e13",
+        "id73a6a42023452cfc4ce5",
+        "idab69f094581d36d04c81"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2987,6 +2990,16 @@
       "id": "id7350d9f98b6713ae2e49",
       "type": "dropdown"
     },
+    "id73a6a42023452cfc4ce5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "orgRiskInsured",
+      "format": "VALUE_LENGTH",
+      "id": "id73a6a42023452cfc4ce5",
+      "type": "input",
+      "valueLength": 200
+    },
     "id73cbf788a871b1683dc4": {
       "colspan": 2,
       "columnWidth": "223",
@@ -3705,6 +3718,16 @@
       "id": "id9160c2e84376f0d1f396",
       "type": "dropdown"
     },
+    "id9166365779470fef0e13": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "principalName",
+      "format": "VALUE_LENGTH",
+      "id": "id9166365779470fef0e13",
+      "type": "input",
+      "valueLength": 200
+    },
     "id919262d8d7750ee219fc": {
       "colspan": 2,
       "columnWidth": "100",
@@ -4350,6 +4373,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "idaaeba6152946f32cb1b0",
       "type": "input"
+    },
+    "idab69f094581d36d04c81": {
+      "colspan": 2,
+      "facadeId": "orgRiskIndustryClassification",
+      "id": "idab69f094581d36d04c81",
+      "type": "dropdown"
     },
     "idacf7618c51c2416b6cb4": {
       "colspan": 2,
