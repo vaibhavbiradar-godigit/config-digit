@@ -1401,6 +1401,10 @@
     "DE": "Add",
     "EN": "Add"
   },
+  "id928d3ff51874bfac6331": {
+    "DE": "Claim Type",
+    "EN": "Claim Type"
+  },
   "id92ade9efcabd592ba621": {
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
@@ -1954,6 +1958,10 @@
     "DE": "Hinzufügen",
     "EN": "Add"
   },
+  "idcca31e526e2bb994ec6d": {
+    "DE": "Claim Notification Date",
+    "EN": "Claim Notification Date"
+  },
   "idcd159d2111e845b6d663": {
     "DE": "Cargo Description",
     "EN": "Cargo Description"
@@ -2182,6 +2190,10 @@
   "ide0d12eb803caa2a232b1": {
     "DE": "Reinstatement Premium",
     "EN": "Reinstatement Premium"
+  },
+  "ide0f63b49b37543bf08e0": {
+    "DE": "Date of loss",
+    "EN": "Date of loss"
   },
   "ide12f0c739303d63cae76": {
     "DE": "Quoted Share",
