@@ -474,6 +474,12 @@
       "referenceValue": "bankTransfer",
       "type": "radioButton"
     },
+    "id1341f3a33938bd08e683": {
+      "colspan": 2,
+      "facadeId": "lossBasis",
+      "id": "id1341f3a33938bd08e683",
+      "type": "dropdown"
+    },
     "id13b34b2c982634eaa2f2": {
       "colspan": 2,
       "facadeId": "remove",
@@ -650,6 +656,15 @@
       "facadeId": "retainedAmount",
       "format": "FORMAT_AMOUNT",
       "id": "id1938516ad383d6d31fc3",
+      "type": "input"
+    },
+    "id1945490e27e13d154942": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "originalPolicyDeductible",
+      "format": "FORMAT_AMOUNT",
+      "id": "id1945490e27e13d154942",
       "type": "input"
     },
     "id198d87d905318011bd37": {
@@ -1221,6 +1236,12 @@
       "style": "secondary",
       "type": "button"
     },
+    "id2a365aa8b5377404deb7": {
+      "colspan": 2,
+      "facadeId": "constructionType2",
+      "id": "id2a365aa8b5377404deb7",
+      "type": "dropdown"
+    },
     "id2b8852e1fd13500d090b": {
       "alignment": "left",
       "colspan": 2,
@@ -1248,6 +1269,29 @@
       "id": "id2c47f6a800c4ad012eb6",
       "rowspan": 1,
       "type": "dynamic"
+    },
+    "id2c64d6612fdc6e88c8a8": {
+      "children": [
+        "id3a4e798d7974df45a360",
+        "idf6c69ea653453643b305",
+        "iddf2f7c98171836d0d6e9",
+        "id8511f37d11fd14d81701",
+        "idacf7618c51c2416b6cb4",
+        "id2a365aa8b5377404deb7",
+        "id9bad4ff2be3d1c0f9087",
+        "id50994a0a902b7c4c4f25",
+        "ide0a8973c59d1dd42a4a3",
+        "id1945490e27e13d154942",
+        "id95498a7d554bb1f78be3",
+        "id1341f3a33938bd08e683",
+        "idaada8ff28654b038cca9"
+      ],
+      "colspan": 6,
+      "facadeId": "policyDetails",
+      "id": "id2c64d6612fdc6e88c8a8",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "engineeringChild"
     },
     "id2cfaac437ed503816c33": {
       "children": [
@@ -1520,6 +1564,12 @@
       "columnWidth": "100",
       "facadeId": "storageCapacityUnit",
       "id": "id39a783d8d4c5054f5f30",
+      "type": "dropdown"
+    },
+    "id3a4e798d7974df45a360": {
+      "colspan": 2,
+      "facadeId": "originalPolicyType",
+      "id": "id3a4e798d7974df45a360",
       "type": "dropdown"
     },
     "id3c43f16b0f2cbe5c4911": {
@@ -2170,6 +2220,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id508da40cad3d77d1e810",
       "type": "input"
+    },
+    "id50994a0a902b7c4c4f25": {
+      "colspan": 2,
+      "facadeId": "wordingsType",
+      "id": "id50994a0a902b7c4c4f25",
+      "type": "dropdown"
     },
     "id512830a1f844997f4bfe": {
       "alignment": "right",
@@ -3301,6 +3357,12 @@
       "rowspan": 2,
       "type": "layoutbox"
     },
+    "id8511f37d11fd14d81701": {
+      "colspan": 2,
+      "facadeId": "policyType",
+      "id": "id8511f37d11fd14d81701",
+      "type": "dropdown"
+    },
     "id851b4d62c3f056eb58b5": {
       "colspan": 6,
       "id": "id851b4d62c3f056eb58b5",
@@ -3680,6 +3742,8 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "VG_id0d9621bc257b10272f76": 17,
+        "id2c64d6612fdc6e88c8a8": 11,
         "id6f64f9cdf4d6357fe1d8": 10,
         "VG_idd3a83d1e3fb54dbebf8c": 16,
         "id0fb1a3986e7bfb469237": 9,
@@ -3704,18 +3768,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 21,
-        "id851b4d62c3f056eb58b5": 22,
-        "id13cb4ae08c6a5e26563c": 12,
-        "idcafb0c30e1d63edb47c9": 13,
-        "id45f5bcee21ce843ca4a4": 14,
-        "idcfbb20fb21a07c60122a": 15,
-        "id600e1004fdf2d666b901": 16,
-        "id0f61e821c30093bc22d9": 17,
-        "id7a5dd092f93608b09d52": 20,
-        "id2d80ea5c85120a46d449": 18,
-        "id65c0760f5e7cad3d1e45": 19,
-        "id11a4e747de28b3dd7027": 11
+        "id2715ef2fc25d31137631": 22,
+        "id851b4d62c3f056eb58b5": 23,
+        "id13cb4ae08c6a5e26563c": 13,
+        "idcafb0c30e1d63edb47c9": 14,
+        "id45f5bcee21ce843ca4a4": 15,
+        "idcfbb20fb21a07c60122a": 16,
+        "id600e1004fdf2d666b901": 17,
+        "id0f61e821c30093bc22d9": 18,
+        "id7a5dd092f93608b09d52": 21,
+        "id2d80ea5c85120a46d449": 19,
+        "id65c0760f5e7cad3d1e45": 20,
+        "id11a4e747de28b3dd7027": 12
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -3739,6 +3803,15 @@
       "id": "id952032578349c9a6ea00",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id95498a7d554bb1f78be3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "originalPolicyDeductiblePercent",
+      "format": "FORMAT_AMOUNT",
+      "id": "id95498a7d554bb1f78be3",
+      "type": "input"
     },
     "id95a567a356f6ce927aa5": {
       "colspan": 2,
@@ -3874,6 +3947,12 @@
       "format": "",
       "id": "id9b446d8a174994b78c80",
       "type": "input"
+    },
+    "id9bad4ff2be3d1c0f9087": {
+      "colspan": 2,
+      "facadeId": "majorRiskFeatures",
+      "id": "id9bad4ff2be3d1c0f9087",
+      "type": "dropdown"
     },
     "id9bcde83078a5dbb8894b": {
       "alignment": "right",
@@ -4256,6 +4335,12 @@
       "rowspan": 4,
       "type": "list"
     },
+    "idaada8ff28654b038cca9": {
+      "colspan": 2,
+      "facadeId": "premiumBasis",
+      "id": "idaada8ff28654b038cca9",
+      "type": "dropdown"
+    },
     "idaaeba6152946f32cb1b0": {
       "alignment": "left",
       "colspan": 2,
@@ -4265,6 +4350,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "idaaeba6152946f32cb1b0",
       "type": "input"
+    },
+    "idacf7618c51c2416b6cb4": {
+      "colspan": 2,
+      "facadeId": "constructionType1",
+      "id": "idacf7618c51c2416b6cb4",
+      "type": "dropdown"
     },
     "idad4c215587776e1932c8": {
       "alignment": "left",
@@ -5617,6 +5708,12 @@
       "id": "idde8f9652c54ae607b7f0",
       "type": "input"
     },
+    "iddf2f7c98171836d0d6e9": {
+      "colspan": 2,
+      "facadeId": "layerPlacement",
+      "id": "iddf2f7c98171836d0d6e9",
+      "type": "dropdown"
+    },
     "iddfaab2df89c65cbe9e5a": {
       "colspan": 1,
       "facadeId": "add",
@@ -5642,6 +5739,15 @@
       "facadeId": "requestedShare",
       "format": "FORMAT_LARGE_AMOUNT",
       "id": "ide00263d424cb4cbe661c",
+      "type": "input"
+    },
+    "ide0a8973c59d1dd42a4a3": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "perilsCovered",
+      "format": "",
+      "id": "ide0a8973c59d1dd42a4a3",
       "type": "input"
     },
     "ide0cff911fc7427ea8704": {
@@ -6015,6 +6121,12 @@
       "id": "idf6881acb4643de8c8069",
       "type": "input"
     },
+    "idf6c69ea653453643b305": {
+      "colspan": 2,
+      "facadeId": "irdaLoB",
+      "id": "idf6c69ea653453643b305",
+      "type": "dropdown"
+    },
     "idf6e8b5ce5434620ebc46": {
       "alignment": "left",
       "colspan": 2,
@@ -6328,6 +6440,15 @@
     }
   },
   "variantEntities": {
+    "VG_id0d9621bc257b10272f76": {
+      "children": [],
+      "id": "VG_id0d9621bc257b10272f76",
+      "label": "engineeringChild",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "engineeringChild": true
+      }
+    },
     "VG_id1a421f7931f828b05712": {
       "children": [],
       "id": "VG_id1a421f7931f828b05712",
