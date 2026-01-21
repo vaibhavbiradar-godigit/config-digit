@@ -895,6 +895,10 @@
     "DE": "Trading Limits",
     "EN": "Trading Limits"
   },
+  "id6076c191424fb051bc29": {
+    "DE": "Risk Surveyor Fee",
+    "EN": "Risk Surveyor Fee"
+  },
   "id61f4c9438f3b49f5f84d": {
     "DE": "Retained Amount",
     "EN": "Retained Amount"
@@ -1349,6 +1353,10 @@
     "DE": "Government Scheme",
     "EN": "Government Scheme"
   },
+  "id926a1cbb03fb52f5557d": {
+    "DE": "Tax %",
+    "EN": "Tax %"
+  },
   "id927c753433f6b7163bd8": {
     "DE": "Add",
     "EN": "Add"
@@ -1416,6 +1424,10 @@
   "id9bad4ff2be3d1c0f9087": {
     "DE": "Major Risk Features",
     "EN": "Major Risk Features"
+  },
+  "id9be5186ffb864fcbabb7": {
+    "DE": "Ceding Commission",
+    "EN": "Ceding Commission %"
   },
   "id9c4820a3d6b759b3cc80": {
     "DE": "Sheep",
