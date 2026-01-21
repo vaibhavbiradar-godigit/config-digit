@@ -1913,6 +1913,10 @@
     "DE": "Reinstatement Date",
     "EN": "Reinstatement Date"
   },
+  "idcfe6bffa791084ac28a6": {
+    "DE": "Marine/Construction DSU",
+    "EN": "Marine/Construction DSU"
+  },
   "idcfe8e30e8fc5a0e9e137": {
     "DE": "Entfernen",
     "EN": "Remove"
@@ -2143,6 +2147,10 @@
     "DE": "Reinstatement Rate",
     "EN": "Reinstatement Rate %"
   },
+  "ide36fe391c72172db278e": {
+    "DE": "Mrn cum Strge SI IndegenousM/E",
+    "EN": "Mrn cum Strge SI IndegenousM/E"
+  },
   "ide3d0199fddf5b3cd91cc": {
     "DE": "Coverage Additional Details: Graded Retention",
     "EN": "Coverage Additional Details: Graded Retention"
@@ -2198,6 +2206,10 @@
   "idec47a75571d6e7faa64e": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
+  },
+  "idec5034ad07b126462338": {
+    "DE": "ALOP SI",
+    "EN": "ALOP SI"
   },
   "idec6e3749f41a5dbaad41": {
     "DE": "Remove",
