@@ -1359,7 +1359,9 @@
         "id2eca52b9a47e30ddcac0",
         "id2615e41ca3d7b6997bb3",
         "id0f0fe52f6ccc0bea8bb5",
-        "ida451cd910ae76f335460"
+        "ida451cd910ae76f335460",
+        "idb51b51862e38208fac86",
+        "id331509e520471ed1180e"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1539,6 +1541,15 @@
       "facadeId": "claimAmount",
       "format": "FORMAT_AMOUNT",
       "id": "id327ed26752430c53718e",
+      "type": "input"
+    },
+    "id331509e520471ed1180e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "RiPremiumPerc",
+      "format": "FORMAT_AMOUNT",
+      "id": "id331509e520471ed1180e",
       "type": "input"
     },
     "id33439948c06879839f89": {
@@ -4798,6 +4809,15 @@
       "id": "idb4eeaed7ba4e5f7ef088",
       "style": "secondary",
       "type": "button"
+    },
+    "idb51b51862e38208fac86": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "originalPremium",
+      "format": "FORMAT_AMOUNT",
+      "id": "idb51b51862e38208fac86",
+      "type": "input"
     },
     "idb541787889564a49c6ad": {
       "colspan": 1,
