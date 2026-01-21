@@ -1315,7 +1315,8 @@
         "id9be5186ffb864fcbabb7",
         "id926a1cbb03fb52f5557d",
         "id6076c191424fb051bc29",
-        "id2e440f6fde963df8763b"
+        "id2e440f6fde963df8763b",
+        "ida8802ff555da76978b44"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -4460,6 +4461,15 @@
       "persistCustomizations": false,
       "rowspan": 4,
       "type": "list"
+    },
+    "ida8802ff555da76978b44": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "mdSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "ida8802ff555da76978b44",
+      "type": "input"
     },
     "idaada8ff28654b038cca9": {
       "colspan": 2,
