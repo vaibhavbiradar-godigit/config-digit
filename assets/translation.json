@@ -305,6 +305,10 @@
     "DE": "Remove",
     "EN": "Remove"
   },
+  "id1e7300b1e76990b5eca4": {
+    "DE": "RI Brokerage %",
+    "EN": "RI Brokerage %"
+  },
   "id1eb7578536764b2f772d": {
     "DE": "Asset Type",
     "EN": "Asset Type"
@@ -1908,6 +1912,10 @@
   "idd1ac37c8ae72b49d3f88": {
     "DE": "Certificate Number",
     "EN": "Certificate Number"
+  },
+  "idd1fd9da69a21df956c42": {
+    "DE": "Total Deductions %",
+    "EN": "Total Deductions %"
   },
   "idd2763834a3d6ebe5a7b6": {
     "DE": "Retained Amount",
