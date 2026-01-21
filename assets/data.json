@@ -1334,7 +1334,9 @@
         "id9b41e318c6e6c5e3c56e",
         "id96f770c38161add19171",
         "id19482b2a1bddacca8404",
-        "idc30b9eaefc0fa268153e"
+        "idc30b9eaefc0fa268153e",
+        "id31713acbd455d4417085",
+        "id769a92ce0b51167035f5"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -1480,6 +1482,15 @@
       "rowspan": 4,
       "showRowNumber": false,
       "type": "list"
+    },
+    "id31713acbd455d4417085": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "tplAoA",
+      "format": "FORMAT_AMOUNT",
+      "id": "id31713acbd455d4417085",
+      "type": "input"
     },
     "id324a1d1a4de6497b8ee6": {
       "colspan": 2,
@@ -3134,6 +3145,15 @@
       "facadeId": "inuringProgram",
       "id": "id7683c402aa63dfd79911",
       "type": "dropdown"
+    },
+    "id769a92ce0b51167035f5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "tplAoY",
+      "format": "FORMAT_AMOUNT",
+      "id": "id769a92ce0b51167035f5",
+      "type": "input"
     },
     "id76c6f55e51897a122943": {
       "alignment": "left",
