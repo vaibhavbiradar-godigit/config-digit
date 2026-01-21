@@ -3656,6 +3656,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "VG_ide42245e236d6f7840d3d": 17,
         "id0d9c7435089b1d32729e": 10,
         "VG_id3ea3e95f9c6c4aee2814": 16,
         "id54502dfe8c11ceb3aacb": 9,
@@ -6426,6 +6427,15 @@
       "type": "variantGroup",
       "variantChildKeys": {
         "marineCargoVariant": true
+      }
+    },
+    "VG_ide42245e236d6f7840d3d": {
+      "children": [],
+      "id": "VG_ide42245e236d6f7840d3d",
+      "label": "surqsChpVrl",
+      "type": "variantGroup",
+      "variantChildKeys": {
+        "surqsChpVrl": true
       }
     },
     "VG_idf41c503a38033ec10759": {
