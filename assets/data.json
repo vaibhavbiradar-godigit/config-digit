@@ -1318,7 +1318,10 @@
         "id2e440f6fde963df8763b",
         "ida8802ff555da76978b44",
         "idaf3bd59b8510036cdc74",
-        "id668876d318c8004a3458"
+        "id668876d318c8004a3458",
+        "ide36fe391c72172db278e",
+        "idec5034ad07b126462338",
+        "idcfe6bffa791084ac28a6"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -5475,6 +5478,12 @@
       "type": "layoutbox",
       "variant": "inuringDetailsVariant"
     },
+    "idcfe6bffa791084ac28a6": {
+      "colspan": 2,
+      "facadeId": "marineConstructionDsu",
+      "id": "idcfe6bffa791084ac28a6",
+      "type": "dropdown"
+    },
     "idcfe8e30e8fc5a0e9e137": {
       "colspan": 1,
       "facadeId": "remove",
@@ -6005,6 +6014,15 @@
       "id": "ide2935281d50b92c5fcae",
       "type": "input"
     },
+    "ide36fe391c72172db278e": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "mrnCumStrgeSiIndegenous",
+      "format": "FORMAT_AMOUNT",
+      "id": "ide36fe391c72172db278e",
+      "type": "input"
+    },
     "ide3d0199fddf5b3cd91cc": {
       "children": [
         "id5fe0a45f84e7d561dd27",
@@ -6159,6 +6177,15 @@
       "rowspan": 1,
       "type": "textOutput",
       "verticalAlignment": "top"
+    },
+    "idec5034ad07b126462338": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "alopSi",
+      "format": "FORMAT_AMOUNT",
+      "id": "idec5034ad07b126462338",
+      "type": "input"
     },
     "idec6e3749f41a5dbaad41": {
       "colspan": 2,
