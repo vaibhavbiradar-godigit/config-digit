@@ -407,11 +407,11 @@
         "id6b58f9c51b8d8656e7cd"
       ],
       "colspan": 6,
-      "facadeId": "policyDetails",
+      "facadeId": "cropChildPolicyDetails",
       "id": "id0fb1a3986e7bfb469237",
       "rowspan": 2,
       "type": "groupbox",
-      "variant": "crpqsChp"
+      "variant": "cropChildVariant"
     },
     "id1022d5facbdcb39d6452": {
       "id": "id1022d5facbdcb39d6452",
@@ -3093,11 +3093,11 @@
         "id9d74c627a9c2d30f01f8"
       ],
       "colspan": 6,
-      "facadeId": "claimDetails",
+      "facadeId": "cropChildClaimDetails",
       "id": "id6f64f9cdf4d6357fe1d8",
       "rowspan": 2,
       "type": "groupbox",
-      "variant": "crpqsChp"
+      "variant": "cropChildVariant"
     },
     "id6fdf69fa868c5063a2af": {
       "alignment": "left",
@@ -5941,7 +5941,7 @@
       "format": "FORMAT_AMOUNT",
       "id": "idd984d08f63ac375c9fad",
       "type": "input",
-      "variant": "crpqsChp"
+      "variant": "cropChildVariant"
     },
     "idd9a35bb54e463e3064ef": {
       "alignment": "left",
@@ -6994,10 +6994,11 @@
     "VG_idd3a83d1e3fb54dbebf8c": {
       "children": [],
       "id": "VG_idd3a83d1e3fb54dbebf8c",
-      "label": "crpqsChp",
+      "label": "cropChildVariant",
       "type": "variantGroup",
       "variantChildKeys": {
-        "crpqsChp": true
+        "crpqsChp": false,
+        "cropChildVariant": true
       }
     },
     "VG_idd62b1c13bd462105d5fb": {
