@@ -933,6 +933,15 @@
       "type": "list",
       "variant": "livestockRateVariant"
     },
+    "id1d5b11944aad52fea3c8": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "riderType",
+      "format": "",
+      "id": "id1d5b11944aad52fea3c8",
+      "type": "input"
+    },
     "id1da2f772082955948d72": {
       "alignment": "left",
       "colspan": 2,
@@ -1023,6 +1032,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "id2044e87b116c4ed66c11",
       "type": "input"
+    },
+    "id20eaa235f02ba4082a7f": {
+      "colspan": 2,
+      "facadeId": "joiningDate",
+      "id": "id20eaa235f02ba4082a7f",
+      "type": "datepicker"
     },
     "id215c79774a825ddead5d": {
       "colspan": 2,
@@ -1662,7 +1677,18 @@
         "id324067b0fe5202e45449",
         "id66e6bb5e2392e5f8ac2f",
         "ida44cc3cd35299840c44f",
-        "idb6e7e446c4c2ae6c01fc"
+        "idb6e7e446c4c2ae6c01fc",
+        "idc2cd3a2adb0bd4b236fd",
+        "id1d5b11944aad52fea3c8",
+        "id9a7d214c908bcc822b04",
+        "id40038fbfbf86ae2e1f5b",
+        "id20eaa235f02ba4082a7f",
+        "idc1a5481db8b8c3f44ce8",
+        "idbc23684df5630330f3a9",
+        "iddb9ff4b1fb585421997a",
+        "id89b9df32e2ebb35e4ac0",
+        "ida00d7ab8c05caaef26fa",
+        "idbbcbacaa003b79bf9cea"
       ],
       "colspan": 6,
       "facadeId": "policyDetails",
@@ -2020,6 +2046,12 @@
       "id": "id3fd198ae6e587414ccb0",
       "rowspan": 3,
       "type": "list"
+    },
+    "id40038fbfbf86ae2e1f5b": {
+      "colspan": 2,
+      "facadeId": "state",
+      "id": "id40038fbfbf86ae2e1f5b",
+      "type": "dropdown"
     },
     "id40c4f2102de0c37860a0": {
       "alignment": "left",
@@ -3996,6 +4028,15 @@
       "id": "id89a6ae1296d751138c38",
       "type": "input"
     },
+    "id89b9df32e2ebb35e4ac0": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "premiumRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "id89b9df32e2ebb35e4ac0",
+      "type": "input"
+    },
     "id8a54fef4c937a580ae69": {
       "alignment": "left",
       "colspan": 2,
@@ -4510,6 +4551,12 @@
       "id": "id9a5f78e6a578b5719334",
       "type": "datepicker"
     },
+    "id9a7d214c908bcc822b04": {
+      "colspan": 2,
+      "facadeId": "distributionChannel",
+      "id": "id9a7d214c908bcc822b04",
+      "type": "dropdown"
+    },
     "id9a9228df892ada592324": {
       "alignment": "left",
       "colspan": 2,
@@ -4693,6 +4740,15 @@
       "facadeId": "vreOurShare",
       "format": "FORMAT_AMOUNT",
       "id": "id9ff60ee8b137df4dd2fd",
+      "type": "input"
+    },
+    "ida00d7ab8c05caaef26fa": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "productCode",
+      "format": "",
+      "id": "ida00d7ab8c05caaef26fa",
       "type": "input"
     },
     "ida01f035f4501c6a53c6b": {
@@ -5549,12 +5605,30 @@
       "id": "idbbbe423234ab4fd2cf4d",
       "type": "input"
     },
+    "idbbcbacaa003b79bf9cea": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "productName",
+      "format": "",
+      "id": "idbbcbacaa003b79bf9cea",
+      "type": "input"
+    },
     "idbc09cac0a0ac5cf83573": {
       "colspan": 2,
       "facadeId": "remove",
       "id": "idbc09cac0a0ac5cf83573",
       "style": "secondary",
       "type": "button"
+    },
+    "idbc23684df5630330f3a9": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "annualPremiumRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idbc23684df5630330f3a9",
+      "type": "input"
     },
     "idbcf386c5ef938f4c335a": {
       "alignment": "left",
@@ -5694,6 +5768,12 @@
       "type": "textOutput",
       "verticalAlignment": "top"
     },
+    "idc1a5481db8b8c3f44ce8": {
+      "colspan": 2,
+      "facadeId": "dateOfAlteration",
+      "id": "idc1a5481db8b8c3f44ce8",
+      "type": "datepicker"
+    },
     "idc1e7d71ce2debc1cc40e": {
       "alignment": "left",
       "colspan": 2,
@@ -5721,6 +5801,15 @@
       "facadeId": "rateOnLine",
       "format": "FORMAT_AMOUNT",
       "id": "idc25acb200ec77e085a60",
+      "type": "input"
+    },
+    "idc2cd3a2adb0bd4b236fd": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "extraMortalityRate",
+      "format": "FORMAT_AMOUNT",
+      "id": "idc2cd3a2adb0bd4b236fd",
       "type": "input"
     },
     "idc330424312f7454d13cd": {
@@ -6408,6 +6497,15 @@
       "id": "iddb819ac992611cc2e524",
       "style": "secondary",
       "type": "button"
+    },
+    "iddb9ff4b1fb585421997a": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "modalFactor",
+      "format": "FORMAT_AMOUNT",
+      "id": "iddb9ff4b1fb585421997a",
+      "type": "input"
     },
     "iddbc35dba868c79a211ec": {
       "colspan": 2,
