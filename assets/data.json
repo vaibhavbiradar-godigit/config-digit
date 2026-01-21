@@ -1616,6 +1616,12 @@
       "id": "id324a1d1a4de6497b8ee6",
       "type": "dropdown"
     },
+    "id32bda493d7462d3aa20f": {
+      "colspan": 2,
+      "facadeId": "claimStatus",
+      "id": "id32bda493d7462d3aa20f",
+      "type": "dropdown"
+    },
     "id33439948c06879839f89": {
       "colspan": 2,
       "columnWidth": "100",
@@ -2969,6 +2975,15 @@
       "id": "id5e1a69e3949183932ff8",
       "type": "input"
     },
+    "id5e367173efe0a40d56b5": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "riShare",
+      "format": "FORMAT_AMOUNT",
+      "id": "id5e367173efe0a40d56b5",
+      "type": "input"
+    },
     "id5ef4aa3c65509eb96252": {
       "alignment": "left",
       "colspan": 2,
@@ -3630,6 +3645,12 @@
       "columnWidth": "100",
       "facadeId": "topDrop",
       "id": "id7c6191544c7750407630",
+      "type": "dropdown"
+    },
+    "id7cd2f0af8e55d3cb2646": {
+      "colspan": 2,
+      "facadeId": "eventFlag",
+      "id": "id7cd2f0af8e55d3cb2646",
       "type": "dropdown"
     },
     "id7cfe207e46e580ee4fb0": {
@@ -4448,7 +4469,12 @@
         "id1b1e1500ccd5717719c6",
         "id9ee447ac8891af67e85d",
         "id71c37ac45ed457e9273d",
-        "iddc8fb632ecd4362c6498"
+        "iddc8fb632ecd4362c6498",
+        "id9f3137301684a861f285",
+        "id5e367173efe0a40d56b5",
+        "id32bda493d7462d3aa20f",
+        "id7cd2f0af8e55d3cb2646",
+        "id9f108177b34574e1d0be"
       ],
       "colspan": 6,
       "facadeId": "claimDetails",
@@ -4778,6 +4804,24 @@
       "facadeId": "kindOfLoss",
       "format": "",
       "id": "id9ee447ac8891af67e85d",
+      "type": "input"
+    },
+    "id9f108177b34574e1d0be": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "eventName",
+      "format": "",
+      "id": "id9f108177b34574e1d0be",
+      "type": "input"
+    },
+    "id9f3137301684a861f285": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "decimal",
+      "facadeId": "claimAmount",
+      "format": "FORMAT_AMOUNT",
+      "id": "id9f3137301684a861f285",
       "type": "input"
     },
     "id9f438d9c518210c45046": {
