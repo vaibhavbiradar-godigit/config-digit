@@ -517,6 +517,10 @@
     "DE": "Claim Amount",
     "EN": "Claim Amount"
   },
+  "id331509e520471ed1180e": {
+    "DE": "100% RI Premium",
+    "EN": "100% RI Premium"
+  },
   "id33439948c06879839f89": {
     "DE": "Engine Type",
     "EN": "Engine Type"
@@ -1680,6 +1684,10 @@
   "idb4eeaed7ba4e5f7ef088": {
     "DE": "Add",
     "EN": "Add"
+  },
+  "idb51b51862e38208fac86": {
+    "DE": "Original Premium",
+    "EN": "Original Premium"
   },
   "idb541787889564a49c6ad": {
     "DE": "Entfernen",
