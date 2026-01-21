@@ -825,6 +825,15 @@
       "rowspan": 3,
       "type": "list"
     },
+    "id1b1e1500ccd5717719c6": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "claimReferenceNumber",
+      "format": "",
+      "id": "id1b1e1500ccd5717719c6",
+      "type": "input"
+    },
     "id1b23f0810a355c5f3014": {
       "alignment": "left",
       "colspan": 2,
@@ -3374,6 +3383,15 @@
       "id": "id719c757216f68a72dab2",
       "type": "input"
     },
+    "id71c37ac45ed457e9273d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "causeOfLoss",
+      "format": "",
+      "id": "id71c37ac45ed457e9273d",
+      "type": "input"
+    },
     "id71f2ec2dea3f452cb2c8": {
       "alignment": "left",
       "colspan": 2,
@@ -3559,6 +3577,12 @@
       "id": "id794bf407315da2300ead",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id795cfe07d629bd02f958": {
+      "colspan": 2,
+      "facadeId": "dateOfDeath",
+      "id": "id795cfe07d629bd02f958",
+      "type": "datepicker"
     },
     "id79fad50a2c7ea1e1c507": {
       "colspan": 2,
@@ -4300,6 +4324,7 @@
     "id927feb14e52b900f00af": {
       "id": "id927feb14e52b900f00af",
       "order": {
+        "id975ddf668f37e911ce8c": 17,
         "VG_id314e5b89773e7686bd5a": 17,
         "id3395104a09e559afc707": 16,
         "id01d025ae9c92c09505f5": 15,
@@ -4331,18 +4356,18 @@
         "VG_idb7b48e5044d3e125930b": 12,
         "VG_idbaf5d7d3c00642ac224a": 3,
         "VG_id1a421f7931f828b05712": 2,
-        "id2715ef2fc25d31137631": 27,
-        "id851b4d62c3f056eb58b5": 28,
-        "id13cb4ae08c6a5e26563c": 18,
-        "idcafb0c30e1d63edb47c9": 19,
-        "id45f5bcee21ce843ca4a4": 20,
-        "idcfbb20fb21a07c60122a": 21,
-        "id600e1004fdf2d666b901": 22,
-        "id0f61e821c30093bc22d9": 23,
-        "id7a5dd092f93608b09d52": 26,
-        "id2d80ea5c85120a46d449": 24,
-        "id65c0760f5e7cad3d1e45": 25,
-        "id11a4e747de28b3dd7027": 17
+        "id2715ef2fc25d31137631": 28,
+        "id851b4d62c3f056eb58b5": 29,
+        "id13cb4ae08c6a5e26563c": 19,
+        "idcafb0c30e1d63edb47c9": 20,
+        "id45f5bcee21ce843ca4a4": 21,
+        "idcfbb20fb21a07c60122a": 22,
+        "id600e1004fdf2d666b901": 23,
+        "id0f61e821c30093bc22d9": 24,
+        "id7a5dd092f93608b09d52": 27,
+        "id2d80ea5c85120a46d449": 25,
+        "id65c0760f5e7cad3d1e45": 26,
+        "id11a4e747de28b3dd7027": 18
       },
       "replace": {
         "id057bd3d5d61fe30b6e66": "ide99d6c213aea21f63d95"
@@ -4415,6 +4440,22 @@
       "format": "",
       "id": "id96feafca7b78b1eae2d9",
       "type": "input"
+    },
+    "id975ddf668f37e911ce8c": {
+      "children": [
+        "id9caf356ff018d84b9f5c",
+        "id795cfe07d629bd02f958",
+        "id1b1e1500ccd5717719c6",
+        "id9ee447ac8891af67e85d",
+        "id71c37ac45ed457e9273d",
+        "iddc8fb632ecd4362c6498"
+      ],
+      "colspan": 6,
+      "facadeId": "claimDetails",
+      "id": "id975ddf668f37e911ce8c",
+      "rowspan": 2,
+      "type": "groupbox",
+      "variant": "lifeVariant"
     },
     "id97efbb45846b0bbc784c": {
       "colspan": 2,
@@ -4617,6 +4658,15 @@
       "rowspan": 1,
       "type": "buttongroup"
     },
+    "id9caf356ff018d84b9f5c": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "cessionNumber",
+      "format": "",
+      "id": "id9caf356ff018d84b9f5c",
+      "type": "input"
+    },
     "id9d3791aa8059ed457572": {
       "alignment": "left",
       "colspan": 2,
@@ -4720,6 +4770,15 @@
       "id": "id9edd22d646b576aef7d3",
       "rowspan": 1,
       "type": "buttongroup"
+    },
+    "id9ee447ac8891af67e85d": {
+      "alignment": "left",
+      "colspan": 2,
+      "dataType": "string",
+      "facadeId": "kindOfLoss",
+      "format": "",
+      "id": "id9ee447ac8891af67e85d",
+      "type": "input"
     },
     "id9f438d9c518210c45046": {
       "id": "id9f438d9c518210c45046",
@@ -6535,6 +6594,12 @@
       "format": "FORMAT_AMOUNT",
       "id": "iddc85fc6d4f06c6b39975",
       "type": "input"
+    },
+    "iddc8fb632ecd4362c6498": {
+      "colspan": 2,
+      "facadeId": "dateOfPaymentOfClaim",
+      "id": "iddc8fb632ecd4362c6498",
+      "type": "datepicker"
     },
     "iddcb13de2fbf42d89d64b": {
       "colspan": 2,
