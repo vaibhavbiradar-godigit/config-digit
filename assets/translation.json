@@ -174,6 +174,10 @@
   "id12ca82ab23e09f936c05": {
     "EN": "Bank Transfer"
   },
+  "id1341f3a33938bd08e683": {
+    "DE": "Loss Basis",
+    "EN": "Loss Basis"
+  },
   "id13b34b2c982634eaa2f2": {
     "DE": "Remove",
     "EN": "Remove"
@@ -237,6 +241,10 @@
   "id1938516ad383d6d31fc3": {
     "DE": "Retained Amount",
     "EN": "Retained Amount"
+  },
+  "id1945490e27e13d154942": {
+    "DE": "Original Policy Deductible",
+    "EN": "Original Policy Deductible"
   },
   "id198d87d905318011bd37": {
     "DE": "XOL layer",
@@ -419,6 +427,10 @@
     "DE": "Bausteine hinzufügen...",
     "EN": "Add Components..."
   },
+  "id2a365aa8b5377404deb7": {
+    "DE": "Construction Type 2",
+    "EN": "Construction Type 2"
+  },
   "id2b8852e1fd13500d090b": {
     "DE": "Sr. No.",
     "EN": "Sr. No."
@@ -430,6 +442,10 @@
   "id2c47f6a800c4ad012eb6": {
     "DE": "Summenart",
     "EN": "Sum type"
+  },
+  "id2c64d6612fdc6e88c8a8": {
+    "DE": "Policy Details",
+    "EN": "Policy Details"
   },
   "id2cfaac437ed503816c33": {
     "DE": "Territorial Scope",
@@ -528,6 +544,10 @@
   "id39b744b7688f1492b829": {
     "DE": "Coverage Additional Details",
     "EN": "Coverage Additional Details"
+  },
+  "id3a4e798d7974df45a360": {
+    "DE": "Original Policy Type",
+    "EN": "Original Policy Type"
   },
   "id3c43f16b0f2cbe5c4911": {
     "DE": "Transit Mode",
@@ -720,6 +740,10 @@
   "id508da40cad3d77d1e810": {
     "DE": "Attachment",
     "EN": "Attachment"
+  },
+  "id50994a0a902b7c4c4f25": {
+    "DE": "Wordings Type",
+    "EN": "Wordings Type"
   },
   "id51b46aca962dae4e344c": {
     "EN": "GST Exemption"
@@ -1142,6 +1166,10 @@
   "id84d2ac90ca3e803316cf": {
     "EN": "VRL Product Code"
   },
+  "id8511f37d11fd14d81701": {
+    "DE": "Policy Type",
+    "EN": "Policy Type"
+  },
   "id8520c4c37e6d83e451c0": {
     "EN": "Remove"
   },
@@ -1297,6 +1325,10 @@
     "DE": "Coverage Additional Details: Spillover program",
     "EN": "Coverage Additional Details: Spillover program"
   },
+  "id95498a7d554bb1f78be3": {
+    "DE": "Original Policy Deductible %",
+    "EN": "Original Policy Deductible %"
+  },
   "id95a567a356f6ce927aa5": {
     "DE": "Settlement Agreement Date",
     "EN": "Settlement Agreement Date"
@@ -1344,6 +1376,10 @@
   "id9b446d8a174994b78c80": {
     "DE": "Number of Reinstatements",
     "EN": "Number of Reinstatements"
+  },
+  "id9bad4ff2be3d1c0f9087": {
+    "DE": "Major Risk Features",
+    "EN": "Major Risk Features"
   },
   "id9c4820a3d6b759b3cc80": {
     "DE": "Sheep",
@@ -1459,9 +1495,17 @@
     "DE": "100% Tower structure and reinsurance program",
     "EN": "100% Tower structure and reinsurance program"
   },
+  "idaada8ff28654b038cca9": {
+    "DE": "Premium Basis",
+    "EN": "Premium Basis"
+  },
   "idaaeba6152946f32cb1b0": {
     "DE": "Paid Amount",
     "EN": "Paid Amount"
+  },
+  "idacf7618c51c2416b6cb4": {
+    "DE": "Construction Type 1",
+    "EN": "Construction Type 1"
   },
   "idad4c215587776e1932c8": {
     "DE": "Sum Insured",
@@ -1971,6 +2015,10 @@
     "DE": "Retention",
     "EN": "Retention"
   },
+  "iddf2f7c98171836d0d6e9": {
+    "DE": "Layer Placement",
+    "EN": "Layer Placement"
+  },
   "iddfaab2df89c65cbe9e5a": {
     "DE": "Hinzufügen",
     "EN": "Add"
@@ -1982,6 +2030,10 @@
   "ide00263d424cb4cbe661c": {
     "DE": "Request Share",
     "EN": "Request Share"
+  },
+  "ide0a8973c59d1dd42a4a3": {
+    "DE": "Perils Covered",
+    "EN": "Perils Covered"
   },
   "ide0cff911fc7427ea8704": {
     "DE": "Total or Gross Premium",
@@ -2125,6 +2177,10 @@
   "idf6881acb4643de8c8069": {
     "DE": "VRE Our Manual Rate on Line",
     "EN": "VRE Our Manual Rate on Line"
+  },
+  "idf6c69ea653453643b305": {
+    "DE": "IRDA LoB",
+    "EN": "IRDA LoB"
   },
   "idf6e8b5ce5434620ebc46": {
     "DE": "Minimum and Deposit Premium%",
